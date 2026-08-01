@@ -24,9 +24,17 @@ else
   sed -i "s|^METRICS_TOKEN=.*|METRICS_TOKEN=${token}|" .env
   # Les conteneurs tournent sous cette identite. Si elle ne correspond pas au
   # compte qui lance la stack, ils bouclent faute d'ecrire dans worlds/.
-  sed -i "s|^PUID=.*|PUID=$(id -u)|" .env
-  sed -i "s|^PGID=.*|PGID=$(id -g)|" .env
-  echo ".env cree: secrets generes, PUID=$(id -u) PGID=$(id -g)."
+  # Git Bash sous Windows renvoie des identifiants Windows, sans rapport avec
+  # ceux d'un conteneur Linux. Au-dela de 65535 on tombe donc sur root, ce qui
+  # est sans consequence: les montages passent par la VM de Docker Desktop.
+  uid=$(id -u); gid=$(id -g)
+  if [ "$uid" -gt 65535 ] || [ "$gid" -gt 65535 ]; then
+    echo "Identifiants Windows detectes ($uid:$gid), bascule sur root pour les conteneurs."
+    uid=0; gid=0
+  fi
+  sed -i "s|^PUID=.*|PUID=${uid}|" .env
+  sed -i "s|^PGID=.*|PGID=${gid}|" .env
+  echo ".env cree: secrets generes, PUID=${uid} PGID=${gid}."
 fi
 
 echo

@@ -1,42 +1,49 @@
 #!/usr/bin/env bash
 # Recupere les mods du pack depuis le Mod DB, d'apres mods.manifest.
-# Le depot ne redistribue pas les binaires : ils appartiennent a leurs auteurs.
+# Le depot ne redistribue pas les binaires: ils appartiennent a leurs auteurs.
+#
+# N'utilise que curl et sed, disponibles y compris dans Git Bash sous Windows.
+# Surtout pas python ni jq: sous Windows, "python3" tombe sur le raccourci
+# Microsoft Store, qui affiche un message d'aide et ne renvoie rien.
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
 MANIFEST=mods.manifest
 DEST=mods
+MODDB=https://mods.vintagestory.at
+# Le Mod DB veut une version de jeu, mais quand la spec porte "@version" il sert
+# la version demandee sans filtrer dessus. On reste donc reproductible.
+GV="${VS_VERSION:-1.22.6}"
 
-command -v python3 >/dev/null || { echo "python3 est requis" >&2; exit 1; }
-command -v curl    >/dev/null || { echo "curl est requis" >&2; exit 1; }
+command -v curl >/dev/null || { echo "curl est requis" >&2; exit 1; }
+command -v sed  >/dev/null || { echo "sed est requis" >&2; exit 1; }
 mkdir -p "$DEST"
 
 ok=0; skip=0; fail=0
-while IFS=$'\t' read -r modid version filename; do
+while IFS=$'\t' read -r modid version filename || [ -n "${modid:-}" ]; do
+  # Tolere les fins de ligne CRLF si le fichier a transite par Windows.
+  modid=$(printf '%s' "${modid:-}"    | tr -d '\r')
+  version=$(printf '%s' "${version:-}" | tr -d '\r')
+  filename=$(printf '%s' "${filename:-}" | tr -d '\r')
   case "$modid" in ''|\#*) continue ;; esac
+  [ -n "$version" ] && [ -n "$filename" ] || { echo "  IGNORE ligne mal formee: $modid" >&2; continue; }
 
   if [ -f "$DEST/$filename" ]; then
     skip=$((skip+1)); continue
   fi
 
-  url=$(curl -sS --fail --max-time 30 "https://mods.vintagestory.at/api/mod/$modid" 2>/dev/null \
-        | python3 -c '
-import sys, json
-try:
-    d = json.load(sys.stdin)
-except Exception:
-    sys.exit(0)
-want = sys.argv[1]
-for r in (d.get("mod") or {}).get("releases") or []:
-    if r.get("modversion") == want:
-        print(r.get("mainfile") or "")
-        break
-' "$version") || true
+  resp=$(curl -sS --fail --max-time 30 \
+    "${MODDB}/api/v2/mods/install-information?gv=${GV}&ids=${modid}%40${version}" 2>/dev/null) || resp=''
+
+  # {"data":{"<modid>":{"fileName":"...","fileUrl":"\/download\/123\/x.zip"}}}
+  url=$(printf '%s' "$resp" | sed -n 's/.*"fileUrl":"\([^"]*\)".*/\1/p' | sed 's|\\/|/|g')
 
   if [ -z "$url" ]; then
-    echo "  ECHEC  $modid $version : version introuvable sur le Mod DB" >&2
+    code=$(printf '%s' "$resp" | sed -n 's/.*"errorCode":\([0-9]*\).*/\1/p' | head -1)
+    echo "  ECHEC  $modid $version : ${code:+erreur Mod DB $code}${code:-pas de reponse exploitable}" >&2
     fail=$((fail+1)); continue
   fi
+  case "$url" in /*) url="${MODDB}${url}" ;; esac
 
   if curl -sS --fail --location --max-time 300 -o "$DEST/$filename.part" "$url"; then
     mv "$DEST/$filename.part" "$DEST/$filename"

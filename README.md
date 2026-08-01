@@ -48,12 +48,14 @@ for Windows les convertit en CRLF au checkout et les conteneurs meurent aussitô
 sur `bad interpreter: /bin/bash^M`. Ne le supprime pas, et si tu as cloné avant
 son ajout, refais un clone propre plutôt que de corriger à la main.
 
-`setup.sh` renseigne `PUID` et `PGID` depuis `id -u` et `id -g`. Sous Git Bash
-ces commandes renvoient des identifiants Windows qui n'ont pas de sens pour un
-conteneur. Si les backends bouclent sur un redémarrage en se plaignant de ne pas
-pouvoir écrire dans `/data`, mets `PUID=0` et `PGID=0` dans `.env` : les
-conteneurs tourneront en root, ce qui est sans conséquence ici puisque les
-montages passent par la VM de Docker Desktop.
+`setup.sh` détecte les identifiants Windows renvoyés par Git Bash, du genre
+197609, et bascule `PUID`/`PGID` sur root, ce qui est sans conséquence ici
+puisque les montages passent par la VM de Docker Desktop. Rien à faire de ton
+côté, le script te le signale au passage.
+
+Les scripts n'utilisent que `curl` et `sed`, fournis par Git Bash. Pas de
+`python3` : sous Windows il tombe sur le raccourci Microsoft Store, qui affiche
+un message d'aide au lieu d'exécuter quoi que ce soit.
 
 Le plus confortable reste de cloner dans le système de fichiers WSL2, par exemple
 sous `\\wsl$\Ubuntu\home\...`, plutôt que sur un chemin `C:\`. Les

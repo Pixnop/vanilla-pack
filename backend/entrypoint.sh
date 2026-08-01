@@ -1,0 +1,95 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+DATA=/data
+mkdir -p "$DATA/Mods" "$DATA/ModConfig" "$DATA/Saves"
+
+# Le modpack de l'image fait autorite. On resynchronise a chaque demarrage pour
+# qu'un rebuild suffise a mettre a jour les mods, sans laisser d'orphelins.
+find "$DATA/Mods" -maxdepth 1 -name '*.zip' -delete
+cp /opt/modpack/*.zip "$DATA/Mods/"
+
+# Exclusions par monde. Certains mods ne cassent que sous un playstyle donne,
+# il serait dommage de les retirer du pack entier pour autant.
+for excluded in ${MODS_EXCLUDE:-}; do
+  if [ -f "$DATA/Mods/$excluded" ]; then
+    rm -f "$DATA/Mods/$excluded"
+    echo "[entrypoint] mod exclu de ce monde : $excluded"
+  else
+    echo "[entrypoint] MODS_EXCLUDE mentionne '$excluded', absent du pack" >&2
+  fi
+done
+
+rm -rf "$DATA/Mods/Nimbus.ServerMod"
+cp -r /opt/nimbus-servermod "$DATA/Mods/Nimbus.ServerMod"
+
+# Config du mod backend, regeneree depuis l'environnement a chaque demarrage :
+# c'est compose qui fait foi, pas un fichier edite a la main dans le volume.
+jq -n \
+  --arg id       "$NIMBUS_SERVER_ID" \
+  --arg name     "$NIMBUS_DISPLAY_NAME" \
+  --arg host     "$NIMBUS_PUBLIC_HOST" \
+  --argjson port "$NIMBUS_PUBLIC_PORT" \
+  --arg registry "$NIMBUS_REGISTRY_URL" \
+  --arg secret   "$NIMBUS_SHARED_SECRET" \
+  --argjson reservation "$NIMBUS_RESERVATION_REQUIRED" \
+  '{
+     Enabled: true,
+     ServerId: $id,
+     DisplayName: $name,
+     PublicHost: $host,
+     PublicPort: $port,
+     RegistryUrl: $registry,
+     SharedSecret: $secret,
+     ReservationRequired: $reservation
+   }' > "$DATA/ModConfig/nimbus-server.json"
+
+# serverconfig.json : pose depuis le modele au premier demarrage seulement.
+# Le modele vient d'un serveur 1.22.6 reel, pas d'une config ecrite a la main.
+if [ ! -f "$DATA/serverconfig.json" ]; then
+  echo "[entrypoint] premier demarrage, pose de serverconfig.json depuis le modele"
+  cp /opt/serverconfig.template.json "$DATA/serverconfig.json"
+fi
+
+# Ensuite on ne reecrit que les cles pilotees par compose, pour ne pas ecraser
+# les reglages que tu ajusteras dans le fichier (roles, privileges, PvP...).
+tmp=$(mktemp)
+jq \
+  --arg name      "$VS_SERVER_NAME" \
+  --arg role      "$VS_DEFAULT_ROLE" \
+  --arg world     "$VS_WORLD_NAME" \
+  --arg play      "$VS_PLAYSTYLE" \
+  --arg playlang  "$VS_PLAYSTYLE_LANG" \
+  --argjson port  "$VS_PORT" \
+  --argjson max   "$VS_MAX_CLIENTS" \
+  '.ServerName = $name
+   | .Port = $port
+   | .MaxClients = $max
+   | .AdvertiseServer = false
+   | .Upnp = false
+   | .DefaultRoleCode = $role
+   | .ModPaths = ["Mods", "/data/Mods"]
+   | .WorldConfig.WorldName = $world
+   | .WorldConfig.PlayStyle = $play
+   | .WorldConfig.PlayStyleLangCode = $playlang
+   | .WorldConfig.SaveFileLocation = "/data/Saves/world.vcdbs"' \
+  "$DATA/serverconfig.json" > "$tmp" && mv "$tmp" "$DATA/serverconfig.json"
+
+# Reglages de generation des mods, sous forme d'une chaine JSON echappee dans
+# WorldConfiguration. Ils ne prennent effet qu'a la creation du monde : les
+# changer sur un monde existant ne regenere pas le terrain deja ecrit.
+if [ -n "${VS_WORLDCONFIG:-}" ]; then
+  if ! echo "$VS_WORLDCONFIG" | jq -e . >/dev/null 2>&1; then
+    echo "[entrypoint] VS_WORLDCONFIG n'est pas du JSON valide, ignore" >&2
+  else
+    tmp=$(mktemp)
+    jq --arg wc "$(echo "$VS_WORLDCONFIG" | jq -c .)" \
+       '.WorldConfig.WorldConfiguration = $wc' \
+       "$DATA/serverconfig.json" > "$tmp" && mv "$tmp" "$DATA/serverconfig.json"
+    echo "[entrypoint] WorldConfiguration: $(echo "$VS_WORLDCONFIG" | jq -c .)"
+  fi
+fi
+
+echo "[entrypoint] $(ls "$DATA/Mods"/*.zip | wc -l) mods + Nimbus.ServerMod, role $VS_DEFAULT_ROLE, playstyle $VS_PLAYSTYLE"
+
+exec /opt/stratum/StratumServer --dataPath="$DATA" --stratum-no-banner

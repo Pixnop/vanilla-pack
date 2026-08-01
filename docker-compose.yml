@@ -1,0 +1,97 @@
+name: vs-network
+
+x-backend: &backend
+  build:
+    context: .
+    dockerfile: backend/Dockerfile
+    args:
+      STRATUM_URL: ${STRATUM_URL}
+      NIMBUS_URL: ${NIMBUS_URL}
+      STRATUM_MODE: ${STRATUM_MODE}
+      PUID: ${PUID}
+      PGID: ${PGID}
+  image: vs-network/backend:local
+  user: "${PUID}:${PGID}"
+  restart: unless-stopped
+  # Vintage Story sauvegarde le monde a l'arret. Laisser le temps de finir.
+  stop_grace_period: 2m
+  depends_on:
+    - nimbus
+  networks: [vsnet]
+
+services:
+  # Seul service expose. Les joueurs ne voient que cette adresse.
+  nimbus:
+    build:
+      context: .
+      dockerfile: proxy/Dockerfile
+      args:
+        NIMBUS_URL: ${NIMBUS_URL}
+    image: vs-network/proxy:local
+    restart: unless-stopped
+    ports:
+      - "${PROXY_PORT}:${PROXY_PORT}"
+      # Metriques Prometheus, joignables depuis la machine hote uniquement.
+      - "127.0.0.1:${METRICS_PORT}:${METRICS_PORT}"
+    environment:
+      PROXY_PORT: ${PROXY_PORT}
+      REGISTRY_PORT: ${REGISTRY_PORT}
+      METRICS_PORT: ${METRICS_PORT}
+      DEFAULT_BACKEND: survival
+      SURVIVAL_ADDR: survival:${SURVIVAL_PORT}
+      CREATIVE_ADDR: creative:${CREATIVE_PORT}
+      NIMBUS_SHARED_SECRET: ${NIMBUS_SHARED_SECRET}
+      METRICS_TOKEN: ${METRICS_TOKEN}
+    networks: [vsnet]
+
+  survival:
+    <<: *backend
+    volumes:
+      - ./worlds/survival:/data
+    environment:
+      VS_SERVER_NAME: "Survie"
+      VS_WORLD_NAME: "Survie"
+      VS_DEFAULT_ROLE: suplayer
+      VS_PLAYSTYLE: surviveandbuild
+      VS_PLAYSTYLE_LANG: surviveandbuild-bands
+      VS_PORT: ${SURVIVAL_PORT}
+      VS_MAX_CLIENTS: ${MAX_CLIENTS}
+      # Exigence de rivers, sa fiche Mod DB dit : "Oceans are required to
+      # generate rivers. 300-500% landcover scale and 50% landcover works good."
+      # Dans les libelles du jeu, "Landcover scale" est la cle oceanscale.
+      VS_WORLDCONFIG: '{"landcover":"50%","oceanscale":"400%"}'
+      NIMBUS_SERVER_ID: survival
+      NIMBUS_DISPLAY_NAME: "Survie"
+      NIMBUS_PUBLIC_HOST: survival
+      NIMBUS_PUBLIC_PORT: ${SURVIVAL_PORT}
+      NIMBUS_REGISTRY_URL: http://nimbus:${REGISTRY_PORT}
+      NIMBUS_SHARED_SECRET: ${NIMBUS_SHARED_SECRET}
+      NIMBUS_RESERVATION_REQUIRED: "true"
+
+  creative:
+    <<: *backend
+    volumes:
+      - ./worlds/creative:/data
+    environment:
+      VS_SERVER_NAME: "Creatif"
+      VS_WORLD_NAME: "Creatif"
+      # crplayer porte DefaultGameMode 2, soit creatif pour tout arrivant.
+      VS_DEFAULT_ROLE: crplayer
+      VS_PLAYSTYLE: creativebuilding
+      VS_PLAYSTYLE_LANG: creativebuilding
+      VS_PORT: ${CREATIVE_PORT}
+      VS_MAX_CLIENTS: ${MAX_CLIENTS}
+      # betterruins + Stratum + playstyle creativebuilding fait planter la passe
+      # de structures. Le meme mod ne pose aucun probleme sur la survie.
+      MODS_EXCLUDE: "betterruins-0.6.3.zip"
+      NIMBUS_SERVER_ID: creative
+      NIMBUS_DISPLAY_NAME: "Creatif"
+      NIMBUS_PUBLIC_HOST: creative
+      NIMBUS_PUBLIC_PORT: ${CREATIVE_PORT}
+      NIMBUS_REGISTRY_URL: http://nimbus:${REGISTRY_PORT}
+      NIMBUS_SHARED_SECRET: ${NIMBUS_SHARED_SECRET}
+      NIMBUS_RESERVATION_REQUIRED: "true"
+
+networks:
+  vsnet:
+    driver: bridge

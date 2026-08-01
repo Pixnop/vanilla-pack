@@ -61,7 +61,14 @@ services:
       # Exigence de rivers, sa fiche Mod DB dit : "Oceans are required to
       # generate rivers. 300-500% landcover scale and 50% landcover works good."
       # Dans les libelles du jeu, "Landcover scale" est la cle oceanscale.
-      VS_WORLDCONFIG: '{"landcover":"50%","oceanscale":"400%"}'
+      #
+      # Ce sont les VALEURS qu'il faut ecrire, pas les libelles. AssemblyInfo.cs
+      # de VSSurvivalMod definit landcover values ["0"..."1"] pour des noms
+      # ["~0%".."100%"], et oceanscale values ["0.1".."5"] pour ["10%".."500%"].
+      # GenMaps fait worldConfig.GetString(...).ToFloat(1f), et ToFloat s'appuie
+      # sur float.TryParse en NumberStyles.Any, qui refuse le signe pourcent.
+      # Ecrire "50%" retombe donc sur 1, soit 100% de terre et aucun ocean.
+      VS_WORLDCONFIG: '{"landcover":"0.5","oceanscale":"4"}'
       NIMBUS_SERVER_ID: survival
       NIMBUS_DISPLAY_NAME: "Survie"
       NIMBUS_PUBLIC_HOST: survival

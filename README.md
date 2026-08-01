@@ -102,13 +102,23 @@ mod ne pose aucun problème sur la survie, donc il n'est retiré que du créatif
 JSON injectée dans `WorldConfig.WorldConfiguration`. La survie utilise :
 
 ```json
-{"landcover":"50%","oceanscale":"400%"}
+{"landcover":"0.5","oceanscale":"4"}
 ```
 
 C'est l'exigence de `rivers`, dont la fiche Mod DB dit qu'il faut des océans pour
 que les rivières se génèrent, avec 300 à 500% de « landcover scale » et 50% de
-« landcover ». Dans les libellés du jeu, « Landcover scale » correspond à la clé
-`oceanscale`, pas à `landcover`, ce qui prête facilement à confusion.
+« landcover ». Deux pièges à cet endroit.
+
+« Landcover scale » correspond à la clé `oceanscale`, pas à `landcover`.
+
+Et surtout, ce sont les valeurs qu'il faut écrire, pas les libellés.
+`AssemblyInfo.cs` de VSSurvivalMod définit `landcover` avec
+`values: ["0" … "1"]` pour `names: ["~0%" … "100%"]`, et `oceanscale` avec
+`values: ["0.1" … "5"]` pour `names: ["10%" … "500%"]`. Or `GenMaps` fait
+`worldConfig.GetString("landcover", "1").ToFloat(1f)`, et `ToFloat` s'appuie sur
+`float.TryParse` en `NumberStyles.Any`, qui refuse le signe pourcent. Écrire
+`"50%"` retombe donc silencieusement sur `1`, soit 100% de terre et pas un seul
+océan.
 
 Ces réglages ne s'appliquent qu'à la création du monde. Les changer sur un monde
 existant ne régénère pas le terrain déjà écrit, il faut repartir d'un `Saves/`

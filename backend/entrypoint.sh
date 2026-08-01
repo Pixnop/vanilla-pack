@@ -99,6 +99,9 @@ fi
 # avant le demarrage du serveur, qui garde ensuite les donnees joueur en memoire
 # et reecrit le fichier lui-meme. Idempotent : relancer ne duplique rien.
 if [ -n "${VS_ADMINS:-}" ]; then
+  # Sur un monde neuf, Playerdata/ n'existe pas encore : c'est le serveur qui le
+  # cree au premier demarrage, or on passe avant lui.
+  mkdir -p "$DATA/Playerdata"
   PD="$DATA/Playerdata/playerdata.json"
   [ -f "$PD" ] || echo '[]' > "$PD"
   for entry in $VS_ADMINS; do

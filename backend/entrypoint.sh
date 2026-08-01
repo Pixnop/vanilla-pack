@@ -63,6 +63,7 @@ jq \
   --argjson port  "$VS_PORT" \
   --argjson max   "$VS_MAX_CLIENTS" \
   --argjson wl    "${VS_WHITELIST_MODE:-1}" \
+  --argjson verifyauth "${VS_VERIFY_AUTH:-true}" \
   '.ServerName = $name
    | .Port = $port
    | .MaxClients = $max
@@ -72,6 +73,10 @@ jq \
    # vaut whitelist active, ce qui refuse tout le monde. On coupe par defaut :
    # les backends sont prives et c est le proxy qui filtre, via ReservationRequired.
    | .WhitelistMode = $wl
+   # Revalidation de la session aupres du serveur d auth d Anego. Le jeton est
+   # a usage unique : si deux backends le presentent, le second se voit repondre
+   # {"valid":0,"reason":"missingaccount"}. Voir le README.
+   | .VerifyPlayerAuth = $verifyauth
    | .DefaultRoleCode = $role
    | .ModPaths = ["Mods", "/data/Mods"]
    | .WorldConfig.WorldName = $world

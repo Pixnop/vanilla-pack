@@ -170,6 +170,21 @@ le playstyle `creativebuilding`. Ce playstyle donne un terrain plat et vide.
 Si tu préfères construire sur du relief normal, remplace `VS_PLAYSTYLE` par
 `surviveandbuild` en gardant le rôle `crplayer`.
 
+## Administrateurs
+
+`VS_ADMINS` dans `.env` prend une liste `uid:pseudo` séparée par des espaces, et
+l'entrypoint force le `RoleCode` à `admin` dans `Playerdata/playerdata.json` des
+deux mondes avant que le serveur démarre. C'est idempotent, et ça crée l'entrée
+si le joueur ne s'est encore jamais connecté.
+
+L'uid se lit dans `worlds/<monde>/Playerdata/playerdata.json` après une première
+connexion. Il reste dans `.env`, qui n'est pas versionné : c'est un identifiant
+de compte, il n'a rien à faire dans un dépôt public.
+
+Le fichier n'est pas modifiable à chaud : le serveur garde les données joueur en
+mémoire et réécrit le fichier lui-même à la sauvegarde. D'où le passage par
+l'entrypoint plutôt qu'une édition directe.
+
 ## Sauvegardes
 
 Les mondes sont des bind mounts dans `worlds/`, pas des volumes nommés, pour que

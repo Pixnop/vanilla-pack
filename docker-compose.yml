@@ -57,6 +57,7 @@ services:
       VS_PORT: ${SURVIVAL_PORT}
       VS_MAX_CLIENTS: ${MAX_CLIENTS}
       VS_WHITELIST_MODE: ${VS_WHITELIST_MODE:-1}
+      VS_ADMINS: ${VS_ADMINS:-}
       # Exigence de rivers, sa fiche Mod DB dit : "Oceans are required to
       # generate rivers. 300-500% landcover scale and 50% landcover works good."
       # Dans les libelles du jeu, "Landcover scale" est la cle oceanscale.
@@ -83,6 +84,7 @@ services:
       VS_PORT: ${CREATIVE_PORT}
       VS_MAX_CLIENTS: ${MAX_CLIENTS}
       VS_WHITELIST_MODE: ${VS_WHITELIST_MODE:-1}
+      VS_ADMINS: ${VS_ADMINS:-}
       # betterruins + Stratum + playstyle creativebuilding fait planter la passe
       # de structures. Le meme mod ne pose aucun probleme sur la survie.
       MODS_EXCLUDE: "betterruins-0.6.3.zip"

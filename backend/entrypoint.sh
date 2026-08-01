@@ -95,6 +95,35 @@ if [ -n "${VS_WORLDCONFIG:-}" ]; then
   fi
 fi
 
+# Administrateurs, sous forme "uid:pseudo" separes par des espaces. Applique
+# avant le demarrage du serveur, qui garde ensuite les donnees joueur en memoire
+# et reecrit le fichier lui-meme. Idempotent : relancer ne duplique rien.
+if [ -n "${VS_ADMINS:-}" ]; then
+  PD="$DATA/Playerdata/playerdata.json"
+  [ -f "$PD" ] || echo '[]' > "$PD"
+  for entry in $VS_ADMINS; do
+    uid="${entry%%:*}"; pseudo="${entry#*:}"
+    [ -n "$uid" ] && [ "$uid" != "$entry" ] || { echo "[entrypoint] VS_ADMINS: '$entry' n'est pas au format uid:pseudo" >&2; continue; }
+    tmp=$(mktemp)
+    jq --arg uid "$uid" --arg name "$pseudo" '
+      if any(.[]; .PlayerUID == $uid)
+      then map(if .PlayerUID == $uid then .RoleCode = "admin" else . end)
+      else . + [{
+        PlayerUID: $uid,
+        RoleCode: "admin",
+        PermaPrivileges: [],
+        DeniedPrivileges: [],
+        PlayerGroupMemberShips: {},
+        AllowInvite: true,
+        LastKnownPlayername: $name,
+        CustomPlayerData: {},
+        ExtraLandClaimAllowance: 0,
+        ExtraLandClaimAreas: 0
+      }] end' "$PD" > "$tmp" && mv "$tmp" "$PD"
+    echo "[entrypoint] admin: $pseudo ($uid)"
+  done
+fi
+
 echo "[entrypoint] $(ls "$DATA/Mods"/*.zip | wc -l) mods + Nimbus.ServerMod, role $VS_DEFAULT_ROLE, playstyle $VS_PLAYSTYLE"
 
 exec /opt/stratum/StratumServer --dataPath="$DATA" --stratum-no-banner

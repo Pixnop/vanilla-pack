@@ -24,8 +24,11 @@ Mod DB, d'après `mods.manifest` :
 ./scripts/fetch-mods.sh
 ```
 
-Copie ensuite `.env.example` en `.env`, mets un vrai secret dans
-`NIMBUS_SHARED_SECRET` et un token dans `METRICS_TOKEN`, puis lance :
+Copie ensuite `.env.example` en `.env`. Mets un vrai secret dans
+`NIMBUS_SHARED_SECRET`, un token dans `METRICS_TOKEN`, et surtout renseigne
+`PUID` et `PGID` avec les tiens (`id -u` et `id -g`) : les conteneurs tournent
+sous cette identité et bouclent sur un redémarrage s'ils ne peuvent pas écrire
+dans `worlds/`. Puis :
 
 ```bash
 docker compose up -d

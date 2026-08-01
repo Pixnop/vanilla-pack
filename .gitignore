@@ -1,6 +1,16 @@
 .env
-worlds/
 .build/
+
+# Les mondes ne sont pas versionnes, mais les dossiers doivent exister avant le
+# premier up : sinon docker cree les points de montage en root et le conteneur,
+# qui tourne sous PUID:PGID, ne peut plus y ecrire.
+worlds/*
+!worlds/survival/
+!worlds/creative/
+worlds/survival/*
+worlds/creative/*
+!worlds/survival/.gitkeep
+!worlds/creative/.gitkeep
 
 # Les binaires des mods ne sont pas redistribues ici, ils appartiennent a
 # leurs auteurs. scripts/fetch-mods.sh les recupere depuis le Mod DB.

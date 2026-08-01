@@ -132,10 +132,27 @@ Une réserve avant d'ouvrir aux joueurs. La release publiée sur le Mod DB est l
 compatible, et le joueur se retrouverait alors bloqué à la connexion au lieu de
 simplement planter au transfert.
 
-Le vrai correctif est côté Mod DB : y publier la 1.0.1 en la taguant 1.22.6.
-En attendant, teste la connexion d'un client avant d'ouvrir, et garde le lien
-de la [v1.0.1](https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1)
-sous la main pour une installation manuelle.
+Le vrai correctif est côté Mod DB : y publier la 1.0.1 en la taguant 1.22.6. La
+fiche est au nom de `imtsubaki` et n'a pas de contributeur, donc c'est lui qui
+doit le faire.
+
+À noter, c'est la 1.0.0 du Mod DB qui est dans le pack serveur, pas la 1.0.1 de
+GitHub. C'est volontaire : le client télécharge la version que le serveur exige,
+donc réclamer une 1.0.1 absente du Mod DB ferait échouer l'auto-installation à
+coup sûr. Avec la 1.0.0 les versions concordent et il ne reste que le tag comme
+inconnue.
+
+Si un client se fait refuser à la connexion, coupe le mod sans reconstruire
+l'image en ajoutant ceci aux deux backends dans `docker-compose.yml`, puis
+`docker compose up -d` :
+
+```yaml
+MODS_EXCLUDE: "redirectfix-1.0.0.zip"
+```
+
+Les joueurs devront alors installer la
+[v1.0.1](https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1) à la
+main dans leur dossier `Mods`.
 
 À ne pas confondre : l'asset GitHub de la v1.0.0 était mal emballé, tout dans un
 dossier `redirectfix/` donc pas de `modinfo.json` à la racine, et ne se chargeait

@@ -237,9 +237,21 @@ que le jeu fusionne avec ceux des mods installés.
 Le zip atterrit dans `dist/`. Il se charge sur un serveur 1.22.6, vérifié.
 
 Sur les 20 242 chaînes anglaises du pack, 6 521 n'avaient pas d'équivalent
-français. Elles sont extraites par mod dans `translation-fr/.todo/`, à traduire
-par lots. Cinq mods en concentrent 79% : `pipeleaf`, `alchemy`, `expandedfoods`,
-`geoaddons` et `tankardsandgoblets`.
+français. **Elles sont toutes traduites**, réparties sur 27 domaines.
+
+Chaque fichier a été vérifié contre sa source : même nombre de clés, mêmes clés,
+balises `<font>`, `<a href>`, `<br>`, `<strong>` en nombre identique, marqueurs
+`{0}` préservés, aucune chaîne laissée en anglais. Les sources extraites restent
+dans `translation-fr/.todo/` pour permettre ces contrôles et reprendre le travail
+quand un mod sera mis à jour.
+
+Les gros fichiers ont été découpés pour être traduits en parallèle, ce qui a
+produit 453 divergences où la même chaîne anglaise recevait deux traductions
+selon la tranche. Elles ont été arbitrées puis réappliquées, 561 chaînes
+réalignées. Le contrôle final ne laisse qu'un écart volontaire, sur
+`aculinaryartillery` : « the kitchenware trader » donne « le marchand » ou
+« la marchande » selon que la clé vise `trader-male` ou `trader-female`, l'anglais
+étant neutre là où le français ne l'est pas.
 
 Le [French Translation Pack](https://mods.vintagestory.at/show/mod/53003) du
 Mod DB ne remplace pas celui-ci, pour deux raisons. Il ne couvre que 7 des 40

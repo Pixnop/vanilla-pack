@@ -1,0 +1,1818 @@
+{
+  "expandedfoods": {
+    "Blue Meanie pie": [
+      "Tourte au Vilain Bleu",
+      "Tourte au bleu méchant"
+    ],
+    "Blue Meanie pie (charred)": [
+      "Tourte au Vilain Bleu (brûlée)",
+      "Tourte au bleu méchant (brûlée)"
+    ],
+    "Blue Meanie pie (part-baked)": [
+      "Tourte au Vilain Bleu (à moitié cuite)",
+      "Tourte au bleu méchant (à moitié cuite)"
+    ],
+    "Blue Meanie pie (raw)": [
+      "Tourte au Vilain Bleu (crue)",
+      "Tourte au bleu méchant (crue)"
+    ],
+    "Fool's Conecap pie": [
+      "Tourte au Conocybe du Fou",
+      "Tourte à la coiffe conique de fou"
+    ],
+    "Fool's Conecap pie (charred)": [
+      "Tourte au Conocybe du Fou (brûlée)",
+      "Tourte à la coiffe conique de fou (brûlée)"
+    ],
+    "Fool's Conecap pie (part-baked)": [
+      "Tourte au Conocybe du Fou (à moitié cuite)",
+      "Tourte à la coiffe conique de fou (à moitié cuite)"
+    ],
+    "Fool's Conecap pie (raw)": [
+      "Tourte au Conocybe du Fou (crue)",
+      "Tourte à la coiffe conique de fou (crue)"
+    ],
+    "Gold Cap pie": [
+      "Tourte au Chapeau Doré",
+      "Tourte au bonnet doré"
+    ],
+    "Gold Cap pie (charred)": [
+      "Tourte au Chapeau Doré (brûlée)",
+      "Tourte au bonnet doré (brûlée)"
+    ],
+    "Gold Cap pie (part-baked)": [
+      "Tourte au Chapeau Doré (à moitié cuite)",
+      "Tourte au bonnet doré (à moitié cuite)"
+    ],
+    "Gold Cap pie (raw)": [
+      "Tourte au Chapeau Doré (crue)",
+      "Tourte au bonnet doré (crue)"
+    ],
+    "Honey Mushroom pie": [
+      "Tourte au Champignon au Miel",
+      "Tourte au champignon miel"
+    ],
+    "Honey Mushroom pie (charred)": [
+      "Tourte au Champignon au Miel (brûlée)",
+      "Tourte au champignon miel (brûlée)"
+    ],
+    "Honey Mushroom pie (part-baked)": [
+      "Tourte au Champignon au Miel (à moitié cuite)",
+      "Tourte au champignon miel (à moitié cuite)"
+    ],
+    "Honey Mushroom pie (raw)": [
+      "Tourte au Champignon au Miel (crue)",
+      "Tourte au champignon miel (crue)"
+    ],
+    "Laughing Jim pie": [
+      "Tourte au Jim le Rieur",
+      "Tourte au Jim rieur"
+    ],
+    "Laughing Jim pie (charred)": [
+      "Tourte au Jim le Rieur (brûlée)",
+      "Tourte au Jim rieur (brûlée)"
+    ],
+    "Laughing Jim pie (part-baked)": [
+      "Tourte au Jim le Rieur (à moitié cuite)",
+      "Tourte au Jim rieur (à moitié cuite)"
+    ],
+    "Laughing Jim pie (raw)": [
+      "Tourte au Jim le Rieur (crue)",
+      "Tourte au Jim rieur (crue)"
+    ],
+    "Liberty Cap pie": [
+      "Tourte au Bonnet de la Liberté",
+      "Tourte au bonnet de liberté"
+    ],
+    "Liberty Cap pie (charred)": [
+      "Tourte au Bonnet de la Liberté (brûlée)",
+      "Tourte au bonnet de liberté (brûlée)"
+    ],
+    "Liberty Cap pie (part-baked)": [
+      "Tourte au Bonnet de la Liberté (à moitié cuite)",
+      "Tourte au bonnet de liberté (à moitié cuite)"
+    ],
+    "Liberty Cap pie (raw)": [
+      "Tourte au Bonnet de la Liberté (crue)",
+      "Tourte au bonnet de liberté (crue)"
+    ],
+    "Sickener pie": [
+      "Tourte à l'agent de maladie",
+      "Tourte à l'Émétique"
+    ],
+    "Sickener pie (charred)": [
+      "Tourte à l'agent de maladie (brûlée)",
+      "Tourte à l'Émétique (brûlée)"
+    ],
+    "Sickener pie (part-baked)": [
+      "Tourte à l'agent de maladie (à moitié cuite)",
+      "Tourte à l'Émétique (à moitié cuite)"
+    ],
+    "Sickener pie (raw)": [
+      "Tourte à l'agent de maladie (crue)",
+      "Tourte à l'Émétique (crue)"
+    ],
+    "Wavy Cap pie": [
+      "Tourte au Chapeau Ondulé",
+      "Tourte à la coiffe ondulée"
+    ],
+    "Wavy Cap pie (charred)": [
+      "Tourte au Chapeau Ondulé (brûlée)",
+      "Tourte à la coiffe ondulée (brûlée)"
+    ],
+    "Wavy Cap pie (part-baked)": [
+      "Tourte au Chapeau Ondulé (à moitié cuite)",
+      "Tourte à la coiffe ondulée (à moitié cuite)"
+    ],
+    "Wavy Cap pie (raw)": [
+      "Tourte au Chapeau Ondulé (crue)",
+      "Tourte à la coiffe ondulée (crue)"
+    ],
+    "basic salad dressing": [
+      "sauce à salade basique",
+      "vinaigrette basique"
+    ],
+    "cactus fruit": [
+      "figue de Barbarie",
+      "fruit de cactus"
+    ],
+    "cactusfruit syrup": [
+      "sirop de figue de Barbarie",
+      "sirop de fruit de cactus"
+    ],
+    "chopped blue meanie": [
+      "bleu méchant haché",
+      "vilain bleu haché"
+    ],
+    "chopped fool's conecap": [
+      "coiffe conique de fou hachée",
+      "conocybe du fou haché"
+    ],
+    "chopped gold cap": [
+      "bonnet doré haché",
+      "chapeau doré haché"
+    ],
+    "chopped honey mushroom": [
+      "champignon au miel haché",
+      "champignon miel haché"
+    ],
+    "chopped laughing jim": [
+      "Jim rieur haché",
+      "jim le rieur haché"
+    ],
+    "chopped liberty cap": [
+      "bonnet de la liberté haché",
+      "bonnet de liberté haché"
+    ],
+    "chopped sickener": [
+      "agent de maladie haché",
+      "émétique haché"
+    ],
+    "chopped wavy cap": [
+      "chapeau ondulé haché",
+      "coiffe ondulée hachée"
+    ],
+    "cloudberries": [
+      "mûres arctiques",
+      "plaquebières"
+    ],
+    "cloudberry syrup": [
+      "sirop de mûre arctique",
+      "sirop de plaquebière"
+    ],
+    "deluxe salad dressing": [
+      "sauce à salade deluxe",
+      "vinaigrette deluxe"
+    ],
+    "plum": [
+      "prune",
+      "prune du Natal"
+    ],
+    "plum syrup": [
+      "sirop de prune",
+      "sirop de prune du Natal"
+    ],
+    "savory salad dressing": [
+      "sauce à salade relevée",
+      "vinaigrette relevée"
+    ],
+    "sweet salad dressing": [
+      "sauce à salade sucrée",
+      "vinaigrette sucrée"
+    ]
+  },
+  "pipeleaf": {
+    "Ginseng-Marshmallow Blend": [
+      "Mélange Ginseng-Guimauve",
+      "Mélange Ginseng-Marshmallow"
+    ],
+    "Ginseng-Mint Blend": [
+      "Mélange Ginseng-Menthe",
+      "Mélange Ginseng-Mint"
+    ],
+    "Ginseng-Mugwort Blend": [
+      "Mélange Ginseng-Armoise",
+      "Mélange Ginseng-Mugwort"
+    ],
+    "Ginseng-Orangemallow Blend": [
+      "Mélange Ginseng-Mauve orange",
+      "Mélange Ginseng-Orangemallow"
+    ],
+    "Ginseng-Poisonoak Blend": [
+      "Mélange Ginseng-Poisonoak",
+      "Mélange Ginseng-Sumac vénéneux"
+    ],
+    "Ginseng-Rosemary Blend": [
+      "Mélange Ginseng-Romarin",
+      "Mélange Ginseng-Rosemary"
+    ],
+    "Ginseng-Saffron Blend": [
+      "Mélange Ginseng-Saffron",
+      "Mélange Ginseng-Safran"
+    ],
+    "Ginseng-Sage Blend": [
+      "Mélange Ginseng-Sage",
+      "Mélange Ginseng-Sauge"
+    ],
+    "Ginseng-Stingingnettle Blend": [
+      "Mélange Ginseng-Ortie piquante",
+      "Mélange Ginseng-Stingingnettle"
+    ],
+    "Ginseng-Stjohnswort Blend": [
+      "Mélange Ginseng-Millepertuis",
+      "Mélange Ginseng-Stjohnswort"
+    ],
+    "Ginseng-Thyme Blend": [
+      "Mélange Ginseng-Thym",
+      "Mélange Ginseng-Thyme"
+    ],
+    "Ginseng-Yarrow Blend": [
+      "Mélange Ginseng-Achillée",
+      "Mélange Ginseng-Yarrow"
+    ],
+    "Goldenpoppy-Angelica Blend": [
+      "Mélange Goldenpoppy-Angelica",
+      "Mélange Pavot doré-Angélique"
+    ],
+    "Goldenpoppy-Arnica Blend": [
+      "Mélange Goldenpoppy-Arnica",
+      "Mélange Pavot doré-Arnica"
+    ],
+    "Goldenpoppy-Chamomile Blend": [
+      "Mélange Goldenpoppy-Chamomile",
+      "Mélange Pavot doré-Camomille"
+    ],
+    "Goldenpoppy-Chicory Blend": [
+      "Mélange Goldenpoppy-Chicory",
+      "Mélange Pavot doré-Chicorée"
+    ],
+    "Goldenpoppy-Cornflower Blend": [
+      "Mélange Goldenpoppy-Cornflower",
+      "Mélange Pavot doré-Bleuet"
+    ],
+    "Goldenpoppy-Ginseng Blend": [
+      "Mélange Goldenpoppy-Ginseng",
+      "Mélange Pavot doré-Ginseng"
+    ],
+    "Goldenpoppy-Horehound Blend": [
+      "Mélange Goldenpoppy-Horehound",
+      "Mélange Pavot doré-Marrube"
+    ],
+    "Goldenpoppy-Lavender Blend": [
+      "Mélange Goldenpoppy-Lavender",
+      "Mélange Pavot doré-Lavande"
+    ],
+    "Goldenpoppy-Marigold Blend": [
+      "Mélange Goldenpoppy-Marigold",
+      "Mélange Pavot doré-Souci"
+    ],
+    "Goldenpoppy-Marjoram Blend": [
+      "Mélange Goldenpoppy-Marjoram",
+      "Mélange Pavot doré-Marjolaine"
+    ],
+    "Goldenpoppy-Marshmallow Blend": [
+      "Mélange Goldenpoppy-Marshmallow",
+      "Mélange Pavot doré-Guimauve"
+    ],
+    "Goldenpoppy-Mint Blend": [
+      "Mélange Goldenpoppy-Mint",
+      "Mélange Pavot doré-Menthe"
+    ],
+    "Goldenpoppy-Mugwort Blend": [
+      "Mélange Goldenpoppy-Mugwort",
+      "Mélange Pavot doré-Armoise"
+    ],
+    "Goldenpoppy-Poisonoak Blend": [
+      "Mélange Goldenpoppy-Poisonoak",
+      "Mélange Pavot doré-Sumac vénéneux"
+    ],
+    "Goldenpoppy-Rosemary Blend": [
+      "Mélange Goldenpoppy-Rosemary",
+      "Mélange Pavot doré-Romarin"
+    ],
+    "Goldenpoppy-Saffron Blend": [
+      "Mélange Goldenpoppy-Saffron",
+      "Mélange Pavot doré-Safran"
+    ],
+    "Goldenpoppy-Sage Blend": [
+      "Mélange Goldenpoppy-Sage",
+      "Mélange Pavot doré-Sauge"
+    ],
+    "Goldenpoppy-Stingingnettle Blend": [
+      "Mélange Goldenpoppy-Stingingnettle",
+      "Mélange Pavot doré-Ortie piquante"
+    ],
+    "Goldenpoppy-Stjohnswort Blend": [
+      "Mélange Goldenpoppy-Stjohnswort",
+      "Mélange Pavot doré-Millepertuis"
+    ],
+    "Goldenpoppy-Thyme Blend": [
+      "Mélange Goldenpoppy-Thyme",
+      "Mélange Pavot doré-Thym"
+    ],
+    "Goldenpoppy-Yarrow Blend": [
+      "Mélange Goldenpoppy-Yarrow",
+      "Mélange Pavot doré-Achillée"
+    ],
+    "Horehound-Angelica Blend": [
+      "Mélange Horehound-Angelica",
+      "Mélange Marrube-Angélique"
+    ],
+    "Horehound-Arnica Blend": [
+      "Mélange Horehound-Arnica",
+      "Mélange Marrube-Arnica"
+    ],
+    "Horehound-Catmint Blend": [
+      "Mélange Horehound-Catmint",
+      "Mélange Marrube-Cataire"
+    ],
+    "Horehound-Chamomile Blend": [
+      "Mélange Horehound-Chamomile",
+      "Mélange Marrube-Camomille"
+    ],
+    "Horehound-Chicory Blend": [
+      "Mélange Horehound-Chicory",
+      "Mélange Marrube-Chicorée"
+    ],
+    "Horehound-Cornflower Blend": [
+      "Mélange Horehound-Cornflower",
+      "Mélange Marrube-Bleuet"
+    ],
+    "Horehound-Edelweiss Blend": [
+      "Mélange Horehound-Edelweiss",
+      "Mélange Marrube-Edelweiss"
+    ],
+    "Horehound-Ginseng Blend": [
+      "Mélange Horehound-Ginseng",
+      "Mélange Marrube-Ginseng"
+    ],
+    "Horehound-Goldenpoppy Blend": [
+      "Mélange Horehound-Goldenpoppy",
+      "Mélange Marrube-Pavot doré"
+    ],
+    "Horehound-Lavender Blend": [
+      "Mélange Horehound-Lavender",
+      "Mélange Marrube-Lavande"
+    ],
+    "Horehound-Marigold Blend": [
+      "Mélange Horehound-Marigold",
+      "Mélange Marrube-Souci"
+    ],
+    "Horehound-Marjoram Blend": [
+      "Mélange Horehound-Marjoram",
+      "Mélange Marrube-Marjolaine"
+    ],
+    "Horehound-Marshmallow Blend": [
+      "Mélange Horehound-Marshmallow",
+      "Mélange Marrube-Guimauve"
+    ],
+    "Horehound-Mint Blend": [
+      "Mélange Horehound-Mint",
+      "Mélange Marrube-Menthe"
+    ],
+    "Horehound-Mugwort Blend": [
+      "Mélange Horehound-Mugwort",
+      "Mélange Marrube-Armoise"
+    ],
+    "Horehound-Orangemallow Blend": [
+      "Mélange Horehound-Orangemallow",
+      "Mélange Marrube-Mauve orange"
+    ],
+    "Horehound-Poisonoak Blend": [
+      "Mélange Horehound-Poisonoak",
+      "Mélange Marrube-Sumac vénéneux"
+    ],
+    "Horehound-Rosemary Blend": [
+      "Mélange Horehound-Rosemary",
+      "Mélange Marrube-Romarin"
+    ],
+    "Horehound-Saffron Blend": [
+      "Mélange Horehound-Saffron",
+      "Mélange Marrube-Safran"
+    ],
+    "Horehound-Sage Blend": [
+      "Mélange Horehound-Sage",
+      "Mélange Marrube-Sauge"
+    ],
+    "Horehound-Stingingnettle Blend": [
+      "Mélange Horehound-Stingingnettle",
+      "Mélange Marrube-Ortie piquante"
+    ],
+    "Horehound-Stjohnswort Blend": [
+      "Mélange Horehound-Stjohnswort",
+      "Mélange Marrube-Millepertuis"
+    ],
+    "Horehound-Thyme Blend": [
+      "Mélange Horehound-Thyme",
+      "Mélange Marrube-Thym"
+    ],
+    "Horehound-Yarrow Blend": [
+      "Mélange Horehound-Yarrow",
+      "Mélange Marrube-Achillée"
+    ],
+    "Lavender-Angelica Blend": [
+      "Mélange Lavande-Angélique",
+      "Mélange Lavender-Angelica"
+    ],
+    "Lavender-Arnica Blend": [
+      "Mélange Lavande-Arnica",
+      "Mélange Lavender-Arnica"
+    ],
+    "Lavender-Catmint Blend": [
+      "Mélange Lavande-Cataire",
+      "Mélange Lavender-Catmint"
+    ],
+    "Lavender-Chamomile Blend": [
+      "Mélange Lavande-Camomille",
+      "Mélange Lavender-Chamomile"
+    ],
+    "Lavender-Chicory Blend": [
+      "Mélange Lavande-Chicorée",
+      "Mélange Lavender-Chicory"
+    ],
+    "Lavender-Cornflower Blend": [
+      "Mélange Lavande-Bleuet",
+      "Mélange Lavender-Cornflower"
+    ],
+    "Lavender-Edelweiss Blend": [
+      "Mélange Lavande-Edelweiss",
+      "Mélange Lavender-Edelweiss"
+    ],
+    "Lavender-Ginseng Blend": [
+      "Mélange Lavande-Ginseng",
+      "Mélange Lavender-Ginseng"
+    ],
+    "Lavender-Goldenpoppy Blend": [
+      "Mélange Lavande-Pavot doré",
+      "Mélange Lavender-Goldenpoppy"
+    ],
+    "Lavender-Horehound Blend": [
+      "Mélange Lavande-Marrube",
+      "Mélange Lavender-Horehound"
+    ],
+    "Lavender-Marigold Blend": [
+      "Mélange Lavande-Souci",
+      "Mélange Lavender-Marigold"
+    ],
+    "Lavender-Marjoram Blend": [
+      "Mélange Lavande-Marjolaine",
+      "Mélange Lavender-Marjoram"
+    ],
+    "Lavender-Marshmallow Blend": [
+      "Mélange Lavande-Guimauve",
+      "Mélange Lavender-Marshmallow"
+    ],
+    "Lavender-Mint Blend": [
+      "Mélange Lavande-Menthe",
+      "Mélange Lavender-Mint"
+    ],
+    "Lavender-Mugwort Blend": [
+      "Mélange Lavande-Armoise",
+      "Mélange Lavender-Mugwort"
+    ],
+    "Lavender-Orangemallow Blend": [
+      "Mélange Lavande-Mauve orange",
+      "Mélange Lavender-Orangemallow"
+    ],
+    "Lavender-Poisonoak Blend": [
+      "Mélange Lavande-Sumac vénéneux",
+      "Mélange Lavender-Poisonoak"
+    ],
+    "Lavender-Rosemary Blend": [
+      "Mélange Lavande-Romarin",
+      "Mélange Lavender-Rosemary"
+    ],
+    "Lavender-Saffron Blend": [
+      "Mélange Lavande-Safran",
+      "Mélange Lavender-Saffron"
+    ],
+    "Lavender-Sage Blend": [
+      "Mélange Lavande-Sauge",
+      "Mélange Lavender-Sage"
+    ],
+    "Lavender-Stingingnettle Blend": [
+      "Mélange Lavande-Ortie piquante",
+      "Mélange Lavender-Stingingnettle"
+    ],
+    "Lavender-Stjohnswort Blend": [
+      "Mélange Lavande-Millepertuis",
+      "Mélange Lavender-Stjohnswort"
+    ],
+    "Lavender-Thyme Blend": [
+      "Mélange Lavande-Thym",
+      "Mélange Lavender-Thyme"
+    ],
+    "Lavender-Yarrow Blend": [
+      "Mélange Lavande-Achillée",
+      "Mélange Lavender-Yarrow"
+    ],
+    "Madman's Slumber": [
+      "Slumber du fou",
+      "Sommeil du fou"
+    ],
+    "Marigold-Angelica Blend": [
+      "Mélange Marigold-Angelica",
+      "Mélange Souci-Angélique"
+    ],
+    "Marigold-Arnica Blend": [
+      "Mélange Marigold-Arnica",
+      "Mélange Souci-Arnica"
+    ],
+    "Marigold-Catmint Blend": [
+      "Mélange Marigold-Catmint",
+      "Mélange Souci-Cataire"
+    ],
+    "Marigold-Chamomile Blend": [
+      "Mélange Marigold-Chamomile",
+      "Mélange Souci-Camomille"
+    ],
+    "Marigold-Chicory Blend": [
+      "Mélange Marigold-Chicory",
+      "Mélange Souci-Chicorée"
+    ],
+    "Marigold-Cornflower Blend": [
+      "Mélange Marigold-Cornflower",
+      "Mélange Souci-Bleuet"
+    ],
+    "Marigold-Edelweiss Blend": [
+      "Mélange Marigold-Edelweiss",
+      "Mélange Souci-Edelweiss"
+    ],
+    "Marigold-Ginseng Blend": [
+      "Mélange Marigold-Ginseng",
+      "Mélange Souci-Ginseng"
+    ],
+    "Marigold-Goldenpoppy Blend": [
+      "Mélange Marigold-Goldenpoppy",
+      "Mélange Souci-Pavot doré"
+    ],
+    "Marigold-Horehound Blend": [
+      "Mélange Marigold-Horehound",
+      "Mélange Souci-Marrube"
+    ],
+    "Marigold-Lavender Blend": [
+      "Mélange Marigold-Lavender",
+      "Mélange Souci-Lavande"
+    ],
+    "Marigold-Marjoram Blend": [
+      "Mélange Marigold-Marjoram",
+      "Mélange Souci-Marjolaine"
+    ],
+    "Marigold-Marshmallow Blend": [
+      "Mélange Marigold-Marshmallow",
+      "Mélange Souci-Guimauve"
+    ],
+    "Marigold-Mint Blend": [
+      "Mélange Marigold-Mint",
+      "Mélange Souci-Menthe"
+    ],
+    "Marigold-Mugwort Blend": [
+      "Mélange Marigold-Mugwort",
+      "Mélange Souci-Armoise"
+    ],
+    "Marigold-Orangemallow Blend": [
+      "Mélange Marigold-Orangemallow",
+      "Mélange Souci-Mauve orange"
+    ],
+    "Marigold-Poisonoak Blend": [
+      "Mélange Marigold-Poisonoak",
+      "Mélange Souci-Sumac vénéneux"
+    ],
+    "Marigold-Rosemary Blend": [
+      "Mélange Marigold-Rosemary",
+      "Mélange Souci-Romarin"
+    ],
+    "Marigold-Saffron Blend": [
+      "Mélange Marigold-Saffron",
+      "Mélange Souci-Safran"
+    ],
+    "Marigold-Sage Blend": [
+      "Mélange Marigold-Sage",
+      "Mélange Souci-Sauge"
+    ],
+    "Marigold-Stingingnettle Blend": [
+      "Mélange Marigold-Stingingnettle",
+      "Mélange Souci-Ortie piquante"
+    ],
+    "Marigold-Stjohnswort Blend": [
+      "Mélange Marigold-Stjohnswort",
+      "Mélange Souci-Millepertuis"
+    ],
+    "Marigold-Thyme Blend": [
+      "Mélange Marigold-Thyme",
+      "Mélange Souci-Thym"
+    ],
+    "Marigold-Yarrow Blend": [
+      "Mélange Marigold-Yarrow",
+      "Mélange Souci-Achillée"
+    ],
+    "Marjoram-Angelica Blend": [
+      "Mélange Marjolaine-Angélique",
+      "Mélange Marjoram-Angelica"
+    ],
+    "Marjoram-Arnica Blend": [
+      "Mélange Marjolaine-Arnica",
+      "Mélange Marjoram-Arnica"
+    ],
+    "Marjoram-Catmint Blend": [
+      "Mélange Marjolaine-Cataire",
+      "Mélange Marjoram-Catmint"
+    ],
+    "Marjoram-Chicory Blend": [
+      "Mélange Marjolaine-Chicorée",
+      "Mélange Marjoram-Chicory"
+    ],
+    "Marjoram-Cornflower Blend": [
+      "Mélange Marjolaine-Bleuet",
+      "Mélange Marjoram-Cornflower"
+    ],
+    "Marjoram-Edelweiss Blend": [
+      "Mélange Marjolaine-Edelweiss",
+      "Mélange Marjoram-Edelweiss"
+    ],
+    "Marjoram-Ginseng Blend": [
+      "Mélange Marjolaine-Ginseng",
+      "Mélange Marjoram-Ginseng"
+    ],
+    "Marjoram-Goldenpoppy Blend": [
+      "Mélange Marjolaine-Pavot doré",
+      "Mélange Marjoram-Goldenpoppy"
+    ],
+    "Marjoram-Horehound Blend": [
+      "Mélange Marjolaine-Marrube",
+      "Mélange Marjoram-Horehound"
+    ],
+    "Marjoram-Lavender Blend": [
+      "Mélange Marjolaine-Lavande",
+      "Mélange Marjoram-Lavender"
+    ],
+    "Marjoram-Marigold Blend": [
+      "Mélange Marjolaine-Souci",
+      "Mélange Marjoram-Marigold"
+    ],
+    "Marjoram-Marshmallow Blend": [
+      "Mélange Marjolaine-Guimauve",
+      "Mélange Marjoram-Marshmallow"
+    ],
+    "Marjoram-Mint Blend": [
+      "Mélange Marjolaine-Menthe",
+      "Mélange Marjoram-Mint"
+    ],
+    "Marjoram-Mugwort Blend": [
+      "Mélange Marjolaine-Armoise",
+      "Mélange Marjoram-Mugwort"
+    ],
+    "Marjoram-Poisonoak Blend": [
+      "Mélange Marjolaine-Sumac vénéneux",
+      "Mélange Marjoram-Poisonoak"
+    ],
+    "Marjoram-Rosemary Blend": [
+      "Mélange Marjolaine-Romarin",
+      "Mélange Marjoram-Rosemary"
+    ],
+    "Marjoram-Saffron Blend": [
+      "Mélange Marjolaine-Safran",
+      "Mélange Marjoram-Saffron"
+    ],
+    "Marjoram-Sage Blend": [
+      "Mélange Marjolaine-Sauge",
+      "Mélange Marjoram-Sage"
+    ],
+    "Marjoram-Stingingnettle Blend": [
+      "Mélange Marjolaine-Ortie piquante",
+      "Mélange Marjoram-Stingingnettle"
+    ],
+    "Marjoram-Stjohnswort Blend": [
+      "Mélange Marjolaine-Millepertuis",
+      "Mélange Marjoram-Stjohnswort"
+    ],
+    "Marjoram-Thyme Blend": [
+      "Mélange Marjolaine-Thym",
+      "Mélange Marjoram-Thyme"
+    ],
+    "Marjoram-Yarrow Blend": [
+      "Mélange Marjolaine-Achillée",
+      "Mélange Marjoram-Yarrow"
+    ],
+    "Marshmallow-Angelica Blend": [
+      "Mélange Guimauve-Angélique",
+      "Mélange Marshmallow-Angelica"
+    ],
+    "Marshmallow-Arnica Blend": [
+      "Mélange Guimauve-Arnica",
+      "Mélange Marshmallow-Arnica"
+    ],
+    "Marshmallow-Catmint Blend": [
+      "Mélange Guimauve-Cataire",
+      "Mélange Marshmallow-Catmint"
+    ],
+    "Marshmallow-Chamomile Blend": [
+      "Mélange Guimauve-Camomille",
+      "Mélange Marshmallow-Chamomile"
+    ],
+    "Marshmallow-Chicory Blend": [
+      "Mélange Guimauve-Chicorée",
+      "Mélange Marshmallow-Chicory"
+    ],
+    "Marshmallow-Cornflower Blend": [
+      "Mélange Guimauve-Bleuet",
+      "Mélange Marshmallow-Cornflower"
+    ],
+    "Marshmallow-Edelweiss Blend": [
+      "Mélange Guimauve-Edelweiss",
+      "Mélange Marshmallow-Edelweiss"
+    ],
+    "Marshmallow-Ginseng Blend": [
+      "Mélange Guimauve-Ginseng",
+      "Mélange Marshmallow-Ginseng"
+    ],
+    "Marshmallow-Goldenpoppy Blend": [
+      "Mélange Guimauve-Pavot doré",
+      "Mélange Marshmallow-Goldenpoppy"
+    ],
+    "Marshmallow-Horehound Blend": [
+      "Mélange Guimauve-Marrube",
+      "Mélange Marshmallow-Horehound"
+    ],
+    "Marshmallow-Lavender Blend": [
+      "Mélange Guimauve-Lavande",
+      "Mélange Marshmallow-Lavender"
+    ],
+    "Marshmallow-Marigold Blend": [
+      "Mélange Guimauve-Souci",
+      "Mélange Marshmallow-Marigold"
+    ],
+    "Marshmallow-Marjoram Blend": [
+      "Mélange Guimauve-Marjolaine",
+      "Mélange Marshmallow-Marjoram"
+    ],
+    "Marshmallow-Mint Blend": [
+      "Mélange Guimauve-Menthe",
+      "Mélange Marshmallow-Mint"
+    ],
+    "Marshmallow-Mugwort Blend": [
+      "Mélange Guimauve-Armoise",
+      "Mélange Marshmallow-Mugwort"
+    ],
+    "Marshmallow-Poisonoak Blend": [
+      "Mélange Guimauve-Sumac vénéneux",
+      "Mélange Marshmallow-Poisonoak"
+    ],
+    "Marshmallow-Rosemary Blend": [
+      "Mélange Guimauve-Romarin",
+      "Mélange Marshmallow-Rosemary"
+    ],
+    "Marshmallow-Saffron Blend": [
+      "Mélange Guimauve-Safran",
+      "Mélange Marshmallow-Saffron"
+    ],
+    "Marshmallow-Sage Blend": [
+      "Mélange Guimauve-Sauge",
+      "Mélange Marshmallow-Sage"
+    ],
+    "Marshmallow-Stingingnettle Blend": [
+      "Mélange Guimauve-Ortie piquante",
+      "Mélange Marshmallow-Stingingnettle"
+    ],
+    "Marshmallow-Stjohnswort Blend": [
+      "Mélange Guimauve-Millepertuis",
+      "Mélange Marshmallow-Stjohnswort"
+    ],
+    "Marshmallow-Thyme Blend": [
+      "Mélange Guimauve-Thym",
+      "Mélange Marshmallow-Thyme"
+    ],
+    "Marshmallow-Yarrow Blend": [
+      "Mélange Guimauve-Achillée",
+      "Mélange Marshmallow-Yarrow"
+    ],
+    "Mint-Angelica Blend": [
+      "Mélange Menthe-Angélique",
+      "Mélange Mint-Angelica"
+    ],
+    "Mint-Arnica Blend": [
+      "Mélange Menthe-Arnica",
+      "Mélange Mint-Arnica"
+    ],
+    "Mint-Catmint Blend": [
+      "Mélange Menthe-Cataire",
+      "Mélange Mint-Catmint"
+    ],
+    "Mint-Chamomile Blend": [
+      "Mélange Menthe-Camomille",
+      "Mélange Mint-Chamomile"
+    ],
+    "Mint-Chicory Blend": [
+      "Mélange Menthe-Chicorée",
+      "Mélange Mint-Chicory"
+    ],
+    "Mint-Cornflower Blend": [
+      "Mélange Menthe-Bleuet",
+      "Mélange Mint-Cornflower"
+    ],
+    "Mint-Edelweiss Blend": [
+      "Mélange Menthe-Edelweiss",
+      "Mélange Mint-Edelweiss"
+    ],
+    "Mint-Ginseng Blend": [
+      "Mélange Menthe-Ginseng",
+      "Mélange Mint-Ginseng"
+    ],
+    "Mint-Goldenpoppy Blend": [
+      "Mélange Menthe-Pavot doré",
+      "Mélange Mint-Goldenpoppy"
+    ],
+    "Mint-Horehound Blend": [
+      "Mélange Menthe-Marrube",
+      "Mélange Mint-Horehound"
+    ],
+    "Mint-Lavender Blend": [
+      "Mélange Menthe-Lavande",
+      "Mélange Mint-Lavender"
+    ],
+    "Mint-Marigold Blend": [
+      "Mélange Menthe-Souci",
+      "Mélange Mint-Marigold"
+    ],
+    "Mint-Marjoram Blend": [
+      "Mélange Menthe-Marjolaine",
+      "Mélange Mint-Marjoram"
+    ],
+    "Mint-Marshmallow Blend": [
+      "Mélange Menthe-Guimauve",
+      "Mélange Mint-Marshmallow"
+    ],
+    "Mint-Mugwort Blend": [
+      "Mélange Menthe-Armoise",
+      "Mélange Mint-Mugwort"
+    ],
+    "Mint-Orangemallow Blend": [
+      "Mélange Menthe-Mauve orange",
+      "Mélange Mint-Orangemallow"
+    ],
+    "Mint-Poisonoak Blend": [
+      "Mélange Menthe-Sumac vénéneux",
+      "Mélange Mint-Poisonoak"
+    ],
+    "Mint-Rosemary Blend": [
+      "Mélange Menthe-Romarin",
+      "Mélange Mint-Rosemary"
+    ],
+    "Mint-Saffron Blend": [
+      "Mélange Menthe-Safran",
+      "Mélange Mint-Saffron"
+    ],
+    "Mint-Sage Blend": [
+      "Mélange Menthe-Sauge",
+      "Mélange Mint-Sage"
+    ],
+    "Mint-Stingingnettle Blend": [
+      "Mélange Menthe-Ortie piquante",
+      "Mélange Mint-Stingingnettle"
+    ],
+    "Mint-Stjohnswort Blend": [
+      "Mélange Menthe-Millepertuis",
+      "Mélange Mint-Stjohnswort"
+    ],
+    "Mint-Thyme Blend": [
+      "Mélange Menthe-Thym",
+      "Mélange Mint-Thyme"
+    ],
+    "Mint-Yarrow Blend": [
+      "Mélange Menthe-Achillée",
+      "Mélange Mint-Yarrow"
+    ],
+    "Mugwort-Angelica Blend": [
+      "Mélange Armoise-Angélique",
+      "Mélange Mugwort-Angelica"
+    ],
+    "Mugwort-Arnica Blend": [
+      "Mélange Armoise-Arnica",
+      "Mélange Mugwort-Arnica"
+    ],
+    "Mugwort-Catmint Blend": [
+      "Mélange Armoise-Cataire",
+      "Mélange Mugwort-Catmint"
+    ],
+    "Mugwort-Chamomile Blend": [
+      "Mélange Armoise-Camomille",
+      "Mélange Mugwort-Chamomile"
+    ],
+    "Mugwort-Chicory Blend": [
+      "Mélange Armoise-Chicorée",
+      "Mélange Mugwort-Chicory"
+    ],
+    "Mugwort-Cornflower Blend": [
+      "Mélange Armoise-Bleuet",
+      "Mélange Mugwort-Cornflower"
+    ],
+    "Mugwort-Edelweiss Blend": [
+      "Mélange Armoise-Edelweiss",
+      "Mélange Mugwort-Edelweiss"
+    ],
+    "Mugwort-Ginseng Blend": [
+      "Mélange Armoise-Ginseng",
+      "Mélange Mugwort-Ginseng"
+    ],
+    "Mugwort-Goldenpoppy Blend": [
+      "Mélange Armoise-Pavot doré",
+      "Mélange Mugwort-Goldenpoppy"
+    ],
+    "Mugwort-Horehound Blend": [
+      "Mélange Armoise-Marrube",
+      "Mélange Mugwort-Horehound"
+    ],
+    "Mugwort-Lavender Blend": [
+      "Mélange Armoise-Lavande",
+      "Mélange Mugwort-Lavender"
+    ],
+    "Mugwort-Marigold Blend": [
+      "Mélange Armoise-Souci",
+      "Mélange Mugwort-Marigold"
+    ],
+    "Mugwort-Marjoram Blend": [
+      "Mélange Armoise-Marjolaine",
+      "Mélange Mugwort-Marjoram"
+    ],
+    "Mugwort-Marshmallow Blend": [
+      "Mélange Armoise-Guimauve",
+      "Mélange Mugwort-Marshmallow"
+    ],
+    "Mugwort-Mint Blend": [
+      "Mélange Armoise-Menthe",
+      "Mélange Mugwort-Mint"
+    ],
+    "Mugwort-Orangemallow Blend": [
+      "Mélange Armoise-Mauve orange",
+      "Mélange Mugwort-Orangemallow"
+    ],
+    "Mugwort-Poisonoak Blend": [
+      "Mélange Armoise-Sumac vénéneux",
+      "Mélange Mugwort-Poisonoak"
+    ],
+    "Mugwort-Rosemary Blend": [
+      "Mélange Armoise-Romarin",
+      "Mélange Mugwort-Rosemary"
+    ],
+    "Mugwort-Saffron Blend": [
+      "Mélange Armoise-Safran",
+      "Mélange Mugwort-Saffron"
+    ],
+    "Mugwort-Sage Blend": [
+      "Mélange Armoise-Sauge",
+      "Mélange Mugwort-Sage"
+    ],
+    "Mugwort-Stingingnettle Blend": [
+      "Mélange Armoise-Ortie piquante",
+      "Mélange Mugwort-Stingingnettle"
+    ],
+    "Mugwort-Stjohnswort Blend": [
+      "Mélange Armoise-Millepertuis",
+      "Mélange Mugwort-Stjohnswort"
+    ],
+    "Mugwort-Thyme Blend": [
+      "Mélange Armoise-Thym",
+      "Mélange Mugwort-Thyme"
+    ],
+    "Mugwort-Yarrow Blend": [
+      "Mélange Armoise-Achillée",
+      "Mélange Mugwort-Yarrow"
+    ],
+    "Orangemallow-Angelica Blend": [
+      "Mélange Mauve orange-Angélique",
+      "Mélange Orangemallow-Angelica"
+    ],
+    "Orangemallow-Arnica Blend": [
+      "Mélange Mauve orange-Arnica",
+      "Mélange Orangemallow-Arnica"
+    ],
+    "Orangemallow-Chamomile Blend": [
+      "Mélange Mauve orange-Camomille",
+      "Mélange Orangemallow-Chamomile"
+    ],
+    "Orangemallow-Chicory Blend": [
+      "Mélange Mauve orange-Chicorée",
+      "Mélange Orangemallow-Chicory"
+    ],
+    "Orangemallow-Ginseng Blend": [
+      "Mélange Mauve orange-Ginseng",
+      "Mélange Orangemallow-Ginseng"
+    ],
+    "Orangemallow-Horehound Blend": [
+      "Mélange Mauve orange-Marrube",
+      "Mélange Orangemallow-Horehound"
+    ],
+    "Orangemallow-Lavender Blend": [
+      "Mélange Mauve orange-Lavande",
+      "Mélange Orangemallow-Lavender"
+    ],
+    "Orangemallow-Marigold Blend": [
+      "Mélange Mauve orange-Souci",
+      "Mélange Orangemallow-Marigold"
+    ],
+    "Orangemallow-Mint Blend": [
+      "Mélange Mauve orange-Menthe",
+      "Mélange Orangemallow-Mint"
+    ],
+    "Orangemallow-Mugwort Blend": [
+      "Mélange Mauve orange-Armoise",
+      "Mélange Orangemallow-Mugwort"
+    ],
+    "Orangemallow-Rosemary Blend": [
+      "Mélange Mauve orange-Romarin",
+      "Mélange Orangemallow-Rosemary"
+    ],
+    "Orangemallow-Saffron Blend": [
+      "Mélange Mauve orange-Safran",
+      "Mélange Orangemallow-Saffron"
+    ],
+    "Orangemallow-Sage Blend": [
+      "Mélange Mauve orange-Sauge",
+      "Mélange Orangemallow-Sage"
+    ],
+    "Orangemallow-Stingingnettle Blend": [
+      "Mélange Mauve orange-Ortie piquante",
+      "Mélange Orangemallow-Stingingnettle"
+    ],
+    "Orangemallow-Stjohnswort Blend": [
+      "Mélange Mauve orange-Millepertuis",
+      "Mélange Orangemallow-Stjohnswort"
+    ],
+    "Orangemallow-Thyme Blend": [
+      "Mélange Mauve orange-Thym",
+      "Mélange Orangemallow-Thyme"
+    ],
+    "Orangemallow-Yarrow Blend": [
+      "Mélange Mauve orange-Achillée",
+      "Mélange Orangemallow-Yarrow"
+    ],
+    "Poisonoak-Angelica Blend": [
+      "Mélange Poisonoak-Angelica",
+      "Mélange Sumac vénéneux-Angélique"
+    ],
+    "Poisonoak-Arnica Blend": [
+      "Mélange Poisonoak-Arnica",
+      "Mélange Sumac vénéneux-Arnica"
+    ],
+    "Poisonoak-Chamomile Blend": [
+      "Mélange Poisonoak-Chamomile",
+      "Mélange Sumac vénéneux-Camomille"
+    ],
+    "Poisonoak-Chicory Blend": [
+      "Mélange Poisonoak-Chicory",
+      "Mélange Sumac vénéneux-Chicorée"
+    ],
+    "Poisonoak-Cornflower Blend": [
+      "Mélange Poisonoak-Cornflower",
+      "Mélange Sumac vénéneux-Bleuet"
+    ],
+    "Poisonoak-Edelweiss Blend": [
+      "Mélange Poisonoak-Edelweiss",
+      "Mélange Sumac vénéneux-Edelweiss"
+    ],
+    "Poisonoak-Ginseng Blend": [
+      "Mélange Poisonoak-Ginseng",
+      "Mélange Sumac vénéneux-Ginseng"
+    ],
+    "Poisonoak-Goldenpoppy Blend": [
+      "Mélange Poisonoak-Goldenpoppy",
+      "Mélange Sumac vénéneux-Pavot doré"
+    ],
+    "Poisonoak-Horehound Blend": [
+      "Mélange Poisonoak-Horehound",
+      "Mélange Sumac vénéneux-Marrube"
+    ],
+    "Poisonoak-Lavender Blend": [
+      "Mélange Poisonoak-Lavender",
+      "Mélange Sumac vénéneux-Lavande"
+    ],
+    "Poisonoak-Marigold Blend": [
+      "Mélange Poisonoak-Marigold",
+      "Mélange Sumac vénéneux-Souci"
+    ],
+    "Poisonoak-Marjoram Blend": [
+      "Mélange Poisonoak-Marjoram",
+      "Mélange Sumac vénéneux-Marjolaine"
+    ],
+    "Poisonoak-Marshmallow Blend": [
+      "Mélange Poisonoak-Marshmallow",
+      "Mélange Sumac vénéneux-Guimauve"
+    ],
+    "Poisonoak-Mint Blend": [
+      "Mélange Poisonoak-Mint",
+      "Mélange Sumac vénéneux-Menthe"
+    ],
+    "Poisonoak-Mugwort Blend": [
+      "Mélange Poisonoak-Mugwort",
+      "Mélange Sumac vénéneux-Armoise"
+    ],
+    "Poisonoak-Rosemary Blend": [
+      "Mélange Poisonoak-Rosemary",
+      "Mélange Sumac vénéneux-Romarin"
+    ],
+    "Poisonoak-Saffron Blend": [
+      "Mélange Poisonoak-Saffron",
+      "Mélange Sumac vénéneux-Safran"
+    ],
+    "Poisonoak-Sage Blend": [
+      "Mélange Poisonoak-Sage",
+      "Mélange Sumac vénéneux-Sauge"
+    ],
+    "Poisonoak-Stingingnettle Blend": [
+      "Mélange Poisonoak-Stingingnettle",
+      "Mélange Sumac vénéneux-Ortie piquante"
+    ],
+    "Poisonoak-Stjohnswort Blend": [
+      "Mélange Poisonoak-Stjohnswort",
+      "Mélange Sumac vénéneux-Millepertuis"
+    ],
+    "Poisonoak-Thyme Blend": [
+      "Mélange Poisonoak-Thyme",
+      "Mélange Sumac vénéneux-Thym"
+    ],
+    "Poisonoak-Yarrow Blend": [
+      "Mélange Poisonoak-Yarrow",
+      "Mélange Sumac vénéneux-Achillée"
+    ],
+    "Rosemary-Angelica Blend": [
+      "Mélange Romarin-Angélique",
+      "Mélange Rosemary-Angelica"
+    ],
+    "Rosemary-Arnica Blend": [
+      "Mélange Romarin-Arnica",
+      "Mélange Rosemary-Arnica"
+    ],
+    "Rosemary-Catmint Blend": [
+      "Mélange Romarin-Cataire",
+      "Mélange Rosemary-Catmint"
+    ],
+    "Rosemary-Chamomile Blend": [
+      "Mélange Romarin-Camomille",
+      "Mélange Rosemary-Chamomile"
+    ],
+    "Rosemary-Chicory Blend": [
+      "Mélange Romarin-Chicorée",
+      "Mélange Rosemary-Chicory"
+    ],
+    "Rosemary-Cornflower Blend": [
+      "Mélange Romarin-Bleuet",
+      "Mélange Rosemary-Cornflower"
+    ],
+    "Rosemary-Edelweiss Blend": [
+      "Mélange Romarin-Edelweiss",
+      "Mélange Rosemary-Edelweiss"
+    ],
+    "Rosemary-Ginseng Blend": [
+      "Mélange Romarin-Ginseng",
+      "Mélange Rosemary-Ginseng"
+    ],
+    "Rosemary-Goldenpoppy Blend": [
+      "Mélange Romarin-Pavot doré",
+      "Mélange Rosemary-Goldenpoppy"
+    ],
+    "Rosemary-Horehound Blend": [
+      "Mélange Romarin-Marrube",
+      "Mélange Rosemary-Horehound"
+    ],
+    "Rosemary-Lavender Blend": [
+      "Mélange Romarin-Lavande",
+      "Mélange Rosemary-Lavender"
+    ],
+    "Rosemary-Marigold Blend": [
+      "Mélange Romarin-Souci",
+      "Mélange Rosemary-Marigold"
+    ],
+    "Rosemary-Marjoram Blend": [
+      "Mélange Romarin-Marjolaine",
+      "Mélange Rosemary-Marjoram"
+    ],
+    "Rosemary-Marshmallow Blend": [
+      "Mélange Romarin-Guimauve",
+      "Mélange Rosemary-Marshmallow"
+    ],
+    "Rosemary-Mint Blend": [
+      "Mélange Romarin-Menthe",
+      "Mélange Rosemary-Mint"
+    ],
+    "Rosemary-Mugwort Blend": [
+      "Mélange Romarin-Armoise",
+      "Mélange Rosemary-Mugwort"
+    ],
+    "Rosemary-Orangemallow Blend": [
+      "Mélange Romarin-Mauve orange",
+      "Mélange Rosemary-Orangemallow"
+    ],
+    "Rosemary-Poisonoak Blend": [
+      "Mélange Romarin-Sumac vénéneux",
+      "Mélange Rosemary-Poisonoak"
+    ],
+    "Rosemary-Saffron Blend": [
+      "Mélange Romarin-Safran",
+      "Mélange Rosemary-Saffron"
+    ],
+    "Rosemary-Sage Blend": [
+      "Mélange Romarin-Sauge",
+      "Mélange Rosemary-Sage"
+    ],
+    "Rosemary-Stingingnettle Blend": [
+      "Mélange Romarin-Ortie piquante",
+      "Mélange Rosemary-Stingingnettle"
+    ],
+    "Rosemary-Stjohnswort Blend": [
+      "Mélange Romarin-Millepertuis",
+      "Mélange Rosemary-Stjohnswort"
+    ],
+    "Rosemary-Thyme Blend": [
+      "Mélange Romarin-Thym",
+      "Mélange Rosemary-Thyme"
+    ],
+    "Rosemary-Yarrow Blend": [
+      "Mélange Romarin-Achillée",
+      "Mélange Rosemary-Yarrow"
+    ],
+    "Saffron-Angelica Blend": [
+      "Mélange Saffron-Angelica",
+      "Mélange Safran-Angélique"
+    ],
+    "Saffron-Arnica Blend": [
+      "Mélange Saffron-Arnica",
+      "Mélange Safran-Arnica"
+    ],
+    "Saffron-Catmint Blend": [
+      "Mélange Saffron-Catmint",
+      "Mélange Safran-Cataire"
+    ],
+    "Saffron-Chamomile Blend": [
+      "Mélange Saffron-Chamomile",
+      "Mélange Safran-Camomille"
+    ],
+    "Saffron-Chicory Blend": [
+      "Mélange Saffron-Chicory",
+      "Mélange Safran-Chicorée"
+    ],
+    "Saffron-Cornflower Blend": [
+      "Mélange Saffron-Cornflower",
+      "Mélange Safran-Bleuet"
+    ],
+    "Saffron-Edelweiss Blend": [
+      "Mélange Saffron-Edelweiss",
+      "Mélange Safran-Edelweiss"
+    ],
+    "Saffron-Ginseng Blend": [
+      "Mélange Saffron-Ginseng",
+      "Mélange Safran-Ginseng"
+    ],
+    "Saffron-Goldenpoppy Blend": [
+      "Mélange Saffron-Goldenpoppy",
+      "Mélange Safran-Pavot doré"
+    ],
+    "Saffron-Horehound Blend": [
+      "Mélange Saffron-Horehound",
+      "Mélange Safran-Marrube"
+    ],
+    "Saffron-Lavender Blend": [
+      "Mélange Saffron-Lavender",
+      "Mélange Safran-Lavande"
+    ],
+    "Saffron-Marigold Blend": [
+      "Mélange Saffron-Marigold",
+      "Mélange Safran-Souci"
+    ],
+    "Saffron-Marjoram Blend": [
+      "Mélange Saffron-Marjoram",
+      "Mélange Safran-Marjolaine"
+    ],
+    "Saffron-Marshmallow Blend": [
+      "Mélange Saffron-Marshmallow",
+      "Mélange Safran-Guimauve"
+    ],
+    "Saffron-Mint Blend": [
+      "Mélange Saffron-Mint",
+      "Mélange Safran-Menthe"
+    ],
+    "Saffron-Mugwort Blend": [
+      "Mélange Saffron-Mugwort",
+      "Mélange Safran-Armoise"
+    ],
+    "Saffron-Orangemallow Blend": [
+      "Mélange Saffron-Orangemallow",
+      "Mélange Safran-Mauve orange"
+    ],
+    "Saffron-Poisonoak Blend": [
+      "Mélange Saffron-Poisonoak",
+      "Mélange Safran-Sumac vénéneux"
+    ],
+    "Saffron-Rosemary Blend": [
+      "Mélange Saffron-Rosemary",
+      "Mélange Safran-Romarin"
+    ],
+    "Saffron-Sage Blend": [
+      "Mélange Saffron-Sage",
+      "Mélange Safran-Sauge"
+    ],
+    "Saffron-Stingingnettle Blend": [
+      "Mélange Saffron-Stingingnettle",
+      "Mélange Safran-Ortie piquante"
+    ],
+    "Saffron-Stjohnswort Blend": [
+      "Mélange Saffron-Stjohnswort",
+      "Mélange Safran-Millepertuis"
+    ],
+    "Saffron-Thyme Blend": [
+      "Mélange Saffron-Thyme",
+      "Mélange Safran-Thym"
+    ],
+    "Saffron-Yarrow Blend": [
+      "Mélange Saffron-Yarrow",
+      "Mélange Safran-Achillée"
+    ],
+    "Sage-Angelica Blend": [
+      "Mélange Sage-Angelica",
+      "Mélange Sauge-Angélique"
+    ],
+    "Sage-Arnica Blend": [
+      "Mélange Sage-Arnica",
+      "Mélange Sauge-Arnica"
+    ],
+    "Sage-Chamomile Blend": [
+      "Mélange Sage-Chamomile",
+      "Mélange Sauge-Camomille"
+    ],
+    "Sage-Chicory Blend": [
+      "Mélange Sage-Chicory",
+      "Mélange Sauge-Chicorée"
+    ],
+    "Sage-Cornflower Blend": [
+      "Mélange Sage-Cornflower",
+      "Mélange Sauge-Bleuet"
+    ],
+    "Sage-Ginseng Blend": [
+      "Mélange Sage-Ginseng",
+      "Mélange Sauge-Ginseng"
+    ],
+    "Sage-Goldenpoppy Blend": [
+      "Mélange Sage-Goldenpoppy",
+      "Mélange Sauge-Pavot doré"
+    ],
+    "Sage-Horehound Blend": [
+      "Mélange Sage-Horehound",
+      "Mélange Sauge-Marrube"
+    ],
+    "Sage-Lavender Blend": [
+      "Mélange Sage-Lavender",
+      "Mélange Sauge-Lavande"
+    ],
+    "Sage-Marigold Blend": [
+      "Mélange Sage-Marigold",
+      "Mélange Sauge-Souci"
+    ],
+    "Sage-Marjoram Blend": [
+      "Mélange Sage-Marjoram",
+      "Mélange Sauge-Marjolaine"
+    ],
+    "Sage-Marshmallow Blend": [
+      "Mélange Sage-Marshmallow",
+      "Mélange Sauge-Guimauve"
+    ],
+    "Sage-Mint Blend": [
+      "Mélange Sage-Mint",
+      "Mélange Sauge-Menthe"
+    ],
+    "Sage-Mugwort Blend": [
+      "Mélange Sage-Mugwort",
+      "Mélange Sauge-Armoise"
+    ],
+    "Sage-Orangemallow Blend": [
+      "Mélange Sage-Orangemallow",
+      "Mélange Sauge-Mauve orange"
+    ],
+    "Sage-Poisonoak Blend": [
+      "Mélange Sage-Poisonoak",
+      "Mélange Sauge-Sumac vénéneux"
+    ],
+    "Sage-Rosemary Blend": [
+      "Mélange Sage-Rosemary",
+      "Mélange Sauge-Romarin"
+    ],
+    "Sage-Saffron Blend": [
+      "Mélange Sage-Saffron",
+      "Mélange Sauge-Safran"
+    ],
+    "Sage-Stingingnettle Blend": [
+      "Mélange Sage-Stingingnettle",
+      "Mélange Sauge-Ortie piquante"
+    ],
+    "Sage-Stjohnswort Blend": [
+      "Mélange Sage-Stjohnswort",
+      "Mélange Sauge-Millepertuis"
+    ],
+    "Sage-Yarrow Blend": [
+      "Mélange Sage-Yarrow",
+      "Mélange Sauge-Achillée"
+    ],
+    "Stingingnettle-Angelica Blend": [
+      "Mélange Ortie piquante-Angélique",
+      "Mélange Stingingnettle-Angelica"
+    ],
+    "Stingingnettle-Arnica Blend": [
+      "Mélange Ortie piquante-Arnica",
+      "Mélange Stingingnettle-Arnica"
+    ],
+    "Stingingnettle-Catmint Blend": [
+      "Mélange Ortie piquante-Cataire",
+      "Mélange Stingingnettle-Catmint"
+    ],
+    "Stingingnettle-Chamomile Blend": [
+      "Mélange Ortie piquante-Camomille",
+      "Mélange Stingingnettle-Chamomile"
+    ],
+    "Stingingnettle-Chicory Blend": [
+      "Mélange Ortie piquante-Chicorée",
+      "Mélange Stingingnettle-Chicory"
+    ],
+    "Stingingnettle-Cornflower Blend": [
+      "Mélange Ortie piquante-Bleuet",
+      "Mélange Stingingnettle-Cornflower"
+    ],
+    "Stingingnettle-Edelweiss Blend": [
+      "Mélange Ortie piquante-Edelweiss",
+      "Mélange Stingingnettle-Edelweiss"
+    ],
+    "Stingingnettle-Ginseng Blend": [
+      "Mélange Ortie piquante-Ginseng",
+      "Mélange Stingingnettle-Ginseng"
+    ],
+    "Stingingnettle-Goldenpoppy Blend": [
+      "Mélange Ortie piquante-Pavot doré",
+      "Mélange Stingingnettle-Goldenpoppy"
+    ],
+    "Stingingnettle-Horehound Blend": [
+      "Mélange Ortie piquante-Marrube",
+      "Mélange Stingingnettle-Horehound"
+    ],
+    "Stingingnettle-Lavender Blend": [
+      "Mélange Ortie piquante-Lavande",
+      "Mélange Stingingnettle-Lavender"
+    ],
+    "Stingingnettle-Marigold Blend": [
+      "Mélange Ortie piquante-Souci",
+      "Mélange Stingingnettle-Marigold"
+    ],
+    "Stingingnettle-Marjoram Blend": [
+      "Mélange Ortie piquante-Marjolaine",
+      "Mélange Stingingnettle-Marjoram"
+    ],
+    "Stingingnettle-Marshmallow Blend": [
+      "Mélange Ortie piquante-Guimauve",
+      "Mélange Stingingnettle-Marshmallow"
+    ],
+    "Stingingnettle-Mint Blend": [
+      "Mélange Ortie piquante-Menthe",
+      "Mélange Stingingnettle-Mint"
+    ],
+    "Stingingnettle-Mugwort Blend": [
+      "Mélange Ortie piquante-Armoise",
+      "Mélange Stingingnettle-Mugwort"
+    ],
+    "Stingingnettle-Orangemallow Blend": [
+      "Mélange Ortie piquante-Mauve orange",
+      "Mélange Stingingnettle-Orangemallow"
+    ],
+    "Stingingnettle-Poisonoak Blend": [
+      "Mélange Ortie piquante-Sumac vénéneux",
+      "Mélange Stingingnettle-Poisonoak"
+    ],
+    "Stingingnettle-Rosemary Blend": [
+      "Mélange Ortie piquante-Romarin",
+      "Mélange Stingingnettle-Rosemary"
+    ],
+    "Stingingnettle-Saffron Blend": [
+      "Mélange Ortie piquante-Safran",
+      "Mélange Stingingnettle-Saffron"
+    ],
+    "Stingingnettle-Sage Blend": [
+      "Mélange Ortie piquante-Sauge",
+      "Mélange Stingingnettle-Sage"
+    ],
+    "Stingingnettle-Stjohnswort Blend": [
+      "Mélange Ortie piquante-Millepertuis",
+      "Mélange Stingingnettle-Stjohnswort"
+    ],
+    "Stingingnettle-Thyme Blend": [
+      "Mélange Ortie piquante-Thym",
+      "Mélange Stingingnettle-Thyme"
+    ],
+    "Stingingnettle-Yarrow Blend": [
+      "Mélange Ortie piquante-Achillée",
+      "Mélange Stingingnettle-Yarrow"
+    ],
+    "Stjohnswort-Angelica Blend": [
+      "Mélange Millepertuis-Angélique",
+      "Mélange Stjohnswort-Angelica"
+    ],
+    "Stjohnswort-Arnica Blend": [
+      "Mélange Millepertuis-Arnica",
+      "Mélange Stjohnswort-Arnica"
+    ],
+    "Stjohnswort-Catmint Blend": [
+      "Mélange Millepertuis-Cataire",
+      "Mélange Stjohnswort-Catmint"
+    ],
+    "Stjohnswort-Chamomile Blend": [
+      "Mélange Millepertuis-Camomille",
+      "Mélange Stjohnswort-Chamomile"
+    ],
+    "Stjohnswort-Chicory Blend": [
+      "Mélange Millepertuis-Chicorée",
+      "Mélange Stjohnswort-Chicory"
+    ],
+    "Stjohnswort-Cornflower Blend": [
+      "Mélange Millepertuis-Bleuet",
+      "Mélange Stjohnswort-Cornflower"
+    ],
+    "Stjohnswort-Edelweiss Blend": [
+      "Mélange Millepertuis-Edelweiss",
+      "Mélange Stjohnswort-Edelweiss"
+    ],
+    "Stjohnswort-Ginseng Blend": [
+      "Mélange Millepertuis-Ginseng",
+      "Mélange Stjohnswort-Ginseng"
+    ],
+    "Stjohnswort-Goldenpoppy Blend": [
+      "Mélange Millepertuis-Pavot doré",
+      "Mélange Stjohnswort-Goldenpoppy"
+    ],
+    "Stjohnswort-Horehound Blend": [
+      "Mélange Millepertuis-Marrube",
+      "Mélange Stjohnswort-Horehound"
+    ],
+    "Stjohnswort-Lavender Blend": [
+      "Mélange Millepertuis-Lavande",
+      "Mélange Stjohnswort-Lavender"
+    ],
+    "Stjohnswort-Marigold Blend": [
+      "Mélange Millepertuis-Souci",
+      "Mélange Stjohnswort-Marigold"
+    ],
+    "Stjohnswort-Marjoram Blend": [
+      "Mélange Millepertuis-Marjolaine",
+      "Mélange Stjohnswort-Marjoram"
+    ],
+    "Stjohnswort-Marshmallow Blend": [
+      "Mélange Millepertuis-Guimauve",
+      "Mélange Stjohnswort-Marshmallow"
+    ],
+    "Stjohnswort-Mint Blend": [
+      "Mélange Millepertuis-Menthe",
+      "Mélange Stjohnswort-Mint"
+    ],
+    "Stjohnswort-Mugwort Blend": [
+      "Mélange Millepertuis-Armoise",
+      "Mélange Stjohnswort-Mugwort"
+    ],
+    "Stjohnswort-Orangemallow Blend": [
+      "Mélange Millepertuis-Mauve orange",
+      "Mélange Stjohnswort-Orangemallow"
+    ],
+    "Stjohnswort-Poisonoak Blend": [
+      "Mélange Millepertuis-Sumac vénéneux",
+      "Mélange Stjohnswort-Poisonoak"
+    ],
+    "Stjohnswort-Rosemary Blend": [
+      "Mélange Millepertuis-Romarin",
+      "Mélange Stjohnswort-Rosemary"
+    ],
+    "Stjohnswort-Saffron Blend": [
+      "Mélange Millepertuis-Safran",
+      "Mélange Stjohnswort-Saffron"
+    ],
+    "Stjohnswort-Sage Blend": [
+      "Mélange Millepertuis-Sauge",
+      "Mélange Stjohnswort-Sage"
+    ],
+    "Stjohnswort-Stingingnettle Blend": [
+      "Mélange Millepertuis-Ortie piquante",
+      "Mélange Stjohnswort-Stingingnettle"
+    ],
+    "Stjohnswort-Thyme Blend": [
+      "Mélange Millepertuis-Thym",
+      "Mélange Stjohnswort-Thyme"
+    ],
+    "Stjohnswort-Yarrow Blend": [
+      "Mélange Millepertuis-Achillée",
+      "Mélange Stjohnswort-Yarrow"
+    ],
+    "Sunset Dreams": [
+      "Rêves du couchant",
+      "Rêves du coucher de soleil"
+    ],
+    "Thyme-Angelica Blend": [
+      "Mélange Thym-Angélique",
+      "Mélange Thyme-Angelica"
+    ],
+    "Thyme-Arnica Blend": [
+      "Mélange Thym-Arnica",
+      "Mélange Thyme-Arnica"
+    ],
+    "Thyme-Catmint Blend": [
+      "Mélange Thym-Cataire",
+      "Mélange Thyme-Catmint"
+    ],
+    "Thyme-Chamomile Blend": [
+      "Mélange Thym-Camomille",
+      "Mélange Thyme-Chamomile"
+    ],
+    "Thyme-Chicory Blend": [
+      "Mélange Thym-Chicorée",
+      "Mélange Thyme-Chicory"
+    ],
+    "Thyme-Cornflower Blend": [
+      "Mélange Thym-Bleuet",
+      "Mélange Thyme-Cornflower"
+    ],
+    "Thyme-Edelweiss Blend": [
+      "Mélange Thym-Edelweiss",
+      "Mélange Thyme-Edelweiss"
+    ],
+    "Thyme-Ginseng Blend": [
+      "Mélange Thym-Ginseng",
+      "Mélange Thyme-Ginseng"
+    ],
+    "Thyme-Goldenpoppy Blend": [
+      "Mélange Thym-Pavot doré",
+      "Mélange Thyme-Goldenpoppy"
+    ],
+    "Thyme-Horehound Blend": [
+      "Mélange Thym-Marrube",
+      "Mélange Thyme-Horehound"
+    ],
+    "Thyme-Lavender Blend": [
+      "Mélange Thym-Lavande",
+      "Mélange Thyme-Lavender"
+    ],
+    "Thyme-Marigold Blend": [
+      "Mélange Thym-Souci",
+      "Mélange Thyme-Marigold"
+    ],
+    "Thyme-Marjoram Blend": [
+      "Mélange Thym-Marjolaine",
+      "Mélange Thyme-Marjoram"
+    ],
+    "Thyme-Marshmallow Blend": [
+      "Mélange Thym-Guimauve",
+      "Mélange Thyme-Marshmallow"
+    ],
+    "Thyme-Mint Blend": [
+      "Mélange Thym-Menthe",
+      "Mélange Thyme-Mint"
+    ],
+    "Thyme-Mugwort Blend": [
+      "Mélange Thym-Armoise",
+      "Mélange Thyme-Mugwort"
+    ],
+    "Thyme-Orangemallow Blend": [
+      "Mélange Thym-Mauve orange",
+      "Mélange Thyme-Orangemallow"
+    ],
+    "Thyme-Poisonoak Blend": [
+      "Mélange Thym-Sumac vénéneux",
+      "Mélange Thyme-Poisonoak"
+    ],
+    "Thyme-Rosemary Blend": [
+      "Mélange Thym-Romarin",
+      "Mélange Thyme-Rosemary"
+    ],
+    "Thyme-Saffron Blend": [
+      "Mélange Thym-Safran",
+      "Mélange Thyme-Saffron"
+    ],
+    "Thyme-Stingingnettle Blend": [
+      "Mélange Thym-Ortie piquante",
+      "Mélange Thyme-Stingingnettle"
+    ],
+    "Thyme-Stjohnswort Blend": [
+      "Mélange Thym-Millepertuis",
+      "Mélange Thyme-Stjohnswort"
+    ],
+    "Thyme-Yarrow Blend": [
+      "Mélange Thym-Achillée",
+      "Mélange Thyme-Yarrow"
+    ],
+    "Yarrow-Angelica Blend": [
+      "Mélange Achillée-Angélique",
+      "Mélange Yarrow-Angelica"
+    ],
+    "Yarrow-Arnica Blend": [
+      "Mélange Achillée-Arnica",
+      "Mélange Yarrow-Arnica"
+    ],
+    "Yarrow-Catmint Blend": [
+      "Mélange Achillée-Cataire",
+      "Mélange Yarrow-Catmint"
+    ],
+    "Yarrow-Chamomile Blend": [
+      "Mélange Achillée-Camomille",
+      "Mélange Yarrow-Chamomile"
+    ],
+    "Yarrow-Chicory Blend": [
+      "Mélange Achillée-Chicorée",
+      "Mélange Yarrow-Chicory"
+    ],
+    "Yarrow-Cornflower Blend": [
+      "Mélange Achillée-Bleuet",
+      "Mélange Yarrow-Cornflower"
+    ],
+    "Yarrow-Edelweiss Blend": [
+      "Mélange Achillée-Edelweiss",
+      "Mélange Yarrow-Edelweiss"
+    ],
+    "Yarrow-Ginseng Blend": [
+      "Mélange Achillée-Ginseng",
+      "Mélange Yarrow-Ginseng"
+    ],
+    "Yarrow-Goldenpoppy Blend": [
+      "Mélange Achillée-Pavot doré",
+      "Mélange Yarrow-Goldenpoppy"
+    ],
+    "Yarrow-Horehound Blend": [
+      "Mélange Achillée-Marrube",
+      "Mélange Yarrow-Horehound"
+    ],
+    "Yarrow-Lavender Blend": [
+      "Mélange Achillée-Lavande",
+      "Mélange Yarrow-Lavender"
+    ],
+    "Yarrow-Marigold Blend": [
+      "Mélange Achillée-Souci",
+      "Mélange Yarrow-Marigold"
+    ],
+    "Yarrow-Marjoram Blend": [
+      "Mélange Achillée-Marjolaine",
+      "Mélange Yarrow-Marjoram"
+    ],
+    "Yarrow-Marshmallow Blend": [
+      "Mélange Achillée-Guimauve",
+      "Mélange Yarrow-Marshmallow"
+    ],
+    "Yarrow-Mint Blend": [
+      "Mélange Achillée-Menthe",
+      "Mélange Yarrow-Mint"
+    ],
+    "Yarrow-Mugwort Blend": [
+      "Mélange Achillée-Armoise",
+      "Mélange Yarrow-Mugwort"
+    ],
+    "Yarrow-Orangemallow Blend": [
+      "Mélange Achillée-Mauve orange",
+      "Mélange Yarrow-Orangemallow"
+    ],
+    "Yarrow-Poisonoak Blend": [
+      "Mélange Achillée-Sumac vénéneux",
+      "Mélange Yarrow-Poisonoak"
+    ],
+    "Yarrow-Rosemary Blend": [
+      "Mélange Achillée-Romarin",
+      "Mélange Yarrow-Rosemary"
+    ],
+    "Yarrow-Saffron Blend": [
+      "Mélange Achillée-Safran",
+      "Mélange Yarrow-Saffron"
+    ],
+    "Yarrow-Sage Blend": [
+      "Mélange Achillée-Sauge",
+      "Mélange Yarrow-Sage"
+    ],
+    "Yarrow-Stingingnettle Blend": [
+      "Mélange Achillée-Ortie piquante",
+      "Mélange Yarrow-Stingingnettle"
+    ],
+    "Yarrow-Stjohnswort Blend": [
+      "Mélange Achillée-Millepertuis",
+      "Mélange Yarrow-Stjohnswort"
+    ],
+    "Yarrow-Thyme Blend": [
+      "Mélange Achillée-Thym",
+      "Mélange Yarrow-Thyme"
+    ]
+  }
+}

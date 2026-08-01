@@ -60,6 +60,7 @@ jq \
   --arg world     "$VS_WORLD_NAME" \
   --arg play      "$VS_PLAYSTYLE" \
   --arg playlang  "$VS_PLAYSTYLE_LANG" \
+  --arg worldtype "${VS_WORLDTYPE:-standard}" \
   --argjson port  "$VS_PORT" \
   --argjson max   "$VS_MAX_CLIENTS" \
   --argjson wl    "${VS_WHITELIST_MODE:-1}" \
@@ -82,6 +83,10 @@ jq \
    | .WorldConfig.WorldName = $world
    | .WorldConfig.PlayStyle = $play
    | .WorldConfig.PlayStyleLangCode = $playlang
+   # Le playstyle porte son propre worldType : creativebuilding declare
+   # "superflat". Laisser "standard" dans le modele donnait un monde creatif
+   # au relief normal.
+   | .WorldConfig.WorldType = $worldtype
    | .WorldConfig.SaveFileLocation = "/data/Saves/world.vcdbs"' \
   "$DATA/serverconfig.json" > "$tmp" && mv "$tmp" "$DATA/serverconfig.json"
 
@@ -92,8 +97,12 @@ if [ -n "${VS_WORLDCONFIG:-}" ]; then
   if ! echo "$VS_WORLDCONFIG" | jq -e . >/dev/null 2>&1; then
     echo "[entrypoint] VS_WORLDCONFIG n'est pas du JSON valide, ignore" >&2
   else
+    # StartServerArgs.WorldConfiguration est un JsonObject, pas une chaine, et
+    # SaveGame teste WorldConfiguration?.Token?.HasValues. Une chaine echappee
+    # a un token scalaire, HasValues vaut faux, le bloc est saute en silence et
+    # les valeurs du playstyle s appliquent. D ou --argjson et non --arg.
     tmp=$(mktemp)
-    jq --arg wc "$(echo "$VS_WORLDCONFIG" | jq -c .)" \
+    jq --argjson wc "$VS_WORLDCONFIG" \
        '.WorldConfig.WorldConfiguration = $wc' \
        "$DATA/serverconfig.json" > "$tmp" && mv "$tmp" "$DATA/serverconfig.json"
     echo "[entrypoint] WorldConfiguration: $(echo "$VS_WORLDCONFIG" | jq -c .)"

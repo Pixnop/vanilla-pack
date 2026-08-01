@@ -89,6 +89,9 @@ services:
       VS_DEFAULT_ROLE: crplayer
       VS_PLAYSTYLE: creativebuilding
       VS_PLAYSTYLE_LANG: creativebuilding
+      # Le playstyle creativebuilding declare "worldType": "superflat" dans
+      # VSCreativeMod. Sans ca on retombe sur "standard" et le monde a du relief.
+      VS_WORLDTYPE: superflat
       VS_PORT: ${CREATIVE_PORT}
       VS_MAX_CLIENTS: ${MAX_CLIENTS}
       VS_WHITELIST_MODE: ${VS_WHITELIST_MODE:-1}

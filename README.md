@@ -164,6 +164,24 @@ emballé, tout dans un dossier `redirectfix/` donc pas de `modinfo.json` à la
 racine, et ne se chargeait pas. Le zip hébergé sur le Mod DB, lui, est correct.
 La v1.0.1 est packagée en CI et corrige l'asset GitHub.
 
+## Transferts entre mondes
+
+`/server creative` et `/server survival` en jeu. Les joueurs ont besoin de
+[RedirectFix](https://github.com/StratumServer/redirectfix) 1.0.1 ou plus récent,
+le plantage à la redirection est toujours là en 1.22.6.
+
+Nimbus 0.2.0 cassait tous les transferts sur 1.22.6 : le proxy supposait que la
+première trame du client était `Identification`, alors que c'est
+`LoginTokenQuery`, qui ne porte aucune identité. La reconnexion partait sur le
+backend par défaut, le jeton de session à usage unique était rejoué vers la
+destination, et celle-ci renvoyait « Bad game session ». Corrigé en 0.3.0 : la
+reconnexion est routée par adresse client quand la première trame est anonyme, et
+un garde-fou refuse de présenter le même login à un second backend.
+
+`REDIRECT_ADDRESS` dans `.env` tamponne une adresse `hôte:port` dans les paquets
+de redirection. À renseigner dès que les joueurs passent par autre chose que
+localhost, sinon le client se reconnecte sur l'adresse annoncée par le backend.
+
 ## Configuration
 
 Tout se règle dans `.env` et dans les blocs `environment` de
@@ -207,7 +225,7 @@ Story sauvegarde en s'arrêtant, il ne faut pas le tuer trop tôt.
 |---|---|
 | Vintage Story | 1.22.6 |
 | Stratum | PR 231 `fix/world-gen-and-mod-compat` @ 7ff2709, build locale |
-| Nimbus | v0.2.0 |
+| Nimbus | v0.3.0 |
 | RedirectFix | v1.0.1, installation manuelle côté joueur |
 
 La release publiée la plus proche est `v1.22.6-stratum.1-indev.1`, elle-même un

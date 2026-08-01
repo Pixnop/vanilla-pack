@@ -42,6 +42,7 @@ services:
       CREATIVE_ADDR: creative:${CREATIVE_PORT}
       NIMBUS_SHARED_SECRET: ${NIMBUS_SHARED_SECRET}
       METRICS_TOKEN: ${METRICS_TOKEN}
+      REDIRECT_ADDRESS: ${REDIRECT_ADDRESS:-}
     networks: [vsnet]
 
   survival:
@@ -95,13 +96,6 @@ services:
       # betterruins + Stratum + playstyle creativebuilding fait planter la passe
       # de structures. Le meme mod ne pose aucun probleme sur la survie.
       MODS_EXCLUDE: "betterruins-0.6.3.zip"
-      # Contournement d un bug Nimbus 0.2.0 en 1.22.6, detaille dans le README.
-      # Le proxy n arrive pas a lire le PlayerUID d une trame Identification
-      # 1.22.6, branche donc la reconnexion sur survival avant de basculer ici,
-      # et survival consomme le jeton de session a usage unique. Ce monde reste
-      # protege par le ReservationRequired de Nimbus. A remettre a true des que
-      # le proxy sait router directement.
-      VS_VERIFY_AUTH: "false"
       NIMBUS_SERVER_ID: creative
       NIMBUS_DISPLAY_NAME: "Creatif"
       NIMBUS_PUBLIC_HOST: creative

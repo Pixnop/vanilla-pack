@@ -26,6 +26,21 @@ embedded_bind = "http://0.0.0.0:${REGISTRY_PORT}"
 # secret vaut la valeur par defaut. Il est genere dans .env.
 embedded_shared_secret = "${NIMBUS_SHARED_SECRET}"
 
+EOF
+
+# Adresse que le proxy tamponne dans les paquets de redirection. A renseigner
+# des que les joueurs passent par autre chose que localhost, sinon le client
+# se reconnecte sur l adresse que le backend annonce.
+if [ -n "${REDIRECT_ADDRESS:-}" ]; then
+  cat >> nimbus.proxy.toml <<EOF
+
+[transfers]
+redirect_address = "${REDIRECT_ADDRESS}"
+EOF
+fi
+
+cat >> nimbus.proxy.toml <<EOF
+
 [metrics]
 enabled = true
 # Bind sur 0.0.0.0 parce que la publication de port docker passe par l'interface

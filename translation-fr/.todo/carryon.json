@@ -1,0 +1,21 @@
+{
+  "attached-block-no-clearance": "Not enough clearance to place carried block with attached wall signs",
+  "block-has-attached-blocks": "Cannot place carried block here while it has attached signs",
+  "despawn-in": "Despawns in {0} days",
+  "dropped-ago": "Dropped {0} ago",
+  "dropped-block": "Dropped {0}",
+  "dropped-by": "Dropped by: {0}",
+  "duration-days": "{0}d",
+  "duration-hours": "{0}h",
+  "duration-minutes": "{0}m",
+  "duration-seconds": "{0}s",
+  "entityhelp-pickup-carriedblock": "Pick up dropped block",
+  "grace-period-left": "Owner pickup: {0} left",
+  "offline-player": "(Offline Player)",
+  "pick-up-already-carrying": "You are already carrying something in your hands.",
+  "pick-up-failed-no-permission": "You do not have permission to pick up this block",
+  "pickup-not-owner": "This dropped block belongs to another player",
+  "place-down-failed-claimed": "You do not have permission to place the carried block here",
+  "place-down-failed-notenoughspace": "Not enough clearance to place block here",
+  "unsupported-attachment": "Cannot place carried block here, attached wall sign has no support"
+}

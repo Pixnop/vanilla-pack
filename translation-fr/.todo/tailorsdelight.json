@@ -1,0 +1,12 @@
+{
+  "game:itemdesc-clothes-nadiya-waist-miner-accessories": "Provides dim light when worn.",
+  "game:tabname-ceramics": "Ceramics",
+  "game:tabname-panels": "Panels",
+  "tailorsdelight:handbook-item-down": "Down and quill pieces from bird feathers.",
+  "tailorsdelight:item-down-plain": "Down",
+  "tailorsdelight:item-ruler-veryaged": "Rotten ruler",
+  "tailorsdelight:itemdesc-down-plain": "Plucked feathers.",
+  "tailorsdelight:setting_enable_vs_recipe_patches": "Enable patching VS recipes",
+  "tailorsdelight:setting_enable_vs_recipe_patches_comment": "Patch vanilla VS recipes to use Tailor's Delight items like needles or leather?",
+  "tailorsdelight:settings_patches": "Patches"
+}

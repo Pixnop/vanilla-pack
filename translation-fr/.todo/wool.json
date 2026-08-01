@@ -1,0 +1,23 @@
+{
+  "game:handbook-leggings-game": "Knitted from very fine deer and goat wool, collected from warm underbelly fleece.",
+  "game:handbook-leggings-mohair": "Knitted from the finest white angora goat wool.",
+  "game:handbook-leggings-noble": "Knitted from expensive wool dyed pink. The latest noble fashion loved by princes and princesses alike.",
+  "game:handbook-leggings-qivuit": "Rare and expensive musk ox wool knitted into excellence.",
+  "wool:handbook-description": "Description",
+  "wool:item-clothes-lowerbody-leggings-game": "Warm hunter leggings",
+  "wool:item-clothes-lowerbody-leggings-mohair": "Warm mohair leggings",
+  "wool:item-clothes-lowerbody-leggings-noble": "Warm noble leggings",
+  "wool:item-clothes-lowerbody-leggings-qivuit": "Warm qivuit leggings",
+  "wool:item-fertilizer-organic-feather": "Feathermeal",
+  "wool:item-fertilizer-organic-fish": "Fishmeal",
+  "wool:item-fertilizer-organic-horn": "Horn shavings",
+  "wool:item-fertilizer-organic-wool": "Organic wool fertilizer",
+  "wool:itemdesc-fertilizer-organic-feather": "An organic fertilizer made from bird feathers and down.",
+  "wool:itemdesc-fertilizer-organic-fish": "An organic fertilizer made from dried fish.",
+  "wool:itemdesc-fertilizer-organic-horn": "An organic fertilizer made from animal horn.",
+  "wool:itemdesc-fertilizer-organic-wool": "Made from raw unwashed animal hair and fleece.",
+  "wool:setting_enable_gazelle_drops": "Additional gazelle drops",
+  "wool:setting_enable_gazelle_drops_comment": "Should dead gazelles drop fleece?",
+  "wool:setting_enable_soil": "Upgrade soil fertility",
+  "wool:setting_enable_soil_comment": "Can higher fertility soil be crafted with organic fertilizer?"
+}

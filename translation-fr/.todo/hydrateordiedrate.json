@@ -1,0 +1,6 @@
+{
+  "hydrateordiedrate:Config.Setting.ShowPrimingStrokes": "Show priming state when looking at hand pump.",
+  "hydrateordiedrate:Config.Setting.WellOutputInfo": "Show output info of wellspring in tooltips (both on wellspring itself as connected winches and pumps)",
+  "hydrateordiedrate:drinking": "Drinking",
+  "hydrateordiedrate:wellspring-output": "Wellspring output:"
+}

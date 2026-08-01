@@ -20,3 +20,6 @@ mods/*.zip
 # watersheds, voir stratum-local/PROVENANCE.md. Stratum est sous licence MIT.
 # Seuls les symboles de debogage restent dehors.
 stratum-local/*.pdb
+
+# Zips produits par build-translation.sh
+dist/

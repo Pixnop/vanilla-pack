@@ -1,0 +1,21 @@
+{
+  "attached-block-no-clearance": "Pas assez de place pour poser le bloc transporté avec ses pancartes murales",
+  "block-has-attached-blocks": "Impossible de poser le bloc transporté ici tant qu'il porte des pancartes",
+  "despawn-in": "Disparaît dans {0} jours",
+  "dropped-ago": "Lâché il y a {0}",
+  "dropped-block": "{0} lâché",
+  "dropped-by": "Lâché par : {0}",
+  "duration-days": "{0} j",
+  "duration-hours": "{0} h",
+  "duration-minutes": "{0} min",
+  "duration-seconds": "{0} s",
+  "entityhelp-pickup-carriedblock": "Ramasser le bloc lâché",
+  "grace-period-left": "Réservé au propriétaire : {0} restant",
+  "offline-player": "(Joueur hors ligne)",
+  "pick-up-already-carrying": "Vous transportez déjà quelque chose dans les mains.",
+  "pick-up-failed-no-permission": "Vous n'avez pas la permission de ramasser ce bloc",
+  "pickup-not-owner": "Ce bloc lâché appartient à un autre joueur",
+  "place-down-failed-claimed": "Vous n'avez pas la permission de poser le bloc transporté ici",
+  "place-down-failed-notenoughspace": "Pas assez de place pour poser le bloc ici",
+  "unsupported-attachment": "Impossible de poser le bloc ici, la pancarte murale n'a aucun support"
+}

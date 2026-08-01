@@ -224,6 +224,30 @@ un garde-fou refuse de présenter le même login à un second backend.
 de redirection. À renseigner dès que les joueurs passent par autre chose que
 localhost, sinon le client se reconnecte sur l'adresse annoncée par le backend.
 
+## Traductions françaises
+
+`translation-fr/` est un mod de contenu maison qui complète les traductions
+manquantes des mods du pack. Sans code, il se contente de fournir des `fr.json`
+que le jeu fusionne avec ceux des mods installés.
+
+```bash
+./scripts/build-translation.sh
+```
+
+Le zip atterrit dans `dist/`. Il se charge sur un serveur 1.22.6, vérifié.
+
+Sur les 20 242 chaînes anglaises du pack, 6 521 n'avaient pas d'équivalent
+français. Elles sont extraites par mod dans `translation-fr/.todo/`, à traduire
+par lots. Cinq mods en concentrent 79% : `pipeleaf`, `alchemy`, `expandedfoods`,
+`geoaddons` et `tankardsandgoblets`.
+
+Le [French Translation Pack](https://mods.vintagestory.at/show/mod/53003) du
+Mod DB ne remplace pas celui-ci, pour deux raisons. Il ne couvre que 7 des 40
+mods du serveur. Et son zip utilise des antislashes comme séparateurs : comme
+Vintage Story extrait les mods de contenu avec `Path.Combine`, l'arborescence
+`assets/` n'est jamais recréée sous Linux et les traductions ne s'appliquent
+pas. Sous Windows elles fonctionnent, le séparateur y étant valide.
+
 ## Configuration
 
 Tout se règle dans `.env` et dans les blocs `environment` de

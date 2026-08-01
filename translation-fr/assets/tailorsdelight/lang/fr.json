@@ -1,0 +1,12 @@
+{
+  "game:itemdesc-clothes-nadiya-waist-miner-accessories": "Émet une faible lumière lorsqu'il est porté.",
+  "game:tabname-ceramics": "Céramiques",
+  "game:tabname-panels": "Panneaux",
+  "tailorsdelight:handbook-item-down": "Duvet et fragments de plumes d'oiseaux.",
+  "tailorsdelight:item-down-plain": "Duvet",
+  "tailorsdelight:item-ruler-veryaged": "Règle pourrie",
+  "tailorsdelight:itemdesc-down-plain": "Plumes arrachées.",
+  "tailorsdelight:setting_enable_vs_recipe_patches": "Activer la modification des recettes de VS",
+  "tailorsdelight:setting_enable_vs_recipe_patches_comment": "Modifier les recettes d'origine de VS pour qu'elles utilisent les objets de Tailor's Delight, aiguilles ou cuir par exemple ?",
+  "tailorsdelight:settings_patches": "Modifications"
+}

@@ -53,11 +53,11 @@ reconstruis, et les zips retirés disparaissent au lieu de traîner.
 
 ## Les mods
 
-43 mods dans ton pack de départ, triés par le champ `side` de leur `modinfo.json` :
+44 mods au départ, triés par le champ `side` de leur `modinfo.json` :
 
 | side | nombre | destination |
 |---|---|---|
-| universal | 39 | serveur + client |
+| universal | 40 | serveur + client |
 | server | 1 | serveur seul (`pei`) |
 | client | 3 | client seul |
 
@@ -117,14 +117,30 @@ vide.
 ## RedirectFix, à installer côté joueurs
 
 Nimbus a besoin d'un mod client, sans quoi le jeu plante au moment d'un
-transfert entre mondes. Il n'est pas sur le Mod DB, il est publié sur
-[StratumServer/redirectfix](https://github.com/StratumServer/redirectfix).
+transfert entre mondes.
 
-Prends la [v1.0.1](https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1)
-ou plus récent, et distribue-la à tes joueurs. La v1.0.0 ne se chargeait pas :
-tout y était emballé dans un dossier `redirectfix/`, donc pas de `modinfo.json`
-à la racine de l'archive, là où le loader le cherche. La v1.0.1 est packagée en
-CI et charge correctement, vérifié sur un serveur 1.22.6.
+`redirectfix` fait partie du pack serveur, alors qu'il est marqué
+`RequiredOnClient: true` et `RequiredOnServer: false`. C'est voulu : c'est sa
+présence côté serveur qui déclenche le téléchargement automatique chez le
+client, depuis le Mod DB, à la connexion. Sans ça chaque joueur devrait
+l'installer à la main.
+
+Une réserve avant d'ouvrir aux joueurs. La release publiée sur le Mod DB est la
+1.0.0, déclarée compatible `1.22.0`, `1.22.1` et `1.22.2` seulement. Rien pour
+1.22.6. Le zip lui-même fonctionne, vérifié en le chargeant sur un serveur
+1.22.6, mais un client peut refuser une release que le Mod DB n'annonce pas
+compatible, et le joueur se retrouverait alors bloqué à la connexion au lieu de
+simplement planter au transfert.
+
+Le vrai correctif est côté Mod DB : y publier la 1.0.1 en la taguant 1.22.6.
+En attendant, teste la connexion d'un client avant d'ouvrir, et garde le lien
+de la [v1.0.1](https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1)
+sous la main pour une installation manuelle.
+
+À ne pas confondre : l'asset GitHub de la v1.0.0 était mal emballé, tout dans un
+dossier `redirectfix/` donc pas de `modinfo.json` à la racine, et ne se chargeait
+pas. Le zip hébergé sur le Mod DB, lui, est correct. La v1.0.1 est packagée en CI
+et corrige l'asset GitHub.
 
 ## Configuration
 
@@ -155,7 +171,7 @@ Story sauvegarde en s'arrêtant, il ne faut pas le tuer trop tôt.
 | Vintage Story | 1.22.6 |
 | Stratum | PR 231 `fix/world-gen-and-mod-compat` @ 7ff2709, build locale |
 | Nimbus | v0.2.0 |
-| RedirectFix | v1.0.1, côté client uniquement |
+| RedirectFix | 1.0.0 depuis le Mod DB, dans le pack serveur |
 
 La release publiée la plus proche est `v1.22.6-stratum.1-indev.1`, elle-même un
 prerelease indev. La dernière vraiment stable est `v1.22.5-stratum.1`, qui

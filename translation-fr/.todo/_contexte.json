@@ -1,0 +1,110 @@
+{
+  "aculinaryartillery": {
+    "nom": "A Culinary Artillery Experimental",
+    "description": "An armory of tools for food-based mods and modpack makers"
+  },
+  "alchemy": {
+    "nom": "Alchemy",
+    "description": "An alchemy mod that adds a couple of player enhancing potions."
+  },
+  "allclasses": {
+    "nom": "Allclasses",
+    "description": "Adds 12 new Classes,Horde of New Traits and rebalancing the system."
+  },
+  "apelanterns": {
+    "nom": "More Lanterns",
+    "description": "Adds a variety of decorative and useful lanterns"
+  },
+  "betterruins": {
+    "nom": "BetterRuins",
+    "description": "Adds a lot of structures to the worldgen over and underground.\nBuilders: Bellcross, Dampus, hřbitovník , Ifoz, Marlim, Ogdred, OnBean, Tiggetagg, Sirayne,\nPar, Quentin, StAdrian, SamGray, Tiggetagg, Vilderos, Virrnogamr, Freian, FemurSnapper,\nyapludepatte, Grendelbiter, AceGamePython, RowdyArt, Nybygget, ShikiTochi, Grue\nWriters: Blinky Dorf, Ifoz, dazedandconfused, GentleBoyHell, Joe Silent, moronwmachinegun,\nFullPlateArmor, Quilladile\nRecipes: Azriel, Pal_5000"
+  },
+  "canjewelry": {
+    "nom": "C&N Jewelry",
+    "description": "Gems and jewelry with buffs."
+  },
+  "carryon": {
+    "nom": "Carry On",
+    "description": "Adds the capability to carry various things"
+  },
+  "chiseltools": {
+    "nom": "chiseltools",
+    "description": "Quentin's Chiseling Tools'"
+  },
+  "dressmakers": {
+    "nom": "Dressmakers",
+    "description": "Craft and trade beautiful clothing items.\nRequires Tailor's Delight 2.0.0 or better, and Expanded Matter 3.3.0 or better."
+  },
+  "expandedfoods": {
+    "nom": "Expanded Foods: Core",
+    "description": "New recipes for existing food types."
+  },
+  "farseer": {
+    "nom": "Farseer",
+    "description": "Draws silhouettes of the terrain outside of your view distance"
+  },
+  "foodshelves": {
+    "nom": "FoodShelves",
+    "description": "Contains various food shelves and food storage, mainly made to be used alongside Expanded Foods."
+  },
+  "game": {
+    "nom": "game",
+    "description": "(mod de base du jeu)"
+  },
+  "hydrateordiedrate": {
+    "nom": "Hydrate Or Diedrate",
+    "description": "Adds a thirst and hot weather mechanic to the game."
+  },
+  "mycodiversity": {
+    "nom": "Mycodiversity",
+    "description": "Adds more mushrooms to the game."
+  },
+  "pipeleaf": {
+    "nom": "PipeLeaf",
+    "description": "A mod to add smoking pipe items and effect to the game."
+  },
+  "prospecttogether": {
+    "nom": "ProspectTogether",
+    "description": "Stores and displays prospecting data on the map and allows sharing data between players. Based on ProspectoInfo by P3t3rix."
+  },
+  "purposefulstorage": {
+    "nom": "PurposefulStorage",
+    "description": "Adds a variety of storage blocks designed for both aesthetic appeal and functional item organization."
+  },
+  "realsmoke": {
+    "nom": "Real Smoke",
+    "description": "Physics-based smoke"
+  },
+  "shearlib": {
+    "nom": "ShearLib",
+    "description": "Harvest items from living animals"
+  },
+  "slowtox": {
+    "nom": "SlowTox",
+    "description": "Realistic intoxication, with benefits!"
+  },
+  "substrate": {
+    "nom": "Substrate",
+    "description": "Adds a realistic way to grow mushrooms."
+  },
+  "tailorsdelight": {
+    "nom": "Tailor's Delight",
+    "description": "New tools for tailors: awls, needles, spindles & rulers. Craft and decorate with cloth, thread, leather and hide."
+  },
+  "tankardsandgoblets": {
+    "nom": "Tankards, Goblets and More!",
+    "description": "Drink in style! Adds a variety of tankards, goblets and bottles into Vintage Story."
+  },
+  "trailmod": {
+    "nom": "Natural Trail Mod Maro Update",
+    "description": "Adds dynamic evolving trail and roads. Backup your world before using!"
+  },
+  "walkingstick": {
+    "nom": "Adventurer's Walking Stick",
+    "description": "Adds various walking sticks that provide benefits to walking speed and hunger rate."
+  },
+  "wool": {
+    "nom": "Wool & More",
+    "description": "Harvest, process, trade and craft animal hair, fleece and wool."
+  }
+}

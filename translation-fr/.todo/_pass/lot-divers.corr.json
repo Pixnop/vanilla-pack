@@ -1,0 +1,303 @@
+[
+ {
+  "dom": "substrate",
+  "cle": "block-handbooktext-sporepaperprinted",
+  "avant": "Obtenu en plaçant quatre du même champignon sur du <a href=\"handbooksearch://prepared spore paper\">papier sporé préparé</a> et en attendant la fin de la collection.",
+  "apres": "Obtenu en plaçant quatre champignons identiques sur du <a href=\"handbooksearch://prepared spore paper\">papier sporé préparé</a> et en attendant la fin de la collecte.",
+  "motif": "Calque (« quatre du même champignon ») et faux-ami : « collecting » se traduit par « collecte », pas « collection »."
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-collecting-hours",
+  "avant": "<font color=\"orange\">Collection en cours.</font> {p0:Moins d'une heure|# heure|# heures} restantes",
+  "apres": "<font color=\"orange\">Collecte en cours.</font> {p0:Moins d'une heure restante|# heure restante|# heures restantes}",
+  "motif": "Faux-ami « collection »/« collecte », et accord de « restante(s) » qui doit rester au singulier pour les formes « moins d'une heure » et « # heure »."
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-collecting-progress",
+  "avant": "<font color=\"orange\">Collection en cours.</font> {0}% collectés",
+  "apres": "<font color=\"orange\">Collecte en cours.</font> {0}% collectés",
+  "motif": "Faux-ami : « collecting » se traduit par « collecte », pas « collection »."
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-colonizing-hours",
+  "avant": "<font color=\"orange\">Mycélium en colonisation.</font> {p0:Moins d'une heure|# heure|# heures} restantes",
+  "apres": "<font color=\"orange\">Mycélium en colonisation.</font> {p0:Moins d'une heure restante|# heure restante|# heures restantes}",
+  "motif": "Accord : « restantes » doit rester au singulier pour « moins d'une heure » et « # heure »."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-bluemeanie",
+  "avant": "Vilain bleu",
+  "apres": "vilain bleu",
+  "motif": "Incohérence de casse : les autres occurrences de ce champignon (empreinte, papier sporé) sont en minuscules."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-goldcap",
+  "avant": "Chapeau doré",
+  "apres": "chapeau doré",
+  "motif": "Incohérence de casse avec les autres occurrences du même champignon dans le lot."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-libertycap",
+  "avant": "Bonnet phrygien",
+  "apres": "bonnet phrygien",
+  "motif": "Incohérence de casse avec les autres occurrences du même champignon dans le lot."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-wavycap",
+  "avant": "Chapeau ondulé",
+  "apres": "chapeau ondulé",
+  "motif": "Incohérence de casse avec les autres occurrences du même champignon dans le lot."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-honeymushroom",
+  "avant": "champignon miel",
+  "apres": "armillaire couleur de miel",
+  "motif": "Le glossaire fige « Honey Mushroom » en « armillaire couleur de miel », déjà utilisé pour ce même champignon ailleurs dans le lot."
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-honeymushroom",
+  "avant": "Empreinte sporale (champignon miel)",
+  "apres": "Empreinte sporale (armillaire couleur de miel)",
+  "motif": "Terme figé au glossaire pour Honey Mushroom."
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-honeymushroom-*",
+  "avant": "Papier sporé imprégné (champignon miel)",
+  "apres": "Papier sporé imprégné (armillaire couleur de miel)",
+  "motif": "Terme figé au glossaire pour Honey Mushroom."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-earthball",
+  "avant": "vesse-de-loup",
+  "apres": "scléroderme",
+  "motif": "Earth Ball (toxique) et Puffball (comestible) sont deux champignons distincts du jeu ; les nommer tous deux « vesse-de-loup » les rend indiscernables."
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-earthball",
+  "avant": "Empreinte sporale (vesse-de-loup)",
+  "apres": "Empreinte sporale (scléroderme)",
+  "motif": "Distingue Earth Ball de Puffball, qui partageaient le même nom français."
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-earthball-*",
+  "avant": "Papier sporé imprégné (vesse-de-loup)",
+  "apres": "Papier sporé imprégné (scléroderme)",
+  "motif": "Distingue Earth Ball de Puffball, qui partageaient le même nom français."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-deathcap",
+  "avant": "amanite tue-mouche",
+  "apres": "amanite phalloïde",
+  "motif": "Contresens : « amanite tue-mouche » désigne Fly Agaric, pas Death Cap (l'amanite phalloïde), un champignon mortel distinct."
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-deathcap",
+  "avant": "Empreinte sporale (amanite tue-mouche)",
+  "apres": "Empreinte sporale (amanite phalloïde)",
+  "motif": "Death Cap = amanite phalloïde, pas amanite tue-mouche (qui est Fly Agaric)."
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-deathcap-*",
+  "avant": "Papier sporé imprégné (amanite tue-mouche)",
+  "apres": "Papier sporé imprégné (amanite phalloïde)",
+  "motif": "Death Cap = amanite phalloïde, pas amanite tue-mouche (qui est Fly Agaric)."
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-sickener",
+  "avant": "agent de maladie",
+  "apres": "russule émétique",
+  "motif": "« Sickener » est le nom anglais courant de la russule émétique ; « agent de maladie » sonne clinique et ne se lit pas comme un nom de champignon."
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-sickener",
+  "avant": "Empreinte sporale (agent de maladie)",
+  "apres": "Empreinte sporale (russule émétique)",
+  "motif": "Sickener = russule émétique, nom réel du champignon."
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-sickener-*",
+  "avant": "Papier sporé imprégné (agent de maladie)",
+  "apres": "Papier sporé imprégné (russule émétique)",
+  "motif": "Sickener = russule émétique, nom réel du champignon."
+ },
+ {
+  "dom": "substrate",
+  "cle": "notice-cannot-grow-mushroom-with-block",
+  "avant": "{0} ne peut croître que dans {1} !",
+  "apres": "{0} ne peut pousser que dans {1} !",
+  "motif": "Registre : pour un champignon, « pousser » est plus naturel que « croître », trop formel dans ce contexte."
+ },
+ {
+  "dom": "substrate",
+  "cle": "notice-no-available-grow-spots",
+  "avant": "<font color=\"orange\">Manque d'espace pour croître cause du gaspillage de fertilité !</font>",
+  "apres": "<font color=\"orange\">Le manque d'espace pour pousser entraîne un gaspillage de fertilité !</font>",
+  "motif": "Formulation calquée et peu claire ; article manquant et verbe plus naturel pour un champignon."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "grinding-process-percent",
+  "avant": "Progrès du meulage : {0}%",
+  "apres": "Progression du meulage : {0}%",
+  "motif": "Faux-ami : un pourcentage d'avancement se dit « progression », pas « progrès » (qui signifie amélioration)."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "grinding-process-stage",
+  "avant": "Étape {0} du traitement du moulin",
+  "apres": "Étape {0} du traitement de la meuleuse",
+  "motif": "« Moulin » évoque un moulin à grain ; la machine à tailler les gemmes est une meuleuse, terme déjà utilisé pour « meulage » ailleurs dans le mod."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-cannosering",
+  "avant": " bague de nez",
+  "apres": " anneau de nez",
+  "motif": "« Bague » désigne un bijou de doigt ; un piercing de nez se dit « anneau de nez »."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-pearl",
+  "avant": "Grande perle",
+  "apres": "Perle de grande taille",
+  "motif": "Incohérence : les autres pierres de rang « normal » (grande taille) suivent le modèle « [pierre] de grande taille », y compris la perle taillée équivalente."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-cauldron-bismuthbronze",
+  "avant": "Chaudron en bronze bismuth",
+  "apres": "Chaudron en bronze de bismuth",
+  "motif": "Calque : il manque la préposition, comme pour « bronze d'étain » utilisé ailleurs dans le lot."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-cauldronmini-bismuthbronze",
+  "avant": "Petit chaudron en bronze bismuth",
+  "apres": "Petit chaudron en bronze de bismuth",
+  "motif": "Même correction que pour les autres objets en bronze de bismuth du lot."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-spile-bismuthbronze-*",
+  "avant": "Robinet en bronze bismuth",
+  "apres": "Robinet en bronze de bismuth",
+  "motif": "Même correction que pour les autres objets en bronze de bismuth du lot."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-bighook-bismuthbronze",
+  "avant": "Grand crochet (bronze bismuth)",
+  "apres": "Grand crochet (bronze de bismuth)",
+  "motif": "Même correction que pour les autres objets en bronze de bismuth du lot."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-rollingpin-bismuthbronze",
+  "avant": "Rouleau à pâtisserie en bronze bismuth",
+  "apres": "Rouleau à pâtisserie en bronze de bismuth",
+  "motif": "Même correction que pour les autres objets en bronze de bismuth du lot."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktext-chefhead",
+  "avant": "Aussi connue sous le nom de <i>toque blanche</i>, ce chapeau était porté par les membres de l'ancienne Guilde des Gastronomistes pour signaler leur rang et leur neutralité politique au reste de la société. Alors que le monde tombait en ruines, la vénérable toque du Gastronomiste n'est devenue rien d'autre qu'une relique, plus jamais destinée à orner une cuisine chaleureuse. Les mains qui autrefois saisissaient des rouleaux à pâtisserie et des poêles à frire devaient plutôt manier l'épée et le bouclier pour protéger l'âtre mourant.",
+  "apres": "Aussi connu sous le nom de <i>toque blanche</i>, ce chapeau était porté par les membres de l'ancienne Guilde des Gastronomistes pour signaler leur rang et leur neutralité politique au reste de la société. Alors que le monde tombait en ruines, la vénérable toque du Gastronomiste n'est devenue rien d'autre qu'une relique, plus jamais destinée à orner une cuisine chaleureuse. Les mains qui autrefois saisissaient des rouleaux à pâtisserie et des poêles à frire devaient plutôt manier l'épée et le bouclier pour protéger l'âtre mourant.",
+  "motif": "Accord : le sujet est « ce chapeau » (masculin), pas « toque » ; il faut « connu », pas « connue »."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktext-l33tapron",
+  "avant": "Toute personne inconnue trouvée portant le tablier de coton noir des gastronomistes les plus haut placés était sévèrement punie. Pour être digne de la sombre livrée, de nombreux chefs se sont usés pendant des décennies - mais la bonne combinaison de vision et d'expérience pratique était difficile à acquérir. Des générations entières ont passé sans aucun gastronomiste d'élite. Chacun a juré un vœu envers l'ancienne <i>'Source Culinaire'</i> avant de revêtir le noir et de renoncer à leurs anciennes identités, consacrant entièrement leur vie à l'avancement de l'illumination culinaire.",
+  "apres": "Toute personne inconnue trouvée portant le tablier de coton noir des gastronomistes les plus haut placés était sévèrement punie. Pour être digne de la sombre livrée, de nombreux chefs se sont usés pendant des décennies - mais la bonne combinaison de vision et d'expérience pratique était difficile à acquérir. Des générations entières ont passé sans aucun gastronomiste d'élite. Chacun a juré un vœu envers l'ancienne <i>'Source Culinaire'</i> avant de revêtir le noir et de renoncer à son ancienne identité, consacrant entièrement leur vie à l'avancement de l'illumination culinaire.",
+  "motif": "Accord : « Chacun » est singulier, mais « leurs...identités » reprend un pluriel ; il faut « son ancienne identité »."
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-bismuthbronze",
+  "avant": "Truelle de jardin en bronze bismuth",
+  "apres": "Truelle de jardin en bronze de bismuth",
+  "motif": "Même correction que pour les autres objets en bronze de bismuth du lot (cf. « bronze d'étain »)."
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-bismuthbronze",
+  "avant": "Tête de truelle en bronze bismuth",
+  "apres": "Tête de truelle en bronze de bismuth",
+  "motif": "Même correction que pour les autres objets en bronze de bismuth du lot."
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.OverintoxicationThreshold",
+  "avant": "Seuil au-delà duquel l'intoxication cause des dégâts au soi",
+  "apres": "Seuil au-delà duquel l'intoxication inflige des dégâts au joueur",
+  "motif": "Calque : « dégâts au soi » n'est pas une tournure française correcte."
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-necklacestand-*",
+  "avant": "Support de collier",
+  "apres": "Support de colliers",
+  "motif": "Incohérence : le descriptif du même objet (helddesc-necklacestand) et tous les autres présentoirs du mod utilisent le pluriel."
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-butterflydisplaypanel",
+  "avant": "Affiche vos papillons !",
+  "apres": "Affichez vos papillons !",
+  "motif": "Conjugaison : toutes les autres consignes à l'impératif de ce mod vouvoient (Stockez, Affichez, Libérez...)."
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-gloverack",
+  "avant": "Peut contenir la plupart des gants, des bracards et des bracelets !",
+  "apres": "Peut contenir la plupart des gants, des brassards et des bracelets !",
+  "motif": "« Bracard » n'existe pas en français ; il s'agit de brassards (protège-avant-bras)."
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-resourcebin",
+  "avant": "Peut contenir de l'herbe sèche et de la paille, des bâtons, des pierres, du charbon/quartz, de la ficelle de lin/fibres, de la tourbe, du compost, des morceaux de minerai, des pépites et des bits, et la plupart des trucs poudreusement !",
+  "apres": "Peut contenir de l'herbe sèche et de la paille, des bâtons, des pierres, du charbon/quartz, de la ficelle de lin/fibres, de la tourbe, du compost, des morceaux de minerai, des pépites et des éclats, et la plupart des trucs poudreux !",
+  "motif": "Mot anglais oublié (« bits ») et adverbe utilisé à la place d'un adjectif (« poudreusement » pour « poudreux »)."
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-wardrobe",
+  "avant": "Peut contenir la plupart des types de vêtements de taille haute et basse, ainsi que la plupart des chaussures !",
+  "apres": "Peut contenir la plupart des types de vêtements du haut et du bas du corps, ainsi que la plupart des chaussures !",
+  "motif": "Contresens : « upperbody/lowerbody clothes » désigne les vêtements du haut et du bas du corps, pas une taille de vêtement (« taille haute »)."
+ },
+ {
+  "dom": "wool",
+  "cle": "game:handbook-leggings-qivuit",
+  "avant": "Laine rare et chère de boeuf musqué tricotée à la perfection.",
+  "apres": "Laine rare et chère de bœuf musqué tricotée à la perfection.",
+  "motif": "Orthographe : « bœuf » s'écrit avec la ligature œ (cf. « langue-de-bœuf » ailleurs dans le lot)."
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:setting_enable_gazelle_drops",
+  "avant": "Drops supplémentaires de gazelle",
+  "apres": "Butin supplémentaire de gazelle",
+  "motif": "Mot anglais laissé tel quel (« drops ») ; le glossaire fixe déjà « loot » en « butin »."
+ }
+]

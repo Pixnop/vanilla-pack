@@ -1,0 +1,2312 @@
+[
+  {
+    "dom": "pipeleaf",
+    "cle": "effect-hungerrate-buff",
+    "avant": "Votre appétit est supprimé.",
+    "apres": "Votre appétit est coupé.",
+    "motif": "Registre : tournure clinique calquée sur l'anglais, l'expression idiomatique française est « avoir l'appétit coupé »."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "game:block-flower-treeheath-free",
+    "avant": "Bruyère d'arbre",
+    "apres": "Bruyère arborescente",
+    "motif": "Nom de plante incorrect : « Tree Heath » (Erica arborea) se traduit par le nom français usuel « bruyère arborescente », pas par un calque littéral."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:effect-ready",
+    "avant": "Réduction du temps d'attente de l'effet prêt.",
+    "apres": "Recharge de l'effet terminée.",
+    "motif": "Faute de syntaxe : la traduction littérale de « cooldown ready » ne formait pas une phrase française correcte."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:effect_cooldown",
+    "avant": "Réduction du temps d'attente : {0}s",
+    "apres": "Recharge de l'effet : {0}s",
+    "motif": "Incohérence interne : « cooldown » traduit différemment d'une entrée à l'autre (« réduction du temps d'attente » vs « recharge »), harmonisé."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-arnica",
+    "avant": "Mélange Angelica-Arnica",
+    "apres": "Mélange Angélique-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-catmint",
+    "avant": "Mélange Angelica-Catmint",
+    "apres": "Mélange Angélique-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-chamomile",
+    "avant": "Mélange Angelica-Chamomile",
+    "apres": "Mélange Angélique-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-chicory",
+    "avant": "Mélange Angelica-Chicory",
+    "apres": "Mélange Angélique-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-cornflower",
+    "avant": "Mélange Angelica-Cornflower",
+    "apres": "Mélange Angélique-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-edelweiss",
+    "avant": "Mélange Angelica-Edelweiss",
+    "apres": "Mélange Angélique-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-ginseng",
+    "avant": "Mélange Angelica-Ginseng",
+    "apres": "Mélange Angélique-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-goldenpoppy",
+    "avant": "Mélange Angelica-Goldenpoppy",
+    "apres": "Mélange Angélique-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-horehound",
+    "avant": "Mélange Angelica-Horehound",
+    "apres": "Mélange Angélique-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-lavender",
+    "avant": "Mélange Angelica-Lavender",
+    "apres": "Mélange Angélique-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-marigold",
+    "avant": "Mélange Angelica-Marigold",
+    "apres": "Mélange Angélique-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-marjoram",
+    "avant": "Mélange Angelica-Marjoram",
+    "apres": "Mélange Angélique-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-marshmallow",
+    "avant": "Mélange Angelica-Marshmallow",
+    "apres": "Mélange Angélique-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-mint",
+    "avant": "Mélange Angelica-Mint",
+    "apres": "Mélange Angélique-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-mugwort",
+    "avant": "Mélange Angelica-Mugwort",
+    "apres": "Mélange Angélique-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-orangemallow",
+    "avant": "Mélange Angelica-Orangemallow",
+    "apres": "Mélange Angélique-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-poisonoak",
+    "avant": "Mélange Angelica-Poisonoak",
+    "apres": "Mélange Angélique-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-rosemary",
+    "avant": "Mélange Angelica-Rosemary",
+    "apres": "Mélange Angélique-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-saffron",
+    "avant": "Mélange Angelica-Saffron",
+    "apres": "Mélange Angélique-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-sage",
+    "avant": "Mélange Angelica-Sage",
+    "apres": "Mélange Angélique-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-stingingnettle",
+    "avant": "Mélange Angelica-Stingingnettle",
+    "apres": "Mélange Angélique-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-stjohnswort",
+    "avant": "Mélange Angelica-Stjohnswort",
+    "apres": "Mélange Angélique-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-thyme",
+    "avant": "Mélange Angelica-Thyme",
+    "apres": "Mélange Angélique-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-angelica-yarrow",
+    "avant": "Mélange Angelica-Yarrow",
+    "apres": "Mélange Angélique-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-angelica",
+    "avant": "Mélange Arnica-Angelica",
+    "apres": "Mélange Arnica-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-catmint",
+    "avant": "Mélange Arnica-Catmint",
+    "apres": "Mélange Arnica-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-chamomile",
+    "avant": "Mélange Arnica-Chamomile",
+    "apres": "Mélange Arnica-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-chicory",
+    "avant": "Mélange Arnica-Chicory",
+    "apres": "Mélange Arnica-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-cornflower",
+    "avant": "Mélange Arnica-Cornflower",
+    "apres": "Mélange Arnica-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-goldenpoppy",
+    "avant": "Mélange Arnica-Goldenpoppy",
+    "apres": "Mélange Arnica-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-horehound",
+    "avant": "Mélange Arnica-Horehound",
+    "apres": "Mélange Arnica-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-lavender",
+    "avant": "Mélange Arnica-Lavender",
+    "apres": "Mélange Arnica-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-marigold",
+    "avant": "Mélange Arnica-Marigold",
+    "apres": "Mélange Arnica-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-marjoram",
+    "avant": "Mélange Arnica-Marjoram",
+    "apres": "Mélange Arnica-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-marshmallow",
+    "avant": "Mélange Arnica-Marshmallow",
+    "apres": "Mélange Arnica-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-mint",
+    "avant": "Mélange Arnica-Mint",
+    "apres": "Mélange Arnica-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-mugwort",
+    "avant": "Mélange Arnica-Mugwort",
+    "apres": "Mélange Arnica-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-orangemallow",
+    "avant": "Mélange Arnica-Orangemallow",
+    "apres": "Mélange Arnica-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-poisonoak",
+    "avant": "Mélange Arnica-Poisonoak",
+    "apres": "Mélange Arnica-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-rosemary",
+    "avant": "Mélange Arnica-Rosemary",
+    "apres": "Mélange Arnica-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-saffron",
+    "avant": "Mélange Arnica-Saffron",
+    "apres": "Mélange Arnica-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-sage",
+    "avant": "Mélange Arnica-Sage",
+    "apres": "Mélange Arnica-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-stingingnettle",
+    "avant": "Mélange Arnica-Stingingnettle",
+    "apres": "Mélange Arnica-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-stjohnswort",
+    "avant": "Mélange Arnica-Stjohnswort",
+    "apres": "Mélange Arnica-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-thyme",
+    "avant": "Mélange Arnica-Thyme",
+    "apres": "Mélange Arnica-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-arnica-yarrow",
+    "avant": "Mélange Arnica-Yarrow",
+    "apres": "Mélange Arnica-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-angelica",
+    "avant": "Mélange Catmint-Angelica",
+    "apres": "Mélange Cataire-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-arnica",
+    "avant": "Mélange Catmint-Arnica",
+    "apres": "Mélange Cataire-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-chamomile",
+    "avant": "Mélange Catmint-Chamomile",
+    "apres": "Mélange Cataire-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-chicory",
+    "avant": "Mélange Catmint-Chicory",
+    "apres": "Mélange Cataire-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-cornflower",
+    "avant": "Mélange Catmint-Cornflower",
+    "apres": "Mélange Cataire-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-edelweiss",
+    "avant": "Mélange Catmint-Edelweiss",
+    "apres": "Mélange Cataire-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-ginseng",
+    "avant": "Mélange Catmint-Ginseng",
+    "apres": "Mélange Cataire-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-horehound",
+    "avant": "Mélange Catmint-Horehound",
+    "apres": "Mélange Cataire-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-lavender",
+    "avant": "Mélange Catmint-Lavender",
+    "apres": "Mélange Cataire-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-marigold",
+    "avant": "Mélange Catmint-Marigold",
+    "apres": "Mélange Cataire-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-marjoram",
+    "avant": "Mélange Catmint-Marjoram",
+    "apres": "Mélange Cataire-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-marshmallow",
+    "avant": "Mélange Catmint-Marshmallow",
+    "apres": "Mélange Cataire-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-mint",
+    "avant": "Mélange Catmint-Mint",
+    "apres": "Mélange Cataire-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-mugwort",
+    "avant": "Mélange Catmint-Mugwort",
+    "apres": "Mélange Cataire-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-rosemary",
+    "avant": "Mélange Catmint-Rosemary",
+    "apres": "Mélange Cataire-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-saffron",
+    "avant": "Mélange Catmint-Saffron",
+    "apres": "Mélange Cataire-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-stingingnettle",
+    "avant": "Mélange Catmint-Stingingnettle",
+    "apres": "Mélange Cataire-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-stjohnswort",
+    "avant": "Mélange Catmint-Stjohnswort",
+    "apres": "Mélange Cataire-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-thyme",
+    "avant": "Mélange Catmint-Thyme",
+    "apres": "Mélange Cataire-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-catmint-yarrow",
+    "avant": "Mélange Catmint-Yarrow",
+    "apres": "Mélange Cataire-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-angelica",
+    "avant": "Mélange Chamomile-Angelica",
+    "apres": "Mélange Camomille-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-arnica",
+    "avant": "Mélange Chamomile-Arnica",
+    "apres": "Mélange Camomille-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-catmint",
+    "avant": "Mélange Chamomile-Catmint",
+    "apres": "Mélange Camomille-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-chicory",
+    "avant": "Mélange Chamomile-Chicory",
+    "apres": "Mélange Camomille-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-cornflower",
+    "avant": "Mélange Chamomile-Cornflower",
+    "apres": "Mélange Camomille-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-edelweiss",
+    "avant": "Mélange Chamomile-Edelweiss",
+    "apres": "Mélange Camomille-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-ginseng",
+    "avant": "Mélange Chamomile-Ginseng",
+    "apres": "Mélange Camomille-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-goldenpoppy",
+    "avant": "Mélange Chamomile-Goldenpoppy",
+    "apres": "Mélange Camomille-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-horehound",
+    "avant": "Mélange Chamomile-Horehound",
+    "apres": "Mélange Camomille-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-lavender",
+    "avant": "Mélange Chamomile-Lavender",
+    "apres": "Mélange Camomille-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-marigold",
+    "avant": "Mélange Chamomile-Marigold",
+    "apres": "Mélange Camomille-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-marshmallow",
+    "avant": "Mélange Chamomile-Marshmallow",
+    "apres": "Mélange Camomille-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-mint",
+    "avant": "Mélange Chamomile-Mint",
+    "apres": "Mélange Camomille-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-mugwort",
+    "avant": "Mélange Chamomile-Mugwort",
+    "apres": "Mélange Camomille-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-orangemallow",
+    "avant": "Mélange Chamomile-Orangemallow",
+    "apres": "Mélange Camomille-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-poisonoak",
+    "avant": "Mélange Chamomile-Poisonoak",
+    "apres": "Mélange Camomille-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-rosemary",
+    "avant": "Mélange Chamomile-Rosemary",
+    "apres": "Mélange Camomille-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-saffron",
+    "avant": "Mélange Chamomile-Saffron",
+    "apres": "Mélange Camomille-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-sage",
+    "avant": "Mélange Chamomile-Sage",
+    "apres": "Mélange Camomille-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-stingingnettle",
+    "avant": "Mélange Chamomile-Stingingnettle",
+    "apres": "Mélange Camomille-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-stjohnswort",
+    "avant": "Mélange Chamomile-Stjohnswort",
+    "apres": "Mélange Camomille-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-thyme",
+    "avant": "Mélange Chamomile-Thyme",
+    "apres": "Mélange Camomille-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chamomile-yarrow",
+    "avant": "Mélange Chamomile-Yarrow",
+    "apres": "Mélange Camomille-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-angelica",
+    "avant": "Mélange Chicory-Angelica",
+    "apres": "Mélange Chicorée-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-arnica",
+    "avant": "Mélange Chicory-Arnica",
+    "apres": "Mélange Chicorée-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-catmint",
+    "avant": "Mélange Chicory-Catmint",
+    "apres": "Mélange Chicorée-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-chamomile",
+    "avant": "Mélange Chicory-Chamomile",
+    "apres": "Mélange Chicorée-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-cornflower",
+    "avant": "Mélange Chicory-Cornflower",
+    "apres": "Mélange Chicorée-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-edelweiss",
+    "avant": "Mélange Chicory-Edelweiss",
+    "apres": "Mélange Chicorée-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-ginseng",
+    "avant": "Mélange Chicory-Ginseng",
+    "apres": "Mélange Chicorée-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-goldenpoppy",
+    "avant": "Mélange Chicory-Goldenpoppy",
+    "apres": "Mélange Chicorée-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-horehound",
+    "avant": "Mélange Chicory-Horehound",
+    "apres": "Mélange Chicorée-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-lavender",
+    "avant": "Mélange Chicory-Lavender",
+    "apres": "Mélange Chicorée-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-marigold",
+    "avant": "Mélange Chicory-Marigold",
+    "apres": "Mélange Chicorée-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-marjoram",
+    "avant": "Mélange Chicory-Marjoram",
+    "apres": "Mélange Chicorée-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-marshmallow",
+    "avant": "Mélange Chicory-Marshmallow",
+    "apres": "Mélange Chicorée-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-mint",
+    "avant": "Mélange Chicory-Mint",
+    "apres": "Mélange Chicorée-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-mugwort",
+    "avant": "Mélange Chicory-Mugwort",
+    "apres": "Mélange Chicorée-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-orangemallow",
+    "avant": "Mélange Chicory-Orangemallow",
+    "apres": "Mélange Chicorée-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-poisonoak",
+    "avant": "Mélange Chicory-Poisonoak",
+    "apres": "Mélange Chicorée-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-rosemary",
+    "avant": "Mélange Chicory-Rosemary",
+    "apres": "Mélange Chicorée-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-saffron",
+    "avant": "Mélange Chicory-Saffron",
+    "apres": "Mélange Chicorée-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-sage",
+    "avant": "Mélange Chicory-Sage",
+    "apres": "Mélange Chicorée-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-stingingnettle",
+    "avant": "Mélange Chicory-Stingingnettle",
+    "apres": "Mélange Chicorée-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-stjohnswort",
+    "avant": "Mélange Chicory-Stjohnswort",
+    "apres": "Mélange Chicorée-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-thyme",
+    "avant": "Mélange Chicory-Thyme",
+    "apres": "Mélange Chicorée-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-chicory-yarrow",
+    "avant": "Mélange Chicory-Yarrow",
+    "apres": "Mélange Chicorée-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-angelica",
+    "avant": "Mélange Cornflower-Angelica",
+    "apres": "Mélange Bleuet-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-arnica",
+    "avant": "Mélange Cornflower-Arnica",
+    "apres": "Mélange Bleuet-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-catmint",
+    "avant": "Mélange Cornflower-Catmint",
+    "apres": "Mélange Bleuet-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-chamomile",
+    "avant": "Mélange Cornflower-Chamomile",
+    "apres": "Mélange Bleuet-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-chicory",
+    "avant": "Mélange Cornflower-Chicory",
+    "apres": "Mélange Bleuet-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-ginseng",
+    "avant": "Mélange Cornflower-Ginseng",
+    "apres": "Mélange Bleuet-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-goldenpoppy",
+    "avant": "Mélange Cornflower-Goldenpoppy",
+    "apres": "Mélange Bleuet-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-horehound",
+    "avant": "Mélange Cornflower-Horehound",
+    "apres": "Mélange Bleuet-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-lavender",
+    "avant": "Mélange Cornflower-Lavender",
+    "apres": "Mélange Bleuet-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-marigold",
+    "avant": "Mélange Cornflower-Marigold",
+    "apres": "Mélange Bleuet-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-marjoram",
+    "avant": "Mélange Cornflower-Marjoram",
+    "apres": "Mélange Bleuet-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-marshmallow",
+    "avant": "Mélange Cornflower-Marshmallow",
+    "apres": "Mélange Bleuet-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-mint",
+    "avant": "Mélange Cornflower-Mint",
+    "apres": "Mélange Bleuet-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-mugwort",
+    "avant": "Mélange Cornflower-Mugwort",
+    "apres": "Mélange Bleuet-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-poisonoak",
+    "avant": "Mélange Cornflower-Poisonoak",
+    "apres": "Mélange Bleuet-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-rosemary",
+    "avant": "Mélange Cornflower-Rosemary",
+    "apres": "Mélange Bleuet-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-saffron",
+    "avant": "Mélange Cornflower-Saffron",
+    "apres": "Mélange Bleuet-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-sage",
+    "avant": "Mélange Cornflower-Sage",
+    "apres": "Mélange Bleuet-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-stingingnettle",
+    "avant": "Mélange Cornflower-Stingingnettle",
+    "apres": "Mélange Bleuet-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-stjohnswort",
+    "avant": "Mélange Cornflower-Stjohnswort",
+    "apres": "Mélange Bleuet-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-thyme",
+    "avant": "Mélange Cornflower-Thyme",
+    "apres": "Mélange Bleuet-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-cornflower-yarrow",
+    "avant": "Mélange Cornflower-Yarrow",
+    "apres": "Mélange Bleuet-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-angelica",
+    "avant": "Mélange Edelweiss-Angelica",
+    "apres": "Mélange Edelweiss-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-catmint",
+    "avant": "Mélange Edelweiss-Catmint",
+    "apres": "Mélange Edelweiss-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-chamomile",
+    "avant": "Mélange Edelweiss-Chamomile",
+    "apres": "Mélange Edelweiss-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-chicory",
+    "avant": "Mélange Edelweiss-Chicory",
+    "apres": "Mélange Edelweiss-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-horehound",
+    "avant": "Mélange Edelweiss-Horehound",
+    "apres": "Mélange Edelweiss-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-lavender",
+    "avant": "Mélange Edelweiss-Lavender",
+    "apres": "Mélange Edelweiss-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-marigold",
+    "avant": "Mélange Edelweiss-Marigold",
+    "apres": "Mélange Edelweiss-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-marjoram",
+    "avant": "Mélange Edelweiss-Marjoram",
+    "apres": "Mélange Edelweiss-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-marshmallow",
+    "avant": "Mélange Edelweiss-Marshmallow",
+    "apres": "Mélange Edelweiss-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-mint",
+    "avant": "Mélange Edelweiss-Mint",
+    "apres": "Mélange Edelweiss-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-mugwort",
+    "avant": "Mélange Edelweiss-Mugwort",
+    "apres": "Mélange Edelweiss-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-poisonoak",
+    "avant": "Mélange Edelweiss-Poisonoak",
+    "apres": "Mélange Edelweiss-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-rosemary",
+    "avant": "Mélange Edelweiss-Rosemary",
+    "apres": "Mélange Edelweiss-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-saffron",
+    "avant": "Mélange Edelweiss-Saffron",
+    "apres": "Mélange Edelweiss-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-stingingnettle",
+    "avant": "Mélange Edelweiss-Stingingnettle",
+    "apres": "Mélange Edelweiss-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-stjohnswort",
+    "avant": "Mélange Edelweiss-Stjohnswort",
+    "apres": "Mélange Edelweiss-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-thyme",
+    "avant": "Mélange Edelweiss-Thyme",
+    "apres": "Mélange Edelweiss-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-edelweiss-yarrow",
+    "avant": "Mélange Edelweiss-Yarrow",
+    "apres": "Mélange Edelweiss-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-angelica",
+    "avant": "Mélange Ginseng-Angelica",
+    "apres": "Mélange Ginseng-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-catmint",
+    "avant": "Mélange Ginseng-Catmint",
+    "apres": "Mélange Ginseng-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-chamomile",
+    "avant": "Mélange Ginseng-Chamomile",
+    "apres": "Mélange Ginseng-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-chicory",
+    "avant": "Mélange Ginseng-Chicory",
+    "apres": "Mélange Ginseng-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-cornflower",
+    "avant": "Mélange Ginseng-Cornflower",
+    "apres": "Mélange Ginseng-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-goldenpoppy",
+    "avant": "Mélange Ginseng-Goldenpoppy",
+    "apres": "Mélange Ginseng-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-horehound",
+    "avant": "Mélange Ginseng-Horehound",
+    "apres": "Mélange Ginseng-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-lavender",
+    "avant": "Mélange Ginseng-Lavender",
+    "apres": "Mélange Ginseng-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-marigold",
+    "avant": "Mélange Ginseng-Marigold",
+    "apres": "Mélange Ginseng-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-curedblend-ginseng-marjoram",
+    "avant": "Mélange Ginseng-Marjoram",
+    "apres": "Mélange Ginseng-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-arnica",
+    "avant": "Mélange Angelica-Arnica",
+    "apres": "Mélange Angélique-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-catmint",
+    "avant": "Mélange Angelica-Catmint",
+    "apres": "Mélange Angélique-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-chamomile",
+    "avant": "Mélange Angelica-Chamomile",
+    "apres": "Mélange Angélique-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-chicory",
+    "avant": "Mélange Angelica-Chicory",
+    "apres": "Mélange Angélique-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-cornflower",
+    "avant": "Mélange Angelica-Cornflower",
+    "apres": "Mélange Angélique-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-edelweiss",
+    "avant": "Mélange Angelica-Edelweiss",
+    "apres": "Mélange Angélique-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-ginseng",
+    "avant": "Mélange Angelica-Ginseng",
+    "apres": "Mélange Angélique-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-goldenpoppy",
+    "avant": "Mélange Angelica-Goldenpoppy",
+    "apres": "Mélange Angélique-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-horehound",
+    "avant": "Mélange Angelica-Horehound",
+    "apres": "Mélange Angélique-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-lavender",
+    "avant": "Mélange Angelica-Lavender",
+    "apres": "Mélange Angélique-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-marigold",
+    "avant": "Mélange Angelica-Marigold",
+    "apres": "Mélange Angélique-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-marjoram",
+    "avant": "Mélange Angelica-Marjoram",
+    "apres": "Mélange Angélique-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-marshmallow",
+    "avant": "Mélange Angelica-Marshmallow",
+    "apres": "Mélange Angélique-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-mint",
+    "avant": "Mélange Angelica-Mint",
+    "apres": "Mélange Angélique-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-mugwort",
+    "avant": "Mélange Angelica-Mugwort",
+    "apres": "Mélange Angélique-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-orangemallow",
+    "avant": "Mélange Angelica-Orangemallow",
+    "apres": "Mélange Angélique-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-poisonoak",
+    "avant": "Mélange Angelica-Poisonoak",
+    "apres": "Mélange Angélique-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-rosemary",
+    "avant": "Mélange Angelica-Rosemary",
+    "apres": "Mélange Angélique-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-saffron",
+    "avant": "Mélange Angelica-Saffron",
+    "apres": "Mélange Angélique-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-sage",
+    "avant": "Mélange Angelica-Sage",
+    "apres": "Mélange Angélique-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-stingingnettle",
+    "avant": "Mélange Angelica-Stingingnettle",
+    "apres": "Mélange Angélique-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-stjohnswort",
+    "avant": "Mélange Angelica-Stjohnswort",
+    "apres": "Mélange Angélique-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-thyme",
+    "avant": "Mélange Angelica-Thyme",
+    "apres": "Mélange Angélique-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-angelica-yarrow",
+    "avant": "Mélange Angelica-Yarrow",
+    "apres": "Mélange Angélique-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-angelica",
+    "avant": "Mélange Arnica-Angelica",
+    "apres": "Mélange Arnica-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-catmint",
+    "avant": "Mélange Arnica-Catmint",
+    "apres": "Mélange Arnica-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-chamomile",
+    "avant": "Mélange Arnica-Chamomile",
+    "apres": "Mélange Arnica-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-chicory",
+    "avant": "Mélange Arnica-Chicory",
+    "apres": "Mélange Arnica-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-cornflower",
+    "avant": "Mélange Arnica-Cornflower",
+    "apres": "Mélange Arnica-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-goldenpoppy",
+    "avant": "Mélange Arnica-Goldenpoppy",
+    "apres": "Mélange Arnica-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-horehound",
+    "avant": "Mélange Arnica-Horehound",
+    "apres": "Mélange Arnica-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-lavender",
+    "avant": "Mélange Arnica-Lavender",
+    "apres": "Mélange Arnica-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-marigold",
+    "avant": "Mélange Arnica-Marigold",
+    "apres": "Mélange Arnica-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-marjoram",
+    "avant": "Mélange Arnica-Marjoram",
+    "apres": "Mélange Arnica-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-marshmallow",
+    "avant": "Mélange Arnica-Marshmallow",
+    "apres": "Mélange Arnica-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-mint",
+    "avant": "Mélange Arnica-Mint",
+    "apres": "Mélange Arnica-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-mugwort",
+    "avant": "Mélange Arnica-Mugwort",
+    "apres": "Mélange Arnica-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-orangemallow",
+    "avant": "Mélange Arnica-Orangemallow",
+    "apres": "Mélange Arnica-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-poisonoak",
+    "avant": "Mélange Arnica-Poisonoak",
+    "apres": "Mélange Arnica-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-rosemary",
+    "avant": "Mélange Arnica-Rosemary",
+    "apres": "Mélange Arnica-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-saffron",
+    "avant": "Mélange Arnica-Saffron",
+    "apres": "Mélange Arnica-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-sage",
+    "avant": "Mélange Arnica-Sage",
+    "apres": "Mélange Arnica-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-stingingnettle",
+    "avant": "Mélange Arnica-Stingingnettle",
+    "apres": "Mélange Arnica-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-stjohnswort",
+    "avant": "Mélange Arnica-Stjohnswort",
+    "apres": "Mélange Arnica-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-thyme",
+    "avant": "Mélange Arnica-Thyme",
+    "apres": "Mélange Arnica-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-arnica-yarrow",
+    "avant": "Mélange Arnica-Yarrow",
+    "apres": "Mélange Arnica-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-angelica",
+    "avant": "Mélange Catmint-Angelica",
+    "apres": "Mélange Cataire-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-arnica",
+    "avant": "Mélange Catmint-Arnica",
+    "apres": "Mélange Cataire-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-chamomile",
+    "avant": "Mélange Catmint-Chamomile",
+    "apres": "Mélange Cataire-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-chicory",
+    "avant": "Mélange Catmint-Chicory",
+    "apres": "Mélange Cataire-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-cornflower",
+    "avant": "Mélange Catmint-Cornflower",
+    "apres": "Mélange Cataire-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-edelweiss",
+    "avant": "Mélange Catmint-Edelweiss",
+    "apres": "Mélange Cataire-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-ginseng",
+    "avant": "Mélange Catmint-Ginseng",
+    "apres": "Mélange Cataire-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-horehound",
+    "avant": "Mélange Catmint-Horehound",
+    "apres": "Mélange Cataire-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-lavender",
+    "avant": "Mélange Catmint-Lavender",
+    "apres": "Mélange Cataire-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-marigold",
+    "avant": "Mélange Catmint-Marigold",
+    "apres": "Mélange Cataire-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-marjoram",
+    "avant": "Mélange Catmint-Marjoram",
+    "apres": "Mélange Cataire-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-marshmallow",
+    "avant": "Mélange Catmint-Marshmallow",
+    "apres": "Mélange Cataire-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-mint",
+    "avant": "Mélange Catmint-Mint",
+    "apres": "Mélange Cataire-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-mugwort",
+    "avant": "Mélange Catmint-Mugwort",
+    "apres": "Mélange Cataire-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-rosemary",
+    "avant": "Mélange Catmint-Rosemary",
+    "apres": "Mélange Cataire-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-saffron",
+    "avant": "Mélange Catmint-Saffron",
+    "apres": "Mélange Cataire-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-stingingnettle",
+    "avant": "Mélange Catmint-Stingingnettle",
+    "apres": "Mélange Cataire-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-stjohnswort",
+    "avant": "Mélange Catmint-Stjohnswort",
+    "apres": "Mélange Cataire-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-thyme",
+    "avant": "Mélange Catmint-Thyme",
+    "apres": "Mélange Cataire-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-catmint-yarrow",
+    "avant": "Mélange Catmint-Yarrow",
+    "apres": "Mélange Cataire-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-angelica",
+    "avant": "Mélange Chamomile-Angelica",
+    "apres": "Mélange Camomille-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-arnica",
+    "avant": "Mélange Chamomile-Arnica",
+    "apres": "Mélange Camomille-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-catmint",
+    "avant": "Mélange Chamomile-Catmint",
+    "apres": "Mélange Camomille-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-chicory",
+    "avant": "Mélange Chamomile-Chicory",
+    "apres": "Mélange Camomille-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-cornflower",
+    "avant": "Mélange Chamomile-Cornflower",
+    "apres": "Mélange Camomille-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-edelweiss",
+    "avant": "Mélange Chamomile-Edelweiss",
+    "apres": "Mélange Camomille-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-ginseng",
+    "avant": "Mélange Chamomile-Ginseng",
+    "apres": "Mélange Camomille-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-goldenpoppy",
+    "avant": "Mélange Chamomile-Goldenpoppy",
+    "apres": "Mélange Camomille-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-horehound",
+    "avant": "Mélange Chamomile-Horehound",
+    "apres": "Mélange Camomille-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-lavender",
+    "avant": "Mélange Chamomile-Lavender",
+    "apres": "Mélange Camomille-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-marigold",
+    "avant": "Mélange Chamomile-Marigold",
+    "apres": "Mélange Camomille-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-marshmallow",
+    "avant": "Mélange Chamomile-Marshmallow",
+    "apres": "Mélange Camomille-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-mint",
+    "avant": "Mélange Chamomile-Mint",
+    "apres": "Mélange Camomille-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-mugwort",
+    "avant": "Mélange Chamomile-Mugwort",
+    "apres": "Mélange Camomille-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-orangemallow",
+    "avant": "Mélange Chamomile-Orangemallow",
+    "apres": "Mélange Camomille-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-poisonoak",
+    "avant": "Mélange Chamomile-Poisonoak",
+    "apres": "Mélange Camomille-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-rosemary",
+    "avant": "Mélange Chamomile-Rosemary",
+    "apres": "Mélange Camomille-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-saffron",
+    "avant": "Mélange Chamomile-Saffron",
+    "apres": "Mélange Camomille-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-sage",
+    "avant": "Mélange Chamomile-Sage",
+    "apres": "Mélange Camomille-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-stingingnettle",
+    "avant": "Mélange Chamomile-Stingingnettle",
+    "apres": "Mélange Camomille-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-stjohnswort",
+    "avant": "Mélange Chamomile-Stjohnswort",
+    "apres": "Mélange Camomille-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-thyme",
+    "avant": "Mélange Chamomile-Thyme",
+    "apres": "Mélange Camomille-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chamomile-yarrow",
+    "avant": "Mélange Chamomile-Yarrow",
+    "apres": "Mélange Camomille-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-angelica",
+    "avant": "Mélange Chicory-Angelica",
+    "apres": "Mélange Chicorée-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-arnica",
+    "avant": "Mélange Chicory-Arnica",
+    "apres": "Mélange Chicorée-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-catmint",
+    "avant": "Mélange Chicory-Catmint",
+    "apres": "Mélange Chicorée-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-chamomile",
+    "avant": "Mélange Chicory-Chamomile",
+    "apres": "Mélange Chicorée-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-cornflower",
+    "avant": "Mélange Chicory-Cornflower",
+    "apres": "Mélange Chicorée-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-edelweiss",
+    "avant": "Mélange Chicory-Edelweiss",
+    "apres": "Mélange Chicorée-Edelweiss",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-ginseng",
+    "avant": "Mélange Chicory-Ginseng",
+    "apres": "Mélange Chicorée-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-goldenpoppy",
+    "avant": "Mélange Chicory-Goldenpoppy",
+    "apres": "Mélange Chicorée-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-horehound",
+    "avant": "Mélange Chicory-Horehound",
+    "apres": "Mélange Chicorée-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-lavender",
+    "avant": "Mélange Chicory-Lavender",
+    "apres": "Mélange Chicorée-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-marigold",
+    "avant": "Mélange Chicory-Marigold",
+    "apres": "Mélange Chicorée-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-marjoram",
+    "avant": "Mélange Chicory-Marjoram",
+    "apres": "Mélange Chicorée-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-marshmallow",
+    "avant": "Mélange Chicory-Marshmallow",
+    "apres": "Mélange Chicorée-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-mint",
+    "avant": "Mélange Chicory-Mint",
+    "apres": "Mélange Chicorée-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-mugwort",
+    "avant": "Mélange Chicory-Mugwort",
+    "apres": "Mélange Chicorée-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-orangemallow",
+    "avant": "Mélange Chicory-Orangemallow",
+    "apres": "Mélange Chicorée-Mauve orange",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-poisonoak",
+    "avant": "Mélange Chicory-Poisonoak",
+    "apres": "Mélange Chicorée-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-rosemary",
+    "avant": "Mélange Chicory-Rosemary",
+    "apres": "Mélange Chicorée-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-saffron",
+    "avant": "Mélange Chicory-Saffron",
+    "apres": "Mélange Chicorée-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-sage",
+    "avant": "Mélange Chicory-Sage",
+    "apres": "Mélange Chicorée-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-stingingnettle",
+    "avant": "Mélange Chicory-Stingingnettle",
+    "apres": "Mélange Chicorée-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-stjohnswort",
+    "avant": "Mélange Chicory-Stjohnswort",
+    "apres": "Mélange Chicorée-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-thyme",
+    "avant": "Mélange Chicory-Thyme",
+    "apres": "Mélange Chicorée-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-chicory-yarrow",
+    "avant": "Mélange Chicory-Yarrow",
+    "apres": "Mélange Chicorée-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-angelica",
+    "avant": "Mélange Cornflower-Angelica",
+    "apres": "Mélange Bleuet-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-arnica",
+    "avant": "Mélange Cornflower-Arnica",
+    "apres": "Mélange Bleuet-Arnica",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-catmint",
+    "avant": "Mélange Cornflower-Catmint",
+    "apres": "Mélange Bleuet-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-chamomile",
+    "avant": "Mélange Cornflower-Chamomile",
+    "apres": "Mélange Bleuet-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-chicory",
+    "avant": "Mélange Cornflower-Chicory",
+    "apres": "Mélange Bleuet-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-ginseng",
+    "avant": "Mélange Cornflower-Ginseng",
+    "apres": "Mélange Bleuet-Ginseng",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-goldenpoppy",
+    "avant": "Mélange Cornflower-Goldenpoppy",
+    "apres": "Mélange Bleuet-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-horehound",
+    "avant": "Mélange Cornflower-Horehound",
+    "apres": "Mélange Bleuet-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-lavender",
+    "avant": "Mélange Cornflower-Lavender",
+    "apres": "Mélange Bleuet-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-marigold",
+    "avant": "Mélange Cornflower-Marigold",
+    "apres": "Mélange Bleuet-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-marjoram",
+    "avant": "Mélange Cornflower-Marjoram",
+    "apres": "Mélange Bleuet-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-marshmallow",
+    "avant": "Mélange Cornflower-Marshmallow",
+    "apres": "Mélange Bleuet-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-mint",
+    "avant": "Mélange Cornflower-Mint",
+    "apres": "Mélange Bleuet-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-mugwort",
+    "avant": "Mélange Cornflower-Mugwort",
+    "apres": "Mélange Bleuet-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-poisonoak",
+    "avant": "Mélange Cornflower-Poisonoak",
+    "apres": "Mélange Bleuet-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-rosemary",
+    "avant": "Mélange Cornflower-Rosemary",
+    "apres": "Mélange Bleuet-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-saffron",
+    "avant": "Mélange Cornflower-Saffron",
+    "apres": "Mélange Bleuet-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-sage",
+    "avant": "Mélange Cornflower-Sage",
+    "apres": "Mélange Bleuet-Sauge",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-stingingnettle",
+    "avant": "Mélange Cornflower-Stingingnettle",
+    "apres": "Mélange Bleuet-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-stjohnswort",
+    "avant": "Mélange Cornflower-Stjohnswort",
+    "apres": "Mélange Bleuet-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-thyme",
+    "avant": "Mélange Cornflower-Thyme",
+    "apres": "Mélange Bleuet-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-cornflower-yarrow",
+    "avant": "Mélange Cornflower-Yarrow",
+    "apres": "Mélange Bleuet-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-angelica",
+    "avant": "Mélange Edelweiss-Angelica",
+    "apres": "Mélange Edelweiss-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-catmint",
+    "avant": "Mélange Edelweiss-Catmint",
+    "apres": "Mélange Edelweiss-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-chamomile",
+    "avant": "Mélange Edelweiss-Chamomile",
+    "apres": "Mélange Edelweiss-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-chicory",
+    "avant": "Mélange Edelweiss-Chicory",
+    "apres": "Mélange Edelweiss-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-horehound",
+    "avant": "Mélange Edelweiss-Horehound",
+    "apres": "Mélange Edelweiss-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-lavender",
+    "avant": "Mélange Edelweiss-Lavender",
+    "apres": "Mélange Edelweiss-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-marigold",
+    "avant": "Mélange Edelweiss-Marigold",
+    "apres": "Mélange Edelweiss-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-marjoram",
+    "avant": "Mélange Edelweiss-Marjoram",
+    "apres": "Mélange Edelweiss-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-marshmallow",
+    "avant": "Mélange Edelweiss-Marshmallow",
+    "apres": "Mélange Edelweiss-Guimauve",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-mint",
+    "avant": "Mélange Edelweiss-Mint",
+    "apres": "Mélange Edelweiss-Menthe",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-mugwort",
+    "avant": "Mélange Edelweiss-Mugwort",
+    "apres": "Mélange Edelweiss-Armoise",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-poisonoak",
+    "avant": "Mélange Edelweiss-Poisonoak",
+    "apres": "Mélange Edelweiss-Sumac vénéneux",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-rosemary",
+    "avant": "Mélange Edelweiss-Rosemary",
+    "apres": "Mélange Edelweiss-Romarin",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-saffron",
+    "avant": "Mélange Edelweiss-Saffron",
+    "apres": "Mélange Edelweiss-Safran",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-stingingnettle",
+    "avant": "Mélange Edelweiss-Stingingnettle",
+    "apres": "Mélange Edelweiss-Ortie piquante",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-stjohnswort",
+    "avant": "Mélange Edelweiss-Stjohnswort",
+    "apres": "Mélange Edelweiss-Millepertuis",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-thyme",
+    "avant": "Mélange Edelweiss-Thyme",
+    "apres": "Mélange Edelweiss-Thym",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-edelweiss-yarrow",
+    "avant": "Mélange Edelweiss-Yarrow",
+    "apres": "Mélange Edelweiss-Achillée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-angelica",
+    "avant": "Mélange Ginseng-Angelica",
+    "apres": "Mélange Ginseng-Angélique",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-catmint",
+    "avant": "Mélange Ginseng-Catmint",
+    "apres": "Mélange Ginseng-Cataire",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-chamomile",
+    "avant": "Mélange Ginseng-Chamomile",
+    "apres": "Mélange Ginseng-Camomille",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-chicory",
+    "avant": "Mélange Ginseng-Chicory",
+    "apres": "Mélange Ginseng-Chicorée",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-cornflower",
+    "avant": "Mélange Ginseng-Cornflower",
+    "apres": "Mélange Ginseng-Bleuet",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-goldenpoppy",
+    "avant": "Mélange Ginseng-Goldenpoppy",
+    "apres": "Mélange Ginseng-Pavot doré",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-horehound",
+    "avant": "Mélange Ginseng-Horehound",
+    "apres": "Mélange Ginseng-Marrube",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-lavender",
+    "avant": "Mélange Ginseng-Lavender",
+    "apres": "Mélange Ginseng-Lavande",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-marigold",
+    "avant": "Mélange Ginseng-Marigold",
+    "apres": "Mélange Ginseng-Souci",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-shagblend-ginseng-marjoram",
+    "avant": "Mélange Ginseng-Marjoram",
+    "apres": "Mélange Ginseng-Marjolaine",
+    "motif": "Nom de plante laissé en anglais, harmonisé avec le nom français usuel utilisé ailleurs dans le lot."
+  }
+]

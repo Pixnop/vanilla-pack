@@ -1,0 +1,1364 @@
+[
+ {
+  "dom": "allclasses",
+  "cle": "allclasses:craftinginfo-allclasses",
+  "en": "Allclasses handbook",
+  "fr": "Manuel Allclasses"
+ },
+ {
+  "dom": "allclasses",
+  "cle": "allclasses:craftinginfo-allclasses-text",
+  "en": "<font size=26 color=#00ffcc align=center>Welcome to the comprehensive class mod All Classes</font><br><br>This mode offers a choice of 13 new classes, plenty of new traits and items. Here is a description of the properties of each class.<br><strong>The mod was reworked for </strong><a href=\"https://www.vintagestory.cz\">Tábor servers</a><br><i>-DejFidOFF-</i><br><br><font size=22 color=#99c9f9 align=center ><strong>Alchemyst,</strong></font><br><font color=#ccff99 align=center ><i>boundaries are meant to be crossed</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Transmutation</font> Exclusively can produce <a href=\"handbook://item-ore-sulfur\">sulfur</a><br><font color=#00ff00>• Forager</font> (+25% yield from wild crops, +50% chance for an additional find when gathering)<br><font color=#00ff00>• Fleetfooted</font> (+15% walking speed)<br><font color=#00ff00>• Fasting</font> (-20% hunger rate)<br><font color=#ff0000>• Sluggish</font> (-25% mining speed)<br><br><br><font size=20 color=#ff6666 align=center ><strong>Artisan,</strong></font><br><font color=#ccff99 align=center ><i>this world is yours to shape.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Artifice</font> (Has the ability to craft <a href=\"handbooksearch://carpet\"</a>small carpets</a>, also to craft a few <a href=\"handbooksearch://Painting (Woman) or Painting (Iris) or Painting (Family)\">paints</a>)<br><font color=#00ff00>• Pilferer</br> (+35% loot from cracked containers, chance for a double drop of the sharp wheel, 25% chance to obtain a whole cracked container, -20% hunger rate)<br><font color=#00ff00>• Rugged</font> (+5 health points)<br><font color=#ff0000>• Nervous</font> (-50% armor durability, -20% melee damage)<br><br><br><font size=20 color=#0099ff align=center ><strong>Chef,</strong></font><br><font color=#ccff99 align=center ><i>you are the master of your food.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Culinary</font> (Has the ability to craft various <a href=\"handbooksearch://cooking pot or metal pot\">metal cooking pots</a> and old-fashioned <a href=\"handbook://item-redmeat-vintage\">dried aged beef</a>.)<br><font color=#00ff00>• Butcher</font> (+25% loot from animals, +50% faster butchering of animals)<br><font color=#00ff00>• Fasting</font> (-20% hunger rate)<br><font color=#ff0000>• Exhausted</font> (-35% ranged damage, -35% projectile acceleration, -20% ranged accuracy, -30% slower ranged weapons)<br><font color=#ff0000>• Clumsy</font> (-25% armor durability)<br><br><br><font size=20 color=#009900 align=center ><strong>Homesteader,</strong></font><br><font color=#ccff99 align=center ><i>your fields are full of wealth.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Pioneer</font> (Can extract <a href=\"handbooksearch://seeds\">seeds</a> from crops, produce <a href=\"handbook://block-soil-compost-none\">fertile soil</a> and <a href=\"handbooksearch://soil booster\">universal fertilizer</a> to boost fertility)<br><font color=#00ff00>• Farmer</font> (+30% extra yield when harvesting planted crops)<br><font color=#00ff00>• Rugged</font> (+5 health points)<br><font color=#00ff00>• Butcher</font> (+25% loot from animals, +50% faster butchering of animals)<br><font color=#ff0000>• Petrophobia</font> (No chance to obtain double ore, -25% mining speed)<br><br><br><font size=20 color=#996600 align=center ><strong>Lumberjack,</strong></font><br><font color=#ccff99 align=center ><i>the wilderness is your kingdom and your greatest resource.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Carpenter</font> (Can craft <a href=\"handbooksearch://Sleek door\">Sleek Doors</a>, <a href=\"handbooksearch://wagon wheel\">wagon wheels</a>, <a href=\"handbooksearch://wallpaper\">wallpapers</a> and cheaper <a href=\"handbook://item-firewood\">firewood</a>, <a href=\"handbooksearch://board\">boards</a>, <a href=\"handbook://item-axe-lumberjack-steel\">Lumberjack Axe</a> and <a href=\"handbook://item-stick\">Sticks</a>)<br><font color=#00ff00>• Lumberjack</font> (+10% chance for an extra log, double yield from fruit trees, double seed drop rate from trees, +50% chance to obtain twice as many sticks from branches)<br><font color=#00ff00>• Scavenger</font> (+20% yield from wild crops, +30% chance for an additional find when gathering)<br><font color=#00ff00>• Rugged</font> (+5 health points)<br><font color=#ff0000>• Inaccurate</font> (-25% ranged damage, -20% ranged accuracy, -25% range, -15% slower ranged weapons)<br><br><br><font size=20 color=#ff6600 align=center ><strong>Mason,</strong></font><br><font color=#ccff99 align=center ><i>every construction is your canvas.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Mason</font> (Produces <a href=\"handbook://item-mortar\">mortar</a>, <a href=\"handbook://block-plaster-plain\">plaster</a>, <a href=\"handbooksearch://Unfired refractory brick\">fire-resistant material</a> and other <a href=\"handbook://item-rawbrick-fire\">raw bricks</a> at lower cost, can directly produce <a href=\"handbooksearch://ashlar block\">stone blocks</a> from stones and has access to <a href=\"handbook://item-burnedbrick-brown\">brown clay bricks</a>.<br><font color=#00ff00>• Defender</font> (+10% melee damage, +20% armor durability, and +20% less penalty for moving in armor, -20% hunger rate)<br><font color=#00ff00>• Rockhound</font> (+22.5% additional chance to obtain double ore, +50% mining speed)<br><font color=#00ff00>• Rugged</font> (+5 health points)<br><font color=#ff0000>• Heavy-footed</font> (+20% distance at which animals detect you)<br><br><br><font size=20 color=#cccc00 align=center ><strong>Merchant,</strong></font><br><font color=#ccff99 align=center ><i>you control the economy and that is your kingdom.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Mercantile</font> (Exclusively can produce <a href=\"handbook://item-backpack-lv\">LV Handbag</a> with 15 slots for items, <a href=\"handbooksearch://Pirátský zlaťák\">Pirate Gold Coins</a> or <a href=\"handbook://item-gear-rusty\">Rusty Gears</a><br><font color=#00ff00>• Sneaky</font> (-60% distance at which animals detect you, +15% walking speed)<br><font color=#ff0000>• Squeamish</font> (-25% loot from wild animals, -10% slower butchering of animals)<br><br><br><font size=20 color=#4d0000 align=center ><strong>Miner,</strong></font><br><font color=#ccff99 align=center ><i>the secrets of the rocks are revealed to you.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Prospector</font> (Produces <a href=\"handbook://block-bomb-stone\">rock bombs</a> at a lower cost, a primitive recipe for <a href=\"handbook://item-blastingpowder\">blasting powder</a>, and makes waterproof <a href=\"handbooksearch://mining lantern\">mine lamps</a>)<br><font color=#00ff00>• Miner</font> (+50% additional chance to obtain double ore, +100% mining speed)<br><font color=#ff0000>• Exhausted</font> (-35% ranged damage, -35% projectile acceleration, -20% ranged accuracy, -30% slower ranged weapons)<br><br><br><font size=20 color=#9900ff align=center ><strong>Mystic,</strong></font><br><font color=#ccff99 align=center ><i>the secrets of the universe are in your head!</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Transcription</font> (Has the ability to produce <a href=\"handbooksearch://carpet\">small carpets</a> and also <a href=\"handbook://item-paper-parchment\">parchment</a> from hemp, papyrus, and straw, and can also create a <a href=\"handbook://item-creature-butterfly-redadmiral\">butterfly</a>.)<br><font color=#00ff00>• Scavenger</font> (+20% yield from wild crops, +30% chance for an additional find when gathering)<br><font color=#00ff00>• Sneaky</font> (-60% distance at which animals detect you, +15% walking speed)<br><font color=#00ff00>• Pilferer</font> (+35% loot from cracked containers, chance for a double drop of the sharp wheel, 25% chance to obtain a whole cracked container, -20% hunger rate)<br><font color=#ff0000>• Careless</font> (No chance to obtain double ore)<br><font color=#ff0000>• Clumsy</font> (-25% armor durability)<br><br><br><font size=20 color=#cc3300 align=center ><strong>Ranger,</strong></font><br><font color=#ccff99 align=center ><i>the natural order is your goal.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Sentry</font> (Has the ability to easily produce a <a href=\"handbooksearch://simple bow or recurve bow\">bows</a> and also <a href=\"handbook://item-arrow-crude\">primitive arrows</a>.)<br><font color=#00ff00>• Sharpeye</font> (+100% ranged damage, +50% projectile acceleration, +25% faster ranged weapons, most accurate.)<br><font color=#00ff00>• Defender</font> (+10% melee damage, +20% armor durability, and +20% less penalty for moving in armor, -20% hunger rate)<br><font color=#00ff00>• Furtive</font> (-25% distance at which animals detect you)<br><font color=#ff0000>• Squeamish</font> (-25% loot from wild animals, -10% slower butchering of animals)<br><font color=#ff0000>• Petrophobia</font> (No chance to obtain double ore, -25% mining speed)<br><br><br><font size=20 color=#000000 align=center ><strong>Smith,</strong></font><br><font color=#ccff99 align=center ><i>the ore of the world finds life in your hands.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Smith</font> (Can use <a href=\"handbooksearch://tools\">tool sets</a> for repairing armor and shields, create <a href=\"handbooksearch://Prospector's metal pan\">metal pans</a>, and produce cheaper <a href=\"handbook://block-bomb-ore\">ore bombs</a> and <a href=\"handbook://item-blastingpowder\">blasting powder</a>)<br><font color=#00ff00>• Defender</font> (+10% melee damage, +20% armor durability, and +20% less penalty for moving in armor, -20% hunger rate)<br><font color=#00ff00>• Burner</font> (+35% chance to obtain double wooden coal from wooden kilns)<br><font color=#ff0000>• Heavyhanded</font> (-20% loot from cracked containers, 20% chance for a lesser find when gathering, -20% yield from wild crops)<br><br><br><font size=20 color=#ffffcc align=center ><strong>Medic,</strong></font><br><font color=#ccff99 align=center ><i>you bring healing where it is needed most.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Stitch doctor</font> (Can craft a <a href=\"handbooksearch://sewing kit or Tailored\">sewing kit or Tailored armor</a>)<br><font color=#c69c29>• Field medic</font> (Can craft a <a href=\"handbook://item-allclasses:poultice-grass-flower\">Grass and Flower Poultice</a>.)<br><font color=#00ff00>• Rugged</font> (+5 health points)<br><font color=#00ff00>• Mender</font> (+25% armor durability)<br><font color=#ff0000>• Civil</font> (-25% loot from wild animals, -15% slower butchering of animals, 15% chance for a lesser find when gathering, -15% yield from wild crops)<br><br><br><font size=20 color=#cccc00 align=center ><strong>Tinker,</strong></font><br><font color=#ccff99 align=center ><i>no challenge is too difficult.</i></font><br><br><strong>Abilities:</strong><br><font color=#c69c29>• Crafty</font> (Has the ability to craft <a href=\"handbook://block-metal-parts\">metal parts</a> and also the ability to create a <a href=\"handbook://item-scrapweaponkit\">scrap weapon kit</a>, <a href=\"handbooksearch://cross chute or straight chute or t-shaped chute or elbow chute or 3-way chute\">chute</a> and <a href=\"handbooksearch://angled gears or wooden axle\">mechanical parts</a> with higher efficiency)<br><font color=#c69c29>• Tinkerer</font> Exclusive craftable <a href=\"handbook://item-spear-generic-hacking\">device</a> to tame locusts<br><font color=#00ff00>• Technical</font> (Lower cost for repairing translocators, +50% damage against mechanical damage)<br><font color=#00ff00>• Fleetfooted</font> (+15% walking speed)<br><font color=#00ff00>• Rockhound</font> (+22.5% additional chance to obtain double ore, +50% mining speed)<br><font color=#ff0000>• Civil</font> (-25% loot from wild animals, -15% slower butchering of animals, 15% chance for a lesser find when gathering, -15% yield from wild crops)<br><br>-enjoy-",
+  "fr": "<font size=26 color=#00ffcc align=center>Bienvenue dans le mod de classes complet All Classes</font><br><br>Ce mode propose un choix de 13 nouvelles classes, ainsi que de nombreux nouveaux traits et objets. Voici une description des caractéristiques de chaque classe.<br><strong>Le mod a été retravaillé pour </strong><a href=\"https://www.vintagestory.cz\">serveurs Tábor</a><br><i>-DejFidOFF-</i><br><br><font size=22 color=#99c9f9 align=center ><strong>Alchimiste,</strong></font><br><font color=#ccff99 align=center ><i>les frontières sont faites pour être franchies</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Transmutation</font> Peut produire exclusivement du <a href=\"handbook://item-ore-sulfur\">soufre</a><br><font color=#00ff00>• Cueilleur</font> (+25% de rendement sur les récoltes sauvages, +50% de chance de trouvaille supplémentaire en cueillant)<br><font color=#00ff00>• Pied léger</font> (+15% de vitesse de marche)<br><font color=#00ff00>• Jeûne</font> (-20% de taux de faim)<br><font color=#ff0000>• Lent</font> (-25% de vitesse de minage)<br><br><br><font size=20 color=#ff6666 align=center ><strong>Artisan,</strong></font><br><font color=#ccff99 align=center ><i>ce monde est à vous de le façonner.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Artifice</font> (A la capacité de fabriquer des <a href=\"handbooksearch://carpet\"</a>petits tapis</a>, ainsi que de fabriquer quelques <a href=\"handbooksearch://Painting (Woman) or Painting (Iris) or Painting (Family)\">tableaux</a>)<br><font color=#00ff00>• Chapardeur</br> (+35% de butin des conteneurs fissurés, chance d'obtenir un butin double de la roue tranchante, 25% de chance d'obtenir un conteneur fissuré entier, -20% de taux de faim)<br><font color=#00ff00>• Robuste</font> (+5 points de vie)<br><font color=#ff0000>• Nerveux</font> (-50% de durabilité des armures, -20% de dégâts au corps à corps)<br><br><br><font size=20 color=#0099ff align=center ><strong>Cuisinier,</strong></font><br><font color=#ccff99 align=center ><i>vous êtes le maître de votre nourriture.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Culinaire</font> (A la capacité de fabriquer divers <a href=\"handbooksearch://cooking pot or metal pot\">faitouts en métal</a> et du <a href=\"handbook://item-redmeat-vintage\">bœuf séché vieilli</a> à l'ancienne.)<br><font color=#00ff00>• Boucher</font> (+25% de butin des animaux, +50% de vitesse de dépeçage des animaux)<br><font color=#00ff00>• Jeûne</font> (-20% de taux de faim)<br><font color=#ff0000>• Épuisé</font> (-35% de dégâts à distance, -35% d'accélération des projectiles, -20% de précision à distance, -30% de vitesse des armes à distance)<br><font color=#ff0000>• Maladroit</font> (-25% de durabilité des armures)<br><br><br><font size=20 color=#009900 align=center ><strong>Fermier,</strong></font><br><font color=#ccff99 align=center ><i>vos champs regorgent de richesses.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Pionnier</font> (Peut extraire des <a href=\"handbooksearch://seeds\">graines</a> des récoltes, produire de la <a href=\"handbook://block-soil-compost-none\">terre fertile</a> et de l'<a href=\"handbooksearch://soil booster\">engrais universel</a> pour booster la fertilité)<br><font color=#00ff00>• Agriculteur</font> (+30% de rendement supplémentaire lors de la récolte des cultures plantées)<br><font color=#00ff00>• Robuste</font> (+5 points de vie)<br><font color=#00ff00>• Boucher</font> (+25% de butin des animaux, +50% de vitesse de dépeçage des animaux)<br><font color=#ff0000>• Pétrophobie</font> (Aucune chance d'obtenir du minerai double, -25% de vitesse de minage)<br><br><br><font size=20 color=#996600 align=center ><strong>Bûcheron,</strong></font><br><font color=#ccff99 align=center ><i>la nature sauvage est votre royaume et votre plus grande ressource.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Charpentier</font> (Peut fabriquer des <a href=\"handbooksearch://Sleek door\">Portes Lisses</a>, des <a href=\"handbooksearch://wagon wheel\">roues de chariot</a>, du <a href=\"handbooksearch://wallpaper\">papier peint</a> et du <a href=\"handbook://item-firewood\">bois de chauffage</a>, des <a href=\"handbooksearch://board\">planches</a>, une <a href=\"handbook://item-axe-lumberjack-steel\">Hache de Bûcheron</a> et des <a href=\"handbook://item-stick\">Bâtons</a> moins chers)<br><font color=#00ff00>• Bûcheron</font> (+10% de chance d'obtenir une bûche supplémentaire, rendement double des arbres fruitiers, taux d'obtention de graines double depuis les arbres, +50% de chance d'obtenir deux fois plus de bâtons depuis les branches)<br><font color=#00ff00>• Charognard</font> (+20% de rendement sur les récoltes sauvages, +30% de chance de trouvaille supplémentaire en cueillant)<br><font color=#00ff00>• Robuste</font> (+5 points de vie)<br><font color=#ff0000>• Imprécis</font> (-25% de dégâts à distance, -20% de précision à distance, -25% de portée, -15% de vitesse des armes à distance)<br><br><br><font size=20 color=#ff6600 align=center ><strong>Maçon,</strong></font><br><font color=#ccff99 align=center ><i>chaque construction est votre toile.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Maçon</font> (Produit du <a href=\"handbook://item-mortar\">mortier</a>, du <a href=\"handbook://block-plaster-plain\">plâtre</a>, un <a href=\"handbooksearch://Unfired refractory brick\">matériau résistant au feu</a> et d'autres <a href=\"handbook://item-rawbrick-fire\">briques crues</a> à moindre coût, peut produire directement des <a href=\"handbooksearch://ashlar block\">blocs de pierre</a> à partir de pierres et a accès aux <a href=\"handbook://item-burnedbrick-brown\">briques d'argile brune</a>.<br><font color=#00ff00>• Défenseur</font> (+10% de dégâts au corps à corps, +20% de durabilité des armures, et +20% de pénalité en moins pour se déplacer en armure, -20% de taux de faim)<br><font color=#00ff00>• Chercheur de pierres</font> (+22.5% de chance supplémentaire d'obtenir du minerai double, +50% de vitesse de minage)<br><font color=#00ff00>• Robuste</font> (+5 points de vie)<br><font color=#ff0000>• Pas lourd</font> (+20% de distance à laquelle les animaux vous détectent)<br><br><br><font size=20 color=#cccc00 align=center ><strong>Marchand,</strong></font><br><font color=#ccff99 align=center ><i>vous contrôlez l'économie et c'est là votre royaume.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Mercantile</font> (Peut produire exclusivement un <a href=\"handbook://item-backpack-lv\">Sac à Main LV</a> avec 15 emplacements pour objets, des <a href=\"handbooksearch://Pirátský zlaťák\">Pièces d'Or de Pirate</a> ou des <a href=\"handbook://item-gear-rusty\">Engrenages Rouillés</a><br><font color=#00ff00>• Furtif</font> (-60% de distance à laquelle les animaux vous détectent, +15% de vitesse de marche)<br><font color=#ff0000>• Délicat</font> (-25% de butin des animaux sauvages, -10% de vitesse de dépeçage des animaux)<br><br><br><font size=20 color=#4d0000 align=center ><strong>Mineur,</strong></font><br><font color=#ccff99 align=center ><i>les secrets de la roche vous sont révélés.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Prospecteur</font> (Produit des <a href=\"handbook://block-bomb-stone\">bombes de pierre</a> à moindre coût, une recette primitive de <a href=\"handbook://item-blastingpowder\">poudre explosive</a>, et fabrique des <a href=\"handbooksearch://mining lantern\">lampes de mine</a> étanches)<br><font color=#00ff00>• Mineur</font> (+50% de chance supplémentaire d'obtenir du minerai double, +100% de vitesse de minage)<br><font color=#ff0000>• Épuisé</font> (-35% de dégâts à distance, -35% d'accélération des projectiles, -20% de précision à distance, -30% de vitesse des armes à distance)<br><br><br><font size=20 color=#9900ff align=center ><strong>Mystique,</strong></font><br><font color=#ccff99 align=center ><i>les secrets de l'univers sont dans votre tête !</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Transcription</font> (A la capacité de produire des <a href=\"handbooksearch://carpet\">petits tapis</a> ainsi que du <a href=\"handbook://item-paper-parchment\">parchemin</a> à partir de chanvre, de papyrus et de paille, et peut aussi créer un <a href=\"handbook://item-creature-butterfly-redadmiral\">papillon</a>.)<br><font color=#00ff00>• Charognard</font> (+20% de rendement sur les récoltes sauvages, +30% de chance de trouvaille supplémentaire en cueillant)<br><font color=#00ff00>• Furtif</font> (-60% de distance à laquelle les animaux vous détectent, +15% de vitesse de marche)<br><font color=#00ff00>• Chapardeur</font> (+35% de butin des conteneurs fissurés, chance d'obtenir un butin double de la roue tranchante, 25% de chance d'obtenir un conteneur fissuré entier, -20% de taux de faim)<br><font color=#ff0000>• Étourdi</font> (Aucune chance d'obtenir du minerai double)<br><font color=#ff0000>• Maladroit</font> (-25% de durabilité des armures)<br><br><br><font size=20 color=#cc3300 align=center ><strong>Rôdeur,</strong></font><br><font color=#ccff99 align=center ><i>l'ordre naturel est votre objectif.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Sentinelle</font> (A la capacité de produire facilement des <a href=\"handbooksearch://simple bow or recurve bow\">arcs</a> ainsi que des <a href=\"handbook://item-arrow-crude\">flèches primitives</a>.)<br><font color=#00ff00>• Œil de lynx</font> (+100% de dégâts à distance, +50% d'accélération des projectiles, +25% de vitesse des armes à distance, la plus grande précision.)<br><font color=#00ff00>• Défenseur</font> (+10% de dégâts au corps à corps, +20% de durabilité des armures, et +20% de pénalité en moins pour se déplacer en armure, -20% de taux de faim)<br><font color=#00ff00>• Discret</font> (-25% de distance à laquelle les animaux vous détectent)<br><font color=#ff0000>• Délicat</font> (-25% de butin des animaux sauvages, -10% de vitesse de dépeçage des animaux)<br><font color=#ff0000>• Pétrophobie</font> (Aucune chance d'obtenir du minerai double, -25% de vitesse de minage)<br><br><br><font size=20 color=#000000 align=center ><strong>Forgeron,</strong></font><br><font color=#ccff99 align=center ><i>le minerai du monde prend vie entre vos mains.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Forgeron</font> (Peut utiliser des <a href=\"handbooksearch://tools\">jeux d'outils</a> pour réparer armures et boucliers, créer des <a href=\"handbooksearch://Prospector's metal pan\">battées métalliques de prospection</a>, et produire moins cher des <a href=\"handbook://block-bomb-ore\">bombes de minerai</a> et de la <a href=\"handbook://item-blastingpowder\">poudre explosive</a>)<br><font color=#00ff00>• Défenseur</font> (+10% de dégâts au corps à corps, +20% de durabilité des armures, et +20% de pénalité en moins pour se déplacer en armure, -20% de taux de faim)<br><font color=#00ff00>• Brûleur</font> (+35% de chance d'obtenir du charbon de bois double depuis les fours à bois)<br><font color=#ff0000>• Lourdaud</font> (-20% de butin des conteneurs fissurés, 20% de chance de trouvaille moindre en cueillant, -20% de rendement sur les récoltes sauvages)<br><br><br><font size=20 color=#ffffcc align=center ><strong>Médecin,</strong></font><br><font color=#ccff99 align=center ><i>vous apportez la guérison là où elle est le plus nécessaire.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Rebouteux</font> (Peut fabriquer une <a href=\"handbooksearch://sewing kit or Tailored\">trousse de couture ou une armure sur mesure</a>)<br><font color=#c69c29>• Médecin de terrain</font> (Peut fabriquer un <a href=\"handbook://item-allclasses:poultice-grass-flower\">Cataplasme d'Herbe et de Fleurs</a>.)<br><font color=#00ff00>• Robuste</font> (+5 points de vie)<br><font color=#00ff00>• Réparateur</font> (+25% de durabilité des armures)<br><font color=#ff0000>• Civil</font> (-25% de butin des animaux sauvages, -15% de vitesse de dépeçage des animaux, 15% de chance de trouvaille moindre en cueillant, -15% de rendement sur les récoltes sauvages)<br><br><br><font size=20 color=#cccc00 align=center ><strong>Bricoleur,</strong></font><br><font color=#ccff99 align=center ><i>aucun défi n'est trop difficile.</i></font><br><br><strong>Capacités :</strong><br><font color=#c69c29>• Astucieux</font> (A la capacité de fabriquer des <a href=\"handbook://block-metal-parts\">pièces métalliques</a> ainsi que la capacité de créer un <a href=\"handbook://item-scrapweaponkit\">kit d'arme de fortune</a>, des <a href=\"handbooksearch://cross chute or straight chute or t-shaped chute or elbow chute or 3-way chute\">goulottes</a> et des <a href=\"handbooksearch://angled gears or wooden axle\">pièces mécaniques</a> avec une efficacité supérieure)<br><font color=#c69c29>• Inventeur</font> Dispositif exclusif fabricable, un <a href=\"handbook://item-spear-generic-hacking\">appareil</a> pour dompter les criquets<br><font color=#00ff00>• Technicien</font> (Coût réduit pour réparer les translocateurs, +50% de dégâts contre les dommages mécaniques)<br><font color=#00ff00>• Pied léger</font> (+15% de vitesse de marche)<br><font color=#00ff00>• Chercheur de pierres</font> (+22.5% de chance supplémentaire d'obtenir du minerai double, +50% de vitesse de minage)<br><font color=#ff0000>• Civil</font> (-25% de butin des animaux sauvages, -15% de vitesse de dépeçage des animaux, 15% de chance de trouvaille moindre en cueillant, -15% de rendement sur les récoltes sauvages)<br><br>-profitez-en-"
+ },
+ {
+  "dom": "allclasses",
+  "cle": "allclasses:craftinginfo-allclasses-title",
+  "en": "Allclasses handbook",
+  "fr": "Manuel Allclasses"
+ },
+ {
+  "dom": "allclasses",
+  "cle": "game:charattribute-maxhealthExtraPoints-10",
+  "en": "+10 health points",
+  "fr": "+10 points de vie"
+ },
+ {
+  "dom": "allclasses",
+  "cle": "game:charattribute-walkspeed-0.2",
+  "en": "+20% walk speed",
+  "fr": "+20% de vitesse de marche"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "game:walkingstick-guide-text",
+  "en": "<strong>Walking Sticks</strong>\n<font color=\"#B3FFFFFF\"><i>A trusty companions for your rusty knees.</i></font>\n\nWalking sticks are handheld items that provide passive bonuses while equipped. Every stick improves your walking speed and reduces hunger drain, while some variants come with a unique ability tied to their purpose.\n\nAll walking sticks feature a custom walk animation and an auto-step feature that helps you traverse uneven terrain without jumping.\n\nVariants range from the simple <a href=\"handbook://item-walkingstick:walkingstick-crude\">Crude walking stick</a>, easily crafted on the go, to more unique options like the <a href=\"handbook://item-walkingstick:walkingstick-blackguard\">Blackguard spearstaff</a> which can be thrown and provides much needed aid on long marches, or the cozy <a href=\"handbook://item-walkingstick:walkingstick-witch\">Witch's variant</a> that casts a warm comforting light which can also be used to light a fire. Speaking of fire, the terrifying <a href=\"handbook://item-walkingstick:walkingstick-jonas\">Jonas ash-spitter</a> flamethrower fueled by temporal gears is also at your disposal.\n\nSome sticks support attachments. For example, the <a href=\"handbook://item-walkingstick:walkingstick\">Base walking stick</a> can hold a lantern made of any metal, quartz glass with no lining, or alternatively a cow skull, while the <a href=\"handbook://item-walkingstick:walkingstick-fine\">Fine walking stick</a> can be used to craft a <a href=\"handbook://item-walkingstick:walkingstick-pathfinder\">Pathfinder's walking stick</a>, <a href=\"handbook://item-walkingstick:walkingstick-gas\">Gas lantern</a> variant, a <a href=\"handbook://item-walkingstick:walkingstick-shepherds\">Shepherd's axe</a>, or the <a href=\"handbook://item-walkingstick:walkingstick-architect\">Architect's walking stick</a>.\n\nThose who wish to remain hidden, or perhaps have a little mischievous intent may be interested in a <a href=\"handbook://item-walkingstick:walkingstick-sheathed\">Cane with hidden blade</a> or a <a href=\"handbook://item-walkingstick:walkingstick-gun-sheathed\">Cane with hidden gearlock</a>. Several sticks can also be attached to the side of your elk.\n\nCheck each variant's handbook entry for detailed stats and crafting recipes.\n\n<font color=\"#B3FFFFFF\"><i>May the road rise to meet your steps, traveller.</i></font>",
+  "fr": "<strong>Bâtons de marche</strong>\n<font color=\"#B3FFFFFF\"><i>Des compagnons de confiance pour vos genoux fatigués.</i></font>\n\nLes bâtons de marche sont des objets à main qui fournissent des bonus passifs lorsqu'ils sont équipés. Chaque bâton améliore votre vitesse de marche et réduit la consommation de faim, tandis que certaines variantes sont dotées d'une capacité unique liée à leur utilité.\n\nTous les bâtons de marche disposent d'une animation de marche personnalisée et d'une fonction d'auto-escalade qui vous aide à traverser des terrains inégaux sans sauter.\n\nLes variantes vont du simple <a href=\"handbook://item-walkingstick:walkingstick-crude\">bâton de marche primitif</a>, facilement créé en chemin, à des options plus uniques comme le <a href=\"handbook://item-walkingstick:walkingstick-blackguard\">bâton-lance Blackguard</a> qui peut être lancé et fournit une aide bien utile lors de longues marches, ou la confortable <a href=\"handbook://item-walkingstick:walkingstick-witch\">variante de sorcière</a> qui projette une lumière douce et réconfortante et peut aussi être utilisée pour allumer un feu. Parlant de feu, le terrifiant <a href=\"handbook://item-walkingstick:walkingstick-jonas\">Jonas crache-cendre</a> lance-flammes alimenté par des engrenages temporels est aussi à votre disposition.\n\nCertains bâtons soutiennent des accessoires. Par exemple, le <a href=\"handbook://item-walkingstick:walkingstick\">bâton de marche basique</a> peut accueillir une lanterne faite de n'importe quel métal, du verre de quartz sans doublure, ou une alternative un crâne de vache, tandis que le <a href=\"handbook://item-walkingstick:walkingstick-fine\">bâton de marche fin</a> peut être utilisé pour créer un <a href=\"handbook://item-walkingstick:walkingstick-pathfinder\">bâton de marche du Pathfinder</a>, une variante <a href=\"handbook://item-walkingstick:walkingstick-gas\">lampe à gaz</a>, une <a href=\"handbook://item-walkingstick:walkingstick-shepherds\">hache de berger</a>, ou le <a href=\"handbook://item-walkingstick:walkingstick-architect\">bâton de marche d'architecte</a>.\n\nCeux qui souhaitent rester cachés, ou peut-être ont une petite intention malveillante pourraient être intéressés par une <a href=\"handbook://item-walkingstick:walkingstick-sheathed\">canne avec lame cachée</a> ou une <a href=\"handbook://item-walkingstick:walkingstick-gun-sheathed\">canne avec mécanisme d'engrenage caché</a>. Plusieurs bâtons peuvent aussi être attachés au côté de votre cerf.\n\nVérifiez l'entrée du manuel de chaque variante pour les statistiques détaillées et les recettes d'artisanat.\n\n<font color=\"#B3FFFFFF\"><i>Que le chemin vienne à la rencontre de vos pas, voyageur.</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "game:walkingstick-guide-title",
+  "en": "Walking Sticks Guide",
+  "fr": "Guide des bâtons de marche"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-axehead-shepherds-iron",
+  "en": "Iron shepherd's axe head",
+  "fr": "Tête d'hache de berger en fer"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-flintlock-mechanism-iron",
+  "en": "Iron gearlock mechanism",
+  "fr": "Mécanisme d'engrenage en fer"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-hidden-blade",
+  "en": "Hidden iron blade",
+  "fr": "Lame de fer cachée"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-hidden-gun",
+  "en": "Hidden gearlock",
+  "fr": "Mécanisme d'engrenage caché"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-hiddenblade-head-iron",
+  "en": "Iron hidden blade head",
+  "fr": "Tête de lame de fer cachée"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-paper-cartridge",
+  "en": "Paper cartridge",
+  "fr": "Cartouche en papier"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-paper-cylinder",
+  "en": "Paper cylinder",
+  "fr": "Cylindre en papier"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-schematic-flintlock",
+  "en": "gearlock schematic",
+  "fr": "schéma de mécanisme d'engrenage"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick",
+  "en": "Walking stick",
+  "fr": "Bâton de marche"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-architect",
+  "en": "Architect's walking stick",
+  "fr": "Bâton de marche d'architecte"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-blackguard",
+  "en": "Blackguard spearstaff",
+  "fr": "Bâton-lance Blackguard"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-blackthorn",
+  "en": "Blackthorn walking stick",
+  "fr": "Bâton de marche d'épine noire"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-cowskull",
+  "en": "Walking stick with cow skull",
+  "fr": "Bâton de marche avec crâne de vache"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-crude",
+  "en": "Crude walking stick",
+  "fr": "Bâton de marche primitif"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-fine",
+  "en": "Fine walking stick",
+  "fr": "Bâton de marche fin"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-forlorn",
+  "en": "Forlorn Hope spearstaff",
+  "fr": "Bâton-lance Dernier Espoir"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-gas",
+  "en": "Walking stick with gas lamp",
+  "fr": "Bâton de marche avec lampe à gaz"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-gun-sheath",
+  "en": "Cane holster",
+  "fr": "Fourreau de canne"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-gun-sheathed",
+  "en": "Cane with hidden gearlock",
+  "fr": "Canne avec mécanisme d'engrenage caché"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-jonas",
+  "en": "Jonas ash-spitter",
+  "fr": "Jonas crache-cendre"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-bismuth",
+  "en": "Walking stick with bismuth lantern",
+  "fr": "Bâton de marche avec lanterne en bismuth"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-bismuthbronze",
+  "en": "Walking stick with bismuth bronze lantern",
+  "fr": "Bâton de marche avec lanterne en bronze de bismuth"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-blackbronze",
+  "en": "Walking stick with black bronze lantern",
+  "fr": "Bâton de marche avec lanterne en bronze noir"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-brass",
+  "en": "Walking stick with brass lantern",
+  "fr": "Bâton de marche avec lanterne en laiton"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-copper",
+  "en": "Walking stick with copper lantern",
+  "fr": "Bâton de marche avec lanterne en cuivre"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-electrum",
+  "en": "Walking stick with electrum lantern",
+  "fr": "Bâton de marche avec lanterne en électrum"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-gold",
+  "en": "Walking stick with gold lantern",
+  "fr": "Bâton de marche avec lanterne en or"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-iron",
+  "en": "Walking stick with iron lantern",
+  "fr": "Bâton de marche avec lanterne en fer"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-meteoriciron",
+  "en": "Walking stick with meteoric iron lantern",
+  "fr": "Bâton de marche avec lanterne en fer météorique"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-molybdochalkos",
+  "en": "Walking stick with molybdochalkos lantern",
+  "fr": "Bâton de marche avec lanterne en molybdochalkos"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-silver",
+  "en": "Walking stick with silver lantern",
+  "fr": "Bâton de marche avec lanterne en argent"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-steel",
+  "en": "Walking stick with steel lantern",
+  "fr": "Bâton de marche avec lanterne en acier"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-lantern-tinbronze",
+  "en": "Walking stick with tin bronze lantern",
+  "fr": "Bâton de marche avec lanterne en bronze d'étain"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-leap",
+  "en": "Shepherd's leap stick",
+  "fr": "Bâton de saut du berger"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-pathfinder",
+  "en": "Pathfinder's walking stick",
+  "fr": "Bâton de marche du Pathfinder"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-reinforced",
+  "en": "Reinforced walking stick",
+  "fr": "Bâton de marche renforcé"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-sheath",
+  "en": "Cane sheath",
+  "fr": "Fourreau de canne"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-sheathed",
+  "en": "Cane with hidden blade",
+  "fr": "Canne avec lame cachée"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-shepherds",
+  "en": "Shepherd's axe",
+  "fr": "Hache de berger"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-sling",
+  "en": "Staff sling",
+  "fr": "Fronde à bâton"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-sling-packed",
+  "en": "Packed staff sling",
+  "fr": "Fronde à bâton emballée"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-bismuth",
+  "en": "Survivalist walking stick with bismuth knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en bismuth"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-bismuthbronze",
+  "en": "Survivalist walking stick with bismuth bronze knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en bronze de bismuth"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-blackbronze",
+  "en": "Survivalist walking stick with black bronze knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en bronze noir"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-copper",
+  "en": "Survivalist walking stick with copper knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en cuivre"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-gold",
+  "en": "Survivalist walking stick with gold knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en or"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-iron",
+  "en": "Survivalist walking stick with iron knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en fer"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-meteoriciron",
+  "en": "Survivalist walking stick with meteoric iron knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en fer météorique"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-silver",
+  "en": "Survivalist walking stick with silver knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en argent"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-steel",
+  "en": "Survivalist walking stick with steel knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en acier"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-survivalist-tinbronze",
+  "en": "Survivalist walking stick with tin bronze knife",
+  "fr": "Bâton de marche de survivaliste avec couteau en bronze d'étain"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "item-walkingstick-witch",
+  "en": "Witch's walking stick",
+  "fr": "Bâton de marche de sorcière"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-flintlock-mechanism-iron",
+  "en": "Strange mechanism once commonly used in firearms, needed to craft a hidden gearlock",
+  "fr": "Mécanisme étrange autrefois couramment utilisé dans les armes à feu, nécessaire pour créer un mécanisme d'engrenage caché"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-hidden-blade",
+  "en": "Iron blade that can be hidden in a <a href=\"handbook://item-walkingstick:walkingstick-sheath\">cane sheath</a>",
+  "fr": "Lame de fer qui peut être cachée dans une <a href=\"handbook://item-walkingstick:walkingstick-sheath\">fourreau de canne</a>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-hidden-gun",
+  "en": "Gearlock that can be hidden in a <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">cane holster</a> \n<font color=\"#B3FFFFFF\"><i>To reload press alt+r, requires paper cartridges and flax fibers on your toolbar</i></font>",
+  "fr": "Mécanisme d'engrenage qui peut être caché dans un <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">fourreau de canne</a> \n<font color=\"#B3FFFFFF\"><i>Pour recharger, appuyez sur alt+r, nécessite des cartouches en papier et des fibres de lin sur votre barre d'outils</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-hiddenblade-head-iron",
+  "en": "Slim iron blade head, needed to craft a hidden blade",
+  "fr": "Tête de lame de fer fine, nécessaire pour créer une lame cachée"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-paper-cartridge",
+  "en": "\n<font color=\"#B3FFFFFF\"><i>Used for loading the hidden gearlock mechanism</i></font>",
+  "fr": "\n<font color=\"#B3FFFFFF\"><i>Utilisé pour charger le mécanisme d'engrenage caché</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-paper-cylinder",
+  "en": "\n<font color=\"#B3FFFFFF\"><i>Used in the crafting of the paper cartridges</i></font>",
+  "fr": "\n<font color=\"#B3FFFFFF\"><i>Utilisé dans la création des cartouches en papier</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-schematic-flintlock",
+  "en": "Schematic needed to craft the gearlock mechanism",
+  "fr": "Schéma nécessaire pour créer le mécanisme d'engrenage"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick",
+  "en": "A handy walking aid that conserves energy while walking",
+  "fr": "Un bâton de marche pratique qui conserve l'énergie en marchant"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-architect",
+  "en": "A walking stick that doubles as a measuring device, letting you measure distance between blocks.",
+  "fr": "Un bâton de marche qui double comme dispositif de mesure, vous permettant de mesurer la distance entre les blocs."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-blackguard",
+  "en": "Sharp and sturdy, eases the burden of heavy armor on long marches while keeping foes at bay.",
+  "fr": "Pointu et robuste, allège le fardeau de l'armure lourde lors de longues marches tout en gardant les ennemis à distance."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-blackthorn",
+  "en": "Also called a shillelagh in the Emerald Isle. Conserves energy while walking, brutal when swung.",
+  "fr": "Aussi appelé un shillelagh en Irlande verte. Conserve l'énergie en marchant, brutal quand il est balancé."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-cowskull",
+  "en": "A decorated walking aid that conserves energy while walking",
+  "fr": "Un bâton de marche décoré qui conserve l'énergie en marchant"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-crude",
+  "en": "A flimsy walking aid that slightly conserves energy while walking",
+  "fr": "Un bâton de marche fragile qui conserve légèrement l'énergie en marchant"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-fine",
+  "en": "A handy, well made walking aid that conserves energy while walking",
+  "fr": "Un bâton de marche pratique et bien fait qui conserve l'énergie en marchant"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-forlorn",
+  "en": "Fine and reliable, built for the long road and the last line of defense.",
+  "fr": "Fin et fiable, construit pour la longue route et la dernière ligne de défense."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-gas",
+  "en": "A very bright walking aid that illuminates the path ahead and conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Hold right click to amplify the lamp's glow</i></font>",
+  "fr": "Un bâton de marche très lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Maintenez le clic droit pour amplifier la lueur de la lampe</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-gun-sheath",
+  "en": "Cane holster that can hide a <a href=\"handbook://item-walkingstick:hidden-gun\">gearlock</a>",
+  "fr": "Fourreau de canne qui peut cacher un <a href=\"handbook://item-walkingstick:hidden-gun\">mécanisme d'engrenage</a>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-gun-sheathed",
+  "en": "An elegant walking aid that holds a deadly secret \n<font color=\"#B3FFFFFF\"><i>To assemble, hold the <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">cane holster</a> in your off-hand and the <a href=\"handbook://item-walkingstick:hidden-gun\">gearlock</a> in your main hand, then press F</i></font>",
+  "fr": "Un bâton de marche élégant qui cache un secret meurtrier \n<font color=\"#B3FFFFFF\"><i>Pour assembler, tenez le <a href=\"handbook://item-walkingstick:walkingstick-gun-sheath\">fourreau de canne</a> à votre main libre et le <a href=\"handbook://item-walkingstick:hidden-gun\">mécanisme d'engrenage</a> à votre main dominante, puis appuyez sur F</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-jonas",
+  "en": "Will melt everything standing before you, also a walking stick.",
+  "fr": "Va faire fondre tout ce qui se tient devant vous, aussi un bâton de marche."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-bismuth",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-bismuthbronze",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-blackbronze",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-brass",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-copper",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-electrum",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-gold",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-iron",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-meteoriciron",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-molybdochalkos",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-silver",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-steel",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-lantern-tinbronze",
+  "en": "A bright walking aid that illuminates the path ahead and conserves energy while walking.",
+  "fr": "Un bâton de marche lumineux qui illumine le chemin devant vous et conserve l'énergie en marchant."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-leap",
+  "en": "Also known as a garrote in the Volcanic Isles, it aids in traversing rugged terrain.",
+  "fr": "Aussi connu sous le nom de garrote dans les îles volcaniques, il aide à traverser des terrains accidentés."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-pathfinder",
+  "en": "A walking stick with an integrated scope, perfect for those who like to see what lies ahead or above.",
+  "fr": "Un bâton de marche avec un viseur intégré, parfait pour ceux qui aiment voir ce qui se trouve devant ou au-dessus."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-reinforced",
+  "en": "A reinforced walking aid that packs a solid punch",
+  "fr": "Un bâton de marche renforcé qui frappe avec force"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-sheath",
+  "en": "Cane sheath that can hide a <a href=\"handbook://item-walkingstick:hidden-blade\">blade</a>",
+  "fr": "Fourreau de canne qui peut cacher une <a href=\"handbook://item-walkingstick:hidden-blade\">lame</a>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-sheathed",
+  "en": "A sturdy walking aid that holds a sharp secret \n<font color=\"#B3FFFFFF\"><i>To assemble, hold the <a href=\"handbook://item-walkingstick:walkingstick-sheath\">cane sheath</a> in your off-hand and the <a href=\"handbook://item-walkingstick:hidden-blade\">blade</a> in your main hand, then press F</i></font>",
+  "fr": "Un bâton de marche robuste qui cache un secret tranchant \n<font color=\"#B3FFFFFF\"><i>Pour assembler, tenez le <a href=\"handbook://item-walkingstick:walkingstick-sheath\">fourreau de canne</a> à votre main libre et la <a href=\"handbook://item-walkingstick:hidden-blade\">lame</a> à votre main dominante, puis appuyez sur F</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-shepherds",
+  "en": "Also known as a ciupaga, valaška, or fokos in the mountainous regions. A combination of walking stick and forestry multitool-sidearm, it helps in clearing brushes ahead and provides protection when needed.",
+  "fr": "Aussi connu sous le nom de ciupaga, valaška, ou fokos dans les régions montagneuses. Une combinaison de bâton de marche et d'outil polyvalent forestier, il aide à dégager les broussailles devant et fournit une protection si nécessaire."
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-sling",
+  "en": "A combination of a walking stick and a heavy-duty sling for ranged combat. \n<font color=\"#B3FFFFFF\"><i>Uses common stones as ammunition.</i></font>",
+  "fr": "Une combinaison d'un bâton de marche et d'une fronde robuste pour le combat à distance. \n<font color=\"#B3FFFFFF\"><i>Utilise des pierres communes comme munitions.</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-bismuth",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-bismuthbronze",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-blackbronze",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-copper",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-gold",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-iron",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-meteoriciron",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-silver",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-steel",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-survivalist-tinbronze",
+  "en": "A sharp walking aid that conserves energy while walking. \n<font color=\"#B3FFFFFF\"><i>Useful for cutting tall grass</i></font>",
+  "fr": "Un bâton de marche pointu qui conserve l'énergie en marchant. \n<font color=\"#B3FFFFFF\"><i>Utile pour couper l'herbe haute</i></font>"
+ },
+ {
+  "dom": "walkingstick",
+  "cle": "itemdesc-walkingstick-witch",
+  "en": "A charming walking aid that casts a warm, comforting light, easing the traveler’s burden with every step. \n<font color=\"#B3FFFFFF\"><i>Useful for starting fires.</i></font>",
+  "fr": "Un bâton de marche charmant qui projette une lumière douce et réconfortante, soulageant le fardeau du voyageur à chaque pas. \n<font color=\"#B3FFFFFF\"><i>Utile pour allumer des feux.</i></font>"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "apestonelantern-clean",
+  "en": "new",
+  "fr": "neuf"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "apestonelantern-cracked",
+  "en": "cracked",
+  "fr": "fissure"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "apestonelantern-mossy",
+  "en": "mossy",
+  "fr": "moussu"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "apestonelantern-rust",
+  "en": "rusty",
+  "fr": "rouille"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "apestonelantern-weathered",
+  "en": "weathered",
+  "fr": "usé par les intempéries"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-gothic1-plain-*",
+  "en": "Gothic style lantern (Unlit)",
+  "fr": "Lanterne style gothique (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-medieval2-plain-*",
+  "en": "Medieval style lantern (Unlit)",
+  "fr": "Lanterne style médiéval (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-medieval3-plain-*",
+  "en": "Medieval style lantern (Unlit)",
+  "fr": "Lanterne style médiéval (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-medieval4-plain-*",
+  "en": "Medieval style lantern (Unlit)",
+  "fr": "Lanterne style médiéval (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-medieval6-plain-*",
+  "en": "Medieval style lantern (Unlit)",
+  "fr": "Lanterne style médiéval (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-modern1-plain-*",
+  "en": "Modern style lantern (Unlit)",
+  "fr": "Lanterne style moderne (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-off-modern2-plain-*",
+  "en": "Modern style, tall lantern (Unlit)",
+  "fr": "Lanterne style moderne haute (éteinte)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-gothic1-plain-*",
+  "en": "Gothic style lantern (Lit)",
+  "fr": "Lanterne style gothique (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-medieval2-plain-*",
+  "en": "Medieval style lantern (Lit)",
+  "fr": "Lanterne style médiéval (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-medieval3-plain-*",
+  "en": "Medieval style lantern (Lit)",
+  "fr": "Lanterne style médiéval (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-medieval4-plain-*",
+  "en": "Medieval style lantern (Lit)",
+  "fr": "Lanterne style médiéval (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-medieval6-plain-*",
+  "en": "Medieval style lantern (Lit)",
+  "fr": "Lanterne style médiéval (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-modern1-plain-*",
+  "en": "Modern style lantern (Lit)",
+  "fr": "Lanterne style moderne (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apemetallantern-on-modern2-plain-*",
+  "en": "Modern style, tall lantern (Lit)",
+  "fr": "Lanterne style moderne haute (allumée)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apepaperitem-chubs-*",
+  "en": "Chubbs",
+  "fr": "Chubbs"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apepaperitem-saxon-*",
+  "en": "Saxon",
+  "fr": "Saxon"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apepaperlantern-off-*",
+  "en": "Unlit",
+  "fr": "Éteinte"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apepaperlantern-on-*",
+  "en": "Lit",
+  "fr": "Allumée"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apestonelantern-*-*-*-clean",
+  "en": "new",
+  "fr": "neuf"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apestonelantern-*-*-*-cracked",
+  "en": "cracked",
+  "fr": "fissure"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apestonelantern-*-*-*-mossy",
+  "en": "mossy",
+  "fr": "moussu"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apestonelantern-*-*-*-rust",
+  "en": "rusty",
+  "fr": "rouille"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-apestonelantern-*-*-*-weathered",
+  "en": "weathered",
+  "fr": "usé par les intempéries"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-floatinglantern-*",
+  "en": "Floating lantern",
+  "fr": "Lanterne flottante"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktext-apestonelantern-ikekomi-gata-oribe-*",
+  "en": "<br>Traditional Japanese garden lantern, also known as buried lanterns. Oribe-Gata is the most famous design of Ikekomi-Gata. Distinctive shape with a wide, flared top and a narrower base, often decorated with geometric patterns or floral motifs. Designed to be embedded or inserted into the ground.",
+  "fr": "<br>Lanterne traditionnelle de jardin japonais, également connue sous le nom de lanternes enfouies. Oribe-Gata est le design le plus célèbre d'Ikekomi-Gata. Forme distinctive avec un sommet large et évasé et une base plus étroite, souvent décorée de motifs géométriques ou floraux. Conçue pour être encastrée ou insérée dans le sol."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktext-apestonelantern-kodai-maru-yukimi-*",
+  "en": "<br>Traditional Japanese garden lantern, often called 'snow-viewing lanterns'. These low, squat lanterns have wide, flat tops designed to collect snow. Snow lanterns are so named as the generous diameter of the top lid protects the fire box underneath. This attractive granite lantern is most often used in oriental water basin arrangements and needs to be chosen with care to match the proportions of the water basin used.",
+  "fr": "<br>Lanterne traditionnelle de jardin japonais, souvent appelée « lanternes de visionnage de neige ». Ces lanternes basses et trapues ont des sommet larges et plats conçus pour collecter la neige. Les lanternes de neige sont ainsi nommées car le grand diamètre du dessus protège le foyer de feu en dessous. Cette élégante lanterne en granit est le plus souvent utilisée dans les arrangements de bassins d'eau orientaux et doit être choisie avec soin pour correspondre aux proportions du bassin d'eau utilisé."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktext-apestonelantern-okunoin-daitsuki-*",
+  "en": "<br>Traditional Japanese temple lantern. 'Okunoin' refers to the sacred area deep within a shrine, where important or hidden Buddhist statues are enshrined. Lanterns placed in these secluded areas, are called Okunoin-style lanterns. Distinctive shape with a wide, flared top with 'warabites' and a decorated base, often decorated with geometric patterns or floral motifs.",
+  "fr": "<br>Lanterne traditionnelle de temple japonais. « Okunoin » désigne la zone sacrée au plus profond d'un sanctuaire, où se trouvent des statues bouddhistes importantes ou cachées. Les lanternes placées dans ces zones isolées s'appellent lanternes de style Okunoin. Forme distinctive avec un sommet large et évasé avec « warabites » et une base décorée, souvent ornée de motifs géométriques ou floraux."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktext-apestonelantern-yukimi-doro-*",
+  "en": "<br>Traditional Japanese garden lantern, often called 'snow-viewing lanterns'. These low, squat lanterns have wide, flat tops designed to collect snow. Snow lanterns are so named as the generous diameter of the top lid protects the fire box underneath. This attractive granite lantern is most often used in oriental water basin arrangements and needs to be chosen with care to match the proportions of the water basin used.",
+  "fr": "<br>Lanterne traditionnelle de jardin japonais, souvent appelée « lanternes de visionnage de neige ». Ces lanternes basses et trapues ont des sommet larges et plats conçus pour collecter la neige. Les lanternes de neige sont ainsi nommées car le grand diamètre du dessus protège le foyer de feu en dessous. Cette élégante lanterne en granit est le plus souvent utilisée dans les arrangements de bassins d'eau orientaux et doit être choisie avec soin pour correspondre aux proportions du bassin d'eau utilisé."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktitle-apestonelantern-ikekomi-gata-oribe-*",
+  "en": "Ikekomi Dōrō",
+  "fr": "Ikekomi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktitle-apestonelantern-kodai-maru-yukimi-*",
+  "en": "Kodai Maru Yukimi Dōrō",
+  "fr": "Kodai Maru Yukimi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktitle-apestonelantern-okunoin-daitsuki-*",
+  "en": "Yukimi Dōrō",
+  "fr": "Yukimi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-handbooktitle-apestonelantern-yukimi-doro-*",
+  "en": "Yukimi Dōrō",
+  "fr": "Yukimi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-ashi-*",
+  "en": "Lantern base with legs",
+  "fr": "Base de lanterne avec pattes"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-chuudai-*",
+  "en": "Lantern firebox platform",
+  "fr": "Plateforme du foyer de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-hibukuro-*",
+  "en": "Lantern firebox",
+  "fr": "Foyer de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-houju-*",
+  "en": "Lantern roof jewel",
+  "fr": "Joyau du toit de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-kasa-*",
+  "en": "Lantern roof",
+  "fr": "Toit de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-kiso-*",
+  "en": "Lantern base plate",
+  "fr": "Plaque de base de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lanternparts-*-sao-*",
+  "en": "Lantern pillar",
+  "fr": "Pilier de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "block-lightlevel",
+  "en": "Lightlevel:",
+  "fr": "Niveau de lumière :"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "blockdesc-floatinglantern-*",
+  "en": "Place this directly on water",
+  "fr": "Placez ceci directement sur l'eau"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "blockhelp-behavior-dimmable-ctrl",
+  "en": "Dim the light",
+  "fr": "Réduire la luminosité"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "dimmable-help",
+  "en": "Ctrl + right click to dim the light",
+  "fr": "Ctrl + clic droit pour réduire la luminosité"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "floatinglantern",
+  "en": "Floating lantern",
+  "fr": "Lanterne flottante"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "floatinglantern-floating1",
+  "en": "Square",
+  "fr": "Carré"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "floatinglantern-floating2",
+  "en": "Octagon",
+  "fr": "Octogone"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "floatinglantern-floating3",
+  "en": "Boat",
+  "fr": "Bateau"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "floatinglantern-floating4",
+  "en": "Star",
+  "fr": "Étoile"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apepaperitem-handbook-help-text-chubs",
+  "en": "<br>Needs lots of cuddles, snackies and booping on the snuut.<br>Will gladly rest in your hands, or on top of your keyboard.<br>Demands total world domination, fried chicken and a clean litterbox.",
+  "fr": "<br>A besoin de beaucoup de câlins, de gâteries et de petits coups sur le museau.<br>Adorera se reposer dans vos mains, ou au-dessus de votre clavier.<br>Exige la domination totale du monde, du poulet frit et une litière propre."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apepaperitem-handbook-help-text-saxon",
+  "en": "<br><strong><i>The Old Man</i></strong><br>Overhead and ruler of the household.<br>",
+  "fr": "<br><strong><i>Le vieil homme</i></strong><br>Maître et souverain du foyer.<br>"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apepaperitem-handbook-help-title-chubs",
+  "en": "Chubbs",
+  "fr": "Chubbs"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apepaperitem-handbook-help-title-saxon",
+  "en": "Saxon",
+  "fr": "Saxon"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-text-daitsuki",
+  "en": "<br>Traditional Japanese temple lantern. 'Okunoin' refers to the sacred area deep within a shrine, where important or hidden Buddhist statues are enshrined. Lanterns placed in these secluded areas, are called Okunoin-style lanterns. Distinctive shape with a wide, flared top with 'warabites' and a decorated base, often decorated with geometric patterns or floral motifs.",
+  "fr": "<br>Lanterne traditionnelle de temple japonais. « Okunoin » désigne la zone sacrée au plus profond d'un sanctuaire, où se trouvent des statues bouddhistes importantes ou cachées. Les lanternes placées dans ces zones isolées s'appellent lanternes de style Okunoin. Forme distinctive avec un sommet large et évasé avec « warabites » et une base décorée, souvent ornée de motifs géométriques ou floraux."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-text-oribe",
+  "en": "<br>Traditional Japanese garden lantern, also known as buried lanterns. Oribe-Gata is the most famous design of Ikekomi-Gata. Distinctive shape with a wide, flared top and a narrower base, often decorated with geometric patterns or floral motifs. Designed to be embedded or inserted into the ground.",
+  "fr": "<br>Lanterne traditionnelle de jardin japonais, également connue sous le nom de lanternes enfouies. Oribe-Gata est le design le plus célèbre d'Ikekomi-Gata. Forme distinctive avec un sommet large et évasé et une base plus étroite, souvent décorée de motifs géométriques ou floraux. Conçue pour être encastrée ou insérée dans le sol."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-text-yukimi",
+  "en": "<br>Traditional Japanese garden lantern, often called 'snow-viewing lanterns'. These low, squat lanterns have wide, flat tops designed to collect snow. Snow lanterns are so named as the generous diameter of the top lid protects the fire box underneath. This attractive granite lantern is most often used in oriental water basin arrangements and needs to be chosen with care to match the proportions of the water basin used.",
+  "fr": "<br>Lanterne traditionnelle de jardin japonais, souvent appelée « lanternes de visionnage de neige ». Ces lanternes basses et trapues ont des sommet larges et plats conçus pour collecter la neige. Les lanternes de neige sont ainsi nommées car le grand diamètre du dessus protège le foyer de feu en dessous. Cette élégante lanterne en granit est le plus souvent utilisée dans les arrangements de bassins d'eau orientaux et doit être choisie avec soin pour correspondre aux proportions du bassin d'eau utilisé."
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-title-daitsuki",
+  "en": "Daitsuki Dōrō",
+  "fr": "Daitsuki Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-title-ikekomi-gata-oribe",
+  "en": "Ikekomi Dōrō",
+  "fr": "Ikekomi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-title-kodai-maru-yukimi",
+  "en": "Kodai Maru Yukimi Dōrō",
+  "fr": "Kodai Maru Yukimi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:apestonelantern-handbook-help-title-yukimi-doro",
+  "en": "Yukimi Dōrō",
+  "fr": "Yukimi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:incontainer-item-dye-cyan",
+  "en": "Cyan dye",
+  "fr": "Teinture cyan"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:item-dye-cyan",
+  "en": "Cyan dye",
+  "fr": "Teinture cyan"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:tabname-apefloatinglanterns",
+  "en": "Floating Lanterns",
+  "fr": "Lanternes flottantes"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:tabname-apelanterns",
+  "en": "More Lanterns",
+  "fr": "Plus de lanternes"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:tabname-apemetallanterns",
+  "en": "Metal Lanterns",
+  "fr": "Lanternes métalliques"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:tabname-apepaperlanterns",
+  "en": "Paper Lanterns",
+  "fr": "Lanternes en papier"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "game:tabname-apestonelanterns",
+  "en": "Stone Lanterns",
+  "fr": "Lanternes en pierre"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-blue",
+  "en": "Parchment (Blue)",
+  "fr": "Parchemin (Bleu)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-brown",
+  "en": "Parchment (Brown)",
+  "fr": "Parchemin (Marron)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-cyan",
+  "en": "Parchment (Cyan)",
+  "fr": "Parchemin (Cyan)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-green",
+  "en": "Parchment (Green)",
+  "fr": "Parchemin (Vert)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-orange",
+  "en": "Parchment (Orange)",
+  "fr": "Parchemin (Orange)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-pink",
+  "en": "Parchment (Pink)",
+  "fr": "Parchemin (Rose)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-purple",
+  "en": "Parchment (Purple)",
+  "fr": "Parchemin (Violet)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-red",
+  "en": "Parchment (Red)",
+  "fr": "Parchemin (Rouge)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-woad",
+  "en": "Parchment (Woad blue)",
+  "fr": "Parchemin (Bleu de gaude)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "item-colouredpaper-parchment-yellow",
+  "en": "Parchment (Yellow)",
+  "fr": "Parchemin (Jaune)"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-blue",
+  "en": "Blue",
+  "fr": "Bleu"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-brown",
+  "en": "Brown",
+  "fr": "Marron"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-cyan",
+  "en": "Cyan",
+  "fr": "Cyan"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-green",
+  "en": "Green",
+  "fr": "Vert"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-orange",
+  "en": "Orange",
+  "fr": "Orange"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-pink",
+  "en": "Pink",
+  "fr": "Rose"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-plain",
+  "en": "Plain",
+  "fr": "Uni"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-purple",
+  "en": "Purple",
+  "fr": "Violet"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-red",
+  "en": "Red",
+  "fr": "Rouge"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-woad",
+  "en": "Woad blue",
+  "fr": "Bleu de gaude"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanterncolor-yellow",
+  "en": "Yellow",
+  "fr": "Jaune"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-ashi",
+  "en": "Lantern base with legs",
+  "fr": "Base de lanterne avec pattes"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-chuudai",
+  "en": "Lantern firebox platform",
+  "fr": "Plateforme du foyer de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-hibukuro",
+  "en": "Lantern firebox",
+  "fr": "Foyer de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-houju",
+  "en": "Lantern roof jewel",
+  "fr": "Joyau du toit de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-kasa",
+  "en": "Lantern roof",
+  "fr": "Toit de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-kiso",
+  "en": "Lantern base plate",
+  "fr": "Plaque de base de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-sao",
+  "en": "Lantern pillar",
+  "fr": "Pilier de lanterne"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-style-daitsuki",
+  "en": "Daitsuki",
+  "fr": "Daitsuki"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-style-ikekomi",
+  "en": "Ikekomi",
+  "fr": "Ikekomi"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-style-maru",
+  "en": "Kodai Maru Yukimi",
+  "fr": "Kodai Maru Yukimi"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lanternparts-style-yukimi",
+  "en": "Yukimi",
+  "fr": "Yukimi"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lightl1",
+  "en": "Bright",
+  "fr": "Lumineux"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lightl2",
+  "en": "Normal",
+  "fr": "Normal"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lightl3",
+  "en": "Dim",
+  "fr": "Doux"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "lightl4",
+  "en": "Moody",
+  "fr": "Ambiance"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "paperlantern-basic",
+  "en": "Paper lantern",
+  "fr": "Lanterne en papier"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "paperlantern-chinese",
+  "en": "Decorated chinese paper lantern",
+  "fr": "Lanterne en papier décorée chinoise"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "paperlantern-chinese2",
+  "en": "Chinese paper lantern",
+  "fr": "Lanterne en papier chinoise"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "paperlantern-medieval1small",
+  "en": "Medieval style lantern",
+  "fr": "Lanterne style médiéval"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "paperlantern-off",
+  "en": "Unlit",
+  "fr": "Éteinte"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "paperlantern-on",
+  "en": "Lit",
+  "fr": "Allumée"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "rightclickpickup-help",
+  "en": "Right click to pick up",
+  "fr": "Clic droit pour ramasser"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "stonelantern-ikekomi-gata-oribe",
+  "en": "Oribe Ikekomi Dōrō",
+  "fr": "Oribe Ikekomi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "stonelantern-kodai-maru-yukimi",
+  "en": "Kodai Maru Yukimi Dōrō",
+  "fr": "Kodai Maru Yukimi Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "stonelantern-okunoin-daitsuki",
+  "en": "Okunoin Daitsuki Dōrō",
+  "fr": "Okunoin Daitsuki Dōrō"
+ },
+ {
+  "dom": "apelanterns",
+  "cle": "stonelantern-yukimi-doro",
+  "en": "Yukimi Dōrō",
+  "fr": "Yukimi Dōrō"
+ }
+]

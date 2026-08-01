@@ -1,0 +1,31 @@
+{
+  "champignons (unifies entre mods)": {
+    "Liberty Cap": "bonnet phrygien",
+    "Wavy Cap": "chapeau ondulé",
+    "Blue Meanie": "vilain bleu",
+    "Gold Cap": "chapeau doré",
+    "Laughing Jim": "Jim rieur",
+    "Honey Mushroom": "armillaire couleur de miel"
+  },
+  "fruits": {
+    "cactus fruit": "figue de Barbarie",
+    "cloudberry": "plaquebière",
+    "natal plum": "prune du Natal"
+  },
+  "general": {
+    "blend": "mélange",
+    "cured": "séché",
+    "chopped": "haché",
+    "pie": "tourte",
+    "flask": "flacon",
+    "brew": "décoction",
+    "potion": "potion",
+    "block": "bloc",
+    "handbook": "manuel",
+    "crafting": "artisanat",
+    "durability": "durabilité",
+    "loot": "butin",
+    "strong wine": "vin corsé",
+    "demijohn": "dame-jeanne"
+  }
+}

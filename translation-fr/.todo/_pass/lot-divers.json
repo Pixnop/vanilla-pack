@@ -1,0 +1,3290 @@
+[
+ {
+  "dom": "substrate",
+  "cle": "block-fruitingbag",
+  "en": "Fruiting Bag",
+  "fr": "Sac de fructification"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-growbed",
+  "en": "Growing Bed",
+  "fr": "Lit de culture"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-handbooktext-sporepaperprinted",
+  "en": "Obtained by placing four of the same mushroom onto <a href=\"handbooksearch://prepared spore paper\">prepared spore paper</a> and waiting for collection to complete.",
+  "fr": "Obtenu en plaçant quatre du même champignon sur du <a href=\"handbooksearch://prepared spore paper\">papier sporé préparé</a> et en attendant la fin de la collection."
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-handbooktitle-sporepaperprinted",
+  "en": "Imprinted Spore Paper",
+  "fr": "Papier sporé imprégné"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaper-*",
+  "en": "Prepared Spore Paper",
+  "fr": "Papier sporé préparé"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-almondmushroom-*",
+  "en": "Imprinted Spore Paper (Almond Mushroom)",
+  "fr": "Papier sporé imprégné (champignon amande)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-beardedtooth-*",
+  "en": "Imprinted Spore Paper (Bearded Tooth)",
+  "fr": "Papier sporé imprégné (dent barbue)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-bitterbolete-*",
+  "en": "Imprinted Spore Paper (Bitter Bolete)",
+  "fr": "Papier sporé imprégné (cèpe amer)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-blacktrumpet-*",
+  "en": "Imprinted Spore Paper (Black Trumpet)",
+  "fr": "Papier sporé imprégné (trompette noire)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-bluemeanie-*",
+  "en": "Imprinted Spore Paper (Blue Meanie)",
+  "fr": "Papier sporé imprégné (vilain bleu)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-chanterelle-*",
+  "en": "Imprinted Spore Paper (Chanterelle)",
+  "fr": "Papier sporé imprégné (chanterelle)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-chickenofthewoods-*",
+  "en": "Imprinted Spore Paper (Chicken of the Woods)",
+  "fr": "Papier sporé imprégné (poule des bois)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-commonmorel-*",
+  "en": "Imprinted Spore Paper (Common Morel)",
+  "fr": "Papier sporé imprégné (morille commune)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-deathcap-*",
+  "en": "Imprinted Spore Paper (Death Cap)",
+  "fr": "Papier sporé imprégné (amanite tue-mouche)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-deerear-*",
+  "en": "Imprinted Spore Paper (Deer Ear)",
+  "fr": "Papier sporé imprégné (oreille de cerf)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-devilbolete-*",
+  "en": "Imprinted Spore Paper (Devil's Bolete)",
+  "fr": "Papier sporé imprégné (cèpe du diable)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-devilstooth-*",
+  "en": "Imprinted Spore Paper (Devil's Tooth)",
+  "fr": "Papier sporé imprégné (dent du diable)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-dryadsaddle-*",
+  "en": "Imprinted Spore Paper (Dryad's Saddle)",
+  "fr": "Papier sporé imprégné (selle de dryade)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-earthball-*",
+  "en": "Imprinted Spore Paper (Earth Ball)",
+  "fr": "Papier sporé imprégné (vesse-de-loup)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-elfinsaddle-*",
+  "en": "Imprinted Spore Paper (Elfin Saddle)",
+  "fr": "Papier sporé imprégné (selle elfique)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-fieldmushroom-*",
+  "en": "Imprinted Spore Paper (Field Mushroom)",
+  "fr": "Papier sporé imprégné (champignon de champ)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-flyagaric-*",
+  "en": "Imprinted Spore Paper (Fly Agaric)",
+  "fr": "Papier sporé imprégné (amanite tue-mouche)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-foolsconecap-*",
+  "en": "Imprinted Spore Paper (Fool's Conecap)",
+  "fr": "Papier sporé imprégné (coiffe conique de fou)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-funeralbell-*",
+  "en": "Imprinted Spore Paper (Funeral Bell)",
+  "fr": "Papier sporé imprégné (cloche funéraire)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-goldcap-*",
+  "en": "Imprinted Spore Paper (Gold Cap)",
+  "fr": "Papier sporé imprégné (chapeau doré)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-golddropmilkcap-*",
+  "en": "Imprinted Spore Paper (Gold-drop Milkcap)",
+  "fr": "Papier sporé imprégné (lactaire doré)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-greencrackedrussula-*",
+  "en": "Imprinted Spore Paper (Green Cracked Russula)",
+  "fr": "Papier sporé imprégné (russula fissurée verte)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-honeymushroom-*",
+  "en": "Imprinted Spore Paper (Honey Mushroom)",
+  "fr": "Papier sporé imprégné (champignon miel)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-indigomilkcap-*",
+  "en": "Imprinted Spore Paper (Indigo Milkcap)",
+  "fr": "Papier sporé imprégné (lactaire indigo)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-jackolantern-*",
+  "en": "Imprinted Spore Paper (Jack-o'-lantern)",
+  "fr": "Papier sporé imprégné (jack-o'-lanterne)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-kingbolete-*",
+  "en": "Imprinted Spore Paper (King Bolete)",
+  "fr": "Papier sporé imprégné (cèpe royal)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-laughingjim-*",
+  "en": "Imprinted Spore Paper (Laughing Jim)",
+  "fr": "Papier sporé imprégné (Jim rieur)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-libertycap-*",
+  "en": "Imprinted Spore Paper (Liberty Cap)",
+  "fr": "Papier sporé imprégné (bonnet phrygien)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-livermushroom-*",
+  "en": "Imprinted Spore Paper (Liver Mushroom)",
+  "fr": "Papier sporé imprégné (champignon foie)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-lobster-*",
+  "en": "Imprinted Spore Paper (Lobster)",
+  "fr": "Papier sporé imprégné (homard)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-orangeoakbolete-*",
+  "en": "Imprinted Spore Paper (Orange Oak Bolete)",
+  "fr": "Papier sporé imprégné (cèpe des chênes orangé)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-paddystraw-*",
+  "en": "Imprinted Spore Paper (Paddy Straw)",
+  "fr": "Papier sporé imprégné (paille de riz)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-pinkbonnet-*",
+  "en": "Imprinted Spore Paper (Pink Bonnet)",
+  "fr": "Papier sporé imprégné (bonnet rose)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-pinkoyster-*",
+  "en": "Imprinted Spore Paper (Pink Oyster)",
+  "fr": "Papier sporé imprégné (huître rose)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-puffball-*",
+  "en": "Imprinted Spore Paper (Puffball)",
+  "fr": "Papier sporé imprégné (vesse-de-loup)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-redwinecap-*",
+  "en": "Imprinted Spore Paper (Red Wine Cap)",
+  "fr": "Papier sporé imprégné (coiffe vin rouge)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-reishi-*",
+  "en": "Imprinted Spore Paper (Reishi)",
+  "fr": "Papier sporé imprégné (reishi)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-saffronmilkcap-*",
+  "en": "Imprinted Spore Paper (Saffron Milkcap)",
+  "fr": "Papier sporé imprégné (lactaire safran)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-shiitake-*",
+  "en": "Imprinted Spore Paper (Shiitake)",
+  "fr": "Papier sporé imprégné (shiitake)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-sickener-*",
+  "en": "Imprinted Spore Paper (Sickener)",
+  "fr": "Papier sporé imprégné (agent de maladie)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-tinderhoof-*",
+  "en": "Imprinted Spore Paper (Tinder Hoof)",
+  "fr": "Papier sporé imprégné (sabot d'amadou)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-violetwebcap-*",
+  "en": "Imprinted Spore Paper (Violet Web Cap)",
+  "fr": "Papier sporé imprégné (cortinaire lilas)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-wavycap-*",
+  "en": "Imprinted Spore Paper (Wavy Cap)",
+  "fr": "Papier sporé imprégné (chapeau ondulé)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-whiteoyster-*",
+  "en": "Imprinted Spore Paper (White Oyster)",
+  "fr": "Papier sporé imprégné (huître blanche)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "block-sporepaperprinted-witchhat-*",
+  "en": "Imprinted Spore Paper (Witch's Hat)",
+  "fr": "Papier sporé imprégné (chapeau de sorcière)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-colonizing-hours",
+  "en": "<font color=\"orange\">Mycelium Colonizing.</font> {p0:Less than an hour|# hour|# hours} remaining",
+  "fr": "<font color=\"orange\">Mycélium en colonisation.</font> {p0:Moins d'une heure|# heure|# heures} restantes"
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-colonizing-interrupted",
+  "en": "<font color=\"red\">Colonizing Interrupted!</font>",
+  "fr": "<font color=\"red\">Colonisation interrompue !</font>"
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-inoculated-with",
+  "en": "Growing {0}",
+  "fr": "Culture de {0}"
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-insert-sporeprint",
+  "en": "Add Spore Print",
+  "fr": "Ajouter empreinte sporale"
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-insert-substrate",
+  "en": "Add Substrate",
+  "fr": "Ajouter substrat"
+ },
+ {
+  "dom": "substrate",
+  "cle": "fruitingbag-remaining-fertility",
+  "en": "<font color=\"green\">Fertility:</font> {0:0}%",
+  "fr": "<font color=\"green\">Fertilité :</font> {0:0}%"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sawdust",
+  "en": "Sawdust",
+  "fr": "Sciure"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-almondmushroom",
+  "en": "Spore Print (Almond Mushroom)",
+  "fr": "Empreinte sporale (champignon amande)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-beardedtooth",
+  "en": "Spore Print (Bearded Tooth)",
+  "fr": "Empreinte sporale (dent barbue)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-bitterbolete",
+  "en": "Spore Print (Bitter Bolete)",
+  "fr": "Empreinte sporale (cèpe amer)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-blacktrumpet",
+  "en": "Spore Print (Black Trumpet)",
+  "fr": "Empreinte sporale (trompette noire)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-bluemeanie",
+  "en": "Spore Print (Blue Meanie)",
+  "fr": "Empreinte sporale (vilain bleu)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-chanterelle",
+  "en": "Spore Print (Chanterelle)",
+  "fr": "Empreinte sporale (chanterelle)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-chickenofthewoods",
+  "en": "Spore Print (Chicken of the Woods)",
+  "fr": "Empreinte sporale (poule des bois)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-commonmorel",
+  "en": "Spore Print (Common Morel)",
+  "fr": "Empreinte sporale (morille commune)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-deathcap",
+  "en": "Spore Print (Death Cap)",
+  "fr": "Empreinte sporale (amanite tue-mouche)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-deerear",
+  "en": "Spore Print (Deer Ear)",
+  "fr": "Empreinte sporale (oreille de cerf)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-devilbolete",
+  "en": "Spore Print (Devil's Bolete)",
+  "fr": "Empreinte sporale (cèpe du diable)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-devilstooth",
+  "en": "Spore Print (Devil's Tooth)",
+  "fr": "Empreinte sporale (dent du diable)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-dryadsaddle",
+  "en": "Spore Print (Dryad's Saddle)",
+  "fr": "Empreinte sporale (selle de dryade)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-earthball",
+  "en": "Spore Print (Earth Ball)",
+  "fr": "Empreinte sporale (vesse-de-loup)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-elfinsaddle",
+  "en": "Spore Print (Elfin Saddle)",
+  "fr": "Empreinte sporale (selle elfique)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-fieldmushroom",
+  "en": "Spore Print (Field Mushroom)",
+  "fr": "Empreinte sporale (champignon de champ)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-flyagaric",
+  "en": "Spore Print (Fly Agaric)",
+  "fr": "Empreinte sporale (amanite tue-mouche)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-foolsconecap",
+  "en": "Spore Print (Fool's Conecap)",
+  "fr": "Empreinte sporale (coiffe conique de fou)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-funeralbell",
+  "en": "Spore Print (Funeral Bell)",
+  "fr": "Empreinte sporale (cloche funéraire)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-goldcap",
+  "en": "Spore Print (Gold Cap)",
+  "fr": "Empreinte sporale (chapeau doré)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-golddropmilkcap",
+  "en": "Spore Print (Gold-drop Milkcap)",
+  "fr": "Empreinte sporale (lactaire doré)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-greencrackedrussula",
+  "en": "Spore Print (Green Cracked Russula)",
+  "fr": "Empreinte sporale (russula fissurée verte)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-honeymushroom",
+  "en": "Spore Print (Honey Mushroom)",
+  "fr": "Empreinte sporale (champignon miel)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-indigomilkcap",
+  "en": "Spore Print (Indigo Milkcap)",
+  "fr": "Empreinte sporale (lactaire indigo)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-jackolantern",
+  "en": "Spore Print (Jack-o'-lantern)",
+  "fr": "Empreinte sporale (jack-o'-lanterne)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-kingbolete",
+  "en": "Spore Print (King Bolete)",
+  "fr": "Empreinte sporale (cèpe royal)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-laughingjim",
+  "en": "Spore Print (Laughing Jim)",
+  "fr": "Empreinte sporale (Jim rieur)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-libertycap",
+  "en": "Spore Print (Liberty Cap)",
+  "fr": "Empreinte sporale (bonnet phrygien)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-livermushroom",
+  "en": "Spore Print (Liver Mushroom)",
+  "fr": "Empreinte sporale (champignon foie)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-lobster",
+  "en": "Spore Print (Lobster)",
+  "fr": "Empreinte sporale (homard)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-orangeoakbolete",
+  "en": "Spore Print (Orange Oak Bolete)",
+  "fr": "Empreinte sporale (cèpe des chênes orangé)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-paddystraw",
+  "en": "Spore Print (Paddy Straw)",
+  "fr": "Empreinte sporale (paille de riz)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-pinkbonnet",
+  "en": "Spore Print (Pink Bonnet)",
+  "fr": "Empreinte sporale (bonnet rose)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-pinkoyster",
+  "en": "Spore Print (Pink Oyster)",
+  "fr": "Empreinte sporale (huître rose)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-puffball",
+  "en": "Spore Print (Puffball)",
+  "fr": "Empreinte sporale (vesse-de-loup)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-redwinecap",
+  "en": "Spore Print (Red Wine Cap)",
+  "fr": "Empreinte sporale (coiffe vin rouge)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-reishi",
+  "en": "Spore Print (Reishi)",
+  "fr": "Empreinte sporale (reishi)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-saffronmilkcap",
+  "en": "Spore Print (Saffron Milkcap)",
+  "fr": "Empreinte sporale (lactaire safran)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-shiitake",
+  "en": "Spore Print (Shiitake)",
+  "fr": "Empreinte sporale (shiitake)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-sickener",
+  "en": "Spore Print (Sickener)",
+  "fr": "Empreinte sporale (agent de maladie)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-tinderhoof",
+  "en": "Spore Print (Tinder Hoof)",
+  "fr": "Empreinte sporale (sabot d'amadou)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-violetwebcap",
+  "en": "Spore Print (Violet Web Cap)",
+  "fr": "Empreinte sporale (cortinaire lilas)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-wavycap",
+  "en": "Spore Print (Wavy Cap)",
+  "fr": "Empreinte sporale (chapeau ondulé)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-whiteoyster",
+  "en": "Spore Print (White Oyster)",
+  "fr": "Empreinte sporale (huître blanche)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-sporeprint-witchhat",
+  "en": "Spore Print (Witch's Hat)",
+  "fr": "Empreinte sporale (chapeau de sorcière)"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-wetsporepaper",
+  "en": "Sterilized Spore Paper",
+  "fr": "Papier sporé stérilisé"
+ },
+ {
+  "dom": "substrate",
+  "cle": "item-woodchip",
+  "en": "Wood Chip",
+  "fr": "Copeau de bois"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-almondmushroom",
+  "en": "Almond Mushroom",
+  "fr": "champignon amande"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-beardedtooth",
+  "en": "Bearded Tooth",
+  "fr": "dent barbue"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-bitterbolete",
+  "en": "Bitter Bolete",
+  "fr": "cèpe amer"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-blacktrumpet",
+  "en": "Black Trumpet",
+  "fr": "trompette noire"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-bluemeanie",
+  "en": "Blue Meanie",
+  "fr": "Vilain bleu"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-chanterelle",
+  "en": "Chanterelle",
+  "fr": "chanterelle"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-chickenofthewoods",
+  "en": "Chicken of the Woods",
+  "fr": "poule des bois"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-commonmorel",
+  "en": "Common Morel",
+  "fr": "morille commune"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-deathcap",
+  "en": "Death Cap",
+  "fr": "amanite tue-mouche"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-deerear",
+  "en": "Deer Ear",
+  "fr": "oreille de cerf"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-devilbolete",
+  "en": "Devil's Bolete",
+  "fr": "cèpe du diable"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-devilstooth",
+  "en": "Devil's Tooth",
+  "fr": "dent du diable"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-dryadsaddle",
+  "en": "Dryad's Saddle",
+  "fr": "selle de dryade"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-earthball",
+  "en": "Earth Ball",
+  "fr": "vesse-de-loup"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-elfinsaddle",
+  "en": "Elfin Saddle",
+  "fr": "selle elfique"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-fieldmushroom",
+  "en": "Field Mushroom",
+  "fr": "champignon de champ"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-flyagaric",
+  "en": "Fly Agaric",
+  "fr": "amanite tue-mouche"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-foolsconecap",
+  "en": "Fool's Conecap",
+  "fr": "coiffe conique de fou"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-funeralbell",
+  "en": "Funeral Bell",
+  "fr": "cloche funéraire"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-goldcap",
+  "en": "Gold Cap",
+  "fr": "Chapeau doré"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-golddropmilkcap",
+  "en": "Gold-drop Milkcap",
+  "fr": "lactaire doré"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-greencrackedrussula",
+  "en": "Green Cracked Russula",
+  "fr": "russula fissurée verte"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-honeymushroom",
+  "en": "Honey Mushroom",
+  "fr": "champignon miel"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-indigomilkcap",
+  "en": "Indigo Milkcap",
+  "fr": "lactaire indigo"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-jackolantern",
+  "en": "Jack-o'-lantern",
+  "fr": "jack-o'-lanterne"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-kingbolete",
+  "en": "King Bolete",
+  "fr": "cèpe royal"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-laughingjim",
+  "en": "Laughing Jim",
+  "fr": "Jim rieur"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-libertycap",
+  "en": "Liberty Cap",
+  "fr": "Bonnet phrygien"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-livermushroom",
+  "en": "Liver Mushroom",
+  "fr": "champignon foie"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-lobster",
+  "en": "Lobster",
+  "fr": "homard"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-orangeoakbolete",
+  "en": "Orange Oak Bolete",
+  "fr": "cèpe des chênes orangé"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-paddystraw",
+  "en": "Paddy Straw",
+  "fr": "paille de riz"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-pinkbonnet",
+  "en": "Pink Bonnet",
+  "fr": "bonnet rose"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-pinkoyster",
+  "en": "Pink Oyster",
+  "fr": "huître rose"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-puffball",
+  "en": "Puffball",
+  "fr": "vesse-de-loup"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-redwinecap",
+  "en": "Red Wine Cap",
+  "fr": "coiffe vin rouge"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-reishi",
+  "en": "Reishi",
+  "fr": "reishi"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-saffronmilkcap",
+  "en": "Saffron Milkcap",
+  "fr": "lactaire safran"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-shiitake",
+  "en": "Shiitake",
+  "fr": "shiitake"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-sickener",
+  "en": "Sickener",
+  "fr": "agent de maladie"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-tinderhoof",
+  "en": "Tinder Hoof",
+  "fr": "sabot d'amadou"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-violetwebcap",
+  "en": "Violet Web Cap",
+  "fr": "cortinaire lilas"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-wavycap",
+  "en": "Wavy Cap",
+  "fr": "Chapeau ondulé"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-whiteoyster",
+  "en": "White Oyster",
+  "fr": "huître blanche"
+ },
+ {
+  "dom": "substrate",
+  "cle": "mushroom-witchhat",
+  "en": "Witch's Hat",
+  "fr": "chapeau de sorcière"
+ },
+ {
+  "dom": "substrate",
+  "cle": "notice-cannot-grow-mushroom-with-block",
+  "en": "{0} can only grow in a {1}!",
+  "fr": "{0} ne peut croître que dans {1} !"
+ },
+ {
+  "dom": "substrate",
+  "cle": "notice-moldy",
+  "en": "The substrate has <font color=\"orange\">molded</font>! Break to recycle.",
+  "fr": "Le substrat s'est <font color=\"orange\">moisi</font> ! Cassez pour recycler."
+ },
+ {
+  "dom": "substrate",
+  "cle": "notice-no-available-grow-spots",
+  "en": "<font color=\"orange\">Lack of space to grow is causing fertility waste!</font>",
+  "fr": "<font color=\"orange\">Manque d'espace pour croître cause du gaspillage de fertilité !</font>"
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-clean-rot",
+  "en": "Clean Rot",
+  "fr": "Pourriture propre"
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-collecting-hours",
+  "en": "<font color=\"orange\">Collecting.</font> {p0:Less than an hour|# hour|# hours} remaining",
+  "fr": "<font color=\"orange\">Collection en cours.</font> {p0:Moins d'une heure|# heure|# heures} restantes"
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-collecting-progress",
+  "en": "<font color=\"orange\">Collecting.</font> {0}% collected",
+  "fr": "<font color=\"orange\">Collection en cours.</font> {0}% collectés"
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-insert-mushroom",
+  "en": "Place Mushroom",
+  "fr": "Placer champignon"
+ },
+ {
+  "dom": "substrate",
+  "cle": "sporepaper-take-mushroom",
+  "en": "Take Mushroom",
+  "fr": "Prendre champignon"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "additionaljewelry-tab-name",
+  "en": "Jewelry",
+  "fr": "Bijouterie"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canheadstand-*",
+  "en": "Headwear display",
+  "fr": "Présentoir pour coiffes"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-cannecklacestand-*",
+  "en": "Necklacewear display",
+  "fr": "Présentoir pour colliers"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-bismuthbronze",
+  "en": "Bismuthbronze pan",
+  "fr": "Poêle en bronze de bismuth"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-blackbronze",
+  "en": "Blackbronze pan",
+  "fr": "Poêle en bronze noir"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-copper",
+  "en": "Copper pan",
+  "fr": "Poêle en cuivre"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-gold",
+  "en": "Gold pan",
+  "fr": "Poêle en or"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-meteoriciron",
+  "en": "Meteoriciron pan",
+  "fr": "Poêle en fer météorique"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-silver",
+  "en": "Silver pan",
+  "fr": "Poêle en argent"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "block-canpan-tinbronze",
+  "en": "Tinbronze pan",
+  "fr": "Poêle en bronze d'étain"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "buff-name-animalHarvestingTime",
+  "en": "<font color=\"#99c9f9\">animal harvesting time</font>",
+  "fr": "<font color=\"#99c9f9\">temps de récolte animale</font>"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "clothcategory-LeftEarrings",
+  "en": "LeftEarrings",
+  "fr": "Oreille gauche"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "clothcategory-LeftPalm",
+  "en": "LeftPalm",
+  "fr": "Paume gauche"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "clothcategory-Nose",
+  "en": "Nose",
+  "fr": "Nez"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "clothcategory-RightEarrings",
+  "en": "RightEarrings",
+  "fr": "Oreille droite"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "clothcategory-RightPalm",
+  "en": "RightPalm",
+  "fr": "Paume droite"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "extract-gem-destroyed",
+  "en": "The gem shattered during extraction.",
+  "fr": "La pierre précieuse s'est brisée lors de l'extraction."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "extract-gem-downgraded",
+  "en": "The gem was damaged — you recovered a smaller one.",
+  "fr": "La pierre précieuse a été endommagée — vous avez récupéré une plus petite."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "extract-jewelry-destroyed",
+  "en": "The jewelry broke during extraction.",
+  "fr": "Le bijou s'est cassé lors de l'extraction."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "extract-socket-destroyed",
+  "en": "The socket was destroyed during removal.",
+  "fr": "La monture a été détruite lors du retrait."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "extract-socket-has-gem",
+  "en": "Extract the gem before removing the socket.",
+  "fr": "Extrayez la pierre précieuse avant de retirer la monture."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "grinding-process-percent",
+  "en": "Grinding progress: {0}%",
+  "fr": "Progrès du meulage : {0}%"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "grinding-process-stage",
+  "en": "Grinder processing stage #{0}",
+  "fr": "Étape {0} du traitement du moulin"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "horuseyenecklace-parts-with-gem-held-info",
+  "en": "Strap: {0}, cloth: {1}, gem: {2}",
+  "fr": "Sangle : {0}, tissu : {1}, pierre précieuse : {2}"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-canearrings-left-gemstuddedearrings",
+  "en": " Gem Studded Earrings",
+  "fr": " boucles d'oreilles serties de gemmes"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-canearrings-left-keys",
+  "en": " Earrings-Keys",
+  "fr": " boucles d'oreilles-clés"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-canearrings-right-gemstuddedearrings",
+  "en": " Gem Studded Earrings",
+  "fr": " boucles d'oreilles serties de gemmes"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-canearrings-right-keys",
+  "en": " Earrings-Keys",
+  "fr": " boucles d'oreilles-clés"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-cannadiyannecklace-leather",
+  "en": "Cannadiyan leather necklace",
+  "fr": "collier Cannadiyan en cuir"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-cannadiyannecklace-metal",
+  "en": "Cannadiyan metal necklace",
+  "fr": "collier Cannadiyan en métal"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-cannosering",
+  "en": " nose ring",
+  "fr": " bague de nez"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-canring",
+  "en": " ring",
+  "fr": " bague"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-cansocket-gold",
+  "en": "Gold socket",
+  "fr": "Monture en or"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-cansocket-silver",
+  "en": "Silver socket",
+  "fr": "Monture en argent"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-cut-exquisite-pearl",
+  "en": "Great cut pearl",
+  "fr": "Perle de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-cut-flawless-pearl",
+  "en": "Medium cut pearl",
+  "fr": "Perle de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-cut-normal-pearl",
+  "en": "Small cut pearl",
+  "fr": "Perle de petite taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-berylaquamarine",
+  "en": "Small rough aquamarine",
+  "fr": "Petite aigue-marine brute"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-berylbixbite",
+  "en": "Small rough bixbite",
+  "fr": "Petit bixbite brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-corundumruby",
+  "en": "Small rough ruby",
+  "fr": "Petit rubis brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-corundumsapphire",
+  "en": "Small rough sapphire",
+  "fr": "Petit saphir brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-garnetalmandine",
+  "en": "Small rough almandine",
+  "fr": "Petite almandine brute"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-garnetandradite",
+  "en": "Small rough andradite",
+  "fr": "Petit andradite brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-garnetgrossular",
+  "en": "Small rough grossular",
+  "fr": "Petit grossulaire brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-garnetpyrope",
+  "en": "Small rough pyrope",
+  "fr": "Petit pyrope brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-garnetspessartine",
+  "en": "Small rough spessartine",
+  "fr": "Petite spessartine brute"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-garnetuvarovite",
+  "en": "Small rough uvarovite",
+  "fr": "Petit uvarovite brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-pearl",
+  "en": "Small pearl",
+  "fr": "Petite perle"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-spinelred",
+  "en": "Small rough red spinel",
+  "fr": "Petit spinelle rouge brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-topazamber",
+  "en": "Small rough amber topaz",
+  "fr": "Petit topaze ambre brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-topazblue",
+  "en": "Small rough blue topaz",
+  "fr": "Petit topaze bleu brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-topazpink",
+  "en": "Small rough pink topaz",
+  "fr": "Petit topaze rose brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-tourmalinerubellite",
+  "en": "Small rough rubellite",
+  "fr": "Petite rubellite brute"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-tourmalineschorl",
+  "en": "Small rough schorl",
+  "fr": "Petit schorl brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-tourmalineverdelite",
+  "en": "Small rough verdelite",
+  "fr": "Petite verdelite brute"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-chipped-tourmalinewatermelon",
+  "en": "Small rough watermelon tourmaline",
+  "fr": "Petit tourmaline pastèque brut"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-berylaquamarine",
+  "en": "Medium rough aquamarine",
+  "fr": "Aigue-marine brute de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-berylbixbite",
+  "en": "Medium rough bixbite",
+  "fr": "Bixbite brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-corundumruby",
+  "en": "Medium rough ruby",
+  "fr": "Rubis brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-corundumsapphire",
+  "en": "Medium rough sapphire",
+  "fr": "Saphir brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-garnetalmandine",
+  "en": "Medium rough almandine",
+  "fr": "Almandine brute de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-garnetandradite",
+  "en": "Medium rough andradite",
+  "fr": "Andradite brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-garnetgrossular",
+  "en": "Medium rough grossular",
+  "fr": "Grossulaire brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-garnetpyrope",
+  "en": "Medium rough pyrope",
+  "fr": "Pyrope brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-garnetspessartine",
+  "en": "Medium rough spessartine",
+  "fr": "Spessartine brute de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-garnetuvarovite",
+  "en": "Medium rough uvarovite",
+  "fr": "Uvarovite brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-pearl",
+  "en": "Medium pearl",
+  "fr": "Perle de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-spinelred",
+  "en": "Medium rough red spinel",
+  "fr": "Spinelle rouge brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-topazamber",
+  "en": "Medium rough amber topaz",
+  "fr": "Topaze ambre brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-topazblue",
+  "en": "Medium rough blue topaz",
+  "fr": "Topaze bleu brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-topazpink",
+  "en": "Medium rough pink topaz",
+  "fr": "Topaze rose brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-tourmalinerubellite",
+  "en": "Medium rough rubellite",
+  "fr": "Rubellite brute de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-tourmalineschorl",
+  "en": "Medium rough schorl",
+  "fr": "Schorl brut de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-tourmalineverdelite",
+  "en": "Medium rough verdelite",
+  "fr": "Verdelite brute de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-flawed-tourmalinewatermelon",
+  "en": "Medium rough watermelon tourmaline",
+  "fr": "Tourmaline pastèque brute de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-berylaquamarine",
+  "en": "Great rough aquamarine",
+  "fr": "Aigue-marine brute de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-berylbixbite",
+  "en": "Great rough bixbite",
+  "fr": "Bixbite brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-corundumruby",
+  "en": "Great rough ruby",
+  "fr": "Rubis brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-corundumsapphire",
+  "en": "Great rough sapphire",
+  "fr": "Saphir brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-garnetalmandine",
+  "en": "Great rough almandine",
+  "fr": "Almandine brute de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-garnetandradite",
+  "en": "Great rough andradite",
+  "fr": "Andradite brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-garnetgrossular",
+  "en": "Great rough grossular",
+  "fr": "Grossulaire brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-garnetpyrope",
+  "en": "Great rough pyrope",
+  "fr": "Pyrope brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-garnetspessartine",
+  "en": "Great rough spessartine",
+  "fr": "Spessartine brute de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-garnetuvarovite",
+  "en": "Great rough uvarovite",
+  "fr": "Uvarovite brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-pearl",
+  "en": "Great pearl",
+  "fr": "Grande perle"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-spinelred",
+  "en": "Great rough red spinel",
+  "fr": "Spinelle rouge brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-topazamber",
+  "en": "Great rough amber topaz",
+  "fr": "Topaze ambre brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-topazblue",
+  "en": "Great rough blue topaz",
+  "fr": "Topaze bleu brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-topazpink",
+  "en": "Great rough pink topaz",
+  "fr": "Topaze rose brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-tourmalinerubellite",
+  "en": "Great rough rubellite",
+  "fr": "Rubellite brute de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-tourmalineschorl",
+  "en": "Great rough schorl",
+  "fr": "Schorl brut de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-tourmalineverdelite",
+  "en": "Great rough verdelite",
+  "fr": "Verdelite brute de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-gem-rough-normal-tourmalinewatermelon",
+  "en": "Great rough watermelon tourmaline",
+  "fr": "Tourmaline pastèque brute de grande taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-glasses",
+  "en": " glasses",
+  "fr": " lunettes"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-simple-necklace",
+  "en": " necklace",
+  "fr": " collier"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "item-tiara",
+  "en": " tiara",
+  "fr": " tiare"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "itemdesc-cansocket-1",
+  "en": "Small gems only",
+  "fr": "Petites pierres uniquement"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "itemdesc-cansocket-2",
+  "en": "Small and Medium gems",
+  "fr": "Petites et moyennes pierres"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "itemdesc-cansocket-3",
+  "en": "Small, Medium and Great gems",
+  "fr": "Petites, moyennes et grandes pierres"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-add-socket",
+  "en": "Set",
+  "fr": "Définir"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-buffs",
+  "en": "Buffs",
+  "fr": "Bonus"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-compatible-gems",
+  "en": "Compatible gems",
+  "fr": "Pierres précieuses compatibles"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-cut",
+  "en": "Cut",
+  "fr": "Taille"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-drag-to-rotate",
+  "en": "Drag to rotate",
+  "fr": "Glissez pour faire tourner"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-durability",
+  "en": "Durability",
+  "fr": "Durabilité"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-extract",
+  "en": "Extract",
+  "fr": "Extraire"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-extract-confirm-body",
+  "en": "Extracting gem from \"{0}\".\n\n{1}%% chance to recover the cut gem.\n{2}%% chance to BREAK the item itself.\n\nProceed?",
+  "fr": "Extraction de la pierre précieuse de \"{0}\".\n\n{1}%% de chance de récupérer la pierre taillée.\n{2}%% de chance de CASSER l'objet lui-même.\n\nContinuer ?"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-extract-confirm-no",
+  "en": "Cancel",
+  "fr": "Annuler"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-extract-confirm-title",
+  "en": "Confirm extraction",
+  "fr": "Confirmer l'extraction"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-extract-confirm-yes",
+  "en": "Extract",
+  "fr": "Extraire"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-extract-tooltip",
+  "en": "Extract the gem from this socket.\n\n{0}%% chance to recover the cut gem.\n{1}%% chance to BREAK the jewelry/armor itself.\n\nThe socket survives - only the gem is removed.",
+  "fr": "Extrayez la pierre précieuse de cette monture.\n\n{0}%% de chance de récupérer la pierre taillée.\n{1}%% de chance de CASSER le bijou/l'armure elle-même.\n\nLa monture survit - seule la pierre précieuse est retirée."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-gems",
+  "en": "Gems",
+  "fr": "Pierres précieuses"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-incompatible",
+  "en": "Gem doesn't fit this socket",
+  "fr": "La pierre précieuse ne s'adapte pas à cette monture"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-inscribe-btn",
+  "en": "Inscribe",
+  "fr": "Graver"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-inscribe-locked",
+  "en": "Requires the Inscriber skill.",
+  "fr": "Nécessite la compétence Graveur."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-inscription",
+  "en": "Inscription",
+  "fr": "Inscription"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-inscription-hint",
+  "en": "Permanent. Letters, digits, basic punctuation. Max 32 characters.",
+  "fr": "Permanent. Lettres, chiffres, ponctuation basique. Maximum 32 caractères."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-item",
+  "en": "Item",
+  "fr": "Objet"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-no-buffs",
+  "en": "No active buffs.",
+  "fr": "Aucun bonus actif."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-no-item",
+  "en": "No item",
+  "fr": "Pas d'objet"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-no-sockets",
+  "en": "This item has no sockets.",
+  "fr": "Cet objet n'a pas de montures."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-place-item-hint",
+  "en": "Place a socketable jewelry item to begin.",
+  "fr": "Placez un objet de bijouterie monté pour commencer."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-place-item-slot-hint",
+  "en": "Place a socketable jewelry item.",
+  "fr": "Placez un objet de bijouterie monté."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-remove-socket",
+  "en": "Remove socket",
+  "fr": "Retirer la monture"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-remove-socket-confirm-body",
+  "en": "Removing socket from \"{0}\".\n\n{1}%% chance to recover the socket item.\nThe jewelry/armor is not damaged.\n\nProceed?",
+  "fr": "Retrait de la monture de \"{0}\".\n\n{1}%% de chance de récupérer l'objet monture.\nLe bijou/l'armure n'est pas endommagé.\n\nContinuer ?"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-remove-socket-confirm-title",
+  "en": "Confirm socket removal",
+  "fr": "Confirmer le retrait de la monture"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-remove-socket-tooltip",
+  "en": "Pull this empty socket back out.\n\n{0}%% chance to recover the socket item.\nThe jewelry/armor is not damaged. A socket holding a gem cannot be removed - extract the gem first.",
+  "fr": "Retirez cette monture vide.\n\n{0}%% de chance de récupérer l'objet monture.\nLe bijou/l'armure n'est pas endommagé. Une monture contenant une pierre précieuse ne peut pas être retirée - extrayez la pierre d'abord."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-set-gem",
+  "en": "Set",
+  "fr": "Définir"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-socket-slot-hint",
+  "en": "Place a socket here.\n\nThis slot takes sockets up to tier {0} ({1}).",
+  "fr": "Placez une monture ici.\n\nCet emplacement accepte les montures jusqu'au niveau {0} ({1})."
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-sockets",
+  "en": "Sockets",
+  "fr": "Montures"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-stats",
+  "en": "Stats",
+  "fr": "Statistiques"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-swap",
+  "en": "Swap",
+  "fr": "Échanger"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-tier1-desc",
+  "en": "bronze, small gem",
+  "fr": "bronze, petite pierre"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-tier2-desc",
+  "en": "gold/iron, medium gem",
+  "fr": "or/fer, pierre de taille moyenne"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-tier3-desc",
+  "en": "steel, large gem",
+  "fr": "acier, grande pierre"
+ },
+ {
+  "dom": "canjewelry",
+  "cle": "jewelerset-title",
+  "en": "Jeweler's Set",
+  "fr": "Ensemble du bijoutier"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-bighookmold-earthyorange-fired",
+  "en": "Earthy orange ceramic hook mold",
+  "fr": "Moule de crochet en céramique orange terreux"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-bottle-clay-earthyorange-*",
+  "en": "Earthy orange ceramic bottle",
+  "fr": "Bouteille en céramique orange terreux"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-cauldron-bismuthbronze",
+  "en": "Bismuth bronze cauldron",
+  "fr": "Chaudron en bronze bismuth"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-cauldronmini-bismuthbronze",
+  "en": "Small bismuth bronze cauldron",
+  "fr": "Petit chaudron en bronze bismuth"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-cauldronminimold-earthyorange-fired",
+  "en": "Earthy orange ceramic small cauldron mold",
+  "fr": "Moule de petit chaudron en céramique orange terreux"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-mixingbowl-earthyorange",
+  "en": "Earthy orange ceramic mixing bowl",
+  "fr": "Bol à mélanger en céramique orange terreux"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-saucepan-earthyorange-fired",
+  "en": "Earthy orange ceramic saucepan",
+  "fr": "Casserole en céramique orange terreux"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-spile-bismuthbronze-*",
+  "en": "Bismuth bronze spile",
+  "fr": "Robinet en bronze bismuth"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "block-spilemold-earthyorange-fired",
+  "en": "Earthy orange ceramic spile mold",
+  "fr": "Moule de robinet en céramique orange terreux"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "game:tradingwindow-trader-female-kitchenware-*",
+  "en": "Local goods - {0} the kitchenware trader",
+  "fr": "Biens locaux - {0} la marchande d'ustensiles de cuisine"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "game:tradingwindow-trader-male-kitchenware-*",
+  "en": "Local goods - {0} the kitchenware trader",
+  "fr": "Biens locaux - {0} le marchand d'ustensiles de cuisine"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-bighook-bismuthbronze",
+  "en": "Large hook (bismuth bronze)",
+  "fr": "Grand crochet (bronze bismuth)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-clothes-head-l33that",
+  "en": "l33t chef's hat",
+  "fr": "Chapeau de chef l33t"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-clothes-waist-l33tapron",
+  "en": "l33t chef's apron",
+  "fr": "Tablier de chef l33t"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-creature-trader-*-kitchenware-cold",
+  "en": "Kitchenware trader (cold)",
+  "fr": "Marchand d'ustensiles de cuisine (froid)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-creature-trader-*-kitchenware-desert",
+  "en": "Kitchenware trader (desert)",
+  "fr": "Marchand d'ustensiles de cuisine (désert)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-creature-trader-*-kitchenware-temperate",
+  "en": "Kitchenware trader (temperate)",
+  "fr": "Marchand d'ustensiles de cuisine (tempéré)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktext-chefhead",
+  "en": "Also known as a <i>toque blanche</i>, this hat was worn by members of the ancient Gastronomist's Guild to signal their rank and political neutrality to the rest of society. As the world turned to rot, the venerable Gastronomist's toque became little more than a relic, never to grace a warm kitchen again. Hands that once grasped rolling pins and frying pans instead had to wield sword and shield to protect the dying hearth.",
+  "fr": "Aussi connue sous le nom de <i>toque blanche</i>, ce chapeau était porté par les membres de l'ancienne Guilde des Gastronomistes pour signaler leur rang et leur neutralité politique au reste de la société. Alors que le monde tombait en ruines, la vénérable toque du Gastronomiste n'est devenue rien d'autre qu'une relique, plus jamais destinée à orner une cuisine chaleureuse. Les mains qui autrefois saisissaient des rouleaux à pâtisserie et des poêles à frire devaient plutôt manier l'épée et le bouclier pour protéger l'âtre mourant."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktext-l33tapron",
+  "en": "Any unknown person caught wearing the black cotton apron of the highest-ranking gastronomists was harshly punished. To be worthy of the dark regalia, many chefs toiled away for decades - but the right combination of vision and practical experience was hard to acquire. Entire generations went by without any elite gastronomists. Each swore a vow unto the ancient <i>'Source Culinaire'</i> before taking the black and renouncing their former identities, fully consigning their lives to the advancement of culinary enlightenment.",
+  "fr": "Toute personne inconnue trouvée portant le tablier de coton noir des gastronomistes les plus haut placés était sévèrement punie. Pour être digne de la sombre livrée, de nombreux chefs se sont usés pendant des décennies - mais la bonne combinaison de vision et d'expérience pratique était difficile à acquérir. Des générations entières ont passé sans aucun gastronomiste d'élite. Chacun a juré un vœu envers l'ancienne <i>'Source Culinaire'</i> avant de revêtir le noir et de renoncer à leurs anciennes identités, consacrant entièrement leur vie à l'avancement de l'illumination culinaire."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktext-l33that",
+  "en": "The fell <i>toque noire</i> has only graced the brows of royal gastronomists. Fearless knights of sensation, the most elite chefs are as at home in the frigid wilds as they are in a boiling kitchen, pushing the horizons of taste and elegance with exquisite precision. These paragons were relentlessly nomadic, never content to limit themselves to a singular court, and their stately hats ensured they had free reign in any kitchen.",
+  "fr": "La redoutable <i>toque noire</i> n'a orné que les fronts des gastronomistes royaux. Chevaliers intrépides de la sensation, les chefs les plus prestigieux sont aussi à l'aise dans les terres froides et sauvages que dans une cuisine bouillante, repoussant les horizons du goût et de l'élégance avec une précision exquise. Ces parangons étaient inlassablement nomades, jamais satisfaits de se limiter à une seule cour, et leurs chapeaux majestueux leur assuraient un libre accès dans n'importe quelle cuisine."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktitle-chefhead",
+  "en": "Chef's hat",
+  "fr": "Chapeau de chef"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktitle-l33tapron",
+  "en": "l33t chef's apron",
+  "fr": "Tablier de chef l33t"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-handbooktitle-l33that",
+  "en": "l33t chef's hat",
+  "fr": "Chapeau de chef l33t"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-hoovedwearables-head-l33t-bridle1",
+  "en": "Bridle with snaffle bit (l33t chef's hat)",
+  "fr": "Bride avec mors de filet (chapeau de chef l33t)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-hoovedwearables-head-l33t-bridle2",
+  "en": "Bridle with curb bit (l33t chef's hat)",
+  "fr": "Bride avec mors de chaîne (chapeau de chef l33t)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-hoovedwearables-head-white-bridle1",
+  "en": "Bridle with snaffle bit (Chef's hat)",
+  "fr": "Bride avec mors de filet (chapeau de chef)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-hoovedwearables-head-white-bridle2",
+  "en": "Bridle with curb bit (Chef's hat)",
+  "fr": "Bride avec mors de chaîne (chapeau de chef)"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-rollingpin-bismuthbronze",
+  "en": "Bismuth bronze rolling pin",
+  "fr": "Rouleau à pâtisserie en bronze bismuth"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-rollingpin-lightaged",
+  "en": "Light aged rolling pin",
+  "fr": "Rouleau à pâtisserie légèrement vieilli"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "item-rollingpin-veryaged",
+  "en": "Very aged rolling pin",
+  "fr": "Rouleau à pâtisserie très vieilli"
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "itemdesc-clothes-head-c-*",
+  "en": "Seize the day, one spoonful at a time.",
+  "fr": "Saisissez le jour, une cuillerée à la fois."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "itemdesc-clothes-head-l33that",
+  "en": "The blackened crown christening an elite Gastronomist.",
+  "fr": "La couronne noircie consacrant un Gastronomiste d'élite."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "itemdesc-clothes-waist-l33tapron",
+  "en": "The royal apron, herald of an elite Gastronomist.",
+  "fr": "Le tablier royal, héraut d'un Gastronomiste d'élite."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "itemdesc-hoovedwearables-head-*-bridle1",
+  "en": "Useful for precise, short distance travel.",
+  "fr": "Utile pour les voyages précis et de courte distance."
+ },
+ {
+  "dom": "aculinaryartillery",
+  "cle": "itemdesc-hoovedwearables-head-*-bridle2",
+  "en": "Useful for long distance travel.",
+  "fr": "Utile pour les voyages de longue distance."
+ },
+ {
+  "dom": "farseer",
+  "cle": "color-tint-a",
+  "en": "Color tint (A)",
+  "fr": "Teinte de couleur (A)"
+ },
+ {
+  "dom": "farseer",
+  "cle": "color-tint-b",
+  "en": "Color tint (B)",
+  "fr": "Teinte de couleur (B)"
+ },
+ {
+  "dom": "farseer",
+  "cle": "color-tint-g",
+  "en": "Color tint (G)",
+  "fr": "Teinte de couleur (G)"
+ },
+ {
+  "dom": "farseer",
+  "cle": "color-tint-r",
+  "en": "Color tint (R)",
+  "fr": "Teinte de couleur (R)"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-separator-main-title",
+  "en": "Farseer Server Configuration",
+  "fr": "Configuration du serveur Farseer"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-chunkgenqueuethreshold-comment",
+  "en": "If more than this number of chunks are currently being generated, halts generating any far terrain heightmaps until that number is lower again. Prevents server overload. Max Value: 2000.",
+  "fr": "Si plus de ce nombre de chunks sont actuellement générés, arrête la génération de toute carte de hauteur de terrain lointain jusqu'à ce que ce nombre soit plus bas. Prévient la surcharge du serveur. Valeur max : 2000."
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-chunkgenqueuethreshold-name",
+  "en": "Chunk Generation Queue Threshold",
+  "fr": "Seuil de file d'attente de génération de chunks"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-disableprogresslogging-comment",
+  "en": "If true, stops spamming the Server Log with far region generation progress reports.",
+  "fr": "Si true, arrête de remplir le journal du serveur avec des rapports de progression de génération de région lointaine."
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-disableprogresslogging-name",
+  "en": "Disable Progress Logging",
+  "fr": "Désactiver la journalisation de progression"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-genrealchunks-comment",
+  "en": "If true, generates and saves actual chunks up until the set 'far view distance'. When false, only chunks within normal view distance are saved.",
+  "fr": "Si true, génère et sauvegarde les chunks réels jusqu'à la distance de vue définie. Si false, seuls les chunks dans la distance de vue normale sont sauvegardés."
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-genrealchunks-name",
+  "en": "Generate Real Chunks",
+  "fr": "Générer les chunks réels"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-heightmapgridsize-comment",
+  "en": "Increasing this will make heightmaps more detailed, but also increase the file size and bandwidth use exponentially. Value should be a power of two (32, 64, 128, 256...). 512 is the max value, and samples the heightmap at every block. If changing this on an existing world, be sure to remove the database file for that world first (VintageStoryData/Farseer Directory) to reset existing regions.",
+  "fr": "Augmenter cela rendra les cartes de hauteur plus détaillées, mais augmentera aussi la taille des fichiers et l'utilisation de la bande passante de façon exponentielle. La valeur doit être une puissance de deux (32, 64, 128, 256...). 512 est la valeur maximale et échantillonne la carte de hauteur à chaque bloc. Si vous changez ceci sur un monde existant, assurez-vous de supprimer d'abord le fichier de base de données pour ce monde (VintageStoryData/Répertoire Farseer) pour réinitialiser les régions existantes."
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-heightmapgridsize-name",
+  "en": "Heightmap Grid Size",
+  "fr": "Taille de la grille de la carte de hauteur"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-maxclientviewdistance-comment",
+  "en": "Limits the max view distance of all players so they can't eat up all of the disk space. Increase this on the server to increase view distance for players. Ignored in Singleplayer and in 'Open to LAN' worlds. Players can see the server-side limit in the Farseer config UI. If they set their far view distance higher than the limit, the server will make sure the limit is enforced anyway.",
+  "fr": "Limite la distance de vue maximale de tous les joueurs afin qu'ils ne puissent pas utiliser tout l'espace disque. Augmentez ceci sur le serveur pour augmenter la distance de vue pour les joueurs. Ignoré en mode Solitaire et dans les mondes 'Ouverts au LAN'. Les joueurs peuvent voir la limite du côté serveur dans l'interface de configuration de Farseer. S'ils définissent leur distance de vue lointaine plus haute que la limite, le serveur s'assurera que la limite est appliquée de toute façon."
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-setting-maxclientviewdistance-name",
+  "en": "Max Client View Distance",
+  "fr": "Distance de vue maximale du client"
+ },
+ {
+  "dom": "farseer",
+  "cle": "config-title",
+  "en": "Farseer settings",
+  "fr": "Paramètres Farseer"
+ },
+ {
+  "dom": "farseer",
+  "cle": "enabled",
+  "en": "Enable far terrain",
+  "fr": "Activer le terrain lointain"
+ },
+ {
+  "dom": "farseer",
+  "cle": "fade-bias",
+  "en": "Fade bias",
+  "fr": "Biais de fondu"
+ },
+ {
+  "dom": "farseer",
+  "cle": "globe-effect",
+  "en": "Globe effect",
+  "fr": "Effet de globe"
+ },
+ {
+  "dom": "farseer",
+  "cle": "light-level-bias",
+  "en": "Light level influence",
+  "fr": "Influence du niveau de lumière"
+ },
+ {
+  "dom": "farseer",
+  "cle": "reset",
+  "en": "Reset to defaults",
+  "fr": "Réinitialiser aux valeurs par défaut"
+ },
+ {
+  "dom": "farseer",
+  "cle": "sky-tint",
+  "en": "Sky tint",
+  "fr": "Teinte du ciel"
+ },
+ {
+  "dom": "farseer",
+  "cle": "toggle-config",
+  "en": "Toggle Farseer settings window",
+  "fr": "Basculer la fenêtre de paramètres Farseer"
+ },
+ {
+  "dom": "farseer",
+  "cle": "view-distance",
+  "en": "Far view distance",
+  "fr": "Distance de vue lointaine"
+ },
+ {
+  "dom": "farseer",
+  "cle": "view-distance-with-max",
+  "en": "Far view distance (Max {0})",
+  "fr": "Distance de vue lointaine (Max {0})"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.CommandsAllowed",
+  "en": "Allows use of /tox commands",
+  "fr": "Autorise l'utilisation des commandes /tox"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.DamageReductionIntoxRangeBottom",
+  "en": "Threshold after which damage reduction is given",
+  "fr": "Seuil à partir duquel la réduction de dégâts est accordée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.DamageReductionIntoxRangeTop",
+  "en": "Threshold after which damage reduction is no longer given",
+  "fr": "Seuil au-delà duquel la réduction de dégâts n'est plus accordée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.DamageReductionMax",
+  "en": "The maximum damage reduction that intoxication can provide",
+  "fr": "La réduction de dégâts maximale que l'intoxication peut fournir"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.DecayRate",
+  "en": "How quickly intoxication decays (this is carefully tuned, adjusting IntoxicationSpeed is preferred)",
+  "fr": "La vitesse à laquelle l'intoxication diminue (ceci est soigneusement réglé, il est préférable d'ajuster la vitesse d'intoxication)"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.Enabled",
+  "en": "Enable SlowTox intoxication behavior",
+  "fr": "Activer le comportement d'intoxication SlowTox"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.HabitualToleranceChangeRate",
+  "en": "The rate at which tolerance adjusts based on habits",
+  "fr": "La vitesse à laquelle la tolérance s'ajuste en fonction des habitudes"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.HealthRegenIntoxRangeBottom",
+  "en": "Threshold after which health regeneration is given",
+  "fr": "Seuil à partir duquel la régénération de santé est accordée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.HealthRegenIntoxRangeTop",
+  "en": "Threshold after which health regeneration is no longer given",
+  "fr": "Seuil au-delà duquel la régénération de santé n'est plus accordée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.HealthRegenRateMax",
+  "en": "The maximum health regeneration rate that intoxication can provide",
+  "fr": "Le taux de régénération de santé maximal que l'intoxication peut fournir"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.IgnoreSmallDamageChanceMax",
+  "en": "The maximum chance to ignore small damage",
+  "fr": "La chance maximale d'ignorer les petits dégâts"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.IntakeRate",
+  "en": "How quickly intoxication builds up (this is carefully tuned, adjusting IntoxicationSpeed is preferred)",
+  "fr": "La vitesse à laquelle l'intoxication s'accumule (ceci est soigneusement réglé, il est préférable d'ajuster la vitesse d'intoxication)"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.IntoxicationSpeed",
+  "en": "The overall rate at which intoxicants are processed",
+  "fr": "La vitesse globale à laquelle les intoxicants sont traités"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.OverintoxicationThreshold",
+  "en": "Threshold after which intoxication causes self-damage",
+  "fr": "Seuil au-delà duquel l'intoxication cause des dégâts au soi"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.StabilityRegenIntoxRangeBottom",
+  "en": "Threshold after which stability regeneration is given",
+  "fr": "Seuil à partir duquel la régénération de stabilité est accordée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.StabilityRegenIntoxRangeTop",
+  "en": "Threshold after which stability regeneration is no longer given",
+  "fr": "Seuil au-delà duquel la régénération de stabilité n'est plus accordée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.StabilityRegenRateMax",
+  "en": "The maximum stability regeneration rate that intoxication can provide",
+  "fr": "Le taux de régénération de stabilité maximal que l'intoxication peut fournir"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.StrengthBonusMultiplierIntoxRangeBottom",
+  "en": "Threshold after which strength bonus is given",
+  "fr": "Seuil à partir duquel le bonus de force est accordé"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.StrengthBonusMultiplierIntoxRangeTop",
+  "en": "Threshold after which strength bonus is no longer given",
+  "fr": "Seuil au-delà duquel le bonus de force n'est plus accordé"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.StrengthBonusMultiplierMax",
+  "en": "The maximum strength bonus that intoxication can provide",
+  "fr": "Le bonus de force maximal que l'intoxication peut fournir"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.WalkSpeedPenaltyIntoxBeginApply",
+  "en": "The intoxication level at which the walk speed penalty begins to apply",
+  "fr": "Le niveau d'intoxication auquel la pénalité de vitesse de marche commence à s'appliquer"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.WalkSpeedPenaltyIntoxFullApply",
+  "en": "The intoxication level at which the walk speed penalty is fully applied",
+  "fr": "Le niveau d'intoxication auquel la pénalité de vitesse de marche est entièrement appliquée"
+ },
+ {
+  "dom": "slowtox",
+  "cle": "slowtox:Config.Setting.WalkSpeedPenaltyMax",
+  "en": "The maximum walk speed penalty that intoxication can cause",
+  "fr": "La pénalité de vitesse de marche maximale que l'intoxication peut causer"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "This item cannot be placed in this container.",
+  "en": "This item cannot be placed in this container.",
+  "fr": "Cet objet ne peut pas être placé dans ce conteneur."
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "This item is not of the same type as the item in the container!",
+  "en": "This item is not of the same type as the item in the container!",
+  "fr": "Cet objet n'est pas du même type que l'objet dans le conteneur !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-belthooks-*",
+  "en": "Belt Hooks",
+  "fr": "Crochets à ceintures"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-blanketrack-*",
+  "en": "Blanket Rack",
+  "fr": "Présentoir de couvertures"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-butterflydisplaypanel-*",
+  "en": "Butterfly Display Panel",
+  "fr": "Panneau d'affichage de papillons"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-clothrack-*",
+  "en": "Cloth Rack",
+  "fr": "Présentoir de tissu"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-gearrack-*",
+  "en": "Gear Rack",
+  "fr": "Présentoir d'engrenages"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-glidermount-*",
+  "en": "Glider Mount",
+  "fr": "Support de planeur"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-gloverack-*",
+  "en": "Glove Rack",
+  "fr": "Présentoir de gants"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-hatrack-*",
+  "en": "Hat Rack",
+  "fr": "Présentoir de chapeaux"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-medallionrack-*",
+  "en": "Medallion Rack",
+  "fr": "Présentoir de médaillons"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-necklacestand-*",
+  "en": "Necklace Stand",
+  "fr": "Support de collier"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-pantsrack-*",
+  "en": "Pants Rack",
+  "fr": "Présentoir de pantalons"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-resourcebin-*",
+  "en": "Resource Bin",
+  "fr": "Bac à ressources"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-roperack-*",
+  "en": "Rope Rack",
+  "fr": "Présentoir de cordes"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-saddlerack-*",
+  "en": "Saddle Rack",
+  "fr": "Présentoir de selles"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-schematicrack-*",
+  "en": "Schematic Rack",
+  "fr": "Présentoir de schémas"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-shoerack-*",
+  "en": "Shoe Rack",
+  "fr": "Présentoir de chaussures"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-spearrack-*",
+  "en": "Spear Rack",
+  "fr": "Présentoir de lances"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-swordpedestal-*",
+  "en": "Sword Pedestal",
+  "fr": "Piédestal d'épée"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-swordplaque-*",
+  "en": "Sword Plaque",
+  "fr": "Plaque d'épée"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-tuningcylinderrack-normal-*",
+  "en": "Tuning Cylinder Rack",
+  "fr": "Présentoir de cylindres d'accordage"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-tuningcylinderrack-stand-*",
+  "en": "Tuning Cylinder Stand",
+  "fr": "Support de cylindres d'accordage"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-wardrobe-normal-*",
+  "en": "Wardrobe",
+  "fr": "Garde-robe"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-wardrobe-wooden-*",
+  "en": "Wooden Wardrobe",
+  "fr": "Garde-robe en bois"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "block-weaponrack-*",
+  "en": "Weapon Rack",
+  "fr": "Présentoir d'armes"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "blockdesc-canhold-title",
+  "en": "Can hold:",
+  "fr": "Peut contenir :"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "game:tabname-purposefulstorage",
+  "en": "Purposeful Storage",
+  "fr": "Rangement utile"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-belthooks",
+  "en": "Can hold all belts!",
+  "fr": "Peut contenir toutes les ceintures !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-blanketrack",
+  "en": "Can hold all blankets!",
+  "fr": "Peut contenir toutes les couvertures !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-butterflydisplaypanel",
+  "en": "Display your butterflies!",
+  "fr": "Affiche vos papillons !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-clothrack",
+  "en": "Store your cloth!",
+  "fr": "Stockez votre tissu !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-gearrack",
+  "en": "Can hold gears!",
+  "fr": "Peut contenir des engrenages !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-glidermount",
+  "en": "A mount for your glider!",
+  "fr": "Un support pour votre planeur !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-gloverack",
+  "en": "Can hold most gloves, braces and bracelets!",
+  "fr": "Peut contenir la plupart des gants, des bracards et des bracelets !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-hatrack",
+  "en": "Can hold most hats!",
+  "fr": "Peut contenir la plupart des chapeaux !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-medallionrack",
+  "en": "Display your elk medallions & clothing emblems!",
+  "fr": "Affichez vos médaillons d'élan et vos emblèmes vestimentaires !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-necklacestand",
+  "en": "Can hold most necklaces!",
+  "fr": "Peut contenir la plupart des colliers !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-pantsrack",
+  "en": "Can hold all sorts of pants!",
+  "fr": "Peut contenir toutes sortes de pantalons !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-resourcebin",
+  "en": "Can hold dry grass & thatch, sticks, stones, coal/quartz, flax twine/fibers, peat, compost, ore chunks, nuggets & bits, and most powder-y stuff!",
+  "fr": "Peut contenir de l'herbe sèche et de la paille, des bâtons, des pierres, du charbon/quartz, de la ficelle de lin/fibres, de la tourbe, du compost, des morceaux de minerai, des pépites et des bits, et la plupart des trucs poudreusement !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-roperack",
+  "en": "Store your ropes!",
+  "fr": "Stockez vos cordes !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-saddlerack",
+  "en": "Free your elk from the saddle!",
+  "fr": "Libérez votre élan de la selle !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-schematicrack",
+  "en": "Display your schematics!",
+  "fr": "Affichez vos schémas !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-shoerack",
+  "en": "Can hold all shoes!",
+  "fr": "Peut contenir toutes les chaussures !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-spearrack",
+  "en": "Leave your spears at an accessible place!",
+  "fr": "Laissez vos lances dans un endroit accessible !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-swordpedestal",
+  "en": "Display your swords!",
+  "fr": "Affichez vos épées !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-swordplaque",
+  "en": "Hang your favorite sword!",
+  "fr": "Accrochez votre épée préférée !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-tuningcylinderrack",
+  "en": "Can hold tuning cylinders!",
+  "fr": "Peut contenir des cylindres d'accordage !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-wardrobe",
+  "en": "Can hold most types of upperbody and lowerbody clothes and well as most shoes!",
+  "fr": "Peut contenir la plupart des types de vêtements de taille haute et basse, ainsi que la plupart des chaussures !"
+ },
+ {
+  "dom": "purposefulstorage",
+  "cle": "helddesc-weaponrack",
+  "en": "Can hold most long weapons!",
+  "fr": "Peut contenir la plupart des armes longues !"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "block-cairn-travertine-*",
+  "en": " Travertine cairn",
+  "fr": " Cairn de travertin"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "heldhelp-removetrampleprotection",
+  "en": "Remove trample protection",
+  "fr": "Retirer la protection contre le piétinement"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "heldhelp-trampleprotectblock",
+  "en": "Add trample protection",
+  "fr": "Ajouter une protection contre le piétinement"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "hotkey-toggleoverlay",
+  "en": "Toggle Trowel Overlay",
+  "fr": "Basculer la surimpression de truelle"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-bismuthbronze",
+  "en": "Bismuth bronze garden trowel",
+  "fr": "Truelle de jardin en bronze bismuth"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-blackbronze",
+  "en": "Black bronze garden trowel",
+  "fr": "Truelle de jardin en bronze noir"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-copper",
+  "en": "Copper garden trowel",
+  "fr": "Truelle de jardin en cuivre"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-gold",
+  "en": "Gold garden trowel",
+  "fr": "Truelle de jardin en or"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-iron",
+  "en": "Iron garden trowel",
+  "fr": "Truelle de jardin en fer"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-meteoriciron",
+  "en": "Meteoric iron garden trowel",
+  "fr": "Truelle de jardin en fer météorique"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-silver",
+  "en": "Silver garden trowel",
+  "fr": "Truelle de jardin en argent"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-steel",
+  "en": "Steel garden trowel",
+  "fr": "Truelle de jardin en acier"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowel-tinbronze",
+  "en": "Tin bronze garden trowel",
+  "fr": "Truelle de jardin en bronze d'étain"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-bismuthbronze",
+  "en": "Bismuth bronze trowel head",
+  "fr": "Tête de truelle en bronze bismuth"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-blackbronze",
+  "en": "Black bronze trowel head",
+  "fr": "Tête de truelle en bronze noir"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-copper",
+  "en": "Copper trowel head",
+  "fr": "Tête de truelle en cuivre"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-gold",
+  "en": "Gold trowel head",
+  "fr": "Tête de truelle en or"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-iron",
+  "en": "Iron trowel head",
+  "fr": "Tête de truelle en fer"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-meteoriciron",
+  "en": "Meteoric iron trowel head",
+  "fr": "Tête de truelle en fer météorique"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-silver",
+  "en": "Silver trowel head",
+  "fr": "Tête de truelle en argent"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-steel",
+  "en": "Steel trowel head",
+  "fr": "Tête de truelle en acier"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "item-trowelhead-tinbronze",
+  "en": "Tin bronze trowel head",
+  "fr": "Tête de truelle en bronze d'étain"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "itemdesc-trowel-*",
+  "en": "<font color=\"#99c9f9\"><i>Used to mark blocks as trample protected gardens.</i></font>",
+  "fr": "<font color=\"#99c9f9\"><i>Utilisée pour marquer les blocs comme des jardins protégés contre le piétinement.</i></font>"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "overlay-off",
+  "en": "Trowel overlay: OFF",
+  "fr": "Surimpression de truelle : DÉSACTIVÉE"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "overlay-on",
+  "en": "Trowel overlay: ON",
+  "fr": "Surimpression de truelle : ACTIVÉE"
+ },
+ {
+  "dom": "trailmod",
+  "cle": "trowel-handbook-help-text",
+  "en": "The garden trowel allows you to mark soil and plant blocks as trample protected, which means they will never be trampled and will not develop trails no matter how much you walk on them. <hk>rightmouse</hk> click on a block with the garden trowel in your hands to give the block trample protection. <hk>leftmouse</hk> click to remove the trample protection.\n\nIf you trample protect a plant or flower, the soil block below it will also be trample protected.",
+  "fr": "La truelle de jardin vous permet de marquer les blocs de sol et de plante comme protégés contre le piétinement, ce qui signifie qu'ils ne seront jamais piétinés et ne développeront pas de sentiers peu importe combien vous marchez dessus. <hk>Clic droit</hk> sur un bloc avec la truelle de jardin en main pour donner une protection contre le piétinement au bloc. <hk>Clic gauche</hk> pour retirer la protection contre le piétinement.\n\nSi vous protégez une plante ou une fleur contre le piétinement, le bloc de sol en dessous sera également protégé contre le piétinement."
+ },
+ {
+  "dom": "trailmod",
+  "cle": "trowel-handbook-help-title",
+  "en": "How to use",
+  "fr": "Comment utiliser"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "Missing large jar.",
+  "en": "<font color=\"orange\">Missing large jar.</font>",
+  "fr": "<font color=\"orange\">Grande jarre manquante.</font>"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "Only Jars can be placed on this stand.",
+  "en": "Only Jars can be placed on this stand.",
+  "fr": "Seules les jarres peuvent être placées sur ce support."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "Only Large Jars can be placed on this rack.",
+  "en": "Only Large Jars can be placed on this rack.",
+  "fr": "Seules les grandes jarres peuvent être placées sur ce présentoir."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "block-ceilingrack-*",
+  "en": "Ceiling Rack",
+  "fr": "Présentoir de plafond"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "block-jar-*",
+  "en": "Jar",
+  "fr": "Jarre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "block-jarlarge-*",
+  "en": "Large Jar",
+  "fr": "Grande jarre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "block-jarstand-*",
+  "en": "Jar Stand",
+  "fr": "Support de jarre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "blockdesc-ceilingrack-text",
+  "en": "  -Large Jar. Can hold everything a Large Jar can.",
+  "fr": "  -Grande jarre. Peut contenir tout ce qu'une grande jarre peut contenir."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "blockdesc-jarstand-text",
+  "en": "  -Jars.",
+  "fr": "  -Jarres."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "blockhelp-behavior-shiftrightclickpickup",
+  "en": "Pickup",
+  "fr": "Prendre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "helddesc-ceilingrack",
+  "en": "Food placed in the Large Jar within this Ceiling Rack dries or melts 2.5x faster, and stays fresh for 30% longer. Grain stored in it is fresh for 35% longer than in a Storage Vessel.",
+  "fr": "La nourriture placée dans la grande jarre à l'intérieur de ce présentoir de plafond sèche ou fond 2,5 fois plus vite, et reste fraîche 30% plus longtemps. Les céréales y stockées restent fraîches 35% plus longtemps que dans un récipient de stockage."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "helddesc-jar",
+  "en": "Food placed in the Jar dries or melts 2.5x faster, and stays fresh for 30% longer. Grain stored in it is fresh for 35% longer than in a Storage Vessel.",
+  "fr": "La nourriture placée dans la jarre sèche ou fond 2,5 fois plus vite, et reste fraîche 30% plus longtemps. Les céréales y stockées restent fraîches 35% plus longtemps que dans un récipient de stockage."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "helddesc-jarlarge",
+  "en": "Food placed in the Large Jar dries or melts 2.5x faster, and stays fresh for 30% longer. Grain stored in it is fresh for 35% longer than in a Storage Vessel.",
+  "fr": "La nourriture placée dans la grande jarre sèche ou fond 2,5 fois plus vite, et reste fraîche 30% plus longtemps. Les céréales y stockées restent fraîches 35% plus longtemps que dans un récipient de stockage."
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-0",
+  "en": "Bottom left",
+  "fr": "En bas à gauche"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-1",
+  "en": "Bottom center",
+  "fr": "En bas au centre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-2",
+  "en": "Bottom right",
+  "fr": "En bas à droite"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-3",
+  "en": "Middle left",
+  "fr": "Au milieu à gauche"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-4",
+  "en": "Middle center",
+  "fr": "Au milieu au centre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-5",
+  "en": "Middle right",
+  "fr": "Au milieu à droite"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-6",
+  "en": "Top left",
+  "fr": "En haut à gauche"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-7",
+  "en": "Top center",
+  "fr": "En haut au centre"
+ },
+ {
+  "dom": "foodshelves",
+  "cle": "segmentnum-coolingcabinet-8",
+  "en": "Top right",
+  "fr": "En haut à droite"
+ },
+ {
+  "dom": "wool",
+  "cle": "game:handbook-leggings-game",
+  "en": "Knitted from very fine deer and goat wool, collected from warm underbelly fleece.",
+  "fr": "Tricotées à partir d'une très fine laine de cerf et de chèvre, collectée sur la toison chaude du ventre."
+ },
+ {
+  "dom": "wool",
+  "cle": "game:handbook-leggings-mohair",
+  "en": "Knitted from the finest white angora goat wool.",
+  "fr": "Tricotées à partir de la plus fine laine de chèvre angora blanche."
+ },
+ {
+  "dom": "wool",
+  "cle": "game:handbook-leggings-noble",
+  "en": "Knitted from expensive wool dyed pink. The latest noble fashion loved by princes and princesses alike.",
+  "fr": "Tricotées à partir d'une laine chère teinte en rose. La dernière mode des nobles adorée par les princes et princesses."
+ },
+ {
+  "dom": "wool",
+  "cle": "game:handbook-leggings-qivuit",
+  "en": "Rare and expensive musk ox wool knitted into excellence.",
+  "fr": "Laine rare et chère de boeuf musqué tricotée à la perfection."
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:handbook-description",
+  "en": "Description",
+  "fr": "Description"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-clothes-lowerbody-leggings-game",
+  "en": "Warm hunter leggings",
+  "fr": "Jambières chaudes de chasseur"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-clothes-lowerbody-leggings-mohair",
+  "en": "Warm mohair leggings",
+  "fr": "Jambières chaudes de mohair"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-clothes-lowerbody-leggings-noble",
+  "en": "Warm noble leggings",
+  "fr": "Jambières chaudes nobles"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-clothes-lowerbody-leggings-qivuit",
+  "en": "Warm qivuit leggings",
+  "fr": "Jambières chaudes de qivuit"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-fertilizer-organic-feather",
+  "en": "Feathermeal",
+  "fr": "Farine de plumes"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-fertilizer-organic-fish",
+  "en": "Fishmeal",
+  "fr": "Farine de poisson"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-fertilizer-organic-horn",
+  "en": "Horn shavings",
+  "fr": "Poudre de corne"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:item-fertilizer-organic-wool",
+  "en": "Organic wool fertilizer",
+  "fr": "Engrais organique de laine"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:itemdesc-fertilizer-organic-feather",
+  "en": "An organic fertilizer made from bird feathers and down.",
+  "fr": "Un engrais organique fait à partir de plumes et duvet d'oiseaux."
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:itemdesc-fertilizer-organic-fish",
+  "en": "An organic fertilizer made from dried fish.",
+  "fr": "Un engrais organique fait à partir de poisson séché."
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:itemdesc-fertilizer-organic-horn",
+  "en": "An organic fertilizer made from animal horn.",
+  "fr": "Un engrais organique fait à partir de corne animale."
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:itemdesc-fertilizer-organic-wool",
+  "en": "Made from raw unwashed animal hair and fleece.",
+  "fr": "Fait à partir de poils d'animaux et de toison bruts et non lavés."
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:setting_enable_gazelle_drops",
+  "en": "Additional gazelle drops",
+  "fr": "Drops supplémentaires de gazelle"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:setting_enable_gazelle_drops_comment",
+  "en": "Should dead gazelles drop fleece?",
+  "fr": "Les gazelles mortes doivent-elles lâcher de la toison ?"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:setting_enable_soil",
+  "en": "Upgrade soil fertility",
+  "fr": "Améliorer la fertilité du sol"
+ },
+ {
+  "dom": "wool",
+  "cle": "wool:setting_enable_soil_comment",
+  "en": "Can higher fertility soil be crafted with organic fertilizer?",
+  "fr": "Un sol de fertilité plus élevée peut-il être fabriqué avec de l'engrais organique ?"
+ },
+ {
+  "dom": "carryon",
+  "cle": "attached-block-no-clearance",
+  "en": "Not enough clearance to place carried block with attached wall signs",
+  "fr": "Pas assez de place pour poser le bloc transporté avec ses pancartes murales"
+ },
+ {
+  "dom": "carryon",
+  "cle": "block-has-attached-blocks",
+  "en": "Cannot place carried block here while it has attached signs",
+  "fr": "Impossible de poser le bloc transporté ici tant qu'il porte des pancartes"
+ },
+ {
+  "dom": "carryon",
+  "cle": "despawn-in",
+  "en": "Despawns in {0} days",
+  "fr": "Disparaît dans {0} jours"
+ },
+ {
+  "dom": "carryon",
+  "cle": "dropped-ago",
+  "en": "Dropped {0} ago",
+  "fr": "Lâché il y a {0}"
+ },
+ {
+  "dom": "carryon",
+  "cle": "dropped-block",
+  "en": "Dropped {0}",
+  "fr": "{0} lâché"
+ },
+ {
+  "dom": "carryon",
+  "cle": "dropped-by",
+  "en": "Dropped by: {0}",
+  "fr": "Lâché par : {0}"
+ },
+ {
+  "dom": "carryon",
+  "cle": "duration-days",
+  "en": "{0}d",
+  "fr": "{0} j"
+ },
+ {
+  "dom": "carryon",
+  "cle": "duration-hours",
+  "en": "{0}h",
+  "fr": "{0} h"
+ },
+ {
+  "dom": "carryon",
+  "cle": "duration-minutes",
+  "en": "{0}m",
+  "fr": "{0} min"
+ },
+ {
+  "dom": "carryon",
+  "cle": "duration-seconds",
+  "en": "{0}s",
+  "fr": "{0} s"
+ },
+ {
+  "dom": "carryon",
+  "cle": "entityhelp-pickup-carriedblock",
+  "en": "Pick up dropped block",
+  "fr": "Ramasser le bloc lâché"
+ },
+ {
+  "dom": "carryon",
+  "cle": "grace-period-left",
+  "en": "Owner pickup: {0} left",
+  "fr": "Réservé au propriétaire : {0} restant"
+ },
+ {
+  "dom": "carryon",
+  "cle": "offline-player",
+  "en": "(Offline Player)",
+  "fr": "(Joueur hors ligne)"
+ },
+ {
+  "dom": "carryon",
+  "cle": "pick-up-already-carrying",
+  "en": "You are already carrying something in your hands.",
+  "fr": "Vous transportez déjà quelque chose dans les mains."
+ },
+ {
+  "dom": "carryon",
+  "cle": "pick-up-failed-no-permission",
+  "en": "You do not have permission to pick up this block",
+  "fr": "Vous n'avez pas la permission de ramasser ce bloc"
+ },
+ {
+  "dom": "carryon",
+  "cle": "pickup-not-owner",
+  "en": "This dropped block belongs to another player",
+  "fr": "Ce bloc lâché appartient à un autre joueur"
+ },
+ {
+  "dom": "carryon",
+  "cle": "place-down-failed-claimed",
+  "en": "You do not have permission to place the carried block here",
+  "fr": "Vous n'avez pas la permission de poser le bloc transporté ici"
+ },
+ {
+  "dom": "carryon",
+  "cle": "place-down-failed-notenoughspace",
+  "en": "Not enough clearance to place block here",
+  "fr": "Pas assez de place pour poser le bloc ici"
+ },
+ {
+  "dom": "carryon",
+  "cle": "unsupported-attachment",
+  "en": "Cannot place carried block here, attached wall sign has no support",
+  "fr": "Impossible de poser le bloc ici, la pancarte murale n'a aucun support"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "game:itemdesc-clothes-nadiya-waist-miner-accessories",
+  "en": "Provides dim light when worn.",
+  "fr": "Émet une faible lumière lorsqu'il est porté."
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "game:tabname-ceramics",
+  "en": "Ceramics",
+  "fr": "Céramiques"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "game:tabname-panels",
+  "en": "Panels",
+  "fr": "Panneaux"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:handbook-item-down",
+  "en": "Down and quill pieces from bird feathers.",
+  "fr": "Duvet et fragments de plumes d'oiseaux."
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:item-down-plain",
+  "en": "Down",
+  "fr": "Duvet"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:item-ruler-veryaged",
+  "en": "Rotten ruler",
+  "fr": "Règle pourrie"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:itemdesc-down-plain",
+  "en": "Plucked feathers.",
+  "fr": "Plumes arrachées."
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:setting_enable_vs_recipe_patches",
+  "en": "Enable patching VS recipes",
+  "fr": "Activer la modification des recettes de VS"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:setting_enable_vs_recipe_patches_comment",
+  "en": "Patch vanilla VS recipes to use Tailor's Delight items like needles or leather?",
+  "fr": "Modifier les recettes d'origine de VS pour qu'elles utilisent les objets de Tailor's Delight, aiguilles ou cuir par exemple ?"
+ },
+ {
+  "dom": "tailorsdelight",
+  "cle": "tailorsdelight:settings_patches",
+  "en": "Patches",
+  "fr": "Modifications"
+ },
+ {
+  "dom": "hydrateordiedrate",
+  "cle": "hydrateordiedrate:Config.Setting.ShowPrimingStrokes",
+  "en": "Show priming state when looking at hand pump.",
+  "fr": "Afficher l'état d'amorçage en regardant la pompe à main."
+ },
+ {
+  "dom": "hydrateordiedrate",
+  "cle": "hydrateordiedrate:Config.Setting.WellOutputInfo",
+  "en": "Show output info of wellspring in tooltips (both on wellspring itself as connected winches and pumps)",
+  "fr": "Afficher le débit de la source dans les infobulles, sur la source elle-même comme sur les treuils et pompes reliés"
+ },
+ {
+  "dom": "hydrateordiedrate",
+  "cle": "hydrateordiedrate:drinking",
+  "en": "Drinking",
+  "fr": "Boire"
+ },
+ {
+  "dom": "hydrateordiedrate",
+  "cle": "hydrateordiedrate:wellspring-output",
+  "en": "Wellspring output:",
+  "fr": "Débit de la source :"
+ },
+ {
+  "dom": "dressmakers",
+  "cle": "dressmakers:handbook-description",
+  "en": "Description",
+  "fr": "Description"
+ },
+ {
+  "dom": "dressmakers",
+  "cle": "dressmakers:setting_enable_nadiyan_wool",
+  "en": "Wool & More Nadiyan recipe alternatives",
+  "fr": "Recettes nadiyanes alternatives avec Wool & More"
+ },
+ {
+  "dom": "dressmakers",
+  "cle": "dressmakers:setting_enable_nadiyan_wool_comment",
+  "en": "Add some VS Nadiyan recipe alternatives using wool",
+  "fr": "Ajoute des variantes des recettes nadiyanes de VS utilisant la laine"
+ },
+ {
+  "dom": "dressmakers",
+  "cle": "dressmakers:setting_enable_wool",
+  "en": "Wool & More recipe alternatives",
+  "fr": "Recettes alternatives Wool & More"
+ },
+ {
+  "dom": "mycodiversity",
+  "cle": "game:recipeingredient-block-mushroom-artistsconk-normal-insturmentalcase",
+  "en": "artist's conk",
+  "fr": "polypore de l'artiste"
+ },
+ {
+  "dom": "mycodiversity",
+  "cle": "game:recipeingredient-block-mushroom-beefsteakfungus-normal-insturmentalcase",
+  "en": "beefsteak fungus",
+  "fr": "langue-de-bœuf"
+ },
+ {
+  "dom": "mycodiversity",
+  "cle": "game:recipeingredient-block-mushroom-redbeltedconk-normal-insturmentalcase",
+  "en": "red-belted conk",
+  "fr": "polypore marginé"
+ },
+ {
+  "dom": "mycodiversity",
+  "cle": "game:recipeingredient-block-mushroom-turkeytail-normal-insturmentalcase",
+  "en": "turkey tail",
+  "fr": "tramète versicolore"
+ },
+ {
+  "dom": "mycodiversity",
+  "cle": "game:recipeingredient-block-mushroom-westernvarnishedconk-normal-insturmentalcase",
+  "en": "western varnished conk",
+  "fr": "ganoderme de l'Ouest"
+ },
+ {
+  "dom": "mycodiversity",
+  "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-partbaked",
+  "en": "Honey mushroom pie (part-baked)",
+  "fr": "Tourte à l'armillaire couleur de miel (à moitié cuite)"
+ },
+ {
+  "dom": "prospecttogether",
+  "cle": "dialog-all-players",
+  "en": "All players",
+  "fr": "Tous les joueurs"
+ },
+ {
+  "dom": "prospecttogether",
+  "cle": "dialog-auto-share",
+  "en": "Auto share/receive",
+  "fr": "Partage et réception automatiques"
+ },
+ {
+  "dom": "prospecttogether",
+  "cle": "dialog-map-mode-default",
+  "en": "Default",
+  "fr": "Par défaut"
+ },
+ {
+  "dom": "prospecttogether",
+  "cle": "dialog-map-mode-heatmap",
+  "en": "Heatmap",
+  "fr": "Carte de chaleur"
+ },
+ {
+  "dom": "prospecttogether",
+  "cle": "dialog-send-all-now",
+  "en": "Send all now",
+  "fr": "Tout envoyer maintenant"
+ },
+ {
+  "dom": "shearlib",
+  "cle": "shearlib:animaltoostressedclient",
+  "en": "Animal is too stressed and cannot be sheared now.",
+  "fr": "L'animal est trop stressé pour être tondu maintenant."
+ },
+ {
+  "dom": "game",
+  "cle": "maplayer-prospect-together",
+  "en": "ProspectTogether",
+  "fr": "Prospection partagée"
+ },
+ {
+  "dom": "realsmoke",
+  "cle": "realsmoke:Config.Setting.Enabled",
+  "en": "Enable RealSmoke",
+  "fr": "Activer RealSmoke"
+ }
+]

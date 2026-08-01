@@ -1,0 +1,30 @@
+[
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionGearDrop",
+    "avant": "% de butin d'équipement supplémentaire du flacon de vitalité",
+    "apres": "% de rouages supplémentaires du flacon de vitalité",
+    "motif": "Contresens : « gear » désigne ici les rouages rouillés récupérés des tas de métal (cf. le glossaire des effets alchemy:alchemyguide-z-effects-text : « Gears from metal pile »), pas de l'équipement ; incohérent avec sa propre entrée VitalityPotionGearDrop-Comment qui dit bien « Rouages »."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon de vitalité : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de vitalité modifiant la santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)",
+    "motif": "Incohérence interne : les quatre effets secondaires « à la consommation » (santé, intoxication, psychédélique, saturation) partagent la même formule anglaise « side effect of X change on drink », mais seule cette entrée et sa voisine intoxication rompaient le tour « modifiant X à la consommation » utilisé partout ailleurs, y compris pour le flacon de respiration aquatique."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon de vitalité : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de vitalité modifiant l'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)",
+    "motif": "Même incohérence de tournure que VitalityPotionDrinkingDamage-Comment, à unifier avec les entrées sœurs (« modifiant X à la consommation »)."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "potion-reshape-effect",
+    "avant": "Vous êtes capable de remodeler votre forme et vos origines, en utilisant la commande .charsel",
+    "apres": "Vous pouvez remodeler votre forme et vos origines en utilisant la commande .charsel",
+    "motif": "Calque de « you are able to » et incohérence interne : toutes les autres descriptions d'effet de ce type (escalade, respiration aquatique) utilisent la tournure naturelle « Vous pouvez », plus sobre pour une interface de jeu."
+  }
+]

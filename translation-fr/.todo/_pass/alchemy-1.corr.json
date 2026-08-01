@@ -1,0 +1,30 @@
+[
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionAnimalLootDrop",
+    "avant": "Huile puissante : butin animal (%)",
+    "apres": "% de butin animal de l'huile puissante",
+    "motif": "incohérence interne : toutes les autres statistiques en % (flacon de l'archer) suivent le gabarit « % de X de la potion Y », cette entrée rompait le patron avec un « Nom : X (%) » isolé"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionAnimalSeekingRange",
+    "avant": "Huile puissante : portée de détection des animaux (%)",
+    "apres": "% de portée de détection des animaux de l'huile puissante",
+    "motif": "incohérence interne : même gabarit à uniformiser avec les entrées équivalentes du flacon de l'archer ; corrige aussi l'espace normal avant les deux-points (devrait être une espace insécable)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "CoatableProjectilesCodes-Comment",
+    "avant": "Codes d'objets génériques séparés par des virgules pour les projectiles pouvant être enrobés de potions. « *arrow* » est la valeur par défaut, ce qui rend enrobable chaque flèche vanilla et modée. Les motifs sont comparés au code d'objet complet (domaine:chemin), donc vous pouvez utiliser des formes comme « *arrow* », « game:arrow-* » ou « mymod:bolt-* ». Par exemple « game:arrow-*, mymod:bolt-* » n'autorise que les flèches vanilla et les carreaux de ce mod. Laisser vide pour désactiver entièrement l'enrobage de projectiles.",
+    "apres": "Codes d'objets génériques séparés par des virgules pour les projectiles pouvant être enrobés de potions. « *arrow* » est la valeur par défaut, ce qui rend enrobable chaque flèche vanilla et moddée. Les motifs sont comparés au code d'objet complet (domaine:chemin), donc vous pouvez utiliser des formes comme « *arrow* », « game:arrow-* » ou « mymod:bolt-* ». Par exemple « game:arrow-*, mymod:bolt-* » n'autorise que les flèches vanilla et les carreaux de ce mod. Laisser vide pour désactiver entièrement l'enrobage de projectiles.",
+    "motif": "orthographe : « modée » se lit comme dérivé de « mode », il faut doubler le d (« moddée ») pour rester lisible comme dérivé de « mod »"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "CoatableWeaponTags-Comment",
+    "avant": "Tags d'objets VS séparés par des virgules pour les armes pouvant être enrobées de potions. « weapon-melee » est la valeur par défaut. Cela signifie que chaque arme vanilla et chaque arme modée possédant ce tag pourra être enrobée. Si vous souhaitez n'autoriser que des armes spécifiques avec des tags différents à être enrobées. Par exemple si vous le remplacez par « weapon-sword, tool-cleaver » alors seules les épées et le couperet seront enrobables. ASSUREZ-VOUS D'AVOIR DES TAGS VALIDES SINON CELA NE FONCTIONNERA PAS !",
+    "apres": "Tags d'objets VS séparés par des virgules pour les armes pouvant être enrobées de potions. « weapon-melee » est la valeur par défaut. Cela signifie que chaque arme vanilla et chaque arme moddée possédant ce tag pourra être enrobée. Si vous souhaitez n'autoriser que des armes spécifiques avec des tags différents à être enrobées. Par exemple si vous le remplacez par « weapon-sword, tool-cleaver » alors seules les épées et le couperet seront enrobables. ASSUREZ-VOUS D'AVOIR DES TAGS VALIDES SINON CELA NE FONCTIONNERA PAS !",
+    "motif": "orthographe : même correction « modée » -> « moddée » pour cohérence interne avec l'autre occurrence du lot"
+  }
+]

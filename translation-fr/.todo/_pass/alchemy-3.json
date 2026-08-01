@@ -1,0 +1,1982 @@
+[
+ {
+  "dom": "alchemy",
+  "cle": "NutritionPotionStrongRecipe",
+  "en": "Nutrition flask strong recipe",
+  "fr": "Recette forte du flacon nutritif"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "NutritionPotionStrongRecipe-Comment",
+  "en": "If on, the nutrition flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon nutritif utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "NutritionValues-Config",
+  "en": "List of nutrition flask modifiers",
+  "fr": "Liste des modificateurs du flacon nutritif"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "OnlyOnePotionAtATime",
+  "en": "Only allow one potion active at a time",
+  "fr": "N'autoriser qu'une seule potion active à la fois"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonExtraEffects-Config",
+  "en": "Spiked Oil extra/side effects",
+  "fr": "Effets supplémentaires/secondaires de l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionAnimalLootDrop",
+  "en": "Spiked Oil animal loot drop %",
+  "fr": "Huile empoisonnée : butin animal (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin animal supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionAnimalSeekingRange",
+  "en": "Spiked Oil animal seeking range %",
+  "fr": "Huile empoisonnée : portée de détection des animaux (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionAnimalSeekingRange-Comment",
+  "en": "Extra animal seeking range added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Portée de détection des animaux supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingDamage",
+  "en": "Poison Flask health change on drink",
+  "fr": "Flacon d'huile empoisonnée : changement de santé au moment de boire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingDamage-Comment",
+  "en": "Poison flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon d'huile empoisonnée : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingIntoxication",
+  "en": "Poison Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de poison à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingIntoxication-Comment",
+  "en": "Poison flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de poison : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingPsychedelic",
+  "en": "Poison Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de poison à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingPsychedelic-Comment",
+  "en": "Poison flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de poison : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingSaturationLoss",
+  "en": "Poison Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de poison à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDrinkingSaturationLoss-Comment",
+  "en": "Poison flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de poison : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDuration",
+  "en": "Spiked oil's duration in seconds",
+  "fr": "Durée de l'huile empoisonnée en secondes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionDuration-Comment",
+  "en": "Duration of spiked oil",
+  "fr": "Durée de l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionForageDrop",
+  "en": "Spiked Oil forage drop %",
+  "fr": "Butin de cueillette de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de cueillette supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionGearDrop",
+  "en": "Spiked Oil gear drop %",
+  "fr": "Butin d'équipement de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'équipement supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionGroup",
+  "en": "Poison potion group",
+  "fr": "Groupe de la potion de poison"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionHealingEffectiveness",
+  "en": "Spiked Oil healing effectiveness %",
+  "fr": "Efficacité de soin de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionHealth",
+  "en": "Spiked oil's health",
+  "fr": "Santé de l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionHealth-Comment",
+  "en": "Spiked oil's health value per tick before strength multiplier",
+  "fr": "Valeur de santé de l'huile empoisonnée par tic, avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionHungerRate",
+  "en": "Spiked Oil hunger rate %",
+  "fr": "Taux de faim de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionMaxHealth",
+  "en": "Spiked Oil max health",
+  "fr": "Santé maximale de l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionMaxHealth-Comment",
+  "en": "Extra max health added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Santé maximale supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionMeleeDamage",
+  "en": "Spiked Oil melee damage %",
+  "fr": "Dégâts au corps à corps de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts au corps à corps supplémentaires ajoutés par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionMiningSpeed",
+  "en": "Spiked Oil mining speed %",
+  "fr": "Vitesse de minage de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionOreDrop",
+  "en": "Spiked Oil ore drop %",
+  "fr": "Butin de minerai de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de minerai supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionRangedAccuracy",
+  "en": "Spiked Oil ranged accuracy %",
+  "fr": "Précision à distance de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionRangedAccuracy-Comment",
+  "en": "Extra ranged accuracy added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Précision à distance supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionRangedDamage",
+  "en": "Spiked Oil ranged damage %",
+  "fr": "Dégâts à distance de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionRangedDamage-Comment",
+  "en": "Extra ranged damage added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts à distance supplémentaires ajoutés par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionRangedSpeed",
+  "en": "Spiked Oil ranged speed %",
+  "fr": "Vitesse à distance de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionRangedSpeed-Comment",
+  "en": "Extra ranged speed added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse à distance supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionResetsEffects",
+  "en": "Poison potion resets effects",
+  "fr": "La potion de poison réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionTickSec",
+  "en": "Spiked oil's ticks sec",
+  "fr": "Secondes par tic de l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionTickSec-Comment",
+  "en": "Spiked oil's amount of seconds before a tick. A tick triggers a health change",
+  "fr": "Nombre de secondes de l'huile empoisonnée avant un tic. Un tic déclenche un changement de santé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionVesselContentsDrop",
+  "en": "Spiked Oil vessel contents drop %",
+  "fr": "Contenu de récipient de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Contenu de récipient supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionWalkSpeed",
+  "en": "Spiked Oil walk speed %",
+  "fr": "Vitesse de marche de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionWalkSpeed-Comment",
+  "en": "Extra walk speed added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de marche supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionWildCropDrop",
+  "en": "Spiked Oil wild crop drop %",
+  "fr": "Butin de culture sauvage de l'huile empoisonnée (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Spiked Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de culture sauvage supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PoisonValues-Config",
+  "en": "List of spiked oil modifiers",
+  "fr": "Liste des modificateurs de l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionConsumeLitres",
+  "en": "Potion drink amount",
+  "fr": "Quantité de potion bue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionConsumeLitres-Comment",
+  "en": "How many litres are consumed each time a potion is drunk from a flask (liquidcontent source)",
+  "fr": "Nombre de litres consommés à chaque fois qu'une potion est bue depuis un flacon (source liquidcontent)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionConsumeMaxTimeMultiplier",
+  "en": "Potion consume max time multiplier",
+  "fr": "Multiplicateur de temps maximal de consommation de potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionConsumeMaxTimeMultiplier-Comment",
+  "en": "When healing effectiveness scaling is enabled, this is the slowest consume time as a multiple of the normal drink/eat time (reached at minimum healing effectiveness). Only used when 'Scale consume time with healing effectiveness' is on",
+  "fr": "Lorsque la mise à l'échelle par l'efficacité de soin est activée, il s'agit du temps de consommation le plus lent, exprimé comme un multiple du temps normal de consommation/absorption (atteint à l'efficacité de soin minimale). Utilisé uniquement lorsque « Adapter le temps de consommation à l'efficacité de soin » est activé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionDrinkCheckLitres",
+  "en": "Potion drink minimum",
+  "fr": "Minimum de potion pour boire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionDrinkCheckLitres-Comment",
+  "en": "The minimum litres that must be in a flask before a potion can be drunk. Usually set slightly below the drink amount to avoid floating point issues",
+  "fr": "Le nombre minimal de litres devant se trouver dans un flacon avant qu'une potion puisse être bue. Généralement défini légèrement en dessous de la quantité bue afin d'éviter les problèmes d'arrondi en virgule flottante"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionDrinkTime",
+  "en": "Potion drink time",
+  "fr": "Temps pour boire une potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionDrinkTime-Comment",
+  "en": "How long (in seconds) it takes to drink a potion from a flask (liquidcontent source)",
+  "fr": "Temps (en secondes) nécessaire pour boire une potion depuis un flacon (source liquidcontent)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionEatTime",
+  "en": "Potion eat time",
+  "fr": "Temps pour consommer une potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionEatTime-Comment",
+  "en": "How long (in seconds) it takes to consume a solid potion item (item source)",
+  "fr": "Temps (en secondes) nécessaire pour consommer un objet de potion solide (source de l'objet)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionGroup-Comment",
+  "en": "Exclusivity group for this potion. Potions sharing a group cannot be active together. 'Solo' means it cannot be combined with anything. 'None' leaves it unrestricted. Only has an effect when 'Enable potion exclusivity groups' is on.",
+  "fr": "Groupe d'exclusivité de cette potion. Les potions partageant un même groupe ne peuvent pas être actives en même temps. « Solo » signifie qu'elle ne peut être combinée avec aucune autre. « None » ne lui impose aucune restriction. N'a d'effet que lorsque « Activer les groupes d'exclusivité de potions » est activé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionGroups-Config",
+  "en": "Potion exclusivity groups",
+  "fr": "Groupes d'exclusivité de potions"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PotionResetsEffects-Comment",
+  "en": "When enabled, drinking this potion removes ALL currently active potion effects (including grow/shrink size changes) before applying its own effect. A potion with this enabled can always be drunk while other potions are active: it bypasses the one-potion limit, exclusivity groups and the already-active check, since everything is purged first. Purging Brew has this on by default.",
+  "fr": "Lorsque cette option est activée, boire cette potion supprime TOUS les effets de potion actuellement actifs (y compris les changements de taille liés à l'agrandissement/au rétrécissement) avant d'appliquer son propre effet. Une potion pour laquelle cette option est activée peut toujours être bue pendant que d'autres potions sont actives : elle contourne la limite d'une seule potion, les groupes d'exclusivité et la vérification d'effet déjà actif, puisque tout est purgé au préalable. La décoction purificatrice a cette option activée par défaut."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorExtraEffects-Config",
+  "en": "Predator Pheromones extra/side effects",
+  "fr": "Effets secondaires/supplémentaires des phéromones de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionAnimalLootDrop",
+  "en": "Predator Pheromones animal loot drop %",
+  "fr": "Butin d'animaux des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'animaux supplémentaire ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionAnimalSeek",
+  "en": "Predator Pheromones' animal seek range",
+  "fr": "Portée de détection des animaux des phéromones de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionAnimalSeek-Comment",
+  "en": "Predator Pheromones' animal seek range value per tick before strength multiplier",
+  "fr": "Valeur de portée de détection des animaux des phéromones de prédateur par tic, avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingDamage",
+  "en": "Predator Flask health change on drink",
+  "fr": "Changement de santé du flacon de prédateur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingDamage-Comment",
+  "en": "Predator flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de prédateur : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingIntoxication",
+  "en": "Predator Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de prédateur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingIntoxication-Comment",
+  "en": "Predator flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de prédateur : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingPsychedelic",
+  "en": "Predator Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de prédateur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingPsychedelic-Comment",
+  "en": "Predator flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de prédateur : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingSaturationLoss",
+  "en": "Predator Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de prédateur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDrinkingSaturationLoss-Comment",
+  "en": "Predator flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de prédateur : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDuration",
+  "en": "Predator Pheromones' duration in seconds",
+  "fr": "Durée des phéromones de prédateur en secondes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionDuration-Comment",
+  "en": "Duration of predator's pheromones!",
+  "fr": "Durée des phéromones de prédateur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionForageDrop",
+  "en": "Predator Pheromones forage drop %",
+  "fr": "Butin de cueillette des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de cueillette supplémentaire ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionGearDrop",
+  "en": "Predator Pheromones gear drop %",
+  "fr": "Butin d'équipement des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'équipement supplémentaire ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionGroup",
+  "en": "Predator potion group",
+  "fr": "Groupe de la potion de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHealingEffectiveness",
+  "en": "Predator Pheromones healing effectiveness %",
+  "fr": "Efficacité de soin des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par les phéromones de prédateur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHealth",
+  "en": "Predator Pheromones health change",
+  "fr": "Changement de santé des phéromones de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHealth-Comment",
+  "en": "Health change added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Changement de santé ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHealthTickSec",
+  "en": "Predator Pheromones health tick interval",
+  "fr": "Intervalle de tic de santé des phéromones de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHealthTickSec-Comment",
+  "en": "Seconds between health ticks for Predator Pheromones extra health. 0 = instant.",
+  "fr": "Secondes entre les tics de santé pour la santé supplémentaire des phéromones de prédateur. 0 = instantané."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHungerRate",
+  "en": "Predator Pheromones hunger rate %",
+  "fr": "Taux de faim des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionMaxHealth",
+  "en": "Predator Pheromones max health",
+  "fr": "Santé maximale des phéromones de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionMaxHealth-Comment",
+  "en": "Extra max health added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Santé maximale supplémentaire ajoutée par les phéromones de prédateur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionMeleeDamage",
+  "en": "Predator Pheromones melee damage %",
+  "fr": "Dégâts au corps à corps des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts au corps à corps supplémentaires ajoutés par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionMiningSpeed",
+  "en": "Predator Pheromones mining speed %",
+  "fr": "Vitesse de minage des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par les phéromones de prédateur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionOreDrop",
+  "en": "Predator Pheromones ore drop %",
+  "fr": "Butin de minerai des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de minerai supplémentaire ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionRangedAccuracy",
+  "en": "Predator Pheromones ranged accuracy %",
+  "fr": "Précision à distance des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionRangedAccuracy-Comment",
+  "en": "Extra ranged accuracy added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Précision à distance supplémentaire ajoutée par les phéromones de prédateur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionRangedDamage",
+  "en": "Predator Pheromones ranged damage %",
+  "fr": "Dégâts à distance des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionRangedDamage-Comment",
+  "en": "Extra ranged damage added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts à distance supplémentaires ajoutés par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionRangedSpeed",
+  "en": "Predator Pheromones ranged speed %",
+  "fr": "Vitesse à distance des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionRangedSpeed-Comment",
+  "en": "Extra ranged speed added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse à distance supplémentaire ajoutée par les phéromones de prédateur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionResetsEffects",
+  "en": "Predator potion resets effects",
+  "fr": "La potion de prédateur réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionVesselContentsDrop",
+  "en": "Predator Pheromones vessel contents drop %",
+  "fr": "Contenu de récipient des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Contenu de récipient supplémentaire ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionWalkSpeed",
+  "en": "Predator Pheromones walk speed %",
+  "fr": "Vitesse de marche des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionWalkSpeed-Comment",
+  "en": "Extra walk speed added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de marche supplémentaire ajoutée par les phéromones de prédateur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionWildCropDrop",
+  "en": "Predator Pheromones wild crop drop %",
+  "fr": "Butin de culture sauvage des phéromones de prédateur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Predator Pheromones, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de culture sauvage supplémentaire ajouté par les phéromones de prédateur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "PredatorValues-Config",
+  "en": "List of predator pheromones modifiers",
+  "fr": "Liste des modificateurs des phéromones de prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallExtraEffects-Config",
+  "en": "Recall Flask side effects",
+  "fr": "Effets secondaires du flacon de rappel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingDamage",
+  "en": "Recall Flask health change on drink",
+  "fr": "Changement de santé du flacon de rappel à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingDamage-Comment",
+  "en": "Recall flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rappel : changement de santé à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingIntoxication",
+  "en": "Recall Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de rappel à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingIntoxication-Comment",
+  "en": "Recall flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rappel : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingPsychedelic",
+  "en": "Recall Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de rappel à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingPsychedelic-Comment",
+  "en": "Recall flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rappel : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingSaturationLoss",
+  "en": "Recall Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de rappel à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionDrinkingSaturationLoss-Comment",
+  "en": "Recall flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rappel : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionGroup",
+  "en": "Recall potion group",
+  "fr": "Groupe de la potion de rappel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionResetsEffects",
+  "en": "Recall potion resets effects",
+  "fr": "La potion de rappel réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionStrongRecipe",
+  "en": "Recall flask strong recipe",
+  "fr": "Recette forte du flacon de rappel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecallPotionStrongRecipe-Comment",
+  "en": "If on, the recall flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: on.",
+  "fr": "Si activé, le flacon de rappel utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : activé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RecipeAllow-Config",
+  "en": "List of allowed recipes",
+  "fr": "Liste des recettes autorisées"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenExtraEffects-Config",
+  "en": "Healing Oil extra/side effects",
+  "fr": "Effets secondaires/supplémentaires de l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionAnimalLootDrop",
+  "en": "Healing Oil animal loot drop %",
+  "fr": "Butin d'animaux de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'animaux supplémentaire ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionAnimalSeekingRange",
+  "en": "Healing Oil animal seeking range %",
+  "fr": "Portée de détection des animaux de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionAnimalSeekingRange-Comment",
+  "en": "Extra animal seeking range added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Portée de détection des animaux supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingDamage",
+  "en": "Regen Flask health change on drink",
+  "fr": "Changement de santé du flacon de régénération à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingDamage-Comment",
+  "en": "Regen flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de régénération : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingIntoxication",
+  "en": "Regen Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de régénération à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingIntoxication-Comment",
+  "en": "Regen flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de régénération : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingPsychedelic",
+  "en": "Regen Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de régénération à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingPsychedelic-Comment",
+  "en": "Regen flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de régénération : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingSaturationLoss",
+  "en": "Regen Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de régénération à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDrinkingSaturationLoss-Comment",
+  "en": "Regen flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de régénération : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDuration",
+  "en": "Healing oil's duration in seconds",
+  "fr": "Durée de l'huile de soin en secondes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionDuration-Comment",
+  "en": "Duration of healing oil",
+  "fr": "Durée de l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionForageDrop",
+  "en": "Healing Oil forage drop %",
+  "fr": "Butin de cueillette de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de cueillette supplémentaire ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionGearDrop",
+  "en": "Healing Oil gear drop %",
+  "fr": "Butin d'équipement de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'équipement supplémentaire ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionGroup",
+  "en": "Regen potion group",
+  "fr": "Groupe de la potion de régénération"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionHealingEffectiveness",
+  "en": "Healing Oil healing effectiveness %",
+  "fr": "Efficacité de soin de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionHealth",
+  "en": "Healing oil's health",
+  "fr": "Santé de l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionHealth-Comment",
+  "en": "Healing oil's health value per tick before strength multiplier",
+  "fr": "Valeur de santé de l'huile de soin par tic, avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionHungerRate",
+  "en": "Healing Oil hunger rate %",
+  "fr": "Taux de faim de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionMaxHealth",
+  "en": "Healing Oil max health",
+  "fr": "Santé maximale de l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionMaxHealth-Comment",
+  "en": "Extra max health added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Santé maximale supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionMeleeDamage",
+  "en": "Healing Oil melee damage %",
+  "fr": "Dégâts au corps à corps de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts au corps à corps supplémentaires ajoutés par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionMiningSpeed",
+  "en": "Healing Oil mining speed %",
+  "fr": "Vitesse de minage de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionOreDrop",
+  "en": "Healing Oil ore drop %",
+  "fr": "Butin de minerai de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de minerai supplémentaire ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionRangedAccuracy",
+  "en": "Healing Oil ranged accuracy %",
+  "fr": "Précision à distance de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionRangedAccuracy-Comment",
+  "en": "Extra ranged accuracy added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Précision à distance supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionRangedDamage",
+  "en": "Healing Oil ranged damage %",
+  "fr": "Dégâts à distance de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionRangedDamage-Comment",
+  "en": "Extra ranged damage added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts à distance supplémentaires ajoutés par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionRangedSpeed",
+  "en": "Healing Oil ranged speed %",
+  "fr": "Vitesse à distance de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionRangedSpeed-Comment",
+  "en": "Extra ranged speed added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse à distance supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionResetsEffects",
+  "en": "Regen potion resets effects",
+  "fr": "La potion de régénération réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionTickSec",
+  "en": "Healing oil's ticks sec",
+  "fr": "Secondes par tic de l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionTickSec-Comment",
+  "en": "Healing oil's amount of seconds before a tick. A tick triggers a health change",
+  "fr": "Nombre de secondes de l'huile de soin avant un tic. Un tic déclenche un changement de santé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionVesselContentsDrop",
+  "en": "Healing Oil vessel contents drop %",
+  "fr": "Contenu de récipient de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Contenu de récipient supplémentaire ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionWalkSpeed",
+  "en": "Healing Oil walk speed %",
+  "fr": "Vitesse de marche de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionWalkSpeed-Comment",
+  "en": "Extra walk speed added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de marche supplémentaire ajoutée par l'huile de soin, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionWildCropDrop",
+  "en": "Healing Oil wild crop drop %",
+  "fr": "Butin de culture sauvage de l'huile de soin (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Healing Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de culture sauvage supplémentaire ajouté par l'huile de soin, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RegenValues-Config",
+  "en": "List of healing oil modifiers",
+  "fr": "Liste des modificateurs de l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapeExtraEffects-Config",
+  "en": "Reshape Flask side effects",
+  "fr": "Effets secondaires du flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingDamage",
+  "en": "Reshape Flask health change on drink",
+  "fr": "Changement de santé du flacon de remodelage à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingDamage-Comment",
+  "en": "Reshape flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de remodelage : changement de santé à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingIntoxication",
+  "en": "Reshape Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de remodelage à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingIntoxication-Comment",
+  "en": "Reshape flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de remodelage : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingPsychedelic",
+  "en": "Reshape Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de remodelage à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingPsychedelic-Comment",
+  "en": "Reshape flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de remodelage : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingSaturationLoss",
+  "en": "Reshape Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de remodelage à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionDrinkingSaturationLoss-Comment",
+  "en": "Reshape flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de remodelage : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionGroup",
+  "en": "Reshape potion group",
+  "fr": "Groupe de la potion de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionResetsEffects",
+  "en": "Reshape potion resets effects",
+  "fr": "La potion de remodelage réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionStrongRecipe",
+  "en": "Reshape flask strong recipe",
+  "fr": "Recette forte du flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ReshapePotionStrongRecipe-Comment",
+  "en": "If on, the reshape flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: on.",
+  "fr": "Si activé, le flacon de remodelage utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : activé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RetainEffectsOnDisconnect",
+  "en": "Keep potion effects on disconnect",
+  "fr": "Conserver les effets de potion à la déconnexion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "RetainEffectsOnDisconnect-Comment",
+  "en": "When enabled, active potion effects are kept when a player disconnects, crashes or the server restarts, and resume with their remaining duration on the next join (the timer is paused while the player is offline; after a crash the full duration is restored). When disabled, all potion effects are removed on disconnect and join, matching the behavior of older versions of the mod. Death always removes all effects. Enabled by default.",
+  "fr": "Lorsque cette option est activée, les effets de potion actifs sont conservés lorsqu'un joueur se déconnecte, plante ou lorsque le serveur redémarre, et reprennent avec leur durée restante à la prochaine connexion (le minuteur est mis en pause tant que le joueur est hors ligne ; après un plantage, la durée complète est restaurée). Lorsqu'elle est désactivée, tous les effets de potion sont supprimés à la déconnexion et à la connexion, comme dans les anciennes versions du mod. La mort supprime toujours tous les effets. Activé par défaut."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScalePotionTimeWithHealing",
+  "en": "Scale consume time with healing effectiveness!!!",
+  "fr": "Adapter le temps de consommation à l'efficacité de soin !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScalePotionTimeWithHealing-Comment",
+  "en": "If enabled, the time to drink or eat a potion is scaled by the player's healing effectiveness stat (lowered by armour), the same way bandage application time is. Higher effectiveness consumes faster, lower consumes slower",
+  "fr": "Si activé, le temps nécessaire pour boire ou manger une potion est mis à l'échelle par la statistique d'efficacité de soin du joueur (réduite par l'armure), de la même manière que le temps d'application d'un bandage. Une efficacité plus élevée permet de consommer plus vite, une efficacité plus faible ralentit la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskExtraEffects-Config",
+  "en": "Scent Mask Flask extra/side effects",
+  "fr": "Effets secondaires/supplémentaires du flacon de masquage d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionAnimalLootDrop",
+  "en": "Scent Mask Flask animal loot drop %",
+  "fr": "Butin d'animaux du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'animaux supplémentaire ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionAnimalSeek",
+  "en": "Scent mask's animal seek range",
+  "fr": "Portée de détection des animaux du masque d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionAnimalSeek-Comment",
+  "en": "Scent mask's animal seek range value per tick before strength multiplier",
+  "fr": "Valeur de portée de détection des animaux du masque d'odeur par tic, avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingDamage",
+  "en": "ScentMask Flask health change on drink",
+  "fr": "Changement de santé du flacon de masquage d'odeur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingDamage-Comment",
+  "en": "ScentMask flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de masquage d'odeur : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingIntoxication",
+  "en": "ScentMask Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de masquage d'odeur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingIntoxication-Comment",
+  "en": "ScentMask flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de masquage d'odeur : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingPsychedelic",
+  "en": "ScentMask Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de masquage d'odeur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingPsychedelic-Comment",
+  "en": "ScentMask flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de masquage d'odeur : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingSaturationLoss",
+  "en": "ScentMask Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de masquage d'odeur à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDrinkingSaturationLoss-Comment",
+  "en": "ScentMask flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de masquage d'odeur : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDuration",
+  "en": "Scent mask's duration in seconds",
+  "fr": "Durée du masque d'odeur en secondes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionDuration-Comment",
+  "en": "Duration of scent mask",
+  "fr": "Durée du masque d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionForageDrop",
+  "en": "Scent Mask Flask forage drop %",
+  "fr": "Butin de cueillette du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de cueillette supplémentaire ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionGearDrop",
+  "en": "Scent Mask Flask gear drop %",
+  "fr": "Butin d'équipement du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'équipement supplémentaire ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionGroup",
+  "en": "Scent mask potion group",
+  "fr": "Groupe de la potion de masquage d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHealingEffectiveness",
+  "en": "Scent Mask Flask healing effectiveness %",
+  "fr": "Efficacité de soin du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par le flacon de masquage d'odeur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHealth",
+  "en": "Scent Mask Flask health change",
+  "fr": "Changement de santé du flacon de masquage d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHealth-Comment",
+  "en": "Health change added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Changement de santé ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHealthTickSec",
+  "en": "Scent Mask Flask health tick interval",
+  "fr": "Intervalle de tic de santé du flacon de masquage d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHealthTickSec-Comment",
+  "en": "Seconds between health ticks for Scent Mask Flask extra health. 0 = instant.",
+  "fr": "Secondes entre les tics de santé pour la santé supplémentaire du flacon de masquage d'odeur. 0 = instantané."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHungerRate",
+  "en": "Scent Mask Flask hunger rate %",
+  "fr": "Taux de faim du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionMaxHealth",
+  "en": "Scent Mask Flask max health",
+  "fr": "Santé maximale du flacon de masquage d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionMaxHealth-Comment",
+  "en": "Extra max health added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Santé maximale supplémentaire ajoutée par le flacon de masquage d'odeur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionMeleeDamage",
+  "en": "Scent Mask Flask melee damage %",
+  "fr": "Dégâts au corps à corps du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts au corps à corps supplémentaires ajoutés par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionMiningSpeed",
+  "en": "Scent Mask Flask mining speed %",
+  "fr": "Vitesse de minage du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par le flacon de masquage d'odeur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionOreDrop",
+  "en": "Scent Mask Flask ore drop %",
+  "fr": "Butin de minerai du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de minerai supplémentaire ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionRangedAccuracy",
+  "en": "Scent Mask Flask ranged accuracy %",
+  "fr": "Précision à distance du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionRangedAccuracy-Comment",
+  "en": "Extra ranged accuracy added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Précision à distance supplémentaire ajoutée par le flacon de masquage d'odeur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionRangedDamage",
+  "en": "Scent Mask Flask ranged damage %",
+  "fr": "Dégâts à distance du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionRangedDamage-Comment",
+  "en": "Extra ranged damage added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts à distance supplémentaires ajoutés par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionRangedSpeed",
+  "en": "Scent Mask Flask ranged speed %",
+  "fr": "Vitesse à distance du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionRangedSpeed-Comment",
+  "en": "Extra ranged speed added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse à distance supplémentaire ajoutée par le flacon de masquage d'odeur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionResetsEffects",
+  "en": "Scent mask potion resets effects",
+  "fr": "La potion de masquage d'odeur réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionVesselContentsDrop",
+  "en": "Scent Mask Flask vessel contents drop %",
+  "fr": "Contenu de récipient du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Contenu de récipient supplémentaire ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionWalkSpeed",
+  "en": "Scent Mask Flask walk speed %",
+  "fr": "Vitesse de marche du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionWalkSpeed-Comment",
+  "en": "Extra walk speed added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de marche supplémentaire ajoutée par le flacon de masquage d'odeur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionWildCropDrop",
+  "en": "Scent Mask Flask wild crop drop %",
+  "fr": "Butin de culture sauvage du flacon de masquage d'odeur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Scent Mask Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de culture sauvage supplémentaire ajouté par le flacon de masquage d'odeur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ScentMaskValues-Config",
+  "en": "List of scent mask flask modifiers",
+  "fr": "Liste des modificateurs du flacon de masquage d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkExtraEffects-Config",
+  "en": "Shrinking Flask side effects",
+  "fr": "Effets secondaires du flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingDamage",
+  "en": "Shrink Flask health change on drink",
+  "fr": "Changement de santé du flacon de rétrécissement à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingDamage-Comment",
+  "en": "Shrink flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rétrécissement : changement de santé à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingIntoxication",
+  "en": "Shrink Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de rétrécissement à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingIntoxication-Comment",
+  "en": "Shrink flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rétrécissement : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingPsychedelic",
+  "en": "Shrink Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de rétrécissement à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingPsychedelic-Comment",
+  "en": "Shrink flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rétrécissement : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingSaturationLoss",
+  "en": "Shrink Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de rétrécissement à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionDrinkingSaturationLoss-Comment",
+  "en": "Shrink flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de rétrécissement : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionGroup",
+  "en": "Shrink potion group",
+  "fr": "Groupe de la potion de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionResetsEffects",
+  "en": "Shrink potion resets effects",
+  "fr": "La potion de rétrécissement réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionSizeChange",
+  "en": "Shrinking flask's size change",
+  "fr": "Changement de taille du flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionSizeChange-Comment",
+  "en": "Shrinking flask's height change in blocks per use (negative value = shrink)",
+  "fr": "Changement de hauteur du flacon de rétrécissement en blocs par utilisation (valeur négative = rétrécissement)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionStrongRecipe",
+  "en": "Shrinking flask strong recipe",
+  "fr": "Recette forte du flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ShrinkPotionStrongRecipe-Comment",
+  "en": "If on, the shrinking flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon de rétrécissement utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SideEffectStrengthMultiplier",
+  "en": "Side effects apply strength",
+  "fr": "Les effets secondaires appliquent la puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SideEffectStrengthMultiplier-Comment",
+  "en": "Side effects (Health change, intoxication, psychedelic effect, saturation loss) are multiplied by potion strength when this is enabled. When disabled side effects are not affected by potion strength and apply the same amount regardless of potion strength.",
+  "fr": "Les effets secondaires (changement de santé, intoxication, effet psychédélique, perte de saturation) sont multipliés par la puissance de la potion lorsque cette option est activée. Lorsqu'elle est désactivée, les effets secondaires ne sont pas affectés par la puissance de la potion et appliquent le même montant quelle que soit la puissance de la potion."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedExtraEffects-Config",
+  "en": "Sprinter's Flask extra/side effects",
+  "fr": "Effets secondaires/supplémentaires du flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionAnimalLootDrop",
+  "en": "Sprinter's Flask animal loot drop %",
+  "fr": "Butin d'animaux du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'animaux supplémentaire ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionAnimalSeekingRange",
+  "en": "Sprinter's Flask animal seeking range %",
+  "fr": "Portée de détection des animaux du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionAnimalSeekingRange-Comment",
+  "en": "Extra animal seeking range added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Portée de détection des animaux supplémentaire ajoutée par le flacon du sprinteur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingDamage",
+  "en": "Speed Flask health change on drink",
+  "fr": "Changement de santé du flacon de vitesse à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingDamage-Comment",
+  "en": "Speed flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitesse : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingIntoxication",
+  "en": "Speed Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de vitesse à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingIntoxication-Comment",
+  "en": "Speed flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitesse : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingPsychedelic",
+  "en": "Speed Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de vitesse à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingPsychedelic-Comment",
+  "en": "Speed flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitesse : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingSaturationLoss",
+  "en": "Speed Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de vitesse à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDrinkingSaturationLoss-Comment",
+  "en": "Speed flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitesse : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDuration",
+  "en": "Sprinter's flask's duration in seconds",
+  "fr": "Durée du flacon du sprinteur en secondes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionDuration-Comment",
+  "en": "Duration of sprinter's flask",
+  "fr": "Durée du flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionForageDrop",
+  "en": "Sprinter's Flask forage drop %",
+  "fr": "Butin de cueillette du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de cueillette supplémentaire ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionGearDrop",
+  "en": "Sprinter's Flask gear drop %",
+  "fr": "Butin d'équipement du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'équipement supplémentaire ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionGroup",
+  "en": "Speed potion group",
+  "fr": "Groupe de la potion de vitesse"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHealingEffectiveness",
+  "en": "Sprinter's Flask healing effectiveness %",
+  "fr": "Efficacité de soin du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par le flacon du sprinteur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHealth",
+  "en": "Sprinter's Flask health change",
+  "fr": "Changement de santé du flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHealth-Comment",
+  "en": "Health change added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Changement de santé ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHealthTickSec",
+  "en": "Sprinter's Flask health tick interval",
+  "fr": "Intervalle de tic de santé du flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHealthTickSec-Comment",
+  "en": "Seconds between health ticks for Sprinter's Flask extra health. 0 = instant.",
+  "fr": "Secondes entre les tics de santé pour la santé supplémentaire du flacon du sprinteur. 0 = instantané."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHungerRate",
+  "en": "Sprinter's Flask hunger rate %",
+  "fr": "Taux de faim du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionMaxHealth",
+  "en": "Sprinter's Flask max health",
+  "fr": "Santé maximale du flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionMaxHealth-Comment",
+  "en": "Extra max health added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Santé maximale supplémentaire ajoutée par le flacon du sprinteur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionMeleeDamage",
+  "en": "Sprinter's Flask melee damage %",
+  "fr": "Dégâts au corps à corps du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts au corps à corps supplémentaires ajoutés par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionMiningSpeed",
+  "en": "Sprinter's Flask mining speed %",
+  "fr": "Vitesse de minage du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par le flacon du sprinteur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionOreDrop",
+  "en": "Sprinter's Flask ore drop %",
+  "fr": "Butin de minerai du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de minerai supplémentaire ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionRangedAccuracy",
+  "en": "Sprinter's Flask ranged accuracy %",
+  "fr": "Précision à distance du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionRangedAccuracy-Comment",
+  "en": "Extra ranged accuracy added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Précision à distance supplémentaire ajoutée par le flacon du sprinteur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionRangedDamage",
+  "en": "Sprinter's Flask ranged damage %",
+  "fr": "Dégâts à distance du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionRangedDamage-Comment",
+  "en": "Extra ranged damage added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts à distance supplémentaires ajoutés par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionRangedSpeed",
+  "en": "Sprinter's Flask ranged speed %",
+  "fr": "Vitesse à distance du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionRangedSpeed-Comment",
+  "en": "Extra ranged speed added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse à distance supplémentaire ajoutée par le flacon du sprinteur, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionResetsEffects",
+  "en": "Speed potion resets effects",
+  "fr": "La potion de vitesse réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionValue",
+  "en": "Sprinter's flask's walk speed %",
+  "fr": "Vitesse de marche du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionValue-Comment",
+  "en": "Sprinter's flask's walk speed value per tick before strength multiplier",
+  "fr": "Valeur de vitesse de marche du flacon du sprinteur par tic, avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionVesselContentsDrop",
+  "en": "Sprinter's Flask vessel contents drop %",
+  "fr": "Contenu de récipient du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Contenu de récipient supplémentaire ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionWildCropDrop",
+  "en": "Sprinter's Flask wild crop drop %",
+  "fr": "Butin de culture sauvage du flacon du sprinteur (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Sprinter's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de culture sauvage supplémentaire ajouté par le flacon du sprinteur, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "SpeedValues-Config",
+  "en": "List of sprinter's flask modifiers",
+  "fr": "Liste des modificateurs du flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "StabilityPotionTemporalStabilityGain",
+  "en": "Stability Flask's stability percentage gain",
+  "fr": "Gain de pourcentage de stabilité du flacon de stabilité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "StabilityPotionTemporalStabilityGain-Comment",
+  "en": "Stability flask's amount of temporal stability gain!",
+  "fr": "Quantité de gain de stabilité temporelle du flacon de stabilité !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "StabilityValues-Config",
+  "en": "List of stability flask modifiers",
+  "fr": "Liste des modificateurs du flacon de stabilité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "Strength-Multiplier-Config",
+  "en": "List of strength modifiers",
+  "fr": "Liste des modificateurs de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "StrongPotionMultiplier",
+  "en": "Strong potion multiplier",
+  "fr": "Multiplicateur de potion forte"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "StrongPotionMultiplier-Comment",
+  "en": "Strong potion base value effect multiplier.",
+  "fr": "Multiplicateur de l'effet de la valeur de base pour une potion forte."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalExtraEffects-Config",
+  "en": "Stability Flask side effects",
+  "fr": "Effets secondaires du flacon de stabilité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingDamage",
+  "en": "Temporal Flask health change on drink",
+  "fr": "Changement de santé du flacon de stabilité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingDamage-Comment",
+  "en": "Temporal flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de stabilité : changement de santé à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingIntoxication",
+  "en": "Temporal Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de stabilité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingIntoxication-Comment",
+  "en": "Temporal flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de stabilité : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingPsychedelic",
+  "en": "Temporal Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique du flacon de stabilité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingPsychedelic-Comment",
+  "en": "Temporal flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de stabilité : changement d'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingSaturationLoss",
+  "en": "Temporal Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de stabilité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionDrinkingSaturationLoss-Comment",
+  "en": "Temporal flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de stabilité : changement de saturation à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ }
+]

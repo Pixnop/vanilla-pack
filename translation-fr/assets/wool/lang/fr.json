@@ -2,7 +2,7 @@
   "game:handbook-leggings-game": "Tricotées à partir d'une très fine laine de cerf et de chèvre, collectée sur la toison chaude du ventre.",
   "game:handbook-leggings-mohair": "Tricotées à partir de la plus fine laine de chèvre angora blanche.",
   "game:handbook-leggings-noble": "Tricotées à partir d'une laine chère teinte en rose. La dernière mode des nobles adorée par les princes et princesses.",
-  "game:handbook-leggings-qivuit": "Laine rare et chère de boeuf musqué tricotée à la perfection.",
+  "game:handbook-leggings-qivuit": "Laine rare et chère de bœuf musqué tricotée à la perfection.",
   "wool:handbook-description": "Description",
   "wool:item-clothes-lowerbody-leggings-game": "Jambières chaudes de chasseur",
   "wool:item-clothes-lowerbody-leggings-mohair": "Jambières chaudes de mohair",
@@ -16,7 +16,7 @@
   "wool:itemdesc-fertilizer-organic-fish": "Un engrais organique fait à partir de poisson séché.",
   "wool:itemdesc-fertilizer-organic-horn": "Un engrais organique fait à partir de corne animale.",
   "wool:itemdesc-fertilizer-organic-wool": "Fait à partir de poils d'animaux et de toison bruts et non lavés.",
-  "wool:setting_enable_gazelle_drops": "Drops supplémentaires de gazelle",
+  "wool:setting_enable_gazelle_drops": "Butin supplémentaire de gazelle",
   "wool:setting_enable_gazelle_drops_comment": "Les gazelles mortes doivent-elles lâcher de la toison ?",
   "wool:setting_enable_soil": "Améliorer la fertilité du sol",
   "wool:setting_enable_soil_comment": "Un sol de fertilité plus élevée peut-il être fabriqué avec de l'engrais organique ?"

@@ -1,0 +1,65 @@
+[
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-smokable-arnica-cured",
+  "avant": "Arnica (séchée)",
+  "apres": "Arnica (séché)",
+  "motif": "Arnica est masculin en français (un arnica), accord fautif"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-smokable-edelweiss-cured",
+  "avant": "Edelweiss (séchée)",
+  "apres": "Edelweiss (séché)",
+  "motif": "Edelweiss est masculin en français (un edelweiss), accord fautif"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:itemdesc-curedblend-sage-thyme",
+  "avant": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde peut altérer votre jugement.",
+  "apres": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde puisse altérer votre jugement.",
+  "motif": "bien que appelle le subjonctif (puisse, pas peut)"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:itemdesc-curedblend-thyme-sage",
+  "avant": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde peut altérer votre jugement.",
+  "apres": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde puisse altérer votre jugement.",
+  "motif": "bien que appelle le subjonctif (puisse, pas peut)"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:itemdesc-shagblend-sage-thyme",
+  "avant": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde peut altérer votre jugement.",
+  "apres": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde puisse altérer votre jugement.",
+  "motif": "bien que appelle le subjonctif (puisse, pas peut)"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:itemdesc-shagblend-thyme-sage",
+  "avant": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde peut altérer votre jugement.",
+  "apres": "Le plus puissant mélange de stabilité temporelle connu. Essentiel pour les plongées profondes dans les tempêtes temporelles, bien que l'intoxication lourde puisse altérer votre jugement.",
+  "motif": "bien que appelle le subjonctif (puisse, pas peut)"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:pipe-empty",
+  "avant": "il ne reste que la dottle...",
+  "apres": "il ne reste que le culot...",
+  "motif": "mot anglais laissé tel quel ; le terme français existant pour ce résidu de pipe est culot (masculin)"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:overuse-warning",
+  "avant": "...ralentis là cowboy",
+  "apres": "...ralentis là, cowboy",
+  "motif": "virgule manquante devant l'apostrophe (adresse à cowboy)"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "smokingpipe-handbook-help-title",
+  "avant": "Comment utiliser :",
+  "apres": "Comment l'utiliser :",
+  "motif": "calque incomplet, utiliser est transitif et réclame un complément"
+ }
+]

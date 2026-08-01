@@ -1,0 +1,1334 @@
+[
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Ahh I see I will try to get you those gears and return.",
+  "en": "Ahh I see I will try to get you those gears and return.",
+  "fr": "Ah, je vois, je vais essayer de vous trouver ces engrenages et je reviendrai."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:All the finest soldiers’ tombs are adorned by those ceremonial weapons of silver and gold, so, must mean you’re a pretty capable warrior if you can get your hands on something like that. I want you to give me a scythe forged of solid gold, and then I will share with you the location of this pit. It’d be impractical as a tool, of course! But oh, how fun! I can already see it, hanging upon the hearth... and the look on my colleagues’ face when I show up with it in tow will be more valuable than anything gears can buy.",
+  "en": "All the finest soldiers’ tombs are adorned by those ceremonial weapons of silver and gold, so, must mean you’re a pretty capable warrior if you can get your hands on something like that. I want you to give me a scythe forged of solid gold, and then I will share with you the location of this pit. It’d be impractical as a tool, of course! But oh, how fun! I can already see it, hanging upon the hearth... and the look on my colleagues’ face when I show up with it in tow will be more valuable than anything gears can buy.",
+  "fr": "Les tombeaux des meilleurs soldats sont tous ornés de ces armes cérémonielles d'argent et d'or, alors cela doit vouloir dire que vous êtes un guerrier plutôt capable si vous parvenez à mettre la main sur une telle chose. Je veux que vous me rapportiez une faux forgée en or massif, et je partagerai alors avec vous l'emplacement de cette fosse. Ce serait bien sûr peu pratique comme outil ! Mais oh, quel plaisir ! Je la vois déjà, suspendue au-dessus de l'âtre... et l'expression sur le visage de mes collègues quand j'arriverai avec elle vaudra plus que tout ce que des engrenages pourraient acheter."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:And one more thing. Don't expect answers from the map - just observe the things around you, that always helped me in difficult situations like yours.",
+  "en": "And one more thing. Don't expect answers from the map - just observe the things around you, that always helped me in difficult situations like yours.",
+  "fr": "Et encore une chose. N'attendez pas de réponses de la carte : contentez-vous d'observer ce qui vous entoure, cela m'a toujours aidé dans des situations difficiles comme la vôtre."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:And would you like to visit it?",
+  "en": "And would you like to visit it?",
+  "fr": "Et aimeriez-vous vous y rendre ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Another tragic story? I don't have time.",
+  "en": "Another tragic story? I don't have time.",
+  "fr": "Encore une histoire tragique ? Je n'ai pas le temps."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:As they say: as they flared up, so they faded. As far as I know, it's unlikely anyone has forced themselves to visit that place again. After the terrible rumors that spread through the world following their failure. I even think a tradition appeared to leave that place alone.",
+  "en": "As they say: as they flared up, so they faded. As far as I know, it's unlikely anyone has forced themselves to visit that place again. After the terrible rumors that spread through the world following their failure. I even think a tradition appeared to leave that place alone.",
+  "fr": "Comme on dit : aussi vite qu'ils se sont embrasés, aussi vite ils se sont éteints. À ma connaissance, il est peu probable que quiconque se soit forcé à retourner visiter cet endroit, après les terribles rumeurs qui se sont répandues dans le monde suite à leur échec. Je crois même qu'une tradition est née, celle de laisser cet endroit tranquille."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Can you remind me where the location with the sun symbol was?",
+  "en": "[BR Quest] Can you remind me where the location with the sun symbol was?",
+  "fr": "[BR Quest] Pouvez-vous me rappeler où se trouvait l'endroit marqué du symbole du soleil ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Don’t be salty, now.",
+  "en": "Don’t be salty, now.",
+  "fr": "Ne le prenez pas mal, voyons."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Don’t you fret. I thought this might happen, so I kept another copy on hand. You Seraphs ought to stop making up stories about having died far-away every single time you misplace your things.",
+  "en": "Don’t you fret. I thought this might happen, so I kept another copy on hand. You Seraphs ought to stop making up stories about having died far-away every single time you misplace your things.",
+  "fr": "Ne vous inquiétez pas. Je me doutais que cela arriverait, alors j'en ai gardé une autre copie sous la main. Vous, les Séraphins, devriez arrêter d'inventer des histoires de morts au loin chaque fois que vous égarez vos affaires."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Eager, are you? Wise or foolish - we shall see. This map leads to a chamber beneath the sands, once known as the Crossroads Below. Vaulted stone, buried secrets. It's not marked by stone, but by silence - and silence keeps its secrets well.",
+  "en": "Eager, are you? Wise or foolish - we shall see. This map leads to a chamber beneath the sands, once known as the Crossroads Below. Vaulted stone, buried secrets. It's not marked by stone, but by silence - and silence keeps its secrets well.",
+  "fr": "Impatient, n'est-ce pas ? Sage ou insensé, nous verrons bien. Cette carte mène à une chambre sous les sables, autrefois connue sous le nom de Carrefour d'En Bas. Pierre voûtée, secrets enfouis. Elle n'est pas marquée par la pierre, mais par le silence : et le silence garde bien ses secrets."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Hard to imagine how it ended...",
+  "en": "Hard to imagine how it ended...",
+  "fr": "Difficile d'imaginer comment cela s'est terminé..."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Heard you... unpleasant, I'll think about it.",
+  "en": "Heard you... unpleasant, I'll think about it.",
+  "fr": "Je vous ai entendu... désagréable, j'y réfléchirai."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Here you go I got another copy of the map.",
+  "en": "Here you go I got another copy of the map.",
+  "fr": "Tenez, j'ai une autre copie de la carte."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Here you go.",
+  "en": "Here you go.",
+  "fr": "Tenez."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Here’s your map, and best of luck on your journey.\n\nGive my regards to that old friend of mine when you get there, will you?",
+  "en": "Here’s your map, and best of luck on your journey.\n\nGive my regards to that old friend of mine when you get there, will you?",
+  "fr": "Voici votre carte, et bonne chance pour votre voyage.\n\nTransmettez mes salutations à ce vieil ami à moi quand vous y serez, voulez-vous ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I agree with you. Let's leave that place be.",
+  "en": "I agree with you. Let's leave that place be.",
+  "fr": "Je suis d'accord avec vous. Laissons cet endroit tranquille."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I already knew that...",
+  "en": "I already knew that...",
+  "fr": "Je le savais déjà..."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I don't really want to break tradition. And it's quite far - I trust rumors more than my own cart for such a distance. Yet safety comes first, it's no place for me alone. They also say danger outlives its masters.",
+  "en": "I don't really want to break tradition. And it's quite far - I trust rumors more than my own cart for such a distance. Yet safety comes first, it's no place for me alone. They also say danger outlives its masters.",
+  "fr": "Je n'ai pas vraiment envie de rompre la tradition. Et c'est plutôt loin : je fais davantage confiance aux rumeurs qu'à mon propre chariot pour une telle distance. Pourtant, la sécurité passe avant tout, ce n'est pas un endroit pour moi seul. On dit aussi que le danger survit à ses maîtres."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I guess they are. I won’t pry further.",
+  "en": "I guess they are. I won’t pry further.",
+  "fr": "Je suppose que oui. Je ne fouillerai pas davantage."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I have the pickaxe in exchange for the map with the sun.",
+  "en": "[BR Quest] I have the pickaxe in exchange for the map with the sun.",
+  "fr": "[BR Quest] J'ai la pioche en échange de la carte avec le soleil."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I have your scythe.",
+  "en": "[BR Quest] I have your scythe.",
+  "fr": "[BR Quest] J'ai votre faux."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I lost that map you gave me.",
+  "en": "[BR Quest] I lost that map you gave me.",
+  "fr": "[BR Quest] J'ai perdu la carte que vous m'aviez donnée."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I lost the map to the Halite Quarry!",
+  "en": "I lost the map to the Halite Quarry!",
+  "fr": "J'ai perdu la carte de la Carrière d'Halite !"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I suppose poor taste can’t be helped.",
+  "en": "I suppose poor taste can’t be helped.",
+  "fr": "Je suppose qu'on n'y peut rien pour le mauvais goût."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I think I have a map from there... I'm not sure it leads exactly to it, but the mark with the sun suggests otherwise. The sun - the symbol of that place...",
+  "en": "I think I have a map from there... I'm not sure it leads exactly to it, but the mark with the sun suggests otherwise. The sun - the symbol of that place...",
+  "fr": "Je crois que j'ai une carte de là-bas... Je ne suis pas sûr qu'elle y mène exactement, mais la marque avec le soleil suggère le contraire. Le soleil, le symbole de cet endroit..."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I understand, do you have anything else?",
+  "en": "I understand, do you have anything else?",
+  "fr": "Je comprends, avez-vous autre chose ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I understand. I'll step away.",
+  "en": "I understand. I'll step away.",
+  "fr": "Je comprends. Je vais m'écarter."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I want to obtain it. I assume you need something in return?",
+  "en": "I want to obtain it. I assume you need something in return?",
+  "fr": "Je veux l'obtenir. Je suppose que vous avez besoin de quelque chose en retour ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I'll stick to the map, thank you very much.",
+  "en": "I'll stick to the map, thank you very much.",
+  "fr": "Je m'en tiendrai à la carte, merci beaucoup."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I'll try to satisfy your request to prove my intentions.",
+  "en": "I'll try to satisfy your request to prove my intentions.",
+  "fr": "Je vais essayer de satisfaire votre demande pour prouver mes intentions."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Is there one? Not too old.",
+  "en": "Is there one? Not too old.",
+  "fr": "Y en a-t-il une ? Pas trop vieille."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’ll bring you a quern!",
+  "en": "I’ll bring you a quern!",
+  "fr": "Je vous apporterai une meule !"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’ll see what I can do.",
+  "en": "I’ll see what I can do.",
+  "fr": "Je verrai ce que je peux faire."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’ll tell you, but I need to be sure that you know how to put together a quern or you’ll be left with useless halite stone. Conveniently, I’ve also gotten very bored of the dull granite grey of my own quern. You work on bringing me one with a prettier colour and I’ll work on drawing you up a map. Andesite, basalt, peridotite, a quern carved from any of those three would do.",
+  "en": "I’ll tell you, but I need to be sure that you know how to put together a quern or you’ll be left with useless halite stone. Conveniently, I’ve also gotten very bored of the dull granite grey of my own quern. You work on bringing me one with a prettier colour and I’ll work on drawing you up a map. Andesite, basalt, peridotite, a quern carved from any of those three would do.",
+  "fr": "Je vous le dirai, mais je dois être sûr que vous savez assembler une meule, sinon vous vous retrouverez avec une pierre d'halite inutile. Justement, je me suis aussi beaucoup lassé du gris terne de granite de ma propre meule. Occupez-vous de m'en apporter une d'une plus jolie couleur et je m'occuperai de vous dessiner une carte. Andésite, basalte, péridotite, une meule taillée dans l'une de ces trois pierres ferait l'affaire."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’m looking forward to it. I’ll have the map ready when you return.",
+  "en": "I’m looking forward to it. I’ll have the map ready when you return.",
+  "fr": "J'ai hâte d'y être. J'aurai la carte prête à votre retour."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’m sure I simply don’t appreciate Seraph cuisine.",
+  "en": "I’m sure I simply don’t appreciate Seraph cuisine.",
+  "fr": "Je suis sûr que je n'apprécie tout simplement pas la cuisine séraphine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’m sure you already have a cellar to keep your foodstuffs out of the sun. When I’m travelling around local farmsteads to stock up, though, I don’t quite have that luxury.\n\nIt’s salt! If you use enough of it it tastes better, too. Cured meats, pickled veggies…\nI pass by this salt mine on occasion during my travels and always take some to top off my supply.\nIt’s been abandoned since long before I first set foot there, so I’m sure they don’t mind.",
+  "en": "I’m sure you already have a cellar to keep your foodstuffs out of the sun. When I’m travelling around local farmsteads to stock up, though, I don’t quite have that luxury.\n\nIt’s salt! If you use enough of it it tastes better, too. Cured meats, pickled veggies…\nI pass by this salt mine on occasion during my travels and always take some to top off my supply.\nIt’s been abandoned since long before I first set foot there, so I’m sure they don’t mind.",
+  "fr": "Je suis sûr que vous avez déjà une cave pour garder vos provisions à l'abri du soleil. Mais quand je voyage entre les fermes locales pour me réapprovisionner, je n'ai pas ce luxe.\n\nC'est du sel ! Si vous en utilisez assez, cela a aussi meilleur goût. Viandes salées, légumes marinés…\nJe passe de temps en temps près de cette mine de sel durant mes voyages et j'en prends toujours un peu pour compléter mes réserves.\nElle est abandonnée depuis bien avant que j'y mette les pieds pour la première fois, alors je suis sûr que cela ne les dérange pas."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’ve got the andesite quern!",
+  "en": "I’ve got the andesite quern!",
+  "fr": "J'ai la meule en andésite !"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’ve got the basalt quern!",
+  "en": "I’ve got the basalt quern!",
+  "fr": "J'ai la meule en basalte !"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:I’ve got the peridotite quern!",
+  "en": "I’ve got the peridotite quern!",
+  "fr": "J'ai la meule en péridotite !"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Lost it already? Hah. No matter - here, take another. Try not to feed this one to the wind.",
+  "en": "Lost it already? Hah. No matter - here, take another. Try not to feed this one to the wind.",
+  "fr": "Déjà perdue ? Ha. Peu importe, tenez, prenez-en une autre. Essayez de ne pas donner celle-ci au vent."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Maybe you should get rid of it, might be safer for both of us.",
+  "en": "Maybe you should get rid of it, might be safer for both of us.",
+  "fr": "Peut-être devriez-vous vous en débarrasser, ce serait sans doute plus sûr pour nous deux."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:More of a quarry, really. Halite. Gorgeous pink stone. I’ve tried to use it for bowls to no avail, the stuff dissolves in liquids. But if you grind it up you get salt. As for the site itself, it’s full of decrepit buildings that I personally take wide berths around. Leave it to the treasure hunter types to get trapped in collapsing ruins.\n\nI don’t think you could exhaust its reserves if you tried, so I feel comfortable sharing its location with you. I’ve seen folks like you running up to my storefront scarfing down ten or so uncooked carrots in a single sitting. So it would bring me comfort knowing that you’ve got salt available, at the very least.",
+  "en": "More of a quarry, really. Halite. Gorgeous pink stone. I’ve tried to use it for bowls to no avail, the stuff dissolves in liquids. But if you grind it up you get salt. As for the site itself, it’s full of decrepit buildings that I personally take wide berths around. Leave it to the treasure hunter types to get trapped in collapsing ruins.\n\nI don’t think you could exhaust its reserves if you tried, so I feel comfortable sharing its location with you. I’ve seen folks like you running up to my storefront scarfing down ten or so uncooked carrots in a single sitting. So it would bring me comfort knowing that you’ve got salt available, at the very least.",
+  "fr": "C'est plutôt une carrière, en réalité. De l'halite. Une magnifique pierre rose. J'ai essayé de m'en servir pour faire des bols, en vain, cette matière se dissout dans les liquides. Mais si vous la broyez, vous obtenez du sel. Quant au site lui-même, il est plein de bâtiments décrépits que je préfère personnellement éviter de loin. Laissez ça aux chasseurs de trésors du genre à se faire piéger dans des ruines qui s'effondrent.\n\nJe ne pense pas que vous puissiez épuiser ses réserves même en essayant, alors je me sens à l'aise de partager son emplacement avec vous. J'ai déjà vu des gens comme vous se précipiter vers mon étal pour engloutir une dizaine de carottes crues d'un seul coup. Alors cela me rassurerait de savoir que vous disposez de sel, au moins."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:More than?",
+  "en": "More than?",
+  "fr": "Plus que ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Not worth my time.",
+  "en": "Not worth my time.",
+  "fr": "Cela ne vaut pas mon temps."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Of course... I see... yes, the pickaxe is solid. I think I can trust you with more than just the map.",
+  "en": "Of course... I see... yes, the pickaxe is solid. I think I can trust you with more than just the map.",
+  "fr": "Bien sûr... je vois... oui, la pioche est solide. Je pense pouvoir vous confier plus que la simple carte."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Oh, I shudder to imagine how deep you must’ve dug to get your hands on all that precious gold... or how much time you must’ve spent sifting it from sandy shores. Well. Whether you’re strong enough to survive the lowest reaches of this world or patient enough to tread with utmost caution, either trait will serve you well when you head into that ruin. You’ve more than proven yourself as far as I’m concerned.",
+  "en": "Oh, I shudder to imagine how deep you must’ve dug to get your hands on all that precious gold... or how much time you must’ve spent sifting it from sandy shores. Well. Whether you’re strong enough to survive the lowest reaches of this world or patient enough to tread with utmost caution, either trait will serve you well when you head into that ruin. You’ve more than proven yourself as far as I’m concerned.",
+  "fr": "Oh, j'en frémis d'imaginer à quelle profondeur vous avez dû creuser pour mettre la main sur tout cet or précieux... ou combien de temps vous avez dû passer à le tamiser sur des rivages sablonneux. Enfin. Que vous soyez assez fort pour survivre dans les profondeurs de ce monde ou assez patient pour avancer avec la plus grande prudence, l'un ou l'autre de ces traits vous servira bien quand vous partirez pour cette ruine. Vous avez plus que fait vos preuves en ce qui me concerne."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Oh, it’ll look great in my kitchen! Thank you kindly for your service, and here’s your map, as promised. I’m very thankful to have been a part of your culinary journey.",
+  "en": "Oh, it’ll look great in my kitchen! Thank you kindly for your service, and here’s your map, as promised. I’m very thankful to have been a part of your culinary journey.",
+  "fr": "Oh, elle sera superbe dans ma cuisine ! Merci beaucoup pour votre service, et voici votre carte, comme promis. Je suis très reconnaissant d'avoir fait partie de votre périple culinaire."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Oh, look around you! What isn’t noteworthy around here? Nature is thriving and providing for all of us, even amidst the surge of cursed ones plaguing these lands. You adventuring types ought to sit still and appreciate that from time to time. You remind me of my colleague, who calls themself a treasure hunter. Recently sent me a letter about some discovery they lacked the manpower to unearth. Fool’s errands, all in all. I just wish they’d take the hint and accept that some things are best left buried.",
+  "en": "Oh, look around you! What isn’t noteworthy around here? Nature is thriving and providing for all of us, even amidst the surge of cursed ones plaguing these lands. You adventuring types ought to sit still and appreciate that from time to time. You remind me of my colleague, who calls themself a treasure hunter. Recently sent me a letter about some discovery they lacked the manpower to unearth. Fool’s errands, all in all. I just wish they’d take the hint and accept that some things are best left buried.",
+  "fr": "Oh, regardez donc autour de vous ! Qu'est-ce qui n'est pas remarquable par ici ? La nature prospère et pourvoit à nos besoins à tous, même au milieu de cette vague de maudits qui frappe ces terres. Vous autres aventuriers devriez vous arrêter et apprécier cela de temps en temps. Vous me rappelez mon collègue, qui se dit chasseur de trésors. Il m'a récemment envoyé une lettre à propos d'une découverte qu'il n'avait pas la main-d'œuvre nécessaire pour exhumer. Des courses inutiles, tout compte fait. J'aimerais seulement qu'il comprenne l'allusion et accepte que certaines choses sont mieux laissées enterrées."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Oh, quiet your yammering. Of course it will be. Matter of fact, it already is!\nYou’ve made me very happy. Honestly, can’t think of anything more worthwhile than that.\nIf you want to make me even happier, though, my storefront’s open...?",
+  "en": "Oh, quiet your yammering. Of course it will be. Matter of fact, it already is!\nYou’ve made me very happy. Honestly, can’t think of anything more worthwhile than that.\nIf you want to make me even happier, though, my storefront’s open...?",
+  "fr": "Oh, cessez donc vos jérémiades. Bien sûr que oui. En fait, c'est déjà le cas !\nVous m'avez rendu très heureux. Honnêtement, je ne vois rien de plus précieux que cela.\nMais si vous voulez me rendre encore plus heureux, mon étal est ouvert... ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Save it for now, I'll come back later.",
+  "en": "Save it for now, I'll come back later.",
+  "fr": "Gardez ça pour l'instant, je reviendrai plus tard."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:See, there’s somebody with a good head on their shoulders.\nThere are exceptions to the rule, of course. Parsnips, onions, carrots... I could go on.\nWhy don’t you buy some?",
+  "en": "See, there’s somebody with a good head on their shoulders.\nThere are exceptions to the rule, of course. Parsnips, onions, carrots... I could go on.\nWhy don’t you buy some?",
+  "fr": "Voilà quelqu'un qui a la tête sur les épaules.\nIl y a des exceptions à la règle, bien sûr. Panais, oignons, carottes... je pourrais continuer.\nPourquoi ne pas en acheter ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Seen anything noteworthy around lately?",
+  "en": "[BR Quest] Seen anything noteworthy around here lately?",
+  "fr": "[BR Quest] Avez-vous vu quelque chose de remarquable dans le coin dernièrement ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:So I did. They described it as a perfectly spherical crater left behind in the landscape, with dozens of sprawling tunnels opening into that pit. Said it was infested with drifters and the likes and didn’t want to take any chances, so they asked me to send any capable warriors their way. But what do they think little old me knows about fighting? I’d certainly not dare invite you to spar. No, I reckon I’ll trade the location to you, for a very specific price.",
+  "en": "So I did. They described it as a perfectly spherical crater left behind in the landscape, with dozens of sprawling tunnels opening into that pit. Said it was infested with drifters and the likes and didn’t want to take any chances, so they asked me to send any capable warriors their way. But what do they think little old me knows about fighting? I’d certainly not dare invite you to spar. No, I reckon I’ll trade the location to you, for a very specific price.",
+  "fr": "En effet. Ils l'ont décrit comme un cratère parfaitement sphérique laissé dans le paysage, avec des dizaines de tunnels tentaculaires s'ouvrant dans cette fosse. Ils ont dit qu'elle était infestée d'errants et autres créatures du genre et ne voulaient prendre aucun risque, alors ils m'ont demandé de leur envoyer des guerriers capables. Mais que croient-ils que moi, pauvre petite chose, connaisse au combat ? Je n'oserais certainement pas vous inviter à vous entraîner avec moi. Non, je pense que je vais vous échanger cet emplacement, contre un prix bien précis."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Sorry, not interested.",
+  "en": "Sorry, not interested.",
+  "fr": "Désolé, pas intéressé."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Sounds grim, my condolences. I should go.",
+  "en": "Sounds grim, my condolences. I should go.",
+  "fr": "Cela semble sinistre, toutes mes condoléances. Je devrais y aller."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Sounds worthy, but I still need to learn that.",
+  "en": "Sounds worthy, but I still need to learn that.",
+  "fr": "Cela semble louable, mais j'ai encore besoin d'apprendre cela."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Spoken like one born of purpose. But rusty gears is not enough, not for this. I require something rarer - something that fell from the stars. Bring me a knife of meteoric iron. Freshly forged. Untouched by blood or rust. Only then shall I entrust you with the map.",
+  "en": "Spoken like one born of purpose. But rusty gears is not enough, not for this. I require something rarer - something that fell from the stars. Bring me a knife of meteoric iron. Freshly forged. Untouched by blood or rust. Only then shall I entrust you with the map.",
+  "fr": "Voilà qui est parlé comme quelqu'un né avec un but. Mais des engrenages rouillés ne suffisent pas, pas pour cela. J'exige quelque chose de plus rare, quelque chose tombé des étoiles. Apportez-moi un couteau de fer météorique. Fraîchement forgé. Vierge de sang ou de rouille. Ce n'est qu'alors que je vous confierai la carte."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Strange for you to request something like this.",
+  "en": "Strange for you to request something like this.",
+  "fr": "Étrange que vous demandiez une telle chose."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Thank you!",
+  "en": "Thank you!",
+  "fr": "Merci !"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Then take the map and let your own judgement guide you. Some places are better understood in silence than in stories.",
+  "en": "Then take the map and let your own judgement guide you. Some places are better understood in silence than in stories.",
+  "fr": "Alors prenez la carte et laissez votre propre jugement vous guider. Certains endroits se comprennent mieux dans le silence que dans les histoires."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Then you are smarter than you look. Lesser adventurers would have disappeared into that ruin and not returned, blinded by the glimmer of gold, like so many before them.\n\nFeel free to stick around here and browse my wares instead. That way, you won’t go home empty-handed after all.",
+  "en": "Then you are smarter than you look. Lesser adventurers would have disappeared into that ruin and not returned, blinded by the glimmer of gold, like so many before them.\n\nFeel free to stick around here and browse my wares instead. That way, you won’t go home empty-handed after all.",
+  "fr": "Alors vous êtes plus intelligent que vous n'en avez l'air. De moindres aventuriers auraient disparu dans cette ruine sans jamais revenir, aveuglés par l'éclat de l'or, comme tant d'autres avant eux.\n\nN'hésitez pas à rester dans le coin et à parcourir mes marchandises à la place. Ainsi, vous ne rentrerez pas les mains vides, après tout."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:There are plenty of stories. They gather like dirt on boots. Listening to them is certainly safer than checking them.",
+  "en": "There are plenty of stories. They gather like dirt on boots. Listening to them is certainly safer than checking them.",
+  "fr": "Il y a bien des histoires. Elles s'accumulent comme la boue sur des bottes. Les écouter est certainement plus sûr que de les vérifier."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:There are whispers, traveler. Tales passed from one sun-scorched tongue to the next - of a place far beneath the dunes. An ancient tomb, where four trade empires once crossed paths and secrets were locked away in silence. It's not on any common map... but I may possess something rare.",
+  "en": "There are whispers, traveler. Tales passed from one sun-scorched tongue to the next - of a place far beneath the dunes. An ancient tomb, where four trade empires once crossed paths and secrets were locked away in silence. It's not on any common map... but I may possess something rare.",
+  "fr": "Il y a des murmures, voyageur. Des récits passés d'une langue brûlée par le soleil à l'autre, à propos d'un lieu loin sous les dunes. Une tombe ancienne, où quatre empires marchands ont autrefois croisé leur route et où des secrets ont été enfermés dans le silence. Elle ne figure sur aucune carte ordinaire... mais je possède peut-être quelque chose de rare."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:There is one. But it holds no more certainty than the others.",
+  "en": "There is one. But it holds no more certainty than the others.",
+  "fr": "Il y en a une. Mais elle n'offre pas plus de certitude que les autres."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:There were rumors about the existence of one place. Distant and large. So distant that speaking of it is already an achievement. People wanted to influence something that, as is customary, cannot really be influenced. They wanted to muffle... or even push away... the screech of metal in the middle of the day, and the feeling of rust in the air. But the world doesn't like it much when its manifestations are silenced.",
+  "en": "There were rumors about the existence of one place. Distant and large. So distant that speaking of it is already an achievement. People wanted to influence something that, as is customary, cannot really be influenced. They wanted to muffle... or even push away... the screech of metal in the middle of the day, and the feeling of rust in the air. But the world doesn't like it much when its manifestations are silenced.",
+  "fr": "Il y avait des rumeurs sur l'existence d'un lieu. Lointain et vaste. Si lointain qu'en parler est déjà en soi un exploit. Les gens voulaient influencer quelque chose qui, comme d'habitude, ne peut pas vraiment être influencé. Ils voulaient étouffer... ou même repousser... le grincement du métal en plein jour, et la sensation de rouille dans l'air. Mais le monde n'aime guère qu'on fasse taire ses manifestations."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:This had better be worth it...",
+  "en": "This had better be worth it...",
+  "fr": "Ça a intérêt à en valoir la peine..."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:This is definitely useful knowledge, thank you very much.",
+  "en": "This is definitely useful knowledge, thank you very much.",
+  "fr": "C'est assurément un savoir utile, merci beaucoup."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Typical for stories, I'm interested.",
+  "en": "Typical for stories, I'm interested.",
+  "fr": "Typique des histoires, je suis intéressé."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Very well. Take the map, and may your steps be careful where the sun once burned brightest.",
+  "en": "Very well. Take the map, and may your steps be careful where the sun once burned brightest.",
+  "fr": "Très bien. Prenez la carte, et que vos pas soient prudents là où le soleil brûlait autrefois le plus fort."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Well, thank you in turn! For humouring me, and getting me this scythe. This thing’s much heavier than it looks, and I could use someone of your faculties to carry it back to my farmhouse when I tire of trading. But that’s nowhere in the foreseeable future! Let’s worry about right now; all those gears that are weighing you down. Come take a look at my wares, I’ll gladly help you lighten those pockets.",
+  "en": "Well, thank you in turn! For humouring me, and getting me this scythe. This thing’s much heavier than it looks, and I could use someone of your faculties to carry it back to my farmhouse when I tire of trading. But that’s nowhere in the foreseeable future! Let’s worry about right now; all those gears that are weighing you down. Come take a look at my wares, I’ll gladly help you lighten those pockets.",
+  "fr": "Eh bien, merci à vous en retour ! De m'avoir suivi dans mon caprice et d'avoir obtenu cette faux. Cette chose est bien plus lourde qu'elle n'en a l'air, et je pourrais bien avoir besoin de quelqu'un de vos capacités pour la ramener jusqu'à ma ferme quand je me lasserai du commerce. Mais ce n'est pas près d'arriver ! Occupons-nous du présent : tous ces engrenages qui vous alourdissent. Venez donc jeter un œil à mes marchandises, je serai ravi de vous aider à alléger ces poches."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:What would that price be?",
+  "en": "What would that price be?",
+  "fr": "Quel serait ce prix ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Where is it?",
+  "en": "Where is it?",
+  "fr": "Où est-ce ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Why, thank you for entertaining my request. Remember to stock up on food before you leave, it won’t do you any good to go prospecting on an empty stomach.",
+  "en": "Why, thank you for entertaining my request. Remember to stock up on food before you leave, it won’t do you any good to go prospecting on an empty stomach.",
+  "fr": "Eh bien, merci d'avoir accepté ma demande. N'oubliez pas de faire des provisions avant de partir, cela ne vous servira à rien de partir prospecter le ventre vide."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Yes, but not exactly payment. A confirmation of your abilities. Show that you can handle good metal - bring me an iron pickaxe you forged yourself. If you're going there, better not go without purpose or craftsmanship.",
+  "en": "Yes, but not exactly payment. A confirmation of your abilities. Show that you can handle good metal - bring me an iron pickaxe you forged yourself. If you're going there, better not go without purpose or craftsmanship.",
+  "fr": "Oui, mais pas exactement un paiement. Une confirmation de vos capacités. Montrez-moi que vous savez manier du bon métal, apportez-moi une pioche en fer que vous aurez forgée vous-même. Si vous y allez, mieux vaut ne pas y aller sans but ni savoir-faire."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Yes, knowledge and items you'll need there. Considering the different rumors, the danger seems to still live there. You'll need equipment that can withstand an unexpected strike. You'll need fire - it doesn't burn willingly there, so take enough torches. Also - support, something to brace yourself against if the ground trembles. And medicine - absolutely. The pain from those events has most likely remained there, and the place will gladly share it with any visitor. Perhaps even with the first visitor...",
+  "en": "Yes, knowledge and items you'll need there. Considering the different rumors, the danger seems to still live there. You'll need equipment that can withstand an unexpected strike. You'll need fire - it doesn't burn willingly there, so take enough torches. Also - support, something to brace yourself against if the ground trembles. And medicine - absolutely. The pain from those events has most likely remained there, and the place will gladly share it with any visitor. Perhaps even with the first visitor...",
+  "fr": "Oui, du savoir et des objets dont vous aurez besoin là-bas. À en juger par les différentes rumeurs, le danger semble y vivre encore. Il vous faudra un équipement capable de résister à un coup inattendu. Il vous faudra du feu : il n'y brûle pas volontiers, alors emportez assez de torches. Aussi, un appui, quelque chose pour vous stabiliser si le sol tremble. Et des remèdes, absolument. La douleur de ces événements y est très probablement restée, et l'endroit la partagera volontiers avec tout visiteur. Peut-être même avec le tout premier visiteur..."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:Yes, my appreciation of nature doesn’t end at all that sticks out of the ground, but my skills don’t lend themselves particularly well to working metal. This might be my only opportunity to see something like this, let alone own it for myself! And I don’t intend to squander it if you’re interested in that ruin. Trader’s mindset, I suppose. I just can't help myself! Speaking of trade, are you buying?",
+  "en": "Yes, my appreciation of nature doesn’t end at all that sticks out of the ground, but my skills don’t lend themselves particularly well to working metal. This might be my only opportunity to see something like this, let alone own it for myself! And I don’t intend to squander it if you’re interested in that ruin. Trader’s mindset, I suppose. I just can't help myself! Speaking of trade, are you buying?",
+  "fr": "Oui, mon appréciation de la nature ne s'arrête pas à tout ce qui sort de terre, mais mes talents ne se prêtent pas particulièrement bien au travail du métal. C'est peut-être ma seule occasion de voir une telle chose, sans parler de la posséder moi-même ! Et je n'ai pas l'intention de la gâcher si vous vous intéressez à cette ruine. Un esprit de commerçant, je suppose. Je n'y peux tout simplement rien ! En parlant de commerce, achetez-vous quelque chose ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:You don’t know good eating.",
+  "en": "You don’t know good eating.",
+  "fr": "Vous ne connaissez pas la bonne cuisine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:You mentioned a discovery?",
+  "en": "You mentioned a discovery?",
+  "fr": "Vous avez mentionné une découverte ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:You mentioned a salt mine?",
+  "en": "You mentioned a salt mine?",
+  "fr": "Vous avez mentionné une mine de sel ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:You probably wander the world a lot. Heard many stories?",
+  "en": "[BR Quest] You probably wander the world a lot. Heard many stories?",
+  "fr": "[BR Quest] Vous parcourez probablement beaucoup le monde. Vous avez entendu beaucoup d'histoires ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:[BR Quest] Do you have any tips for preserving food?",
+  "en": "[BR Quest] Do you have any tips for preserving food?",
+  "fr": "[BR Quest] Avez-vous des conseils pour conserver la nourriture ?"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:item-handbooktext-betterruins:locatormap-agedsunrift",
+  "en": "<strong>Found in</strong>\nRare in a surface ruin",
+  "fr": "<strong>Trouvé dans</strong>\nRare dans une ruine de surface"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:item-handbooktext-betterruins:locatormap-calix",
+  "en": "<strong>Talk to</strong>\nAgriculture Trader",
+  "fr": "<strong>Parlez à</strong>\nMarchand d'agriculture"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:item-handbooktext-betterruins:locatormap-halitequarry",
+  "en": "<strong>Talk to</strong>\nAgriculture Trader",
+  "fr": "<strong>Parlez à</strong>\nMarchand d'agriculture"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:item-handbooktext-betterruins:locatormap-huaca",
+  "en": "<strong>Found in</strong>\nCrossroads\n\n<strong>Panning</strong>\nSand or Gravel",
+  "fr": "<strong>Trouvé dans</strong>\nCarrefour\n\n<strong>Orpaillage</strong>\nSable ou gravier"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins:item-handbooktext-betterruins:locatormap-sunrift",
+  "en": "<strong>Found in</strong>\nRare in any ruin\n\n<strong>Talk to</strong>\nLuxuries Trader",
+  "fr": "<strong>Trouvé dans</strong>\nRare dans toute ruine\n\n<strong>Parlez à</strong>\nMarchand de produits de luxe"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins_structures_spawn_chance",
+  "en": "BetterRuins Structures Spawn Chance",
+  "fr": "Chance d'apparition des structures BetterRuins"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins_structures_spawn_chance_comment",
+  "en": "Affects the spawn chance of all betterruins structures (not villages).",
+  "fr": "Affecte la chance d'apparition de toutes les structures betterruins (hors hameaux)."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins_villages_spawn_chance",
+  "en": "BetterRuins Villages Spawn Chance",
+  "fr": "Chance d'apparition des hameaux BetterRuins"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "betterruins_villages_spawn_chance_comment",
+  "en": "Affects the spawn chance of all betterruins villages which are groups of smaller structures cluttered close to each other (not structures).",
+  "fr": "Affecte la chance d'apparition de tous les hameaux betterruins, qui sont des groupes de petites structures rassemblées les unes près des autres (hors structures)."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-agitatedregards",
+  "en": "Discovered lore 'Agitated Regards'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Salutations agacées »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-authoritativecopy",
+  "en": "Discovered lore 'The Authoritative Copy'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « La Copie Faisant Foi »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-brickworkerslament",
+  "en": "Discovered lore 'Brickworker’s Lament'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « La Complainte du Briquetier »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-doubts",
+  "en": "Discovered lore 'Doubts'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Doutes »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-hopeandisaiahsledgers",
+  "en": "Discovered lore 'Hope and Isaiah’s Ledgers'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Les Registres de Hope et Isaiah »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-panopticonletters",
+  "en": "Discovered lore 'Panopticon Letters'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Lettres du Panopticon »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-pawprints",
+  "en": "Discovered lore 'Pawprints'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Empreintes de Pattes »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-quarrycorrespondences",
+  "en": "Discovered lore 'Quarry Correspondences'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Correspondances de la Carrière »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-ripleysresearch",
+  "en": "Discovered lore 'Ripley’s Research'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Les Recherches de Ripley »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-saltstainedscrawlings",
+  "en": "Discovered lore 'Salt-stained Scrawlings'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Gribouillages Tachés de Sel »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-severancenotice",
+  "en": "Discovered lore 'Severance Notice'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Avis de Licenciement »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-smashingsuccess",
+  "en": "Discovered lore 'Smashing Success'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Un Succès Fracassant »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-stokersdirective",
+  "en": "Discovered lore 'Stoker’s Directive'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Directive du Soutier »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:ingamediscovery-lore-treasurehunternotes1",
+  "en": "Discovered lore 'Treasure Hunter’s Notes'\r\nPart {0} / {1}\r\n<font size=\"20\">Hit J to open your Journal</font>",
+  "fr": "Savoir découvert : « Notes du Chasseur de Trésors »\r\nPartie {0} / {1}\r\n<font size=\"20\">Appuyez sur J pour ouvrir votre journal</font>"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-agitatedregards",
+  "en": "BR Lore Agitated Regards",
+  "fr": "Savoir BR : Salutations agacées"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-authoritativecopy",
+  "en": "BR Lore The Authoritative Copy",
+  "fr": "Savoir BR : La Copie Faisant Foi"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-brickworkerslament",
+  "en": "BR Lore Brickworker’s Lament",
+  "fr": "Savoir BR : La Complainte du Briquetier"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-conditions",
+  "en": "BR Lore Conditions",
+  "fr": "Savoir BR : Conditions"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-deliverieslist",
+  "en": "BR Lore Small List of Deliveries",
+  "fr": "Savoir BR : Petite Liste de Livraisons"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-desertexcavation",
+  "en": "BR Lore Desert Excavation Journal",
+  "fr": "Savoir BR : Journal de Fouille du Désert"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-desperatetimes",
+  "en": "BR Lore Desperate Times",
+  "fr": "Savoir BR : Temps Désespérés"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-devotion",
+  "en": "BR Lore Devotion",
+  "fr": "Savoir BR : Dévotion"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-dutyofthescribe",
+  "en": "BR Lore Duty of the Scribe",
+  "fr": "Savoir BR : Le Devoir du Scribe"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-experimentteammember",
+  "en": "BR Lore Experiment Team Member",
+  "fr": "Savoir BR : Membre de l'Équipe d'Expérimentation"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-faulknersmusings",
+  "en": "BR Lore Faulkner’s Musings",
+  "fr": "Savoir BR : Réflexions de Faulkner"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-favorableconditions",
+  "en": "BR Lore Favorable Conditions",
+  "fr": "Savoir BR : Conditions Favorables"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-finalentriesarchmaster",
+  "en": "BR Lore Final Entries of the Archmaster",
+  "fr": "Savoir BR : Dernières Notes de l'Archimaître"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-forlornhopebounty",
+  "en": "BR Lore Forlornhope Bounty",
+  "fr": "Savoir BR : Prime de Forlornhope"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-forlornhopemilitaryrecord89",
+  "en": "BR Lore Forlornhope Military Records",
+  "fr": "Savoir BR : Registres Militaires de Forlornhope"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-forlornhoperecruitment",
+  "en": "BR Lore Forlornhope Recruitment",
+  "fr": "Savoir BR : Recrutement de Forlornhope"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-forlornhopestrategies",
+  "en": "BR Lore Forlornhope Strategies",
+  "fr": "Savoir BR : Stratégies de Forlornhope"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-grandrifttheory",
+  "en": "BR Lore Grand Rift Theory",
+  "fr": "Savoir BR : Théorie de la Grande Faille"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-greensecret",
+  "en": "BR Lore Green Secret",
+  "fr": "Savoir BR : Secret Vert"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-hopeandisaiahsledgers",
+  "en": "BR Lore Hope and Isaiah’s Ledgers",
+  "fr": "Savoir BR : Les Registres de Hope et Isaiah"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-initialphases",
+  "en": "BR Lore Initial Phases of the Experiment",
+  "fr": "Savoir BR : Phases Initiales de l'Expérience"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-librarianslament",
+  "en": "BR Lore Librarian's Lament",
+  "fr": "Savoir BR : La Complainte du Bibliothécaire"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-maxwellscreations",
+  "en": "BR Lore Maxwell's Creations",
+  "fr": "Savoir BR : Créations de Maxwell"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-messagetothestudent",
+  "en": "BR Lore Message to the Student",
+  "fr": "Savoir BR : Message à l'Étudiant"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-newmaterials",
+  "en": "BR Lore Viridilite",
+  "fr": "Savoir BR : Viridilite"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-paigespleas",
+  "en": "BR Lore Paige’s Pleas",
+  "fr": "Savoir BR : Les Suppliques de Paige"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-paigeswoes",
+  "en": "BR Lore Paige’s Woes",
+  "fr": "Savoir BR : Les Malheurs de Paige"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-panopticonletters",
+  "en": "BR Lore Panopticon Letters",
+  "fr": "Savoir BR : Lettres du Panopticon"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-pawprints",
+  "en": "BR Lore Pawprints",
+  "fr": "Savoir BR : Empreintes de Pattes"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-priestdiary",
+  "en": "BR Lore Priest's Diary",
+  "fr": "Savoir BR : Journal du Prêtre"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-quarrycorrespondences",
+  "en": "BR Lore Quarry Correspondences",
+  "fr": "Savoir BR : Correspondances de la Carrière"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-reportslubrication",
+  "en": "BR Lore Reports on Mechanism Lubrication",
+  "fr": "Savoir BR : Rapports sur la Lubrification des Mécanismes"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-ripleysresearch",
+  "en": "BR Lore Ripley’s Research",
+  "fr": "Savoir BR : Les Recherches de Ripley"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-saltstainedscrawlings",
+  "en": "BR Lore Salt-stained Scrawlings",
+  "fr": "Savoir BR : Gribouillages Tachés de Sel"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-severancenotice",
+  "en": "BR Lore Severance Notice",
+  "fr": "Savoir BR : Avis de Licenciement"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-smashingsuccess",
+  "en": "BR Lore Smashing Success",
+  "fr": "Savoir BR : Un Succès Fracassant"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-stokersdirective",
+  "en": "BR Lore Stoker’s Directive",
+  "fr": "Savoir BR : Directive du Soutier"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-strangetoylist",
+  "en": "BR Lore Strange List of Toys",
+  "fr": "Savoir BR : Étrange Liste de Jouets"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-sundialdiary",
+  "en": "BR Lore Sundial Diary",
+  "fr": "Savoir BR : Journal du Cadran Solaire"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-tournamentwinners",
+  "en": "BR Lore Tournament Winners",
+  "fr": "Savoir BR : Vainqueurs du Tournoi"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-treasurehunternotes1",
+  "en": "BR Lore Treasure Hunter’s Notes",
+  "fr": "Savoir BR : Notes du Chasseur de Trésors"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:item-stackrandomizer-viridiliteshift",
+  "en": "BR Lore Viridilite Shift",
+  "fr": "Savoir BR : Relève de la Viridilite"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:location-calix",
+  "en": "The Temporal Calix Project",
+  "fr": "Le Projet du Calix Temporel"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:location-halitequarry",
+  "en": "The Halite Quarry",
+  "fr": "La Carrière d'Halite"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:location-huaca",
+  "en": "Huaca of Ai Apaec",
+  "fr": "Huaca d'Ai Apaec"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:location-shoppingcentre",
+  "en": "The Dome Mall",
+  "fr": "Le Centre Commercial du Dôme"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:location-sunrift",
+  "en": "The Sunrift Experiment",
+  "fr": "L'Expérience Sunrift"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:location-thepanopticon",
+  "en": "The Panopticon",
+  "fr": "Le Panopticon"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-agitatedregards",
+  "en": "A frustrated letter concerning resource shortages and estate mismanagement.",
+  "fr": "Une lettre frustrée à propos de pénuries de ressources et d'une mauvaise gestion du domaine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-allhandsrequired",
+  "en": "A recruitment notice posted by the Svanmarck Estate.",
+  "fr": "Un avis de recrutement affiché par le Domaine Svanmarck."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-authoritativecopy",
+  "en": "A sealed legal document establishing binding infrastructure rights and exposing the foundations of a long-standing inter-house dispute.",
+  "fr": "Un document juridique scellé établissant des droits d'infrastructure contraignants et exposant les fondements d'un différend de longue date entre deux maisons."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-brickworkerslament",
+  "en": "A brickworker’s personal account of labor, blame, and resentment within the estate.",
+  "fr": "Le témoignage personnel d'un briquetier sur le labeur, le blâme et le ressentiment au sein du domaine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-conditions",
+  "en": "Experiment planning notes from the leadership group.",
+  "fr": "Des notes de planification d'expérience rédigées par le groupe dirigeant."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-deliverieslist",
+  "en": "A delivery manifest from Hushward and nearby settlements.",
+  "fr": "Un manifeste de livraison provenant de Hushward et des hameaux environnants."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-desertexcavation",
+  "en": "Journal pages found in a buried desert temple.",
+  "fr": "Des pages de journal trouvées dans un temple enfoui dans le désert."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-dutyofthescribe",
+  "en": "The scribe's log from the start of the experiment.",
+  "fr": "Le journal du scribe depuis le début de l'expérience."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-experimentteammember",
+  "en": "A personal entry from a member of the experiment team.",
+  "fr": "Une entrée personnelle rédigée par un membre de l'équipe d'expérimentation."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-faulknersmusings",
+  "en": "Journal notes from Grand Architect Faulkner during the quarantine.",
+  "fr": "Des notes de journal du Grand Architecte Faulkner durant la quarantaine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-favorableconditions",
+  "en": "A storm warning entry from the observation point.",
+  "fr": "Une entrée d'alerte de tempête provenant du point d'observation."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-finalentriesarchmaster",
+  "en": "Final notes of the Archmaster-leader.",
+  "fr": "Les dernières notes de l'Archimaître dirigeant."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-grandrifttheory",
+  "en": "Theory notes from the observation point.",
+  "fr": "Des notes théoriques provenant du point d'observation."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-greensecret",
+  "en": "A personal letter hidden near a Viridilite cache.",
+  "fr": "Une lettre personnelle cachée près d'une réserve de Viridilite."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-hopeandisaiahsledgers",
+  "en": "Warden ledgers from the quarantine in the underground waterways.",
+  "fr": "Les registres des gardiens datant de la quarantaine dans les voies navigables souterraines."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-initialphases",
+  "en": "A phase report from the Grand Rift experiment.",
+  "fr": "Un rapport d'étape de l'expérience de la Grande Faille."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-maxwellscreations",
+  "en": "A performance note found in the scriptorium.",
+  "fr": "Une note de performance trouvée dans le scriptorium."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-messagetothestudent",
+  "en": "A workshop note addressed to a student mechanic.",
+  "fr": "Une note d'atelier adressée à un mécanicien étudiant."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-newmaterials",
+  "en": "Researchers notes found near Viridilite deposits.",
+  "fr": "Des notes de chercheurs trouvées près de gisements de Viridilite."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-paigespleas",
+  "en": "Assorted letters left beneath the estate’s air vent.",
+  "fr": "Diverses lettres laissées sous la bouche d'aération du domaine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-paigeswoes",
+  "en": "A personal account of the Waterways' shutdown and its aftermath.",
+  "fr": "Un témoignage personnel sur la fermeture des Voies Navigables et ses conséquences."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-panopticonletters",
+  "en": "Letters from detainees scattered throughout the underground.",
+  "fr": "Des lettres de détenus éparpillées à travers le souterrain."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-pawprints",
+  "en": "A trail of messages left in shared caches, documenting mercenary dealings, unresolved violence, survival after the Rot, and the evolution of an old sigil into a living tradition.",
+  "fr": "Une piste de messages laissés dans des caches partagées, documentant des affaires de mercenaires, des violences non résolues, la survie après la Pourriture, et l'évolution d'un vieux sceau en une tradition vivante."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-quarrycorrespondences",
+  "en": "A collection of internal correspondence revealing covert objectives, failed recoveries, and the quiet abandonment of a remote quarry operation.",
+  "fr": "Une collection de correspondances internes révélant des objectifs secrets, des récupérations échouées, et l'abandon discret d'une exploitation minière isolée."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-reportslubrication",
+  "en": "Maintenance notes on lubricating the planetary gear system.",
+  "fr": "Des notes d'entretien sur la lubrification du système d'engrenages planétaires."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-ripleysresearch",
+  "en": "Research notes documenting the conception, progress, and failure of the Temporal Calix.",
+  "fr": "Des notes de recherche documentant la conception, les progrès et l'échec du Calix Temporel."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-saltstainedscrawlings",
+  "en": "Personal writings from trapped laborers, chronicling false hope, slow realization, and final farewells beneath a collapsing quarry.",
+  "fr": "Des écrits personnels de travailleurs piégés, relatant un faux espoir, une lente prise de conscience et de derniers adieux sous une carrière qui s'effondre."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-severancenotice",
+  "en": "A formal administrative order revoking translocator access under the guise of routine estate procedure.",
+  "fr": "Un ordre administratif officiel révoquant l'accès au translocateur sous couvert d'une procédure de routine du domaine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-smashingsuccess",
+  "en": "A field report detailing a successful sabotage mission and the personal cost of carrying it out.",
+  "fr": "Un rapport de terrain détaillant une mission de sabotage réussie et le coût personnel de son exécution."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-stokersdirective",
+  "en": "An official directive outlining the duties and risks of tending the Grand Engine.",
+  "fr": "Une directive officielle exposant les devoirs et les risques liés à l'entretien du Grand Moteur."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-strangetoylist",
+  "en": "A scribbled list left in the barracks before evacuation.",
+  "fr": "Une liste griffonnée laissée dans la caserne avant l'évacuation."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-sundialdiary",
+  "en": "Diary entries from the lens project in the cave complex.",
+  "fr": "Des entrées de journal du projet de lentille dans le complexe de grottes."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-tournamentwinners",
+  "en": "A tournament record kept by the tournament keeper.",
+  "fr": "Un registre de tournoi tenu par le gardien du tournoi."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-treasurehunternotes1",
+  "en": "Field notes from a treasure hunter exploring a ruined subterranean complex.",
+  "fr": "Des notes de terrain d'un chasseur de trésors explorant un complexe souterrain en ruine."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "game:loretype-viridiliteshift",
+  "en": "Observation point reports from an underground research complex.",
+  "fr": "Des rapports du point d'observation provenant d'un complexe de recherche souterrain."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-alchemist",
+  "en": "Alchemist's Blueprint",
+  "fr": "Plan de l'Alchimiste"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-artisan",
+  "en": "Artisan's Blueprint",
+  "fr": "Plan de l'Artisan"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-carpenter",
+  "en": "Carpenter's Blueprint",
+  "fr": "Plan du Charpentier"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-cartwright",
+  "en": "Cartwright's Blueprint",
+  "fr": "Plan du Charron"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-gravedigger",
+  "en": "Gravedigger's Blueprint",
+  "fr": "Plan du Fossoyeur"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-pipes",
+  "en": "Plumber's Blueprint",
+  "fr": "Plan du Plombier"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-br-schematic-toymaker",
+  "en": "Toymaker's Blueprint",
+  "fr": "Plan du Fabricant de Jouets"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-agedsunrift",
+  "en": "Aged Map to The Sunrift Experiment",
+  "fr": "Carte Vieillie de l'Expérience Sunrift"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-calix",
+  "en": "Map to the Temporal Calix Project",
+  "fr": "Carte du Projet du Calix Temporel"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-halitequarry",
+  "en": "Map to the Halite Quarry",
+  "fr": "Carte de la Carrière d'Halite"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-huaca",
+  "en": "Map to Huaca of Ai Apaec",
+  "fr": "Carte de Huaca d'Ai Apaec"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-shoppingcentre",
+  "en": "Map to the Dome Mall",
+  "fr": "Carte du Centre Commercial du Dôme"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-sunrift",
+  "en": "Map to The Sunrift Experiment",
+  "fr": "Carte de l'Expérience Sunrift"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "item-locatormap-thepanopticon",
+  "en": "Map to The Panopticon",
+  "fr": "Carte du Panopticon"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-agitatedregards-piece1",
+  "en": "Ripley, this has to stop. I understand that you think your projects are important but I would think keeping the House Head happy and fed is quite important in its own right. In all of our best interests, in fact! I just watched Goldfinch fire another serf after he offered them grapes deemed too small. A choking hazard. There’s not many servants left to take the fall for me before I end up having to present the fruits and vegetables in person.\r\n\r\nI keep reaching for the saltpeter to fashion my fertilizer and finding the vessels empty. When you use the last of something, you put in an order for more. That is how things work around here. I understand this is your first time as research head, but we cannot afford for you to make these mistakes. I spent years training in the Derabul academy to trim hedges and sprout flowers, never to grow crops, let alone enough produce to feed the entire staff. And I will admit I have dreamt more than once of working on the Askannon orchards instead. But regardless I have taken on my new duties swimmingly. Why can’t you do the same?\r\n\r\nThe leatherworker, bless her soul, accused me of having used too much! Yet my fields have never looked worse, and I know my green fingers are not to blame. Whatever you’re doing down there had better be worth the trouble you’re causing up in the House by so carelessly draining our reagents. I have put in another order of niter, twice the size as usual, and I implore you to leave some for the rest of us this time.\r\n\r\nWith agitated regards,\r\nBasira Qamar,\r\nHead Horticulturist of House Goldfinch\r\n\r\n___NEWPAGE___",
+  "fr": "Ripley, cela doit cesser. Je comprends que vous pensiez que vos projets sont importants, mais je pense que garder le Chef de Maison heureux et nourri est tout aussi important en soi. Dans l'intérêt de nous tous, en fait ! Je viens de voir Goldfinch renvoyer un autre serf après qu'il leur eut offert des raisins jugés trop petits. Un risque d'étouffement. Il ne reste plus beaucoup de domestiques pour endosser le blâme à ma place avant que je ne finisse par devoir présenter les fruits et légumes en personne.\r\n\r\nJe n'arrête pas de chercher le salpêtre pour préparer mon engrais et de trouver les jarres vides. Quand on utilise la dernière réserve de quelque chose, on en commande davantage. C'est ainsi que les choses fonctionnent ici. Je comprends que ce soit votre première fois en tant que chef de la recherche, mais nous ne pouvons pas nous permettre que vous commettiez ces erreurs. J'ai passé des années à me former à l'académie de Derabul pour tailler des haies et faire pousser des fleurs, jamais pour cultiver des récoltes, encore moins assez de produits pour nourrir tout le personnel. Et j'avoue avoir rêvé plus d'une fois de travailler plutôt dans les vergers d'Askannon. Mais malgré tout, j'ai endossé mes nouvelles fonctions avec brio. Pourquoi ne pouvez-vous pas en faire autant ?\r\n\r\nLa travailleuse du cuir, que son âme soit bénie, m'a accusée d'en avoir trop utilisé ! Pourtant mes champs n'ont jamais eu si mauvaise mine, et je sais que mes doigts verts n'y sont pour rien. Quoi que vous fassiez là-dessous, cela a intérêt à valoir les ennuis que vous causez là-haut dans la Maison en épuisant si négligemment nos réactifs. J'ai passé une nouvelle commande de nitre, deux fois plus grande que d'habitude, et je vous implore d'en laisser un peu pour le reste d'entre nous cette fois.\r\n\r\nAvec des salutations agacées,\r\nBasira Qamar,\r\nHorticultrice en Chef de la Maison Goldfinch\r\n\r\n___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-agitatedregards-title",
+  "en": "Agitated Regards (BR)",
+  "fr": "Salutations agacées (BR)"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-authoritativecopy-piece1",
+  "en": "This document constitutes a faithful and binding record of the trade agreement entered into by the Svanmarck Estate and House Goldfinch, under the eye of the Crown of Undland and with the assent of its appointed Arbiter, to govern matters of passage, access, and non-interference between the two houses.\r\n\r\nHouse Svanmarck affirms its sole authority over the construction, maintenance, and operation of roads, canals, and other regional infrastructure within Goldfinch lands and holdings.\r\n\r\nHouse Goldfinch is granted permanent and preferential access to all Svanmarck-maintained infrastructure required for the transport of goods, materials, and persons between Goldfinch holdings and points of trade.\r\n\r\nHouse Goldfinch and its interests shall not need to pay tolls on roads on its own territory. Access to Svanmarck infrastructure shall not otherwise be withheld, restricted, or made conditional beyond maintenance fees as fixed at the time of signing, except by direct sanction of the Crown of Undland.\r\n\r\nHouse Svanmarck shall ensure reasonable maintenance and timely repair of said infrastructure where it services Goldfinch routes, and shall not delay or neglect such maintenance for the purpose of leverage, pressure, or advantage.\r\n\r\nHouse Svanmarck affirms non-interference in the internal operations, extraction, and trade practices of House Goldfinch, and shall not employ its control of infrastructure to influence, hinder, or extract additional concessions from Goldfinch interests.\r\n\r\nHouse Goldfinch recognizes the Svanmarck Estate as the sole authority over regional infrastructure, and agrees not to construct or commission competing roads, canals, or transit works within Goldfinch territory.\r\n\r\nThis agreement is witnessed and sealed under authority of the Crown of Undland, signed threefold by representatives of their respective noble houses.",
+  "fr": "Ce document constitue un enregistrement fidèle et contraignant de l'accord commercial conclu entre le Domaine Svanmarck et la Maison Goldfinch, sous l'œil de la Couronne d'Undland et avec l'assentiment de son Arbitre désigné, afin de régir les questions de passage, d'accès et de non-ingérence entre les deux maisons.\r\n\r\nLa Maison Svanmarck affirme son autorité exclusive sur la construction, l'entretien et l'exploitation des routes, canaux et autres infrastructures régionales situées sur les terres et possessions de Goldfinch.\r\n\r\nLa Maison Goldfinch se voit accorder un accès permanent et préférentiel à toutes les infrastructures entretenues par Svanmarck, nécessaires au transport des biens, matériaux et personnes entre les possessions de Goldfinch et les points de commerce.\r\n\r\nLa Maison Goldfinch et ses intérêts n'auront pas à payer de péages sur les routes situées sur son propre territoire. L'accès aux infrastructures Svanmarck ne pourra être autrement refusé, restreint ou soumis à condition au-delà des frais d'entretien fixés au moment de la signature, sauf sanction directe de la Couronne d'Undland.\r\n\r\nLa Maison Svanmarck veillera à un entretien raisonnable et à une réparation rapide desdites infrastructures lorsqu'elles desservent les routes de Goldfinch, et ne devra ni retarder ni négliger cet entretien à des fins de levier, de pression ou d'avantage.\r\n\r\nLa Maison Svanmarck affirme sa non-ingérence dans les opérations internes, l'extraction et les pratiques commerciales de la Maison Goldfinch, et ne devra pas se servir de son contrôle des infrastructures pour influencer, entraver ou extorquer des concessions supplémentaires aux intérêts de Goldfinch.\r\n\r\nLa Maison Goldfinch reconnaît le Domaine Svanmarck comme seule autorité sur les infrastructures régionales, et accepte de ne pas construire ni commanditer de routes, canaux ou ouvrages de transit concurrents sur le territoire de Goldfinch.\r\n\r\nCet accord est attesté et scellé sous l'autorité de la Couronne d'Undland, signé en trois exemplaires par les représentants de leurs maisons nobles respectives."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-authoritativecopy-title",
+  "en": "The Authoritative Copy (BR)",
+  "fr": "La Copie Faisant Foi (BR)"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-brickworkerslament-piece1",
+  "en": "Everything automated through these locusts and helpers and the occasional eidolon, but still we must remain at our stations. To provide our “expertise”, but with no involvement in the process itself…\r\nNo, we are mere scapegoats for when the contraptions invariably fail. We are given tasks that are insultingly simple, yet leave us entirely responsible. It’s you who activated the automaton, so it’s you who are at fault for its failures.\r\n\r\nI think I would have preferred if they had simply let us go, but instead we sit around waiting. Waiting for the inevitable shift the locusts break down again. Waiting to take the blame for their failure. Once in a blue moon, they are unable to find a brickworker to fault, and they seek answers among the engineers. I’d heard how those meetings go, once, in passing. Every shortcoming blamed on Jonas Falx, and in the same breath they claim still that their designs are entirely their own.\r\nAre these engineers so proud that they refuse to consider the possibility their artifice needs improvement, that their imitations are imperfect? I came from a proud line of masons, myself, but I take pride in stonework that can stand the test of time, not whatever novel trinket most impresses Gage Goldfinch.\r\n\r\nI must remain in their good graces, though. During that same meeting I learned the Calix is nearing completion, and that soon we will all be living lives free of worry. So I will clench my teeth a little longer and turn on the automatons at the start of all my shifts, and pray to God that they keep working, so that I may keep working here in turn.",
+  "fr": "Tout est automatisé grâce à ces criquets, à ces auxiliaires et, à l'occasion, à un eidolon, mais nous devons tout de même rester à nos postes. Pour fournir notre « expertise », mais sans aucune implication dans le processus lui-même…\r\nNon, nous ne sommes que des boucs émissaires pour le jour où les engins tombent immanquablement en panne. On nous confie des tâches d'une simplicité insultante, mais qui nous rendent entièrement responsables. C'est vous qui avez activé l'automate, alors c'est vous qui êtes fautif de ses défaillances.\r\n\r\nJe pense que j'aurais préféré qu'ils nous renvoient tout simplement, mais à la place nous restons assis à attendre. À attendre l'inévitable poste où les criquets tombent de nouveau en panne. À attendre de prendre le blâme pour leur échec. Une fois tous les trente-six du mois, ils ne parviennent pas à trouver de briquetier à blâmer, et ils cherchent des réponses du côté des ingénieurs. J'ai entendu, une fois, en passant, comment se déroulent ces réunions. Chaque défaut rejeté sur Jonas Falx, et dans le même souffle ils prétendent pourtant que leurs conceptions leur appartiennent entièrement.\r\nCes ingénieurs sont-ils si fiers qu'ils refusent d'envisager que leur artifice ait besoin d'être amélioré, que leurs imitations soient imparfaites ? Je viens moi-même d'une fière lignée de maçons, mais je tire fierté d'une maçonnerie capable de résister à l'épreuve du temps, pas d'un quelconque nouveau gadget qui impressionne le plus Gage Goldfinch.\r\n\r\nJe dois néanmoins rester dans leurs bonnes grâces. Lors de cette même réunion, j'ai appris que le Calix approchait de son achèvement, et que bientôt nous vivrions tous des vies libres de souci. Alors je serrerai les dents encore un peu et j'allumerai les automates au début de chacun de mes postes, et je prierai Dieu qu'ils continuent de fonctionner, afin que je puisse à mon tour continuer à travailler ici."
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-brickworkerslament-title",
+  "en": "Brickworker’s Lament (BR)",
+  "fr": "La Complainte du Briquetier (BR)"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-piece1",
+  "en": "Doubts 1 / Commoner\r\nWhy now? \r\n\r\nDo not misunderstand me, I am grateful we can at least have this.\r\nBut why now? For many years I have dreamt of cooperation at this scale. \r\n\r\nWhy did it take the Rot to unite us? \r\nIs it only because we now stand together against a common foe?\r\nIf hatred for an Other is the only thing that will let us overcome hatred for another, then…\r\nI pray that, if the Grand Machine works, we do not return to our old ways.\r\nAnd that if it fails, we stay united until the bitter end.___NEWPAGE___",
+  "fr": "Doutes 1 / Roturier\r\nPourquoi maintenant ?\r\n\r\nNe vous méprenez pas, je suis reconnaissant que nous puissions au moins avoir cela.\r\nMais pourquoi maintenant ? Pendant de nombreuses années, j'ai rêvé d'une coopération à cette échelle.\r\n\r\nPourquoi a-t-il fallu la Pourriture pour nous unir ?\r\nEst-ce seulement parce que nous nous dressons désormais ensemble contre un ennemi commun ?\r\nSi la haine envers un Autre est la seule chose qui nous permette de surmonter la haine envers un autre, alors…\r\nJe prie que, si la Grande Machine fonctionne, nous ne revenions pas à nos anciennes habitudes.\r\nEt que si elle échoue, nous restions unis jusqu'au bout.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-piece2",
+  "en": "Doubts 2 / Blackguard\r\nI stood at the gates for years leaning on my trusty poleax. A bardiche, a terrific weapon. She’d be certain to strike fear into the hearts of those taking shelter, at least those who retain their sight still. I miss her weight in my hands. How I wish I’d had room to swing her down here!\r\n\r\nIn truth, more than anything I miss the distance she put between me and those ne’er-do-wells. I used to envy the bowmen. They never had to see the fruits of their labour up close. Now that I’m stuck in these tight tunnels with nothing but a shortsword, though, I understand how good I had it with my polearm.___NEWPAGE___",
+  "fr": "Doutes 2 / Soudard\r\nJe suis resté aux portes pendant des années, appuyé sur ma fidèle hache d'armes. Une berdiche, une arme formidable. Elle ne manquerait pas de semer la peur dans le cœur de ceux qui cherchent refuge, du moins ceux qui ont encore leur vue. Son poids me manque dans les mains. Comme j'aurais aimé avoir la place de la manier ici-bas !\r\n\r\nEn vérité, plus que tout, c'est la distance qu'elle mettait entre moi et ces vauriens qui me manque. J'enviais autrefois les archers. Ils n'avaient jamais à voir de près le fruit de leur travail. Mais maintenant que je suis coincé dans ces tunnels étroits avec pour seule arme une épée courte, je comprends à quel point j'étais bien loti avec mon arme d'hast.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-piece3",
+  "en": "Doubts 3 / Malefactor\r\nIs it wrong of me to wish suffering upon others?\r\nThese… malefactors, we call them. People who have lied and stolen and murdered.\r\nI understand why they wear the masks now.\r\nHad I recognized him, I would have sent him to God, myself.\r\nInstead, I am left hoping that they all meet their end on the surface, him among them.___NEWPAGE___",
+  "fr": "Doutes 3 / Malfaiteur\r\nEst-ce mal de ma part de souhaiter la souffrance à autrui ?\r\nCes… malfaiteurs, comme on les appelle. Des gens qui ont menti, volé et tué.\r\nJe comprends maintenant pourquoi ils portent les masques.\r\nSi je l'avais reconnu, je l'aurais envoyé moi-même devant Dieu.\r\nAu lieu de cela, il ne me reste qu'à espérer qu'ils trouvent tous leur fin à la surface, lui y compris.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-piece4",
+  "en": "Doubts 4 / Hunter\r\nI think I shot a person today.\r\n\r\nIt was hard to tell due to the Rot. I was seeking quarry at the perimeter of the encroaching disease, trying to bring in what meat I could before it was lost. \r\n\r\nMost quarry runs toward you, away from the plagued lands, choosing a swift death over slow decay. It’s risky but you can’t argue with the results. I don’t think I’ve ever heard one ask me to put it out of its misery before, though.___NEWPAGE___",
+  "fr": "Doutes 4 / Chasseur\r\nJe crois que j'ai tiré sur une personne aujourd'hui.\r\n\r\nC'était difficile à dire à cause de la Pourriture. Je cherchais du gibier à la lisière de la maladie envahissante, essayant de récupérer autant de viande que possible avant qu'elle ne soit perdue.\r\n\r\nLa plupart du gibier vous fonce dessus, loin des terres frappées par le fléau, préférant une mort rapide à une lente décomposition. C'est risqué mais on ne peut pas discuter des résultats. Je ne crois pourtant jamais avoir entendu l'un d'eux me demander d'abréger ses souffrances, avant aujourd'hui.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-piece5",
+  "en": "Doubts 5 / Clockmaker\r\nThe Prima Materia is beyond even my understanding.\r\nAnd I would consider myself quite learned. \r\nI wish I could be happier for it. I always enjoyed learning new things. \r\n\r\nInstead I have never felt more like a bumbling fool. Like I did when I first set foot in the University. The world seemed so small then, in retrospect. Now the sheer amount of possibilities overwhelms me, and I would not know where to begin.\r\n\r\nI will leave it to Jonas Falx to figure out the particulars, as most of my peers have, and work diligently to provide the parts he requests.___NEWPAGE___",
+  "fr": "Doutes 5 / Horloger\r\nLa Prima Materia dépasse même mon entendement.\r\nEt je me considérerais pourtant comme plutôt érudit.\r\nJ'aimerais pouvoir m'en réjouir davantage. J'ai toujours aimé apprendre de nouvelles choses.\r\n\r\nAu lieu de cela, je ne me suis jamais senti plus comme un maladroit ignorant. Comme lorsque j'ai mis les pieds pour la première fois à l'Université. Le monde semblait alors si petit, avec le recul. Aujourd'hui, la simple quantité de possibilités m'accable, et je ne saurais par où commencer.\r\n\r\nJe laisserai à Jonas Falx le soin de régler les détails, comme la plupart de mes pairs, et je travaillerai avec application à lui fournir les pièces qu'il demande.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-piece6",
+  "en": "Doubts 6 / Tailor\r\nOver, under, draw it through…\r\n\r\nI’ve seen a great many adopt mantras in these trying times. Me, I already have one. It has stayed with me through many years of weaving.\r\n\r\nOver, under, draw it through…\r\n\r\nI refuse to let my hands idle. There’s always someone in need of warmth, in both senses of the word. I am grateful I am able to provide it to them.\r\n\r\nOver, under, draw it through…\r\n\r\nAnd when this all blows over, I hope that when they remember this place, they think of the warm fabric upon their skin and not the cold stone beneath their feet.___NEWPAGE___",
+  "fr": "Doutes 6 / Tailleur\r\nDessus, dessous, on tire le fil…\r\n\r\nJ'ai vu bon nombre de gens adopter des mantras en ces temps difficiles. Moi, j'en ai déjà un. Il m'accompagne depuis de nombreuses années de tissage.\r\n\r\nDessus, dessous, on tire le fil…\r\n\r\nJe refuse de laisser mes mains oisives. Il y a toujours quelqu'un qui a besoin de chaleur, dans les deux sens du mot. Je suis reconnaissant de pouvoir la leur offrir.\r\n\r\nDessus, dessous, on tire le fil…\r\n\r\nEt quand tout cela sera terminé, j'espère que lorsqu'ils se souviendront de cet endroit, ils penseront au tissu chaud sur leur peau et non à la pierre froide sous leurs pieds.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-doubts-title",
+  "en": "Doubts (BR)",
+  "fr": "Doutes (BR)"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-hopeandisaiahsledgers-piece1",
+  "en": "Day 1. Faulkner has ordered closure of all canal ingress points and instructed us to maintain order among the detained.\r\n\r\nApproximately 43 detainees inside the reservoir at lockdown moment:\r\n- 17 labourers\r\n- 11 traders/boatmen\r\n- 5 accompanying guards\r\n- 6 miscellaneous travelers\r\n- 4 children\r\n\r\nPer Faulkner’s directive:\r\n- No one exits until a cure is found.\r\n- Anyone showing signs of lesions or fever is to be separated to the sick zone in the lower reservoir.\r\n- No gatherings larger than six persons without warden supervision.\r\n\r\nRations have been seized, catalogued, and redistributed. Perishables - primarily fish from one highly disgruntled merchant - will last the first week if shared equitably. Merchant protested but complied after formal promise of compensation. Let us hope the quarantine resolves swiftly. \r\n\r\nDrafted by Isaiah\r\nConfirmed by Hope___NEWPAGE___",
+  "fr": "Jour 1. Faulkner a ordonné la fermeture de tous les points d'entrée du canal et nous a chargés de maintenir l'ordre parmi les détenus.\r\n\r\nEnviron 43 détenus à l'intérieur du réservoir au moment du confinement :\r\n- 17 ouvriers\r\n- 11 marchands/bateliers\r\n- 5 gardes d'escorte\r\n- 6 voyageurs divers\r\n- 4 enfants\r\n\r\nSelon la directive de Faulkner :\r\n- Personne ne sort tant qu'un remède n'est pas trouvé.\r\n- Toute personne présentant des signes de lésions ou de fièvre doit être séparée dans la zone des malades, dans le réservoir inférieur.\r\n- Aucun rassemblement de plus de six personnes sans supervision d'un gardien.\r\n\r\nLes rations ont été saisies, cataloguées et redistribuées. Les denrées périssables, principalement du poisson provenant d'un marchand fort mécontent, dureront la première semaine si elles sont partagées équitablement. Le marchand a protesté mais s'est plié après une promesse formelle de compensation. Espérons que la quarantaine se résolve rapidement.\r\n\r\nRédigé par Isaiah\r\nConfirmé par Hope___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-hopeandisaiahsledgers-piece2",
+  "en": "Day 7. Spirits are uneasy. Individuals demand answers we cannot give.\r\n\r\nTwo attempted to bribe passage through the south sluice. Sluice is jammed anyway - collapse from Faulkner’s blast. Both offenders placed in restricted quarters for twelve hours; released afterward with warning.\r\n\r\nFaulkner requests written updates only. Claims he is “concentrating”.\r\nWe have asked for clear medical procedure and received nothing in return as of yet.\r\n\r\nStanding water in the lower reservoir sick zone has already turned foul. Several of the initially isolated labourers have succumbed to disease overnight. We have begun herding detainees to sleep on the walkways to reduce exposure.\r\n\r\nChild of the traveler Roland displays fever but no lesions. \r\nRoland pleaded for exemption; request granted on grounds that forced separation would incite further unrest. Both have been moved to the sick zone.\r\n\r\nDrafted by Isaiah\r\nConfirmed by Hope___NEWPAGE___",
+  "fr": "Jour 7. Les esprits sont agités. Les gens exigent des réponses que nous ne pouvons pas donner.\r\n\r\nDeux personnes ont tenté de soudoyer un passage par l'écluse sud. L'écluse est de toute façon bloquée, un effondrement causé par l'explosion de Faulkner. Les deux fautifs ont été placés en quartiers restreints pendant douze heures, puis relâchés avec un avertissement.\r\n\r\nFaulkner ne demande que des comptes rendus écrits. Il prétend être « concentré ».\r\nNous avons demandé une procédure médicale claire et n'avons reçu aucune réponse à ce jour.\r\n\r\nL'eau stagnante dans la zone des malades du réservoir inférieur a déjà commencé à se putréfier. Plusieurs des ouvriers initialement isolés ont succombé à la maladie pendant la nuit. Nous avons commencé à rassembler les détenus pour qu'ils dorment sur les passerelles afin de réduire l'exposition.\r\n\r\nL'enfant du voyageur Roland présente de la fièvre mais aucune lésion.\r\nRoland a plaidé pour une exemption ; requête accordée au motif qu'une séparation forcée provoquerait davantage de troubles. Les deux ont été déplacés vers la zone des malades.\r\n\r\nRédigé par Isaiah\r\nConfirmé par Hope___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-hopeandisaiahsledgers-piece3",
+  "en": "Day 13. Fatigue increasing among both detainees and wardens.\r\n\r\nOf the original 43 detained, 22 remain alive. Most recent losses occurred overnight in the sick zone.\r\n\r\nThe dead are piling up below, but with limited ventilation we cannot safely burn them. The sick that are still capable are ordered to move them to the collapsed tunnel until a permanent solution is found.\r\n\r\nThree labourers attempted to bypass the walkway cordon during the night. Claimed they sought fresher air. Returned to designated area and reprimanded. \r\n\r\nThe late Roland’s daughter asked us whether he would “wake once the air is clearer”. Informed this was a question for Faulkner.\r\n\r\nRation supplies remain stable, albeit at reduced allotment. With fewer individuals to feed, current stores may last much longer than projected.\r\n\r\nFirst lesions observed on one of the accompanying guards previously assessed as healthy.\r\nIsolated to the sick zone.\r\n\r\nStill no medical procedure from Faulkner.\r\n\r\nDrafted by Isaiah\r\nConfirmed by Hope___NEWPAGE___",
+  "fr": "Jour 13. La fatigue augmente tant chez les détenus que chez les gardiens.\r\n\r\nSur les 43 détenus initiaux, 22 sont encore en vie. Les pertes les plus récentes sont survenues pendant la nuit dans la zone des malades.\r\n\r\nLes morts s'accumulent en contrebas, mais avec une ventilation limitée, nous ne pouvons pas les brûler sans danger. Les malades encore en état sont chargés de les déplacer vers le tunnel effondré jusqu'à ce qu'une solution permanente soit trouvée.\r\n\r\nTrois ouvriers ont tenté de contourner le cordon des passerelles pendant la nuit. Ils ont prétendu chercher de l'air plus frais. Ramenés à la zone désignée et réprimandés.\r\n\r\nLa fille de feu Roland nous a demandé s'il « se réveillerait une fois l'air plus clair ». Informée que c'était une question à poser à Faulkner.\r\n\r\nLes réserves de rations demeurent stables, bien qu'à allocation réduite. Avec moins de personnes à nourrir, les stocks actuels pourraient durer bien plus longtemps que prévu.\r\n\r\nPremières lésions observées chez l'un des gardes d'escorte précédemment jugé en bonne santé.\r\nIsolé dans la zone des malades.\r\n\r\nToujours aucune procédure médicale de la part de Faulkner.\r\n\r\nRédigé par Isaiah\r\nConfirmé par Hope___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-hopeandisaiahsledgers-piece4",
+  "en": "Day 24? Day 25? The record must continue.\r\n\r\nPopulation estimate: Nine remain in varying stages of decay.\r\nSeveral are unable to stand. Most do not speak. Those who still breathe do so shallowly.\r\nMovement between walkways has ceased. The sick zone is silent.\r\n\r\nFaulkner has not responded to our last reports. We believe he has relocated deeper into the tunnels to continue his work.\r\n\r\nHope is… resting.\r\nTheir sight has fully left them, though they still turn their head when I speak.\r\nMy own condition is manageable. Previous attempts to doff my armor have resulted in torn skin.\r\nRot progressing along forearm and ribs. Pain intermittent.\r\nAlas. The ledger is not for complaints.\r\n\r\nRations still adequate. Hardly consumed. No reason to maintain allotment schedule.\r\n\r\nThere is little more to report. Procedures remain in place with no-one left to enforce them upon. \r\nStill we hold our posts. It is what is expected of us. We have given everything we have to this duty and now there is nothing left.\r\n\r\nI will play for Hope. On Faulkner’s piano. I will play a piece we both remember. I will burn it into my muscle memory if I need to, that I might still play it when I lose my own sight. And I pray to the Gods that this is the last thing we hear before the black sick takes our minds from us, too.\r\n\r\nDrafted by Isaiah___NEWPAGE___",
+  "fr": "Jour 24 ? Jour 25 ? Le registre doit se poursuivre.\r\n\r\nEstimation de la population : Neuf survivent, à divers stades de décomposition.\r\nPlusieurs sont incapables de se tenir debout. La plupart ne parlent plus. Ceux qui respirent encore le font faiblement.\r\nLes déplacements entre les passerelles ont cessé. La zone des malades est silencieuse.\r\n\r\nFaulkner n'a pas répondu à nos derniers rapports. Nous pensons qu'il s'est déplacé plus profondément dans les tunnels pour poursuivre ses travaux.\r\n\r\nHope se… repose.\r\nSa vue l'a complètement quitté, bien que la tête se tourne encore lorsque je parle.\r\n\r\nMon propre état reste gérable. Mes précédentes tentatives pour retirer mon armure ont entraîné des déchirures de peau.\r\nLa Pourriture progresse le long de l'avant-bras et des côtes. Douleur intermittente.\r\nHélas. Le registre n'est pas fait pour les plaintes.\r\n\r\nLes rations restent suffisantes. À peine consommées. Aucune raison de maintenir un calendrier de rationnement.\r\n\r\nIl y a peu de choses de plus à rapporter. Les procédures restent en place, sans plus personne sur qui les faire appliquer.\r\nNous tenons tout de même nos postes. C'est ce qu'on attend de nous. Nous avons tout donné pour ce devoir et il ne reste désormais plus rien.\r\n\r\nJe jouerai pour Hope. Sur le piano de Faulkner. Je jouerai un morceau dont nous nous souvenons tous les deux. Je le graverai dans ma mémoire musculaire si nécessaire, afin de pouvoir encore le jouer quand je perdrai à mon tour la vue. Et je prie les Dieux pour que ce soit la dernière chose que nous entendions avant que le mal noir ne nous prenne aussi l'esprit.\r\n\r\nRédigé par Isaiah___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-hopeandisaiahsledgers-title",
+  "en": "Hope and Isaiah’s Ledgers (BR)",
+  "fr": "Les Registres de Hope et Isaiah (BR)"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-panopticonletters-piece1",
+  "en": "Even with all these folks suffering alongside me I’ve never felt more lonely.\r\n\r\nThe wardens see to that. Any attempt at fraternizing will be met with accusations of spreading the plague first and accusations of staging a rebellion second.  And it’ll see both parties made into a display for the rest.\r\n\r\nI only hope the black sick takes us all quickly.___NEWPAGE___",
+  "fr": "Même avec tous ces gens qui souffrent à mes côtés, je ne me suis jamais senti aussi seul.\r\n\r\nLes gardiens y veillent. Toute tentative de fraterniser sera accueillie d'abord par des accusations de propager la peste, puis par des accusations de fomenter une rébellion. Et cela finira par faire des deux parties un exemple pour les autres.\r\n\r\nJ'espère seulement que le mal noir nous emportera tous rapidement.___NEWPAGE___"
+ },
+ {
+  "dom": "betterruins",
+  "cle": "lore-panopticonletters-piece2",
+  "en": "What is this mistreatment?!\r\n\r\nI am Faris Hussain, heir to the throne of Derabul. I have come to expect better than this!\r\nOn a routine mercantile journey to share the finest silks with the world I find myself led down into a damp dark crevice.\r\n\r\nMy silks have been torn and turned to cleaning rags. Horrible! These brutish labourers would not know value if it stared them in the face. Yet I am stuck with them here. The lazarettos I have visited at least possessed some semblance of privacy, so what is this claim of quarantine? It is nonsense. I will have a word with these enforcers about granting me exit. They are certain to understand. Even if they do not, they will understand the wealth that awaits them for making exceptions for the exceptional.___NEWPAGE___",
+  "fr": "Quel est ce mauvais traitement ?!\r\n\r\nJe suis Faris Hussain, héritier du trône de Derabul. J'en suis venu à attendre mieux que cela !\r\nLors d'un voyage marchand de routine pour partager les plus belles soies avec le monde, je me retrouve conduit dans une crevasse humide et sombre.\r\n\r\nMes soies ont été déchirées et transformées en chiffons de nettoyage. Horrible ! Ces ouvriers brutaux ne reconnaîtraient pas la valeur même si elle leur sautait aux yeux. Et pourtant, je suis coincé ici avec eux. Les lazarets que j'ai visités possédaient au moins un semblant d'intimité, alors qu'est-ce que cette prétendue quarantaine ? C'est absurde. Je vais dire deux mots à ces gardes au sujet de m'accorder une sortie. Ils sont certains de comprendre. Et même s'ils ne comprennent pas, ils comprendront la richesse qui les attend pour avoir fait une exception pour l'exceptionnel.___NEWPAGE___"
+ }
+]

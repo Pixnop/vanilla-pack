@@ -1,0 +1,72 @@
+[
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-sausage",
+    "avant": "Un produit à base de viande hachée, conservé grâce au gras. La saucisse de base est réalisée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> des pépites de viande avec du gras ou du saindoux, mais le fromage constitue un excellent fourrage. Ajouter du sel pendant le pétrissage permet d'obtenir une saucisse salable, qui peut être salée pour se conserver extrêmement longtemps.<br>La saucisse crue (c'est-à-dire non salée) peut être suspendue à un <a href=\"handbook://block-aculinaryartillery:meathooks-ebony-tinbronze-east\">crochet à viande</a> de la même façon que la <a href=\"handbook://item-expandedfoods:agedmeat-redmeat-normal\">viande affinée</a>, afin de la faire « vieillir à sec ». Ce processus de vieillissement améliore considérablement sa saveur et sa texture.",
+    "apres": "Un produit à base de viande hachée, conservé grâce au gras. La saucisse de base est réalisée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> des pépites de viande avec du gras ou du saindoux, mais le fromage constitue une excellente farce. Ajouter du sel pendant le pétrissage permet d'obtenir une saucisse salable, qui peut être salée pour se conserver extrêmement longtemps.<br>La saucisse crue (c'est-à-dire non salée) peut être suspendue à un <a href=\"handbook://block-aculinaryartillery:meathooks-ebony-tinbronze-east\">crochet à viande</a> de la même façon que la <a href=\"handbook://item-expandedfoods:agedmeat-redmeat-normal\">viande affinée</a>, afin de la faire « vieillir à sec ». Ce processus de vieillissement améliore considérablement sa saveur et sa texture.",
+    "motif": "Faux-ami : « fourrage » désigne la nourriture pour animaux, pas le fourrage/garniture culinaire d'une saucisse (« farce »)."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-stuffedpepper",
+    "avant": "Ces poivrons géants se prêtent bien à un fourrage supplémentaire. En plus du poivron, prenez un ingrédient de base, comme du fromage, des fruits séchés, de la viande ou des légumes, puis <a href=\"handbook://kneadingmixingguide\">pétrissez</a>-le et faites cuire le résultat au four.<br>Les poivrons peuvent également être panés. En plus du poivron et de l'ingrédient de base, pétrissez un agent liant tel que de l'huile alimentaire, du miel, du saindoux, de l'œuf liquide ou du sirop, un peu de farine pour former une croûte légère, et une poignée de chapelure pour finaliser la panure. Le poivron farci pané peut ensuite être pétri avec du saindoux ou de l'huile pour rehausser sa saveur, puis cuit au four : mais il risque de brûler si on ne le surveille pas. Le <a href=\"handbook://simmeringguide\">mijoter</a> avec du saindoux ou de l'huile permet d'obtenir à chaque fois un aliment parfaitement frit, et les chaudrons facilitent la friture en grande quantité.",
+    "apres": "Ces poivrons géants se prêtent bien à une farce supplémentaire. En plus du poivron, prenez un ingrédient de base, comme du fromage, des fruits séchés, de la viande ou des légumes, puis <a href=\"handbook://kneadingmixingguide\">pétrissez</a>-le et faites cuire le résultat au four.<br>Les poivrons peuvent également être panés. En plus du poivron et de l'ingrédient de base, pétrissez un agent liant tel que de l'huile alimentaire, du miel, du saindoux, de l'œuf liquide ou du sirop, un peu de farine pour former une croûte légère, et une poignée de chapelure pour finaliser la panure. Le poivron farci pané peut ensuite être pétri avec du saindoux ou de l'huile pour rehausser sa saveur, puis cuit au four : mais il risque de brûler si on ne le surveille pas. Le <a href=\"handbook://simmeringguide\">mijoter</a> avec du saindoux ou de l'huile permet d'obtenir à chaque fois un aliment parfaitement frit, et les chaudrons facilitent la friture en grande quantité.",
+    "motif": "Faux-ami : « fourrage » (nourriture animale) au lieu de « farce », pour des poivrons farcis."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-muffin",
+    "avant": "Un petit gâteau moelleux décliné en plusieurs saveurs. En <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la pâte molle avec des fruits, de la citrouille, des carottes et/ou de la gélatine, puis en cuisant la pâte à frire obtenue, le muffin développe une croûte dorée qui caramélise légèrement les ingrédients exposés. Il peut ensuite être garni d'un édulcorant tel que du miel, du sirop, de la sauce aux cacahuètes ou du beurre de cacahuète.",
+    "apres": "Un petit gâteau moelleux décliné en plusieurs saveurs. En <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la pâte molle avec des fruits, de la citrouille, des carottes et/ou de la gélatine, puis en cuisant au four la pâte obtenue, le muffin développe une croûte dorée qui caramélise légèrement les ingrédients exposés. Il peut ensuite être garni d'un édulcorant tel que du miel, du sirop, de la sauce aux cacahuètes ou du beurre de cacahuète.",
+    "motif": "Contresens : « pâte à frire » désigne une pâte pour la friture, alors que le muffin est cuit au four, pas frit."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-peanutliquid-sauce",
+    "avant": "Une sauce spécialisée principalement utilisée pour tremper ou garnir les aliments. Elle est créée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">pâte de cacahuète</a> avec une sauce salée telle que de la sauce poisson ou de la sauce soja, un édulcorant tel que du miel ou du sirop, et de l'eau. Le résultat est une sauce épaisse aux saveurs équilibrées.",
+    "apres": "Une sauce spécialisée principalement utilisée pour tremper ou garnir les aliments. Elle est créée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">pâte de cacahuète</a> avec une sauce salée telle que de la sauce de poisson ou de la sauce soja, un édulcorant tel que du miel ou du sirop, et de l'eau. Le résultat est une sauce épaisse aux saveurs équilibrées.",
+    "motif": "Incohérence interne : « sauce poisson » ailleurs traduit « fish sauce » par « sauce de poisson »."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "itemdesc-dressing-basic",
+    "avant": "Acidulée et grasse, cette sauce à salade simple rehausse n'importe quelle salade ou pâte.",
+    "apres": "Acidulée et grasse, cette sauce à salade simple rehausse n'importe quelle salade ou pâtes.",
+    "motif": "Contresens/incohérence : « pâte » (au singulier) signifie une pâte crue, alors qu'il s'agit des pâtes alimentaires (« pâtes »), comme dans les autres descriptions de sauces à salade du lot."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "itemdesc-driedseaweed-dried",
+    "avant": "Faire cuire jusqu'à ce que ce soit croustillant.",
+    "apres": "Faites cuire jusqu'à ce que ce soit croustillant.",
+    "motif": "Incohérence de mode : infinitif au lieu de l'impératif utilisé pour toutes les autres instructions du manuel (dont l'entrée voisine sur les algues)."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dressing-deluxe",
+    "avant": "vinaigrette de luxe",
+    "apres": "sauce à salade de luxe",
+    "motif": "Contresens : la description de cette sauce (« riche », « texture veloutée ») contredit la définition d'une vinaigrette, sauce fine à base d'huile et de vinaigre."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dressing-deluxe-insturmentalcase",
+    "avant": "vinaigrette de luxe",
+    "apres": "sauce à salade de luxe",
+    "motif": "Contresens : la description de cette sauce (« riche », « texture veloutée ») contredit la définition d'une vinaigrette, sauce fine à base d'huile et de vinaigre."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dressing-savory",
+    "avant": "vinaigrette relevée",
+    "apres": "sauce à salade relevée",
+    "motif": "Contresens : la description de cette sauce (« riche », « la profondeur de goût est intense ») ne correspond pas à une vinaigrette, sauce fine à base d'huile et de vinaigre."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dressing-savory-insturmentalcase",
+    "avant": "vinaigrette relevée",
+    "apres": "sauce à salade relevée",
+    "motif": "Contresens : la description de cette sauce (« riche », « la profondeur de goût est intense ») ne correspond pas à une vinaigrette, sauce fine à base d'huile et de vinaigre."
+  }
+]

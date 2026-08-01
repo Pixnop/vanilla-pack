@@ -12,7 +12,7 @@
   "slowtox:Config.Setting.IgnoreSmallDamageChanceMax": "La chance maximale d'ignorer les petits dégâts",
   "slowtox:Config.Setting.IntakeRate": "La vitesse à laquelle l'intoxication s'accumule (ceci est soigneusement réglé, il est préférable d'ajuster la vitesse d'intoxication)",
   "slowtox:Config.Setting.IntoxicationSpeed": "La vitesse globale à laquelle les intoxicants sont traités",
-  "slowtox:Config.Setting.OverintoxicationThreshold": "Seuil au-delà duquel l'intoxication cause des dégâts au soi",
+  "slowtox:Config.Setting.OverintoxicationThreshold": "Seuil au-delà duquel l'intoxication inflige des dégâts au joueur",
   "slowtox:Config.Setting.StabilityRegenIntoxRangeBottom": "Seuil à partir duquel la régénération de stabilité est accordée",
   "slowtox:Config.Setting.StabilityRegenIntoxRangeTop": "Seuil au-delà duquel la régénération de stabilité n'est plus accordée",
   "slowtox:Config.Setting.StabilityRegenRateMax": "Le taux de régénération de stabilité maximal que l'intoxication peut fournir",

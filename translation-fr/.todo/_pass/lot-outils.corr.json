@@ -1,0 +1,128 @@
+[
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-t&g-largedemijohn-wicker-*",
+    "avant": "Grande demijohn en osier",
+    "apres": "Grande dame-jeanne en osier",
+    "motif": "Mot anglais laissé tel quel : le glossaire fixe « demijohn » en « dame-jeanne », déjà utilisé pour la variante sans osier."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-t&g-smalldemijohn-wicker-*",
+    "avant": "Petite demijohn en osier",
+    "apres": "Petite dame-jeanne en osier",
+    "motif": "Mot anglais laissé tel quel : le glossaire fixe « demijohn » en « dame-jeanne », déjà utilisé pour la variante sans osier."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "blockdesc-goblet-lead",
+    "avant": "Capacité : 1 L<br>Probablement pas sûr pour boire...",
+    "apres": "Capacité : 1 L<br>Probablement pas prudent d'y boire...",
+    "motif": "Calque de l'anglais « safe to drink from » : « sûr pour boire » ne se dit pas en français."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "blockdesc-tankard-metal-lead",
+    "avant": "Capacité : 1 L<br>Probablement pas sûr pour boire...",
+    "apres": "Capacité : 1 L<br>Probablement pas prudent d'y boire...",
+    "motif": "Calque de l'anglais « safe to drink from » : « sûr pour boire » ne se dit pas en français."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "blockdesc-tankard-wood",
+    "avant": "Capacité : 1 L<br>Comment pourrions-nous savoir jusqu'où nous sommes allés sans un rappel d'où nous venons?",
+    "apres": "Capacité : 1 L<br>Comment pourrions-nous savoir jusqu'où nous sommes allés sans un rappel d'où nous venons ?",
+    "motif": "Espace manquante avant le point d'interrogation, incohérent avec le reste du lot qui respecte la typographie française."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-acacia.-leather*",
+    "avant": "Chope en acacia avec ferrure de cuir",
+    "apres": "Chope en acacia avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-aged.-leather*",
+    "avant": "Chope vieillie avec ferrure de cuir",
+    "apres": "Chope vieillie avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-baldcypress.-leather*",
+    "avant": "Chope en cyprès chauve avec ferrure de cuir",
+    "apres": "Chope en cyprès chauve avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-birch.-leather*",
+    "avant": "Chope en bouleau avec ferrure de cuir",
+    "apres": "Chope en bouleau avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-ebony.-leather*",
+    "avant": "Chope en ébène avec ferrure de cuir",
+    "apres": "Chope en ébène avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-kapok.-leather*",
+    "avant": "Chope en kapok avec ferrure de cuir",
+    "apres": "Chope en kapok avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-larch.-leather*",
+    "avant": "Chope en mélèze avec ferrure de cuir",
+    "apres": "Chope en mélèze avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-maple.-leather*",
+    "avant": "Chope en érable avec ferrure de cuir",
+    "apres": "Chope en érable avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-oak.-leather*",
+    "avant": "Chope en chêne avec ferrure de cuir",
+    "apres": "Chope en chêne avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-pine.-leather*",
+    "avant": "Chope en pin avec ferrure de cuir",
+    "apres": "Chope en pin avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-purpleheart.-leather*",
+    "avant": "Chope en padauk avec ferrure de cuir",
+    "apres": "Chope en padauk avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-redwood.-leather*",
+    "avant": "Chope en séquoia avec ferrure de cuir",
+    "apres": "Chope en séquoia avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-tankard-woodtype-walnut.-leather*",
+    "avant": "Chope en noyer avec ferrure de cuir",
+    "apres": "Chope en noyer avec garniture de cuir",
+    "motif": "Faux-sens : « ferrure » désigne une garniture métallique (fer/métal) ; incohérent pour une chope cerclée de cuir."
+  }
+]

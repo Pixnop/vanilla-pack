@@ -1,0 +1,359 @@
+[
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-bluemeanie",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-goldcap",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-libertycap",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-wavycap",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-bluemeanie",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-bluemeanie-insturmentalcase",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-goldcap",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-goldcap-insturmentalcase",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-libertycap",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-libertycap-insturmentalcase",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-wavycap",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-wavycap-insturmentalcase",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred-insturmentalcase",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked-insturmentalcase",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect-insturmentalcase",
+    "avant": "Vilain bleu haché",
+    "apres": "vilain bleu haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-charred",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-charred-insturmentalcase",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked-insturmentalcase",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-perfect",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-perfect-insturmentalcase",
+    "avant": "Chapeau doré haché",
+    "apres": "chapeau doré haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-charred-insturmentalcase",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked-insturmentalcase",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-perfect-insturmentalcase",
+    "avant": "Bonnet phrygien haché",
+    "apres": "bonnet phrygien haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-charred",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-charred-insturmentalcase",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked-insturmentalcase",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-perfect",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-perfect-insturmentalcase",
+    "avant": "Chapeau ondulé haché",
+    "apres": "chapeau ondulé haché",
+    "motif": "Majuscule injustifiée en milieu de syntagme : incohérente avec les autres champignons du même lot (conocybe du fou, armillaire couleur de miel, émétique) rendus en minuscule dans le même contexte, et avec le glossaire qui fixe ces noms en minuscule."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-foolsconecap",
+    "avant": "Conocybe du Fou haché",
+    "apres": "Conocybe du fou haché",
+    "motif": "Majuscule intempestive sur le second mot : en français un titre ne capitalise que son premier mot (cf. Chapeau doré, Bonnet phrygien, Armillaire couleur de miel dans le même lot)."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-foolsconecap-charred",
+    "avant": "Conocybe du Fou haché cuit (brûlé)",
+    "apres": "Conocybe du fou haché cuit (brûlé)",
+    "motif": "Majuscule intempestive sur le second mot : en français un titre ne capitalise que son premier mot (cf. Chapeau doré, Bonnet phrygien, Armillaire couleur de miel dans le même lot)."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-foolsconecap-partbaked",
+    "avant": "Conocybe du Fou haché cuit (à moitié cuit)",
+    "apres": "Conocybe du fou haché cuit (à moitié cuit)",
+    "motif": "Majuscule intempestive sur le second mot : en français un titre ne capitalise que son premier mot (cf. Chapeau doré, Bonnet phrygien, Armillaire couleur de miel dans le même lot)."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-foolsconecap-perfect",
+    "avant": "Conocybe du Fou haché cuit",
+    "apres": "Conocybe du fou haché cuit",
+    "motif": "Majuscule intempestive sur le second mot : en français un titre ne capitalise que son premier mot (cf. Chapeau doré, Bonnet phrygien, Armillaire couleur de miel dans le même lot)."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-dressing-deluxe",
+    "avant": "Vinaigrette deluxe",
+    "apres": "Vinaigrette de luxe",
+    "motif": "Anglicisme : « deluxe » n'est pas un mot français, on écrit « de luxe » ; incohérent avec game:recipeingredient-item-dressing-deluxe qui utilise déjà « vinaigrette de luxe » dans ce même lot."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-dressing-deluxe",
+    "avant": "Vinaigrette deluxe",
+    "apres": "Vinaigrette de luxe",
+    "motif": "Anglicisme : « deluxe » n'est pas un mot français, on écrit « de luxe » ; incohérent avec game:recipeingredient-item-dressing-deluxe qui utilise déjà « vinaigrette de luxe » dans ce même lot."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-dressing-deluxe",
+    "avant": "Vinaigrette deluxe",
+    "apres": "Vinaigrette de luxe",
+    "motif": "Anglicisme : « deluxe » n'est pas un mot français, on écrit « de luxe » ; incohérent avec game:recipeingredient-item-dressing-deluxe qui utilise déjà « vinaigrette de luxe » dans ce même lot."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-dressing",
+    "avant": "Un mélange émulsionné d'huile et de vinaigre crée une <a href=\"handbook://item-expandedfoods:dressing-basic\">vinaigrette basique</a>. En <a href=\"handbook://kneadingmixingguide\">pétrissant</a> la vinaigrette, différentes variantes peuvent être obtenues avec différents ingrédients.<br>Pétrir du blanc d'œuf la stabilise davantage et lui ajoute du volume, créant une <a href=\"handbook://item-expandedfoods:dressing-salad\">vinaigrette onctueuse</a>.<br>Ajouter un édulcorant comme le miel ou le sirop peut donner à la vinaigrette une saveur riche et profonde, donnant une <a href=\"handbook://item-expandedfoods:dressing-sweet\">vinaigrette sucrée</a>.<br>Pour une saveur umami, ajoutez de la sauce poisson ou de la sauce soja afin d'obtenir une <a href=\"handbook://item-expandedfoods:dressing-savory\">vinaigrette relevée</a>.<br>Combiner tous les ingrédients de vinaigrette possibles donnera la <a href=\"handbook://item-expandedfoods:dressing-deluxe\">vinaigrette deluxe</a>, au profil de saveur le plus complexe.",
+    "apres": "Un mélange émulsionné d'huile et de vinaigre crée une <a href=\"handbook://item-expandedfoods:dressing-basic\">vinaigrette basique</a>. En <a href=\"handbook://kneadingmixingguide\">pétrissant</a> la vinaigrette, différentes variantes peuvent être obtenues avec différents ingrédients.<br>Pétrir du blanc d'œuf la stabilise davantage et lui ajoute du volume, créant une <a href=\"handbook://item-expandedfoods:dressing-salad\">vinaigrette onctueuse</a>.<br>Ajouter un édulcorant comme le miel ou le sirop peut donner à la vinaigrette une saveur riche et profonde, donnant une <a href=\"handbook://item-expandedfoods:dressing-sweet\">vinaigrette sucrée</a>.<br>Pour une saveur umami, ajoutez de la sauce poisson ou de la sauce soja afin d'obtenir une <a href=\"handbook://item-expandedfoods:dressing-savory\">vinaigrette relevée</a>.<br>Combiner tous les ingrédients de vinaigrette possibles donnera la <a href=\"handbook://item-expandedfoods:dressing-deluxe\">vinaigrette de luxe</a>, au profil de saveur le plus complexe.",
+    "motif": "Anglicisme : « deluxe » n'est pas un mot français, on écrit « de luxe » ; incohérent avec game:recipeingredient-item-dressing-deluxe qui utilise déjà « vinaigrette de luxe » dans ce même lot."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-alcoholagingguide",
+    "avant": "Tous les alcools mûrissent désormais avec le temps. Si le mûrissement se termine avant que l'alcool ne commence à s'altérer en vinaigre, il passe à l'étape suivante, devenant plus enivrant et plus nourrissant.<br>Les cidres et les bières (généralement obtenus en faisant mûrir du jus ou en le scellant dans un tonneau) mûrissent en alcool « fort », puis en alcool « fin ».<br>Les spiritueux, tels que l'eau-de-vie et le whisky (obtenus en distillant du cidre ou de la bière dans une <a href=\"handbook://block-verticalboiler-west\">chaudière</a>), mûrissent en alcool « vieilli », puis en alcool « millésimé ».<br>L'alcool « fin » peut encore s'abîmer s'il est mal conservé : veillez à le garder dans un endroit frais afin qu'il continue de « mûrir » au lieu de se transformer en vinaigre. L'alcool « millésimé » se conserve indéfiniment, grâce à sa teneur en alcool concentrée.",
+    "apres": "Tous les alcools mûrissent désormais avec le temps. Si le mûrissement se termine avant que l'alcool ne commence à s'altérer en vinaigre, il passe à l'étape suivante, devenant plus enivrant et plus nourrissant.<br>Les cidres et les bières (généralement obtenus en faisant mûrir du jus ou en le scellant dans un tonneau) mûrissent en alcool « corsé », puis en alcool « fin ».<br>Les spiritueux, tels que l'eau-de-vie et le whisky (obtenus en distillant du cidre ou de la bière dans une <a href=\"handbook://block-verticalboiler-west\">chaudière</a>), mûrissent en alcool « vieilli », puis en alcool « millésimé ».<br>L'alcool « fin » peut encore s'abîmer s'il est mal conservé : veillez à le garder dans un endroit frais afin qu'il continue de « mûrir » au lieu de se transformer en vinaigre. L'alcool « millésimé » se conserve indéfiniment, grâce à sa teneur en alcool concentrée.",
+    "motif": "« fort » incohérent avec le terme fixé par le glossaire pour ce palier (vin corsé, cf. toutes les Strong ... wine du lot) ; espace insécable manquante avant « : »."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:item-handbooktext-fruitpress",
+    "avant": "Vous ne pouvez utiliser le pressoir à fruits que s'il est rempli à AU MOINS moitié. En dessous de ce seuil, le pressoir n'écrasera aucune matière. Pensez à vérifier si votre marc peut encore servir à quelque chose !",
+    "apres": "Vous ne pouvez utiliser le pressoir à fruits que s'il est rempli au moins à moitié. En dessous de ce seuil, le pressoir n'écrasera aucune matière. Pensez à vérifier si votre marc peut encore servir à quelque chose !",
+    "motif": "Tournure calquée sur l'anglais (« à AU MOINS moitié ») à reformuler dans l'ordre naturel français, + espace insécable manquante avant « ! »."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-candy",
+    "avant": "Fabriquer des bonbons est un processus relativement simple. Commencez par <a href=\"handbook://kneadingmixingguide\">pétrir</a> un édulcorant, comme du miel ou du sirop, avec de la pâte de cacahuète ou du grain de tournesol... et voilà ! Ajouter du sel confère un petit supplément de soin, en plus de celui apporté par tout ce sucre.",
+    "apres": "Fabriquer des bonbons est un processus relativement simple. Commencez par <a href=\"handbook://kneadingmixingguide\">pétrir</a> un édulcorant, comme du miel ou du sirop, avec de la pâte de cacahuète ou du grain de tournesol... et voilà ! Ajouter du sel confère un petit supplément de soin, en plus de celui apporté par tout ce sucre.",
+    "motif": "Espace insécable manquante avant la ponctuation double (typographie française), présente partout ailleurs dans le corpus."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-cookedchoppedmushroom",
+    "avant": "Brûler un champignon peut en gâcher la saveur, mais au moins le poison en est cuit. Les champignons vénéneux sont mieux laissés sur le foyer ; les non-vénéneux sont meilleurs lorsqu'ils sont <a href=\"handbook://simmeringguide\">mijotés</a> dans une <a href=\"handbook://block-aculinaryartillery:saucepan-blue-fired\">casserole</a> ou un <a href=\"handbook://block-aculinaryartillery:cauldron-iron\">chaudron</a>.",
+    "apres": "Brûler un champignon peut en gâcher la saveur, mais au moins le poison en est cuit. Les champignons vénéneux sont mieux laissés sur le foyer ; les non-vénéneux sont meilleurs lorsqu'ils sont <a href=\"handbook://simmeringguide\">mijotés</a> dans une <a href=\"handbook://block-aculinaryartillery:saucepan-blue-fired\">casserole</a> ou un <a href=\"handbook://block-aculinaryartillery:cauldron-iron\">chaudron</a>.",
+    "motif": "Espace insécable manquante avant la ponctuation double (typographie française), présente partout ailleurs dans le corpus."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-cookedmushroom",
+    "avant": "Brûler un champignon peut en gâcher la saveur, mais au moins le poison en est cuit. Les champignons vénéneux sont mieux laissés sur le foyer ; les non-vénéneux sont meilleurs lorsqu'ils sont <a href=\"handbook://simmeringguide\">mijotés</a> dans une <a href=\"handbook://block-aculinaryartillery:saucepan-blue-fired\">casserole</a> ou un <a href=\"handbook://block-aculinaryartillery:cauldron-iron\">chaudron</a>.",
+    "apres": "Brûler un champignon peut en gâcher la saveur, mais au moins le poison en est cuit. Les champignons vénéneux sont mieux laissés sur le foyer ; les non-vénéneux sont meilleurs lorsqu'ils sont <a href=\"handbook://simmeringguide\">mijotés</a> dans une <a href=\"handbook://block-aculinaryartillery:saucepan-blue-fired\">casserole</a> ou un <a href=\"handbook://block-aculinaryartillery:cauldron-iron\">chaudron</a>.",
+    "motif": "Espace insécable manquante avant la ponctuation double (typographie française), présente partout ailleurs dans le corpus."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-agedmeat",
+    "avant": "Après avoir été suspendue sur un <a href=\"handbook://block-aculinaryartillery:meathooks-ebony-tinbronze-east\">crochet à viande</a> dans un environnement sec et frais pendant un certain temps, la viande perd lentement du poids à mesure que son tissu conjonctif se décompose et que l'humidité interne s'évapore. Une « croûte » de moisissure fongique recouvre l'extérieur et doit être retirée avant consommation.<br>La texture plus petite et plus tendre de cette viande la rend peu adaptée aux techniques avancées de transformation de la viande, comme les <a href=\"handbook://item-expandedfoods:sausage-redmeat-raw\">saucisses</a>.",
+    "apres": "Après avoir été suspendue sur un <a href=\"handbook://block-aculinaryartillery:meathooks-ebony-tinbronze-east\">crochet à viande</a> dans un environnement sec et frais pendant un certain temps, la viande perd lentement du poids à mesure que son tissu conjonctif se décompose et que l'humidité interne s'évapore. Une « croûte » de moisissure fongique recouvre l'extérieur et doit être retirée avant consommation.<br>La taille réduite et la tendreté accrue de cette viande la rendent peu adaptée aux techniques avancées de transformation de la viande, comme les <a href=\"handbook://item-expandedfoods:sausage-redmeat-raw\">saucisses</a>.",
+    "motif": "Contresens : une « texture » ne peut pas être « petite », c'est la taille de la viande qui est réduite (perte de poids évoquée juste avant), pas sa texture."
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktext-gozinaki",
+    "avant": "Une confiserie simple et croquante, préparée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> des noix ou du grain de tournesol avec du miel, puis cuite au four jusqu'à durcissement. Elle peut ensuite être sucrée davantage avec divers nappages, comme du beurre/de la sauce de cacahuète, du sirop, ou du miel supplémentaire.",
+    "apres": "Une confiserie simple et croquante, préparée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> des noix ou du grain de tournesol avec du miel, puis cuite au four jusqu'à durcissement. Elle peut ensuite être sucrée davantage avec divers nappages, comme du beurre de cacahuète ou de la sauce de cacahuète, du sirop, ou du miel supplémentaire.",
+    "motif": "Formulation ambiguë : la barre oblique laisse croire à du beurre normal ; « de cacahuète » doit qualifier les deux options."
+  }
+]

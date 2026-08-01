@@ -1,0 +1,2900 @@
+[
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-lard",
+  "en": "Liquid animal fat, rendered by boiling chunks of fat in water. Its property of producing very little smoke when cooked and its flavor makes it ideal for frying foods. The fatty content makes dough more flaky, too.<br>Note: Cooking 1 chunk of fat results in 0.2L of lard, and most recipes in Expanded Foods only require 0.1L of lard - this effectively doubles how much fat you can use in recipes.",
+  "fr": "Graisse animale liquide, obtenue en faisant fondre des morceaux de gras dans l'eau. Sa propriété de produire très peu de fumée à la cuisson et sa saveur en font un ingrédient idéal pour frire les aliments. Sa teneur en matière grasse rend aussi la pâte plus feuilletée.<br>Remarque : faire cuire 1 morceau de gras donne 0,2 L de saindoux, et la plupart des recettes d'Expanded Foods ne nécessitent que 0,1 L de saindoux : cela double en pratique la quantité de gras utilisable dans les recettes."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-limeegg",
+  "en": "Water-glassing preserves fresh eggs by submerging them in lime, which seals the eggshell and maintains its texture. Eggs can be water-glassed nearly indefinitely, but the lime must be regularly refreshed.",
+  "fr": "La conservation à la chaux préserve les œufs frais en les immergeant dans de la chaux, ce qui scelle la coquille et maintient sa texture. Les œufs peuvent ainsi être conservés presque indéfiniment, mais la chaux doit être régulièrement renouvelée."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-maplesapportion",
+  "en": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into a maple log and a liquid container directly beneath it. The tree will only produce sap in January, Feburary, and March.",
+  "fr": "Récoltée en plaçant un <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">chalumeau</a> dans une bûche d'érable, avec un récipient liquide placé directement en dessous. L'arbre ne produira de la sève qu'en janvier, février et mars."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-meatnugget",
+  "en": "Meat can be tenderized via direct blunt force. Doing so makes it tastier and easier to digest. Chopped meat nuggets can be used in more foods and meals than tenderized meat.",
+  "fr": "La viande peut être attendrie par un choc contondant direct. Cela la rend plus savoureuse et plus facile à digérer. Les pépites de viande hachée peuvent être utilisées dans davantage de plats et de repas que la viande simplement attendrie."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-muffin",
+  "en": "A moist cupcake with a variety of flavors. By <a href=\"handbook://kneadingmixingguide\">kneading</a> soft dough with fruit, pumpkin, carrots, and/or gelatin, then baking the resulting batter, the muffin develops a browned crust that slightly caramelizes any exposed ingredients. It can then be topped with sweetener, such as honey, syrup, peanut sauce, or peanut butter.",
+  "fr": "Un petit gâteau moelleux décliné en plusieurs saveurs. En <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la pâte molle avec des fruits, de la citrouille, des carottes et/ou de la gélatine, puis en cuisant la pâte à frire obtenue, le muffin développe une croûte dorée qui caramélise légèrement les ingrédients exposés. Il peut ensuite être garni d'un édulcorant tel que du miel, du sirop, de la sauce aux cacahuètes ou du beurre de cacahuète."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-pasta",
+  "en": "An unleavened dough, cut into noodle form, then cooked and prepared with just about any ingredient. Fresh pasta is made by <a href=\"handbook://kneadingmixingguide\">kneading</a> flour and liquid egg, then flattening it into a sheet using an instrument. This dough sheet is then cut into noodles, which can be cooked over a firepit to make soup or hot pasta. Alternately, the noodles may be <a href=\"handbook://simmeringguide\">simmered</a> with water to cook them, after which they may be <a href=\"handbook://kneadingmixingguide\">mixed</a> with other ingredients, or added to stew.<br>Cut noodles can also be baked in an oven to dry them out into a more shelf-stable form, that can later be used anywhere the normal cut noodles can be.",
+  "fr": "Une pâte non levée, découpée en forme de nouilles, puis cuisinée et préparée avec presque n'importe quel ingrédient. Les pâtes fraîches sont réalisées en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la farine et de l'œuf liquide, puis en aplatissant le tout en une feuille à l'aide d'un instrument. Cette feuille de pâte est ensuite découpée en nouilles, qui peuvent être cuites au-dessus d'un feu de camp pour faire de la soupe ou des pâtes chaudes. Autrement, les nouilles peuvent être <a href=\"handbook://simmeringguide\">mijotées</a> dans de l'eau pour les cuire, après quoi elles peuvent être <a href=\"handbook://kneadingmixingguide\">mélangées</a> avec d'autres ingrédients, ou ajoutées à un ragoût.<br>Les nouilles découpées peuvent également être cuites au four pour les sécher et obtenir une forme plus stable à la conservation, utilisable ensuite partout où les nouilles découpées normales le seraient."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-pasteurizedmilkportion",
+  "en": "Heating milk to slightly less than 100 °C will destroy the microorganisms within, reducing risk of disease and extending shelf life. The lack of bacteria makes it optimal for <a href=\"handbook://kneadingmixingguide\">kneading</a> with yogurt starter, so the yogurt's bacteria can ferment properly.",
+  "fr": "Chauffer le lait à une température légèrement inférieure à 100 °C détruit les micro-organismes qu'il contient, réduisant le risque de maladie et prolongeant sa durée de conservation. L'absence de bactéries le rend optimal pour le <a href=\"handbook://kneadingmixingguide\">pétrissage</a> avec du levain à yaourt, afin que les bactéries du yaourt puissent fermenter correctement."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-peanut",
+  "en": "By roasting peanuts in an oven, their nutty flavor is enhanced and the skins become easier to remove. The roasted kernels are delicious and can be ground into very useful <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">peanut paste</a>, while the leftover skins can be used as animal feed or fertilizer.",
+  "fr": "En torréfiant les cacahuètes au four, leur saveur de fruit à coque est renforcée et les peaux deviennent plus faciles à retirer. Les cerneaux torréfiés sont délicieux et peuvent être broyés pour obtenir une <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">pâte de cacahuète</a> très utile, tandis que les peaux restantes peuvent servir de fourrage pour les animaux ou d'engrais."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-peanutliquid-butter",
+  "en": "Made by <a href=\"handbook://kneadingmixingguide\">kneading</a> <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">peanut paste</a> and cooking oil, the emulsified result is spreadable and high in calories. It can be sweetened further with honey or syrup, and salt makes all of the butter's flavors more pronounced.",
+  "fr": "Réalisé en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">pâte de cacahuète</a> et de l'huile de cuisson, le résultat émulsionné est tartinable et riche en calories. Il peut être sucré davantage avec du miel ou du sirop, et le sel accentue toutes les saveurs du beurre."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-peanutliquid-paste",
+  "en": "Due to its high oil content, grinding peanuts results in a crunchy paste. This is edible enough on its own, but is a fantastic base for making <a href=\"handbook://item-expandedfoods:peanutliquid-butter\">peanut butter</a> or <a href=\"handbook://item-expandedfoods:peanutliquid-sauce\">peanut sauce</a>.",
+  "fr": "En raison de sa forte teneur en huile, le broyage des cacahuètes donne une pâte croquante. Celle-ci est suffisamment comestible telle quelle, mais constitue aussi une base fantastique pour réaliser du <a href=\"handbook://item-expandedfoods:peanutliquid-butter\">beurre de cacahuète</a> ou de la <a href=\"handbook://item-expandedfoods:peanutliquid-sauce\">sauce aux cacahuètes</a>."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-peanutliquid-sauce",
+  "en": "A specialized sauce used mainly for dipping or topping food. Created by <a href=\"handbook://kneadingmixingguide\">kneading</a> <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">peanut paste</a> with a savory sauce such as fish or soy sauce, a sweetener such as honey or syrup, and water. The result is a thick sauce with balanced flavors.",
+  "fr": "Une sauce spécialisée principalement utilisée pour tremper ou garnir les aliments. Elle est créée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> de la <a href=\"handbook://item-expandedfoods:peanutliquid-paste\">pâte de cacahuète</a> avec une sauce salée telle que de la sauce poisson ou de la sauce soja, un édulcorant tel que du miel ou du sirop, et de l'eau. Le résultat est une sauce épaisse aux saveurs équilibrées."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-pemmican",
+  "en": "An unappetizing, but palatable mixture of fat, meat, and fruit that lasts an extremely long time. Made by <a href=\"handbook://kneadingmixingguide\">kneading</a> fat or lard with fruit and meat nuggets. Unlike other foods, the sheer quantity of pemmican being created results in 2 chunks being output instead of 1. Mashed pemmican may be heated into a brick form and stored or eaten on its own, or it may be added to stews. Cooked pemmican may not be added to meals, as it is already cooked.",
+  "fr": "Un mélange peu appétissant, mais consommable, de gras, de viande et de fruits, qui se conserve extrêmement longtemps. Il est réalisé en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> du gras ou du saindoux avec des fruits et des pépites de viande. Contrairement aux autres aliments, la quantité produite fait que 2 morceaux sont obtenus au lieu d'1. Le pemmican écrasé peut être chauffé pour former un pain, puis stocké ou mangé tel quel, ou bien ajouté aux ragoûts. Le pemmican cuit ne peut pas être ajouté aux repas, car il est déjà cuit."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-plaindoughball",
+  "en": "Similar to regular <a href=\"handbook://item-dough-spelt\">dough</a>, but the addition of liquid egg has greatly changed the texture and composition.  In addition to <a href=\"handbook://kneadingmixingguide\">kneading</a> a liquid (such as broth, lard, milk, or water) with flour and liquid egg, adding bread starter and oil/lard results in a truly delectable bread treat. A fantastic base for making other foods.",
+  "fr": "Semblable à la <a href=\"handbook://item-dough-spelt\">pâte</a> classique, mais l'ajout d'œuf liquide a grandement modifié sa texture et sa composition. En plus de <a href=\"handbook://kneadingmixingguide\">pétrir</a> un liquide (comme du bouillon, du saindoux, du lait ou de l'eau) avec de la farine et de l'œuf liquide, ajouter du levain à pain et de l'huile/du saindoux donne un délicieux pain. Une base fantastique pour réaliser d'autres aliments."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-sausage",
+  "en": "A ground meat product that is preserved with fat. Basic sausage is made by <a href=\"handbook://kneadingmixingguide\">kneading</a> meat nuggets with fat or lard, but cheese makes an excellent filling. Adding salt during the kneading process will make curable sausage, which can be cured to last an extremely long time.<br>Raw (ie. non-curing) sausage may be hung from a <a href=\"handbook://block-aculinaryartillery:meathooks-ebony-tinbronze-east\">meat rack</a> in a manner similar to <a href=\"handbook://item-expandedfoods:agedmeat-redmeat-normal\">aged meat</a> in order to 'dry age' it. The aging process vastly improves its flavor and texture.",
+  "fr": "Un produit à base de viande hachée, conservé grâce au gras. La saucisse de base est réalisée en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> des pépites de viande avec du gras ou du saindoux, mais le fromage constitue un excellent fourrage. Ajouter du sel pendant le pétrissage permet d'obtenir une saucisse salable, qui peut être salée pour se conserver extrêmement longtemps.<br>La saucisse crue (c'est-à-dire non salée) peut être suspendue à un <a href=\"handbook://block-aculinaryartillery:meathooks-ebony-tinbronze-east\">crochet à viande</a> de la même façon que la <a href=\"handbook://item-expandedfoods:agedmeat-redmeat-normal\">viande affinée</a>, afin de la faire « vieillir à sec ». Ce processus de vieillissement améliore considérablement sa saveur et sa texture."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-soulstormbrew",
+  "en": "The highly addictive product of Projekt SoulStorm™.<br>Created by <a href=\"handbook://kneadingmixingguide\">kneading</a> a host of healthy, nutritious ingredients together to form the illustrious <a href=\"handbook://item-expandedfoods:soulstormbrew-slop\">SoulStorm Slop™</a>, an energy-rich solution that needs to be <a href=\"handbook://simmeringguide\">simmered</a> with noble, ancestral, and proprietary <a href=\"handbook://item-bonemeal\">ingredients</a> to make <a href=\"handbook://item-expandedfoods:soulstormbrew-refinedslop\">Refined SoulStorm Slop™</a>. At this point, the Slop™ can be distilled into pure, delicious, energizing <a href=\"handbook://item-expandedfoods:soulstormbrew-basic\">SoulStorm Brew™</a>!!!",
+  "fr": "Le produit hautement addictif du Projekt SoulStorm™.<br>Créé en <a href=\"handbook://kneadingmixingguide\">pétrissant</a> ensemble une multitude d'ingrédients sains et nutritifs pour former l'illustre <a href=\"handbook://item-expandedfoods:soulstormbrew-slop\">Bouillie SoulStorm™</a>, une solution riche en énergie qui doit être <a href=\"handbook://simmeringguide\">mijotée</a> avec des <a href=\"handbook://item-bonemeal\">ingrédients</a> nobles, ancestraux et exclusifs pour obtenir la <a href=\"handbook://item-expandedfoods:soulstormbrew-refinedslop\">Bouillie SoulStorm™ Raffinée</a>. À ce stade, la Bouillie™ peut être distillée en une pure, délicieuse et énergisante <a href=\"handbook://item-expandedfoods:soulstormbrew-basic\">Infusion SoulStorm™</a> !!!"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-soulstormbrew2",
+  "en": "<font color=\"#77ad19\"><i>'THE TASTIEST ENERGY DRINK ON THE PLANET!!! DRINK, DRINK, DRINK!!!'</i></font>",
+  "fr": "<font color=\"#77ad19\"><i>'LA BOISSON ÉNERGISANTE LA PLUS SAVOUREUSE DE LA PLANÈTE !!! BUVEZ, BUVEZ, BUVEZ !!!'</i></font>"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-soymilk",
+  "en": "Place the soaked soybeans in your crafting grid to de-shell them, then combine with 1 L of water in the crafting grid to wet them. Grind the wettened soybeans in a quern to blend them, then juice the mixture in a fruit press to make soy milk.",
+  "fr": "Placez les graines de soja trempées dans votre grille de fabrication pour les décortiquer, puis combinez-les avec 1 L d'eau dans la grille de fabrication pour les humidifier. Broyez les graines de soja humidifiées dans une meule à main pour les mixer, puis pressez le mélange dans un pressoir à fruits pour obtenir du lait de soja."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-soyprep",
+  "en": "Creating <a href=\"handbook://item-expandedfoods:soysauce\">soy sauce</a> or <a href=\"handbook://item-expandedfoods:soymilk-edible\">soy milk</a> is a multi-step process. First, soak soybeans in water for 3 days. The next steps depend on the desired result.<br><br><strong>Making Soy Sauce</strong><br>Roast the soaked soybeans in an oven, then grind the roasted soybeans in a quern. Mix the soybean powder with any grain to culture it. Soak the cultured soybeans with brine for 1 week to make a soybean slurry, which can be juiced in a fruit press into soy sauce.<br><br><strong>Making Soy Milk</strong><br>Place the soaked soybeans in your crafting grid to de-shell them, then combine with 1 L of water in the crafting grid to wet them. Grind the wettened soybeans in a quern to blend them, then juice the mixture in a fruit press to make soy milk.",
+  "fr": "La fabrication de la <a href=\"handbook://item-expandedfoods:soysauce\">sauce soja</a> ou du <a href=\"handbook://item-expandedfoods:soymilk-edible\">lait de soja</a> est un processus en plusieurs étapes. Faites d'abord tremper les graines de soja dans l'eau pendant 3 jours. Les étapes suivantes dépendent du résultat souhaité.<br><br><strong>Fabrication de la sauce soja</strong><br>Torréfiez les graines de soja trempées au four, puis broyez les graines torréfiées dans une meule à main. Mélangez la poudre de soja avec n'importe quelle céréale pour la faire fermenter. Faites tremper les graines de soja fermentées dans de la saumure pendant 1 semaine pour obtenir une bouillie de soja, qui peut être pressée dans un pressoir à fruits pour obtenir de la sauce soja.<br><br><strong>Fabrication du lait de soja</strong><br>Placez les graines de soja trempées dans votre grille de fabrication pour les décortiquer, puis combinez-les avec 1 L d'eau dans la grille de fabrication pour les humidifier. Broyez les graines de soja humidifiées dans une meule à main pour les mixer, puis pressez le mélange dans un pressoir à fruits pour obtenir du lait de soja."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-soysauce",
+  "en": "Roast the soaked soybeans in an oven, then grind the roasted soybeans in a quern. Mix the soybean powder with any grain to culture it. Soak the cultured soybeans with brine for 1 week to make a soybean slurry, which can be juiced in a fruit press into soy sauce.",
+  "fr": "Torréfiez les graines de soja trempées au four, puis broyez les graines torréfiées dans une meule à main. Mélangez la poudre de soja avec n'importe quelle céréale pour la faire fermenter. Faites tremper les graines de soja fermentées dans de la saumure pendant 1 semaine pour obtenir une bouillie de soja, qui peut être pressée dans un pressoir à fruits pour obtenir de la sauce soja."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-stuffedpepper",
+  "en": "These giant peppers are well-suited for additional filling. In addition to bell pepper, take a basic ingredient, such as cheese, dried fruit, meat or vegetables, then <a href=\"handbook://kneadingmixingguide\">knead</a> it and bake the result.<br>Bell peppers may also be breaded. In addition to the bell pepper and basic ingredient, knead in a bonding agent such as food oil, honey, lard, liquid egg, or syrup, some flour to form a mild crust, and a handful of bread crumbs to finalize the breading. Breaded stuffed bell pepper can be further kneaded with lard or oil to enhance its flavor, then baked in an oven- but it may burn if left unattended. <a href=\"handbook://simmeringguide\">Simmering</a> it with lard or oil will result in a perfectly fried food every time, and cauldrons make it easy to fry in bulk.",
+  "fr": "Ces poivrons géants se prêtent bien à un fourrage supplémentaire. En plus du poivron, prenez un ingrédient de base, comme du fromage, des fruits séchés, de la viande ou des légumes, puis <a href=\"handbook://kneadingmixingguide\">pétrissez</a>-le et faites cuire le résultat au four.<br>Les poivrons peuvent également être panés. En plus du poivron et de l'ingrédient de base, pétrissez un agent liant tel que de l'huile alimentaire, du miel, du saindoux, de l'œuf liquide ou du sirop, un peu de farine pour former une croûte légère, et une poignée de chapelure pour finaliser la panure. Le poivron farci pané peut ensuite être pétri avec du saindoux ou de l'huile pour rehausser sa saveur, puis cuit au four : mais il risque de brûler si on ne le surveille pas. Le <a href=\"handbook://simmeringguide\">mijoter</a> avec du saindoux ou de l'huile permet d'obtenir à chaque fois un aliment parfaitement frit, et les chaudrons facilitent la friture en grande quantité."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-sushi",
+  "en": "A specialized food ideal for coastal societies. Rice and edible seaweed sheets are <a href=\"handbook://kneadingmixingguide\">kneaded</a>, with chopped vegetables and fish optionally added. Once rolled, additional toppings such as honey, tree syrup, or sauces may be drizzled for more flavor.",
+  "fr": "Un plat spécialisé, idéal pour les sociétés côtières. Le riz et les feuilles d'algue comestibles sont <a href=\"handbook://kneadingmixingguide\">pétris</a>, avec l'ajout facultatif de légumes hachés et de poisson. Une fois roulé, des garnitures supplémentaires telles que du miel, du sirop d'arbre ou des sauces peuvent être ajoutées en filet pour plus de saveur."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-trailmix",
+  "en": "A nutritious, long-lasting, easily stored snack mix. It provides almost every nutrition type, making it excellent for keeping your maximum HP up on a long journey.<br>Trail mix comes in four major varieties: Cheesy, fruity, meaty (or beany, for vegetarians), and nutty. <a href=\"handbook://kneadingmixingguide\">Knead</a> cheese, cured meat nuggets (or soybeans, for vegetarians), dried fruit, and nuts. The kind of trail mix that is made depends on the ingredient that makes up the majority of the recipe.",
+  "fr": "Un mélange de collation nutritif, longue conservation et facile à stocker. Il fournit presque tous les types de nutriments, ce qui le rend excellent pour maintenir vos PV maximum lors d'un long voyage.<br>Le mélange du randonneur se décline en quatre variétés principales : fromagère, fruitée, carnée (ou aux haricots, pour les végétariens) et aux fruits à coque. <a href=\"handbook://kneadingmixingguide\">Pétrissez</a> du fromage, des pépites de viande salée (ou des graines de soja, pour les végétariens), des fruits séchés et des fruits à coque. Le type de mélange obtenu dépend de l'ingrédient qui constitue la majorité de la recette."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-treesyrupportion",
+  "en": "By boiling tree sap, the sugar to water ratio increases as water evaporates. This sweet condiment can be used as a topping for many foods and meals, or as a bonding agent for breading food.",
+  "fr": "En faisant bouillir la sève d'arbre, le ratio sucre/eau augmente à mesure que l'eau s'évapore. Ce condiment sucré peut être utilisé en garniture pour de nombreux plats et repas, ou comme agent liant pour paner des aliments."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-vegetablejuiceportion",
+  "en": "Made by juicing a variety of vegetables, this liquid can be used to make a variety of vegetable-flavored gelatins, or as stock in pilaf, hot pasta, or soup.",
+  "fr": "Obtenu en pressant divers légumes, ce liquide peut être utilisé pour réaliser diverses gélatines aromatisées aux légumes, ou comme fond pour le pilaf, les pâtes chaudes ou la soupe."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktext-yogurt",
+  "en": "Cultivating bacteria by fermenting curdled milk with fruit creates <a href=\"handbook://item-expandedfoods:yogurt-starter\">yogurt starter</a>, a highly active bacterial base. <a href=\"handbook://simmeringguide\">Simmering</a> the yogurt starter with pasteurized milk over a low heat will inoculate the bacteria, kickstarting the fermentation process and creating <a href=\"handbook://item-expandedfoods:yogurt-ferment\">fermenting yogurt</a>. Once this yogurt is allowed to ferment in a sealed barrel or a <a href=\"handbook://block-aculinaryartillery:bottle-clay-blue-corked\">bottle</a> until you have the final <a href=\"handbook://item-expandedfoods:yogurt-plain\">plain yogurt</a> product. At this point, plain yogurt may be <a href=\"handbook://kneadingmixingguide\">kneaded</a> with any kind of sweetener to make <a href=\"handbook://item-expandedfoods:yogurt-peach\">flavored yogurt</a>.<br>Plain or flavored yogurt can last almost indefinitely if stored properly - it will cure into yogurt starter instead of rot, and this yogurt starter can be used to repeatedly restart the above process.",
+  "fr": "En cultivant des bactéries par la fermentation de lait caillé avec des fruits, on obtient du <a href=\"handbook://item-expandedfoods:yogurt-starter\">levain à yaourt</a>, une base bactérienne très active. En <a href=\"handbook://simmeringguide\">mijotant</a> le levain à yaourt avec du lait pasteurisé à feu doux, on inocule les bactéries, ce qui déclenche le processus de fermentation et crée du <a href=\"handbook://item-expandedfoods:yogurt-ferment\">yaourt en cours de fermentation</a>. Une fois que ce yaourt a fermenté dans un tonneau scellé ou une <a href=\"handbook://block-aculinaryartillery:bottle-clay-blue-corked\">bouteille</a>, on obtient le produit final : le <a href=\"handbook://item-expandedfoods:yogurt-plain\">yaourt nature</a>. À ce stade, le yaourt nature peut être <a href=\"handbook://kneadingmixingguide\">pétri</a> avec n'importe quel type d'édulcorant pour obtenir du <a href=\"handbook://item-expandedfoods:yogurt-peach\">yaourt aromatisé</a>.<br>Le yaourt nature ou aromatisé peut se conserver presque indéfiniment s'il est stocké correctement : il se transformera en levain à yaourt au lieu de pourrir, et ce levain à yaourt peut être utilisé pour relancer le processus ci-dessus autant de fois que nécessaire."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-acornportion",
+  "en": "Acorn Portion",
+  "fr": "Portion de gland"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-agedmeat",
+  "en": "Dry Aged Meat",
+  "fr": "Viande affinée à sec"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-alcoholagingguide",
+  "en": "Alcohol Aging Guide (Expanded Foods)",
+  "fr": "Guide de vieillissement de l'alcool (Expanded Foods)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-berrybread",
+  "en": "Fruit Bread",
+  "fr": "Pain aux fruits"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-birchsapportion",
+  "en": "Birch Sap",
+  "fr": "Sève de bouleau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-breadcrumbs",
+  "en": "Bread Crumbs",
+  "fr": "Chapelure"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-breadstarter",
+  "en": "Bread Starter",
+  "fr": "Levain"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-broth",
+  "en": "Musings On Broth",
+  "fr": "Réflexions sur le bouillon"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-candiedfruit",
+  "en": "Candied Fruit",
+  "fr": "Fruits confits"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-candy",
+  "en": "Confectionery",
+  "fr": "Confiserie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-choppedmushroom",
+  "en": "Chopped Mushroom",
+  "fr": "Champignon haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-choppedvegetable",
+  "en": "Chopped Vegetable",
+  "fr": "Légume haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-cookedchoppedmushroom",
+  "en": "Cooked Chopped Mushroom",
+  "fr": "Champignon haché cuit"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-cookedchoppedvegetable",
+  "en": "Cooked Chopped Vegetable",
+  "fr": "Légume haché cuit"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-cookedmushroom",
+  "en": "Cooked Mushroom",
+  "fr": "Champignon cuit"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-cookedveggie",
+  "en": "Cooked Vegetable",
+  "fr": "Légume cuit"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-dehydratedfruit",
+  "en": "Dehydrated Fruit",
+  "fr": "Fruit déshydraté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-dough",
+  "en": "Dough Enhancements (Expanded Foods)",
+  "fr": "Améliorations de la pâte (Expanded Foods)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-dressing",
+  "en": "Salad Dressing",
+  "fr": "Sauce à salade"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-driedseaweed",
+  "en": "Seaweed sheet",
+  "fr": "Feuille d'algue"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-dryfruit",
+  "en": "Dried Fruit",
+  "fr": "Fruit séché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-dumpling",
+  "en": "Dumplings",
+  "fr": "Raviolis"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-fermentedfish",
+  "en": "Fermented Fish",
+  "fr": "Poisson fermenté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-fishnugget",
+  "en": "Preparing Fish",
+  "fr": "Préparation du poisson"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-fishsauce",
+  "en": "Fish Sauce",
+  "fr": "Sauce de poisson"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-foodoilportion",
+  "en": "Food Oil",
+  "fr": "Huile alimentaire"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-fruitbar",
+  "en": "Fruit Bars",
+  "fr": "Barres de fruits"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-fruitsyrupportion",
+  "en": "Fruit Syrup",
+  "fr": "Sirop de fruit"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-fryingguide",
+  "en": "Frying Guide",
+  "fr": "Guide de la friture"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-gelatin",
+  "en": "Gelatin Production",
+  "fr": "Production de gélatine"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-gozinaki",
+  "en": "Gozinaki",
+  "fr": "Gozinaki"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-hardlard",
+  "en": "Hardened Lard (solid)",
+  "fr": "Saindoux durci (solide)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-hardlardliquid",
+  "en": "Hardened Lard (liquid)",
+  "fr": "Saindoux durci (liquide)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-hardtack",
+  "en": "Hardtack",
+  "fr": "Biscuit de mer"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-juiceprocessingguide",
+  "en": "Juice Processing Guide (Expanded Foods)",
+  "fr": "Guide de transformation du jus (Expanded Foods)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-lard",
+  "en": "Lard",
+  "fr": "Saindoux"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-limeegg",
+  "en": "Water-Glassed Egg",
+  "fr": "Œuf conservé à la chaux"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-maplesapportion",
+  "en": "Maple Sap",
+  "fr": "Sève d'érable"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-meatnugget",
+  "en": "Preparing Meat",
+  "fr": "Préparation de la viande"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-muffin",
+  "en": "Muffin",
+  "fr": "Muffin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-pasta",
+  "en": "Pasta Preparation",
+  "fr": "Préparation des pâtes"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-pasteurizedmilkportion",
+  "en": "Pasteurized Milk",
+  "fr": "Lait pasteurisé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-peanut",
+  "en": "Roasting Peanuts",
+  "fr": "Torréfaction des cacahuètes"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-peanutliquid-butter",
+  "en": "Peanut Butter",
+  "fr": "Beurre de cacahuète"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-peanutliquid-paste",
+  "en": "Peanut Paste",
+  "fr": "Pâte de cacahuète"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-peanutliquid-sauce",
+  "en": "Peanut Sauce",
+  "fr": "Sauce aux cacahuètes"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-pemmican",
+  "en": "Pemmican",
+  "fr": "Pemmican"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-plaindoughball",
+  "en": "Soft Dough",
+  "fr": "Pâte molle"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-sausage",
+  "en": "Sausage",
+  "fr": "Saucisse"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-soulstormbrew",
+  "en": "SoulStorm Brew",
+  "fr": "Infusion SoulStorm"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-soulstormbrew2",
+  "en": " ",
+  "fr": " "
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-soymilk",
+  "en": "Making Soy Milk",
+  "fr": "Fabrication du lait de soja"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-soyprep",
+  "en": "Soy Processing",
+  "fr": "Transformation du soja"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-soysauce",
+  "en": "Making Soy Sauce",
+  "fr": "Fabrication de la sauce soja"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-stuffedpepper",
+  "en": "Stuffed Pepper",
+  "fr": "Poivron farci"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-sushi",
+  "en": "Sushi Preparation",
+  "fr": "Préparation des sushis"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-trailmix",
+  "en": "Trail Mix Tips",
+  "fr": "Astuces pour le mélange du randonneur"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-treesyrupportion",
+  "en": "Tree Syrup",
+  "fr": "Sirop d'arbre"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-vegetablejuiceportion",
+  "en": "Vegetable Juice",
+  "fr": "Jus de légume"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-handbooktitle-yogurt",
+  "en": "Making Yogurt",
+  "fr": "Fabrication du yaourt"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-pasta-charred",
+  "en": "Burnt pasta noodles",
+  "fr": "Nouilles de pâtes brûlées"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-pasta-dried",
+  "en": "Dried pasta noodles",
+  "fr": "Nouilles de pâtes séchées"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-beautyberry",
+  "en": "Vintage beautyberry brandy portion",
+  "fr": "Portion d'eau-de-vie de baie de beauté millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-blackberry",
+  "en": "Vintage blackberry brandy portion",
+  "fr": "Portion d'eau-de-vie de mûre millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-cactusfruit",
+  "en": "Vintage cactusfruit brandy portion",
+  "fr": "Portion d'eau-de-vie de figue de Barbarie millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-cloudberry",
+  "en": "Vintage cloudberry brandy portion",
+  "fr": "Portion d'eau-de-vie de plaquebière millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-gooseberry",
+  "en": "Vintage gooseberry brandy portion",
+  "fr": "Portion d'eau-de-vie de groseille à maquereau millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-guava",
+  "en": "Vintage guava brandy portion",
+  "fr": "Portion d'eau-de-vie de goyave millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-kumquat",
+  "en": "Vintage kumquat brandy portion",
+  "fr": "Portion d'eau-de-vie de kumquat millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-plumnatal",
+  "en": "Vintage plum brandy portion",
+  "fr": "Portion d'eau-de-vie de prune du Natal millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-raspberry",
+  "en": "Vintage raspberry brandy portion",
+  "fr": "Portion d'eau-de-vie de framboise millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentspiritportion-strawberry",
+  "en": "Vintage strawberry brandy portion",
+  "fr": "Portion d'eau-de-vie de fraise millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-beautyberry",
+  "en": "Fine beautyberry wine portion",
+  "fr": "Portion de vin de baie de beauté fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-blackberry",
+  "en": "Fine blackberry wine portion",
+  "fr": "Portion de vin de mûre fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-cactusfruit",
+  "en": "Fine cactusfruit wine portion",
+  "fr": "Portion de vin de figue de Barbarie fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-cloudberry",
+  "en": "Fine cloudberry wine portion",
+  "fr": "Portion de vin de plaquebière fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-gooseberry",
+  "en": "Fine gooseberry wine portion",
+  "fr": "Portion de vin de groseille à maquereau fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-guava",
+  "en": "Fine guava wine portion",
+  "fr": "Portion de vin de goyave fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-kumquat",
+  "en": "Fine kumquat cider portion",
+  "fr": "Portion de cidre de kumquat fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-plumnatal",
+  "en": "Fine plum wine portion",
+  "fr": "Portion de vin de prune du Natal fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-raspberry",
+  "en": "Fine raspberry wine portion",
+  "fr": "Portion de vin de framboise fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-potentwineportion-strawberry",
+  "en": "Fine strawberry wine portion",
+  "fr": "Portion de vin de fraise fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-beautyberry",
+  "en": "Aged beautyberry brandy portion",
+  "fr": "Portion d'eau-de-vie de baie de beauté vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-blackberry",
+  "en": "Aged blackberry brandy portion",
+  "fr": "Portion d'eau-de-vie de mûre vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-cactusfruit",
+  "en": "Aged cactusfruit brandy portion",
+  "fr": "Portion d'eau-de-vie de figue de Barbarie vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-cloudberry",
+  "en": "Aged cloudberry brandy portion",
+  "fr": "Portion d'eau-de-vie de plaquebière vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-gooseberry",
+  "en": "Aged gooseberry brandy portion",
+  "fr": "Portion d'eau-de-vie de groseille à maquereau vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-guava",
+  "en": "Aged guava brandy portion",
+  "fr": "Portion d'eau-de-vie de goyave vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-kumquat",
+  "en": "Aged kumquat brandy portion",
+  "fr": "Portion d'eau-de-vie de kumquat vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-plumnatal",
+  "en": "Aged plum brandy portion",
+  "fr": "Portion d'eau-de-vie de prune du Natal vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-raspberry",
+  "en": "Aged raspberry brandy portion",
+  "fr": "Portion d'eau-de-vie de framboise vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongspiritportion-strawberry",
+  "en": "Aged strawberry brandy portion",
+  "fr": "Portion d'eau-de-vie de fraise vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-beautyberry",
+  "en": "Strong beautyberry wine portion",
+  "fr": "Portion de vin de baie de beauté corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-blackberry",
+  "en": "Strong blackberry wine portion",
+  "fr": "Portion de vin de mûre corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-cactusfruit",
+  "en": "Strong cactusfruit wine portion",
+  "fr": "Portion de vin de figue de Barbarie corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-cloudberry",
+  "en": "Strong cloudberry wine portion",
+  "fr": "Portion de vin de plaquebière corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-gooseberry",
+  "en": "Strong gooseberry wine portion",
+  "fr": "Portion de vin de groseille à maquereau corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-guava",
+  "en": "Strong guava wine portion",
+  "fr": "Portion de vin de goyave corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-kumquat",
+  "en": "Strong kumquat cider portion",
+  "fr": "Portion de cidre de kumquat corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-plumnatal",
+  "en": "Strong plum wine portion",
+  "fr": "Portion de vin de prune du Natal corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-raspberry",
+  "en": "Strong raspberry wine portion",
+  "fr": "Portion de vin de framboise corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-strongwineportion-strawberry",
+  "en": "Strong strawberry wine portion",
+  "fr": "Portion de vin de fraise corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-yogurt-blackberry",
+  "en": "Blackberry yogurt portion",
+  "fr": "Portion de yaourt à la mûre"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-yogurt-cactusfruit",
+  "en": "Cactus fruit yogurt portion",
+  "fr": "Portion de yaourt à la figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-yogurt-guava",
+  "en": "Guava yogurt portion",
+  "fr": "Portion de yaourt à la goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "item-yogurt-plumnatal",
+  "en": "Plum yogurt portion",
+  "fr": "Portion de yaourt à la prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-dressing-basic",
+  "en": "Zesty and oily, this simple dressing enhances any salad or pasta.",
+  "fr": "Acidulée et grasse, cette sauce à salade simple rehausse n'importe quelle salade ou pâte."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-dressing-deluxe",
+  "en": "Rich and deep with a velvety texture, fit for a king. The key to making the ultimate salad or pasta.",
+  "fr": "Riche et profonde, avec une texture veloutée, digne d'un roi. La clé pour réaliser la salade ou les pâtes ultimes."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-dressing-savory",
+  "en": "Rich and tangy, the depth of flavor is intense. Ideal on salad or pasta.",
+  "fr": "Riche et relevée, la profondeur de goût est intense. Idéale sur une salade ou des pâtes."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-dressing-sweet",
+  "en": "Thin and sweet, also known as a vinaigrette. This stuff makes salads and pasta really <i>pop!</i> ",
+  "fr": "Fine et sucrée, aussi connue sous le nom de vinaigrette. Ce condiment fait vraiment <i>ressortir</i> les salades et les pâtes ! "
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-driedseaweed-dried",
+  "en": "Bake until crunchy.",
+  "fr": "Faire cuire jusqu'à ce que ce soit croustillant."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-driedseaweed-washed",
+  "en": "Use your hands to shape into sheets.",
+  "fr": "Utilisez vos mains pour la façonner en feuilles."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "itemdesc-hardlardliquid",
+  "en": "Dump out a bucket full of hardened lard to acquire <a href=\"handbook://block-expandedfoods:hardlard\">a brick of lard</a>.",
+  "fr": "Videz un seau rempli de saindoux durci pour obtenir <a href=\"handbook://block-expandedfoods:hardlard\">un pain de saindoux</a>."
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-bluemeanie-charred",
+  "en": "Blue Meanie pie (charred)",
+  "fr": "Tourte au vilain bleu (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-bluemeanie-partbaked",
+  "en": "Blue Meanie pie (part-baked)",
+  "fr": "Tourte au vilain bleu (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-bluemeanie-perfect",
+  "en": "Blue Meanie pie",
+  "fr": "Tourte au vilain bleu"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-bluemeanie-raw",
+  "en": "Blue Meanie pie (raw)",
+  "fr": "Tourte au vilain bleu (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-foolsconecap-charred",
+  "en": "Fool's Conecap pie (charred)",
+  "fr": "Tourte au conocybe du fou (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-foolsconecap-partbaked",
+  "en": "Fool's Conecap pie (part-baked)",
+  "fr": "Tourte au conocybe du fou (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-foolsconecap-perfect",
+  "en": "Fool's Conecap pie",
+  "fr": "Tourte au conocybe du fou"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-foolsconecap-raw",
+  "en": "Fool's Conecap pie (raw)",
+  "fr": "Tourte au conocybe du fou (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-goldcap-charred",
+  "en": "Gold Cap pie (charred)",
+  "fr": "Tourte au chapeau doré (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-goldcap-partbaked",
+  "en": "Gold Cap pie (part-baked)",
+  "fr": "Tourte au chapeau doré (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-goldcap-perfect",
+  "en": "Gold Cap pie",
+  "fr": "Tourte au chapeau doré"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-goldcap-raw",
+  "en": "Gold Cap pie (raw)",
+  "fr": "Tourte au chapeau doré (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-charred",
+  "en": "Honey Mushroom pie (charred)",
+  "fr": "Tourte à l'armillaire couleur de miel (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-partbaked",
+  "en": "Honey Mushroom pie (part-baked)",
+  "fr": "Tourte à l'armillaire couleur de miel (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-perfect",
+  "en": "Honey Mushroom pie",
+  "fr": "Tourte à l'armillaire couleur de miel"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-raw",
+  "en": "Honey Mushroom pie (raw)",
+  "fr": "Tourte à l'armillaire couleur de miel (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-laughingjim-charred",
+  "en": "Laughing Jim pie (charred)",
+  "fr": "Tourte au Jim rieur (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-laughingjim-partbaked",
+  "en": "Laughing Jim pie (part-baked)",
+  "fr": "Tourte au Jim rieur (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-laughingjim-perfect",
+  "en": "Laughing Jim pie",
+  "fr": "Tourte au Jim rieur"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-laughingjim-raw",
+  "en": "Laughing Jim pie (raw)",
+  "fr": "Tourte au Jim rieur (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-charred",
+  "en": "Liberty Cap pie (charred)",
+  "fr": "Tourte au bonnet phrygien (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-partbaked",
+  "en": "Liberty Cap pie (part-baked)",
+  "fr": "Tourte au bonnet phrygien (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-perfect",
+  "en": "Liberty Cap pie",
+  "fr": "Tourte au bonnet phrygien"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-raw",
+  "en": "Liberty Cap pie (raw)",
+  "fr": "Tourte au bonnet phrygien (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-sickener-charred",
+  "en": "Sickener pie (charred)",
+  "fr": "Tourte à l'émétique (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-sickener-partbaked",
+  "en": "Sickener pie (part-baked)",
+  "fr": "Tourte à l'émétique (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-sickener-perfect",
+  "en": "Sickener pie",
+  "fr": "Tourte à l'émétique"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-sickener-raw",
+  "en": "Sickener pie (raw)",
+  "fr": "Tourte à l'émétique (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-wavycap-charred",
+  "en": "Wavy Cap pie (charred)",
+  "fr": "Tourte au chapeau ondulé (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-wavycap-partbaked",
+  "en": "Wavy Cap pie (part-baked)",
+  "fr": "Tourte au chapeau ondulé (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-wavycap-perfect",
+  "en": "Wavy Cap pie",
+  "fr": "Tourte au chapeau ondulé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:choppedmushroom-wavycap-raw",
+  "en": "Wavy Cap pie (raw)",
+  "fr": "Tourte au chapeau ondulé (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-beautyberry-charred",
+  "en": "Dehydrated beautyberry pie (charred)",
+  "fr": "Tourte à la baie de beauté déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-beautyberry-partbaked",
+  "en": "Dehydrated beautyberry pie (part-baked)",
+  "fr": "Tourte à la baie de beauté déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-beautyberry-perfect",
+  "en": "Dehydrated beautyberry pie",
+  "fr": "Tourte à la baie de beauté déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-beautyberry-raw",
+  "en": "Dehydrated beautyberry pie (raw)",
+  "fr": "Tourte à la baie de beauté déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-blackberry-charred",
+  "en": "Dehydrated blackberry pie (charred)",
+  "fr": "Tourte à la mûre déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-blackberry-partbaked",
+  "en": "Dehydrated blackberry pie (part-baked)",
+  "fr": "Tourte à la mûre déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-blackberry-perfect",
+  "en": "Dehydrated blackberry pie",
+  "fr": "Tourte à la mûre déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-blackberry-raw",
+  "en": "Dehydrated blackberry pie (raw)",
+  "fr": "Tourte à la mûre déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cactusfruit-charred",
+  "en": "Dehydrated cactus fruit pie (charred)",
+  "fr": "Tourte à la figue de Barbarie déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cactusfruit-partbaked",
+  "en": "Dehydrated cactus fruit pie (part-baked)",
+  "fr": "Tourte à la figue de Barbarie déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cactusfruit-perfect",
+  "en": "Dehydrated cactus fruit pie",
+  "fr": "Tourte à la figue de Barbarie déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cactusfruit-raw",
+  "en": "Dehydrated cactus fruit pie (raw)",
+  "fr": "Tourte à la figue de Barbarie déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cloudberry-charred",
+  "en": "Dehydrated cloudberry pie (charred)",
+  "fr": "Tourte à la plaquebière déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cloudberry-partbaked",
+  "en": "Dehydrated cloudberry pie (part-baked)",
+  "fr": "Tourte à la plaquebière déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cloudberry-perfect",
+  "en": "Dehydrated cloudberry pie",
+  "fr": "Tourte à la plaquebière déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-cloudberry-raw",
+  "en": "Dehydrated cloudberry pie (raw)",
+  "fr": "Tourte à la plaquebière déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-gooseberry-charred",
+  "en": "Dehydrated gooseberry pie (charred)",
+  "fr": "Tourte à la groseille à maquereau déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-gooseberry-partbaked",
+  "en": "Dehydrated gooseberry pie (part-baked)",
+  "fr": "Tourte à la groseille à maquereau déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-gooseberry-perfect",
+  "en": "Dehydrated gooseberry pie",
+  "fr": "Tourte à la groseille à maquereau déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-gooseberry-raw",
+  "en": "Dehydrated gooseberry pie (raw)",
+  "fr": "Tourte à la groseille à maquereau déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-guava-charred",
+  "en": "Dehydrated guava pie (charred)",
+  "fr": "Tourte à la goyave déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-guava-partbaked",
+  "en": "Dehydrated guava pie (part-baked)",
+  "fr": "Tourte à la goyave déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-guava-perfect",
+  "en": "Dehydrated guava pie",
+  "fr": "Tourte à la goyave déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-guava-raw",
+  "en": "Dehydrated guava pie (raw)",
+  "fr": "Tourte à la goyave déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-kumquat-charred",
+  "en": "Dehydrated kumquat pie (charred)",
+  "fr": "Tourte au kumquat déshydraté (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-kumquat-partbaked",
+  "en": "Dehydrated kumquat pie (part-baked)",
+  "fr": "Tourte au kumquat déshydraté (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-kumquat-perfect",
+  "en": "Dehydrated kumquat pie",
+  "fr": "Tourte au kumquat déshydraté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-kumquat-raw",
+  "en": "Dehydrated kumquat pie (raw)",
+  "fr": "Tourte au kumquat déshydraté (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-charred",
+  "en": "Dehydrated plum pie (charred)",
+  "fr": "Tourte à la prune du Natal déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-partbaked",
+  "en": "Dehydrated plum pie (part-baked)",
+  "fr": "Tourte à la prune du Natal déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-perfect",
+  "en": "Dehydrated plum pie",
+  "fr": "Tourte à la prune du Natal déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-raw",
+  "en": "Dehydrated plum pie (raw)",
+  "fr": "Tourte à la prune du Natal déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-raspberry-charred",
+  "en": "Dehydrated raspberry pie (charred)",
+  "fr": "Tourte à la framboise déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-raspberry-partbaked",
+  "en": "Dehydrated raspberry pie (part-baked)",
+  "fr": "Tourte à la framboise déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-raspberry-perfect",
+  "en": "Dehydrated raspberry pie",
+  "fr": "Tourte à la framboise déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-raspberry-raw",
+  "en": "Dehydrated raspberry pie (raw)",
+  "fr": "Tourte à la framboise déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-strawberry-charred",
+  "en": "Dehydrated strawberry pie (charred)",
+  "fr": "Tourte à la fraise déshydratée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-strawberry-partbaked",
+  "en": "Dehydrated strawberry pie (part-baked)",
+  "fr": "Tourte à la fraise déshydratée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-strawberry-perfect",
+  "en": "Dehydrated strawberry pie",
+  "fr": "Tourte à la fraise déshydratée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dehydratedfruit-strawberry-raw",
+  "en": "Dehydrated strawberry pie (raw)",
+  "fr": "Tourte à la fraise déshydratée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-beautyberry-charred",
+  "en": "Dried beautyberry pie (charred)",
+  "fr": "Tourte à la baie de beauté séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-beautyberry-partbaked",
+  "en": "Dried beautyberry pie (part-baked)",
+  "fr": "Tourte à la baie de beauté séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-beautyberry-perfect",
+  "en": "Dried beautyberry pie",
+  "fr": "Tourte à la baie de beauté séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-beautyberry-raw",
+  "en": "Dried beautyberry pie (raw)",
+  "fr": "Tourte à la baie de beauté séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-blackberry-charred",
+  "en": "Dried blackberry pie (charred)",
+  "fr": "Tourte à la mûre séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-blackberry-partbaked",
+  "en": "Dried blackberry pie (part-baked)",
+  "fr": "Tourte à la mûre séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-blackberry-perfect",
+  "en": "Dried blackberry pie",
+  "fr": "Tourte à la mûre séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-blackberry-raw",
+  "en": "Dried blackberry pie (raw)",
+  "fr": "Tourte à la mûre séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cactusfruit-charred",
+  "en": "Dried cactus fruit pie (charred)",
+  "fr": "Tourte à la figue de Barbarie séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cactusfruit-partbaked",
+  "en": "Dried cactus fruit pie (part-baked)",
+  "fr": "Tourte à la figue de Barbarie séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cactusfruit-perfect",
+  "en": "Dried cactus fruit pie",
+  "fr": "Tourte à la figue de Barbarie séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cactusfruit-raw",
+  "en": "Dried cactus fruit pie (raw)",
+  "fr": "Tourte à la figue de Barbarie séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cloudberry-charred",
+  "en": "Dried cloudberry pie (charred)",
+  "fr": "Tourte à la plaquebière séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cloudberry-partbaked",
+  "en": "Dried cloudberry pie (part-baked)",
+  "fr": "Tourte à la plaquebière séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cloudberry-perfect",
+  "en": "Dried cloudberry pie",
+  "fr": "Tourte à la plaquebière séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-cloudberry-raw",
+  "en": "Dried cloudberry pie (raw)",
+  "fr": "Tourte à la plaquebière séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-gooseberry-charred",
+  "en": "Dried gooseberry pie (charred)",
+  "fr": "Tourte à la groseille à maquereau séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-gooseberry-partbaked",
+  "en": "Dried gooseberry pie (part-baked)",
+  "fr": "Tourte à la groseille à maquereau séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-gooseberry-perfect",
+  "en": "Dried gooseberry pie",
+  "fr": "Tourte à la groseille à maquereau séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-gooseberry-raw",
+  "en": "Dried gooseberry pie (raw)",
+  "fr": "Tourte à la groseille à maquereau séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-guava-charred",
+  "en": "Dried guava pie (charred)",
+  "fr": "Tourte à la goyave séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-guava-partbaked",
+  "en": "Dried guava pie (part-baked)",
+  "fr": "Tourte à la goyave séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-guava-perfect",
+  "en": "Dried guava pie",
+  "fr": "Tourte à la goyave séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-guava-raw",
+  "en": "Dried guava pie (raw)",
+  "fr": "Tourte à la goyave séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-kumquat-charred",
+  "en": "Dried kumquat pie (charred)",
+  "fr": "Tourte au kumquat séché (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-kumquat-partbaked",
+  "en": "Dried kumquat pie (part-baked)",
+  "fr": "Tourte au kumquat séché (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-kumquat-perfect",
+  "en": "Dried kumquat pie",
+  "fr": "Tourte au kumquat séché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-kumquat-raw",
+  "en": "Dried kumquat pie (raw)",
+  "fr": "Tourte au kumquat séché (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-plumnatal-charred",
+  "en": "Dried plum pie (charred)",
+  "fr": "Tourte à la prune du Natal séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-plumnatal-partbaked",
+  "en": "Dried plum pie (part-baked)",
+  "fr": "Tourte à la prune du Natal séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-plumnatal-perfect",
+  "en": "Dried plum pie",
+  "fr": "Tourte à la prune du Natal séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-plumnatal-raw",
+  "en": "Dried plum pie (raw)",
+  "fr": "Tourte à la prune du Natal séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-raspberry-charred",
+  "en": "Dried raspberry pie (charred)",
+  "fr": "Tourte à la framboise séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-raspberry-partbaked",
+  "en": "Dried raspberry pie (part-baked)",
+  "fr": "Tourte à la framboise séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-raspberry-perfect",
+  "en": "Dried raspberry pie",
+  "fr": "Tourte à la framboise séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-raspberry-raw",
+  "en": "Dried raspberry pie (raw)",
+  "fr": "Tourte à la framboise séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-strawberry-charred",
+  "en": "Dried strawberry pie (charred)",
+  "fr": "Tourte à la fraise séchée (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-strawberry-partbaked",
+  "en": "Dried strawberry pie (part-baked)",
+  "fr": "Tourte à la fraise séchée (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-strawberry-perfect",
+  "en": "Dried strawberry pie",
+  "fr": "Tourte à la fraise séchée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:dryfruit-strawberry-raw",
+  "en": "Dried strawberry pie (raw)",
+  "fr": "Tourte à la fraise séchée (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-beautyberry-charred",
+  "en": "Beautyberry syrup pie (charred)",
+  "fr": "Tourte au sirop de baie de beauté (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-beautyberry-partbaked",
+  "en": "Beautyberry syrup pie (part-baked)",
+  "fr": "Tourte au sirop de baie de beauté (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-beautyberry-perfect",
+  "en": "Beautyberry syrup pie",
+  "fr": "Tourte au sirop de baie de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-beautyberry-raw",
+  "en": "Beautyberry syrup pie (raw)",
+  "fr": "Tourte au sirop de baie de beauté (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-blackberry-charred",
+  "en": "Blackberry syrup pie (charred)",
+  "fr": "Tourte au sirop de mûre (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-blackberry-partbaked",
+  "en": "Blackberry syrup pie (part-baked)",
+  "fr": "Tourte au sirop de mûre (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-blackberry-perfect",
+  "en": "Blackberry syrup pie",
+  "fr": "Tourte au sirop de mûre"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-blackberry-raw",
+  "en": "Blackberry syrup pie (raw)",
+  "fr": "Tourte au sirop de mûre (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cactusfruit-charred",
+  "en": "Cactusfruit syrup pie (charred)",
+  "fr": "Tourte au sirop de figue de Barbarie (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cactusfruit-partbaked",
+  "en": "Cactusfruit syrup pie (part-baked)",
+  "fr": "Tourte au sirop de figue de Barbarie (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cactusfruit-perfect",
+  "en": "Cactusfruit syrup pie",
+  "fr": "Tourte au sirop de figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cactusfruit-raw",
+  "en": "Cactusfruit syrup pie (raw)",
+  "fr": "Tourte au sirop de figue de Barbarie (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cloudberry-charred",
+  "en": "Cloudberry syrup pie (charred)",
+  "fr": "Tourte au sirop de plaquebière (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cloudberry-partbaked",
+  "en": "Cloudberry syrup pie (part-baked)",
+  "fr": "Tourte au sirop de plaquebière (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cloudberry-perfect",
+  "en": "Cloudberry syrup pie",
+  "fr": "Tourte au sirop de plaquebière"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-cloudberry-raw",
+  "en": "Cloudberry syrup pie (raw)",
+  "fr": "Tourte au sirop de plaquebière (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-gooseberry-charred",
+  "en": "Gooseberry syrup pie (charred)",
+  "fr": "Tourte au sirop de groseille à maquereau (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-gooseberry-partbaked",
+  "en": "Gooseberry syrup pie (part-baked)",
+  "fr": "Tourte au sirop de groseille à maquereau (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-gooseberry-perfect",
+  "en": "Gooseberry syrup pie",
+  "fr": "Tourte au sirop de groseille à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-gooseberry-raw",
+  "en": "Gooseberry syrup pie (raw)",
+  "fr": "Tourte au sirop de groseille à maquereau (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-guava-charred",
+  "en": "Guava syrup pie (charred)",
+  "fr": "Tourte au sirop de goyave (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-guava-partbaked",
+  "en": "Guava syrup pie (part-baked)",
+  "fr": "Tourte au sirop de goyave (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-guava-perfect",
+  "en": "Guava syrup pie",
+  "fr": "Tourte au sirop de goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-guava-raw",
+  "en": "Guava syrup pie (raw)",
+  "fr": "Tourte au sirop de goyave (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-kumquat-charred",
+  "en": "Kumquat syrup pie (charred)",
+  "fr": "Tourte au sirop de kumquat (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-kumquat-partbaked",
+  "en": "Kumquat syrup pie (part-baked)",
+  "fr": "Tourte au sirop de kumquat (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-kumquat-perfect",
+  "en": "Kumquat syrup pie",
+  "fr": "Tourte au sirop de kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-kumquat-raw",
+  "en": "Kumquat syrup pie (raw)",
+  "fr": "Tourte au sirop de kumquat (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-charred",
+  "en": "Plum syrup pie (charred)",
+  "fr": "Tourte au sirop de prune du Natal (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-partbaked",
+  "en": "Plum syrup pie (part-baked)",
+  "fr": "Tourte au sirop de prune du Natal (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-perfect",
+  "en": "Plum syrup pie",
+  "fr": "Tourte au sirop de prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-raw",
+  "en": "Plum syrup pie (raw)",
+  "fr": "Tourte au sirop de prune du Natal (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-raspberry-charred",
+  "en": "Raspberry syrup pie (charred)",
+  "fr": "Tourte au sirop de framboise (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-raspberry-partbaked",
+  "en": "Raspberry syrup pie (part-baked)",
+  "fr": "Tourte au sirop de framboise (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-raspberry-perfect",
+  "en": "Raspberry syrup pie",
+  "fr": "Tourte au sirop de framboise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-raspberry-raw",
+  "en": "Raspberry syrup pie (raw)",
+  "fr": "Tourte au sirop de framboise (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-strawberry-charred",
+  "en": "Strawberry syrup pie (charred)",
+  "fr": "Tourte au sirop de fraise (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-strawberry-partbaked",
+  "en": "Strawberry syrup pie (part-baked)",
+  "fr": "Tourte au sirop de fraise (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-strawberry-perfect",
+  "en": "Strawberry syrup pie",
+  "fr": "Tourte au sirop de fraise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:fruitsyrupportion-strawberry-raw",
+  "en": "Strawberry syrup pie (raw)",
+  "fr": "Tourte au sirop de fraise (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-blackberry-charred",
+  "en": "Blackberry jelly pie (charred)",
+  "fr": "Tourte à la gelée de mûre (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-blackberry-partbaked",
+  "en": "Blackberry jelly pie (part-baked)",
+  "fr": "Tourte à la gelée de mûre (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-blackberry-perfect",
+  "en": "Blackberry jelly pie",
+  "fr": "Tourte à la gelée de mûre"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-blackberry-raw",
+  "en": "Blackberry jelly pie (raw)",
+  "fr": "Tourte à la gelée de mûre (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-cactusfruit-charred",
+  "en": "Cactusfruit jelly pie (charred)",
+  "fr": "Tourte à la gelée de figue de Barbarie (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-cactusfruit-partbaked",
+  "en": "Cactusfruit jelly pie (part-baked)",
+  "fr": "Tourte à la gelée de figue de Barbarie (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-cactusfruit-perfect",
+  "en": "Cactusfruit jelly pie",
+  "fr": "Tourte à la gelée de figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-cactusfruit-raw",
+  "en": "Cactusfruit jelly pie (raw)",
+  "fr": "Tourte à la gelée de figue de Barbarie (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-guava-charred",
+  "en": "Guava jelly pie (charred)",
+  "fr": "Tourte à la gelée de goyave (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-guava-partbaked",
+  "en": "Guava jelly pie (part-baked)",
+  "fr": "Tourte à la gelée de goyave (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-guava-perfect",
+  "en": "Guava jelly pie",
+  "fr": "Tourte à la gelée de goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-guava-raw",
+  "en": "Guava jelly pie (raw)",
+  "fr": "Tourte à la gelée de goyave (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-plumnatal-charred",
+  "en": "Plum jelly pie (charred)",
+  "fr": "Tourte à la gelée de prune du Natal (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-plumnatal-partbaked",
+  "en": "Plum jelly pie (part-baked)",
+  "fr": "Tourte à la gelée de prune du Natal (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-plumnatal-perfect",
+  "en": "Plum jelly pie",
+  "fr": "Tourte à la gelée de prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-plumnatal-raw",
+  "en": "Plum jelly pie (raw)",
+  "fr": "Tourte à la gelée de prune du Natal (crue)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-strawberrt-charred",
+  "en": "Strawberry jelly pie (charred)",
+  "fr": "Tourte à la gelée de fraise (brûlée)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-strawberrt-partbaked",
+  "en": "Strawberry jelly pie (part-baked)",
+  "fr": "Tourte à la gelée de fraise (à moitié cuite)"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "pie-single-expandedfoods:gelatin-strawberrt-perfect",
+  "en": "Strawberry jelly pie",
+  "fr": "Tourte à la gelée de fraise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-bluemeanie",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-bluemeanie-insturmentalcase",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-foolsconecap",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-foolsconecap-insturmentalcase",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-goldcap",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-goldcap-insturmentalcase",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-honeymushroom",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-honeymushroom-insturmentalcase",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-laughingjim",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-laughingjim-insturmentalcase",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-libertycap",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-libertycap-insturmentalcase",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-sickener",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-sickener-insturmentalcase",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-wavycap",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-choppedmushroom-wavycap-insturmentalcase",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred-insturmentalcase",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked-insturmentalcase",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect-insturmentalcase",
+  "en": "chopped blue meanie",
+  "fr": "Vilain bleu haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-foolsconecap-charred",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-foolsconecap-charred-insturmentalcase",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-foolsconecap-partbaked",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-foolsconecap-partbaked-insturmentalcase",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-foolsconecap-perfect",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-foolsconecap-perfect-insturmentalcase",
+  "en": "chopped fool's conecap",
+  "fr": "conocybe du fou haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-charred",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-charred-insturmentalcase",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked-insturmentalcase",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-perfect",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-perfect-insturmentalcase",
+  "en": "chopped gold cap",
+  "fr": "Chapeau doré haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-charred",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-charred-insturmentalcase",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-partbaked",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-partbaked-insturmentalcase",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-perfect",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-perfect-insturmentalcase",
+  "en": "chopped honey mushroom",
+  "fr": "armillaire couleur de miel hachée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-laughingjim-charred",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-laughingjim-charred-insturmentalcase",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-laughingjim-partbaked",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-laughingjim-partbaked-insturmentalcase",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-laughingjim-perfect",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-laughingjim-perfect-insturmentalcase",
+  "en": "chopped laughing jim",
+  "fr": "Jim rieur haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-charred",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-charred-insturmentalcase",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked-insturmentalcase",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-perfect",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-perfect-insturmentalcase",
+  "en": "chopped liberty cap",
+  "fr": "Bonnet phrygien haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-sickener-charred",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-sickener-charred-insturmentalcase",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-sickener-partbaked",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-sickener-partbaked-insturmentalcase",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-sickener-perfect",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-sickener-perfect-insturmentalcase",
+  "en": "chopped sickener",
+  "fr": "émétique haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-charred",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-charred-insturmentalcase",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked-insturmentalcase",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-perfect",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-perfect-insturmentalcase",
+  "en": "chopped wavy cap",
+  "fr": "Chapeau ondulé haché"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-beautyberry",
+  "en": "beautyberries",
+  "fr": "baies de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-beautyberry-insturmentalcase",
+  "en": "beautyberries",
+  "fr": "baies de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-blackberry",
+  "en": "blackberries",
+  "fr": "mûres"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-blackberry-insturmentalcase",
+  "en": "blackberries",
+  "fr": "mûres"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-cactusfruit",
+  "en": "cactus fruit",
+  "fr": "figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-cactusfruit-insturmentalcase",
+  "en": "cactus fruit",
+  "fr": "figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-cloudberry",
+  "en": "cloudberries",
+  "fr": "plaquebières"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-cloudberry-insturmentalcase",
+  "en": "cloudberries",
+  "fr": "plaquebières"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-gooseberry",
+  "en": "gooseberries",
+  "fr": "groseilles à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-gooseberry-insturmentalcase",
+  "en": "gooseberries",
+  "fr": "groseilles à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-guava",
+  "en": "guava",
+  "fr": "goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-guava-insturmentalcase",
+  "en": "guava",
+  "fr": "goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-kumquat",
+  "en": "kumquat",
+  "fr": "kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-kumquat-insturmentalcase",
+  "en": "kumquat",
+  "fr": "kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-plumnatal",
+  "en": "plum",
+  "fr": "prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-plumnatal-insturmentalcase",
+  "en": "plum",
+  "fr": "prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-raspberry",
+  "en": "raspberries",
+  "fr": "framboises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-raspberry-insturmentalcase",
+  "en": "raspberries",
+  "fr": "framboises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-strawberry",
+  "en": "strawberries",
+  "fr": "fraises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dehydratedfruit-strawberry-insturmentalcase",
+  "en": "strawberries",
+  "fr": "fraises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-basic",
+  "en": "basic salad dressing",
+  "fr": "vinaigrette basique"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-basic-insturmentalcase",
+  "en": "basic salad dressing",
+  "fr": "vinaigrette basique"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-deluxe",
+  "en": "deluxe salad dressing",
+  "fr": "vinaigrette de luxe"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-deluxe-insturmentalcase",
+  "en": "deluxe salad dressing",
+  "fr": "vinaigrette de luxe"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-savory",
+  "en": "savory salad dressing",
+  "fr": "vinaigrette relevée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-savory-insturmentalcase",
+  "en": "savory salad dressing",
+  "fr": "vinaigrette relevée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-sweet",
+  "en": "sweet salad dressing",
+  "fr": "vinaigrette sucrée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dressing-sweet-insturmentalcase",
+  "en": "sweet salad dressing",
+  "fr": "vinaigrette sucrée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-beautyberry",
+  "en": "beautyberries",
+  "fr": "baies de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-beautyberry-insturmentalcase",
+  "en": "beautyberries",
+  "fr": "baies de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-blackberry",
+  "en": "blackberries",
+  "fr": "mûres"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-blackberry-insturmentalcase",
+  "en": "blackberries",
+  "fr": "mûres"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-cactusfruit",
+  "en": "cactus fruit",
+  "fr": "figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-cactusfruit-insturmentalcase",
+  "en": "cactus fruit",
+  "fr": "figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-cloudberry",
+  "en": "cloudberries",
+  "fr": "plaquebières"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-cloudberry-insturmentalcase",
+  "en": "cloudberries",
+  "fr": "plaquebières"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-gooseberry",
+  "en": "gooseberries",
+  "fr": "groseilles à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-gooseberry-insturmentalcase",
+  "en": "gooseberries",
+  "fr": "groseilles à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-guava",
+  "en": "guava",
+  "fr": "goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-guava-insturmentalcase",
+  "en": "guava",
+  "fr": "goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-kumquat",
+  "en": "kumquat",
+  "fr": "kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-kumquat-insturmentalcase",
+  "en": "kumquat",
+  "fr": "kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-plumnatal",
+  "en": "plum",
+  "fr": "prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-plumnatal-insturmentalcase",
+  "en": "plum",
+  "fr": "prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-raspberry",
+  "en": "raspberries",
+  "fr": "framboises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-raspberry-insturmentalcase",
+  "en": "raspberries",
+  "fr": "framboises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-strawberry",
+  "en": "strawberries",
+  "fr": "fraises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-dryfruit-strawberry-insturmentalcase",
+  "en": "strawberries",
+  "fr": "fraises"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-apple",
+  "en": "apple syrup",
+  "fr": "sirop de pomme"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-apple-insturmentalcase",
+  "en": "apple syrup",
+  "fr": "sirop de pomme"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-beautyberry",
+  "en": "beautyberry syrup",
+  "fr": "sirop de baie de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-beautyberry-insturmentalcase",
+  "en": "beautyberry syrup",
+  "fr": "sirop de baie de beauté"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-blackberry",
+  "en": "blackberry syrup",
+  "fr": "sirop de mûre"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-blackberry-insturmentalcase",
+  "en": "blackberry syrup",
+  "fr": "sirop de mûre"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-cactusfruit",
+  "en": "cactusfruit syrup",
+  "fr": "sirop de figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-cactusfruit-insturmentalcase",
+  "en": "cactusfruit syrup",
+  "fr": "sirop de figue de Barbarie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-cloudberry",
+  "en": "cloudberry syrup",
+  "fr": "sirop de plaquebière"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-cloudberry-insturmentalcase",
+  "en": "cloudberry syrup",
+  "fr": "sirop de plaquebière"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-gooseberry",
+  "en": "gooseberry syrup",
+  "fr": "sirop de groseille à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-gooseberry-insturmentalcase",
+  "en": "gooseberry syrup",
+  "fr": "sirop de groseille à maquereau"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-guava",
+  "en": "guava syrup",
+  "fr": "sirop de goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-guava-insturmentalcase",
+  "en": "guava syrup",
+  "fr": "sirop de goyave"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-kumquat",
+  "en": "kumquat syrup",
+  "fr": "sirop de kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-kumquat-insturmentalcase",
+  "en": "kumquat syrup",
+  "fr": "sirop de kumquat"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-plumnatal",
+  "en": "plum syrup",
+  "fr": "sirop de prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-plumnatal-insturmentalcase",
+  "en": "plum syrup",
+  "fr": "sirop de prune du Natal"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-raspberry",
+  "en": "raspberry syrup",
+  "fr": "sirop de framboise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-raspberry-insturmentalcase",
+  "en": "raspberry syrup",
+  "fr": "sirop de framboise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-strawberry",
+  "en": "strawberry syrup",
+  "fr": "sirop de fraise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-fruitsyrupportion-strawberry-insturmentalcase",
+  "en": "strawberry syrup",
+  "fr": "sirop de fraise"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-beautyberry-insturmentalcase",
+  "en": "vintage beautyberry brandy",
+  "fr": "eau-de-vie de baie de beauté millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-blackberry-insturmentalcase",
+  "en": "vintage blackberry brandy",
+  "fr": "eau-de-vie de mûre millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-cactusfruit-insturmentalcase",
+  "en": "vintage cactusfruit brandy",
+  "fr": "eau-de-vie de figue de Barbarie millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-cloudberry-insturmentalcase",
+  "en": "vintage cloudberry brandy",
+  "fr": "eau-de-vie de plaquebière millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-gooseberry-insturmentalcase",
+  "en": "vintage gooseberry brandy",
+  "fr": "eau-de-vie de groseille à maquereau millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-guava-insturmentalcase",
+  "en": "vintage guava brandy",
+  "fr": "eau-de-vie de goyave millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-kumquat-insturmentalcase",
+  "en": "vintage kumquat brandy",
+  "fr": "eau-de-vie de kumquat millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-plumnatal-insturmentalcase",
+  "en": "vintage plum brandy",
+  "fr": "eau-de-vie de prune du Natal millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-raspberry-insturmentalcase",
+  "en": "vintage raspberry brandy",
+  "fr": "eau-de-vie de framboise millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentspiritportion-strawberry-insturmentalcase",
+  "en": "vintage strawberry brandy",
+  "fr": "eau-de-vie de fraise millésimée"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-beautyberry-insturmentalcase",
+  "en": "fine beautyberry wine",
+  "fr": "vin de baie de beauté fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-blackberry-insturmentalcase",
+  "en": "fine blackberry wine",
+  "fr": "vin de mûre fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-cactusfruit-insturmentalcase",
+  "en": "fine cactusfruit wine",
+  "fr": "vin de figue de Barbarie fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-cloudberry-insturmentalcase",
+  "en": "fine cloudberry cider",
+  "fr": "cidre de plaquebière fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-gooseberry-insturmentalcase",
+  "en": "fine gooseberry cider",
+  "fr": "cidre de groseille à maquereau fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-guava-insturmentalcase",
+  "en": "fine guava cider",
+  "fr": "cidre de goyave fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-kumquat-insturmentalcase",
+  "en": "fine kumquat cider",
+  "fr": "cidre de kumquat fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-plumnatal-insturmentalcase",
+  "en": "fine plum wine",
+  "fr": "vin de prune du Natal fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-raspberry-insturmentalcase",
+  "en": "fine raspberry wine",
+  "fr": "vin de framboise fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-potentwineportion-strawberry-insturmentalcase",
+  "en": "fine strawberry wine",
+  "fr": "vin de fraise fin"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-beautyberry-insturmentalcase",
+  "en": "aged beautyberry brandy",
+  "fr": "eau-de-vie de baie de beauté vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-blackberry-insturmentalcase",
+  "en": "aged blackberry brandy",
+  "fr": "eau-de-vie de mûre vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-cactusfruit-insturmentalcase",
+  "en": "aged cactusfruit brandy",
+  "fr": "eau-de-vie de figue de Barbarie vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-cloudberry-insturmentalcase",
+  "en": "aged cloudberry brandy",
+  "fr": "eau-de-vie de plaquebière vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-gooseberry-insturmentalcase",
+  "en": "aged gooseberry brandy",
+  "fr": "eau-de-vie de groseille à maquereau vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-guava-insturmentalcase",
+  "en": "aged guava brandy",
+  "fr": "eau-de-vie de goyave vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-kumquat-insturmentalcase",
+  "en": "aged kumquat brandy",
+  "fr": "eau-de-vie de kumquat vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-plumnatal-insturmentalcase",
+  "en": "aged plum brandy",
+  "fr": "eau-de-vie de prune du Natal vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-raspberry-insturmentalcase",
+  "en": "aged raspberry brandy",
+  "fr": "eau-de-vie de framboise vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongspiritportion-strawberry-insturmentalcase",
+  "en": "aged strawberry brandy",
+  "fr": "eau-de-vie de fraise vieillie"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-beautyberry-insturmentalcase",
+  "en": "strong beautyberry wine",
+  "fr": "vin de baie de beauté corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-blackberry-insturmentalcase",
+  "en": "strong blackberry wine",
+  "fr": "vin de mûre corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-cactusfruit-insturmentalcase",
+  "en": "strong cactusfruit wine",
+  "fr": "vin de figue de Barbarie corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-cloudberry-insturmentalcase",
+  "en": "strong cloudberry cider",
+  "fr": "cidre de plaquebière corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-gooseberry-insturmentalcase",
+  "en": "strong gooseberry cider",
+  "fr": "cidre de groseille à maquereau corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-guava-insturmentalcase",
+  "en": "strong guava cider",
+  "fr": "cidre de goyave corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-kumquat-insturmentalcase",
+  "en": "strong kumquat cider",
+  "fr": "cidre de kumquat corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-plumnatal-insturmentalcase",
+  "en": "strong plum wine",
+  "fr": "vin de prune du Natal corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-raspberry-insturmentalcase",
+  "en": "strong raspberry wine",
+  "fr": "vin de framboise corsé"
+ },
+ {
+  "dom": "expandedfoods",
+  "cle": "recipeingredient-item-strongwineportion-strawberry-insturmentalcase",
+  "en": "strong strawberry wine",
+  "fr": "vin de fraise corsé"
+ }
+]

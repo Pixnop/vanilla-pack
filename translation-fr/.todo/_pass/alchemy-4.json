@@ -1,0 +1,2324 @@
+[
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionGroup",
+  "en": "Stability potion group",
+  "fr": "Groupe de la potion de stabilité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionResetsEffects",
+  "en": "Stability potion resets effects",
+  "fr": "La potion de stabilité réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionStrongRecipe",
+  "en": "Stability flask strong recipe",
+  "fr": "Recette forte du flacon de stabilité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "TemporalPotionStrongRecipe-Comment",
+  "en": "If on, the stability flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: on.",
+  "fr": "Si activé, le flacon de stabilité utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : activé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ThrowableFlaskEffectMultiplier",
+  "en": "Throwable flask strength",
+  "fr": "Puissance du flacon lançable"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ThrowableFlaskEffectMultiplier-Comment",
+  "en": "Strength of a thrown potion flask's effect as a fraction of the drinkable potion (0.5 = half the strength)",
+  "fr": "Puissance de l'effet d'un flacon de potion lancé, exprimée comme une fraction de la potion buvable (0,5 = moitié de la puissance)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ThrowableFlaskSplashRadius",
+  "en": "Throwable flask splash radius",
+  "fr": "Rayon d'éclaboussure du flacon lançable"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ThrowableFlaskSplashRadius-Comment",
+  "en": "Radius in blocks that a thrown potion flask applies its effect to on impact",
+  "fr": "Rayon en blocs sur lequel un flacon de potion lancé applique son effet à l'impact"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "UseTime-Config",
+  "en": "List of use time modifiers",
+  "fr": "Liste des modificateurs de temps d'utilisation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "UtilityRecipeStrength-Config",
+  "en": "Utility flask recipe strength (medium or strong)",
+  "fr": "Puissance de recette du flacon utilitaire (moyenne ou forte)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityExtraEffects-Config",
+  "en": "Vitality Flask extra/side effects",
+  "fr": "Effets secondaires/supplémentaires du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionAnimalLootDrop",
+  "en": "Vitality Flask animal loot drop %",
+  "fr": "Butin d'animaux du flacon de vitalité (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'animaux supplémentaire ajouté par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionAnimalSeekingRange",
+  "en": "Vitality Flask animal seeking range %",
+  "fr": "Portée de détection des animaux du flacon de vitalité (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionAnimalSeekingRange-Comment",
+  "en": "Extra animal seeking range added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Portée de détection des animaux supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingDamage",
+  "en": "Vitality Flask health change on drink",
+  "fr": "Changement de santé du flacon de vitalité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingDamage-Comment",
+  "en": "Vitality flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitalité : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingIntoxication",
+  "en": "Vitality Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de vitalité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingIntoxication-Comment",
+  "en": "Vitality flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitalité : changement d'intoxication à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingPsychedelic",
+  "en": "Vitality Flask psychedelic effect change on drink",
+  "fr": "Changement de l'effet psychédélique du flacon de vitalité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingPsychedelic-Comment",
+  "en": "Vitality flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitalité modifiant l'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (cette mise à l'échelle peut être désactivée pour les effets secondaires). C'est une valeur réelle et non un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingSaturationLoss",
+  "en": "Vitality Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de vitalité à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDrinkingSaturationLoss-Comment",
+  "en": "Vitality flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vitalité modifiant la saturation à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (cette mise à l'échelle peut être désactivée pour les effets secondaires). C'est une valeur réelle et non un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDuration",
+  "en": "Vitality flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionDuration-Comment",
+  "en": "Duration of vitality flask",
+  "fr": "Durée du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionForageDrop",
+  "en": "Vitality Flask forage drop %",
+  "fr": "% de récolte sauvage supplémentaire du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Récolte sauvage supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionGearDrop",
+  "en": "Vitality Flask gear drop %",
+  "fr": "% de butin d'équipement supplémentaire du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Rouages supplémentaires ajoutés par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionGroup",
+  "en": "Vitality potion group",
+  "fr": "Groupe de la potion de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHealingEffectiveness",
+  "en": "Vitality Flask healing effectiveness %",
+  "fr": "% d'efficacité de soin du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHealth",
+  "en": "Vitality Flask health change",
+  "fr": "Changement de santé du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHealth-Comment",
+  "en": "Health change added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Changement de santé ajouté par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHealthTickSec",
+  "en": "Vitality Flask health tick interval",
+  "fr": "Intervalle de tic de santé du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHealthTickSec-Comment",
+  "en": "Seconds between health ticks for Vitality Flask extra health. 0 = instant.",
+  "fr": "Secondes entre chaque tic de santé pour le supplément de santé du flacon de vitalité. 0 = instantané."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHungerRate",
+  "en": "Vitality Flask hunger rate %",
+  "fr": "% de taux de faim du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionMaxHealth",
+  "en": "Vitality flask's max health",
+  "fr": "Santé maximale du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionMaxHealth-Comment",
+  "en": "Vitality flask's max health value per tick before strength multiplier",
+  "fr": "Valeur de santé maximale par tic du flacon de vitalité avant multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionMeleeDamage",
+  "en": "Vitality Flask melee damage %",
+  "fr": "% de dégâts de mêlée du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts de mêlée supplémentaires ajoutés par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionMiningSpeed",
+  "en": "Vitality Flask mining speed %",
+  "fr": "% de vitesse de minage du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionOreDrop",
+  "en": "Vitality Flask ore drop %",
+  "fr": "% de minerai supplémentaire du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Minerai supplémentaire ajouté par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionRangedAccuracy",
+  "en": "Vitality Flask ranged accuracy %",
+  "fr": "% de précision à distance du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionRangedAccuracy-Comment",
+  "en": "Extra ranged accuracy added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Précision à distance supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionRangedDamage",
+  "en": "Vitality Flask ranged damage %",
+  "fr": "% de dégâts à distance du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionRangedDamage-Comment",
+  "en": "Extra ranged damage added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts à distance supplémentaires ajoutés par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionRangedSpeed",
+  "en": "Vitality Flask ranged speed %",
+  "fr": "% de vitesse à distance du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionRangedSpeed-Comment",
+  "en": "Extra ranged speed added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse à distance supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionResetsEffects",
+  "en": "Vitality potion resets effects",
+  "fr": "La potion de vitalité réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionVesselContentsDrop",
+  "en": "Vitality Flask vessel contents drop %",
+  "fr": "% de contenu de récipient du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Contenu de récipient supplémentaire ajouté par le flacon de vitalité, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionWalkSpeed",
+  "en": "Vitality Flask walk speed %",
+  "fr": "% de vitesse de marche du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionWalkSpeed-Comment",
+  "en": "Extra walk speed added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de marche supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionWildCropDrop",
+  "en": "Vitality Flask wild crop drop %",
+  "fr": "% de récolte sauvage de culture du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Vitality Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Récolte sauvage de culture supplémentaire ajoutée par le flacon de vitalité, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "VitalityValues-Config",
+  "en": "List of Vitality flask modifiers",
+  "fr": "Liste des modificateurs du flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreatheExtraEffects-Config",
+  "en": "Water Breathing Flask side effects",
+  "fr": "Effets secondaires du flacon de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingDamage",
+  "en": "WaterBreathe Flask health change on drink",
+  "fr": "Changement de santé du flacon de respiration aquatique à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingDamage-Comment",
+  "en": "WaterBreathe flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de respiration aquatique modifiant la santé à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car ce sont des potions utilitaires. C'est une valeur réelle et non un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingIntoxication",
+  "en": "WaterBreathe Flask intoxication change on drink",
+  "fr": "Changement d'intoxication du flacon de respiration aquatique à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingIntoxication-Comment",
+  "en": "WaterBreathe flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de respiration aquatique modifiant l'intoxication à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car ce sont des potions utilitaires. C'est une valeur réelle et non un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingPsychedelic",
+  "en": "WaterBreathe Flask psychedelic effect change on drink",
+  "fr": "Changement de l'effet psychédélique du flacon de respiration aquatique à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingPsychedelic-Comment",
+  "en": "WaterBreathe flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de respiration aquatique modifiant l'effet psychédélique à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car ce sont des potions utilitaires. C'est une valeur réelle et non un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingSaturationLoss",
+  "en": "WaterBreathe Flask saturation change on drink",
+  "fr": "Changement de saturation du flacon de respiration aquatique à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDrinkingSaturationLoss-Comment",
+  "en": "WaterBreathe flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de respiration aquatique modifiant la saturation à la consommation. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle par la puissance de la potion, car ce sont des potions utilitaires. C'est une valeur réelle et non un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDuration",
+  "en": "Water breathing flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionDuration-Comment",
+  "en": "Duration of water breathing flask",
+  "fr": "Durée du flacon de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionGroup",
+  "en": "Water breathe potion group",
+  "fr": "Groupe de la potion de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionResetsEffects",
+  "en": "Water breathe potion resets effects",
+  "fr": "La potion de respiration aquatique réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionStrongRecipe",
+  "en": "Water breathing flask strong recipe",
+  "fr": "Recette forte du flacon de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreathePotionStrongRecipe-Comment",
+  "en": "If on, the water breathing flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon de respiration aquatique utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WaterBreatheValues-Config",
+  "en": "List of water breathing flask modifiers",
+  "fr": "Liste des modificateurs du flacon de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeakPotionMultiplier",
+  "en": "Edible herb multiplier",
+  "fr": "Multiplicateur d'herbe comestible"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeakPotionMultiplier-Comment",
+  "en": "Edible herb base value effect multiplier.",
+  "fr": "Multiplicateur de la valeur d'effet de base de l'herbe comestible."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatApplyTime",
+  "en": "Weapon coat apply time",
+  "fr": "Temps d'application du revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatApplyTime-Comment",
+  "en": "How long (in seconds) the player must hold shift+right-click to apply a coating to a weapon",
+  "fr": "Durée (en secondes) pendant laquelle le joueur doit maintenir Maj + clic droit pour appliquer un revêtement sur une arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatCharges",
+  "en": "Weapon coating charges",
+  "fr": "Charges du revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatCharges-Comment",
+  "en": "The max number of melee hits a weapon coating can hold",
+  "fr": "Le nombre maximal de coups de mêlée qu'un revêtement d'arme peut contenir"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatCheckLitres",
+  "en": "Weapon coat minimum",
+  "fr": "Minimum du revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatCheckLitres-Comment",
+  "en": "The minimum litres that must be in a flask before a coating can be applied. Usually set slightly below the coat amount to avoid floating point issues",
+  "fr": "Le nombre minimal de litres devant se trouver dans un flacon avant qu'un revêtement puisse être appliqué. Généralement fixé légèrement en dessous de la quantité de revêtement pour éviter les problèmes de virgule flottante"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatConsumeLitres",
+  "en": "Weapon coat amount",
+  "fr": "Quantité de revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatConsumeLitres-Comment",
+  "en": "How many litres are consumed each time a coating is applied from a flask (liquidcontent source)",
+  "fr": "Le nombre de litres consommés à chaque application d'un revêtement depuis un flacon (source de liquide)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatEffectMultiplier",
+  "en": "Weapon coating strength",
+  "fr": "Puissance du revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatEffectMultiplier-Comment",
+  "en": "Strength of weapon/arrow coating effects as a fraction of the drinkable potion (0.5 = half the strength)",
+  "fr": "Puissance des effets de revêtement d'arme/flèche en fraction de la potion buvable (0,5 = moitié de la puissance)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "WeaponCoatValues-Config",
+  "en": "Weapon Coating",
+  "fr": "Revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-coat-text",
+  "en": "Weapon coating lets you apply a potion onto a melee weapon or onto arrows so the potion's effect is delivered to whatever you hit. Great for making a healing club for an ally, or poisoning your enemies. \n\nWhat you need:\nA coating source held in your OFF hand. This can be an <a href=\"handbooksearch://edible herb\">edible herb ball</a> (uses one herb) or a potion <a href=\"handbooksearch://potion flask\">flask</a>(uses 0.25 L).\nA coatable item held in your MAIN hand which is any melee weapon or a arrow (both configurable).\n\nHow to apply a coating:\nHold the coating source in your off hand and the weapon or arrows in your main hand, then hold Shift + Right-click and keep holding for a couple of seconds.\n\nQuick coating with a barrel:\nPlace a weapon or a stack of arrows into a barrel of potion to coat them instantly. Weapons are coated to max charge and arrow stacks all at once.\n\nMelee weapons:\nEach coat adds one charge, up to a maximum (5 by default). Every melee hit on a living creature spends one charge and applies the potion effect.\n\nProjectiles:\nProjectiles such as arrows are coated individually rather than by charges. A coated projectile delivers its effect to the first creature it hits. By default it's only arrows.\n\nStrength:\nCoating effects are a fraction of the strength of drinking the same potion (90% by default). If enabled, potions that aren't healing or spiked oil can be used but will only work on players.\n\nA weapon can only hold one type of potion at a time at one strength, so hit something to clear a coating before switching potions.",
+  "fr": "Le revêtement d'arme vous permet d'appliquer une potion sur une arme de mêlée ou sur des flèches afin que l'effet de la potion soit délivré à tout ce que vous touchez. Idéal pour créer une massue de soin pour un allié, ou empoisonner vos ennemis. \n\nCe dont vous avez besoin :\nUne source de revêtement tenue dans votre main SECONDAIRE. Cela peut être une <a href=\"handbooksearch://edible herb\">boule d'herbe comestible</a> (utilise une herbe) ou un <a href=\"handbooksearch://potion flask\">flacon</a> de potion (utilise 0,25 L).\nUn objet revêtable tenu dans votre main PRINCIPALE, c'est-à-dire n'importe quelle arme de mêlée ou une flèche (les deux sont configurables).\n\nComment appliquer un revêtement :\nTenez la source de revêtement dans votre main secondaire et l'arme ou les flèches dans votre main principale, puis maintenez Maj + clic droit pendant quelques secondes.\n\nRevêtement rapide avec un tonneau :\nPlacez une arme ou une pile de flèches dans un tonneau de potion pour les revêtir instantanément. Les armes sont revêtues jusqu'à la charge maximale et les piles de flèches en une seule fois.\n\nArmes de mêlée :\nChaque revêtement ajoute une charge, jusqu'à un maximum (5 par défaut). Chaque coup de mêlée porté à une créature vivante consomme une charge et applique l'effet de la potion.\n\nProjectiles :\nLes projectiles tels que les flèches sont revêtus individuellement plutôt que par charges. Un projectile revêtu délivre son effet à la première créature qu'il touche. Par défaut, seules les flèches sont concernées.\n\nPuissance :\nLes effets de revêtement représentent une fraction de la puissance de la même potion bue (90 % par défaut). Si activé, les potions qui ne sont ni de soin ni de l'huile empoisonnée peuvent être utilisées mais ne fonctionneront que sur les joueurs.\n\nUne arme ne peut contenir qu'un seul type de potion à la fois à une seule puissance, il faut donc frapper quelque chose pour effacer un revêtement avant de changer de potion."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-coat-title",
+  "en": "Alchemy: Weapon Coating",
+  "fr": "Alchimie : revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-herbs-text",
+  "en": "Edible herbs are the simplest form of alchemy and require no metal tools.\n\nCraft a <a href=\"handbook://item-alchemy:mortarpestle-wood\">mortar and pestle</a> to get started. There is a wood variant or stone variant that has greater durability. Gather herbs, flowers, poisonous/psychedelic mushrooms, and horsetail from the wild.\n\nGrind poisonous/psychedelic mushrooms and horsetail together in the mortar and pestle to create a <a href=\"handbook://item-alchemy:potionbase-basic\">basic potion base</a>. Then grind your choice of herbs or flowers into a weak potion base. Combine the weak potion base and the basic potion base in a crafting grid to create an <a href=\"handbooksearch://edible herb\">edible herb ball</a>.\n\nEdible herbs are consumed directly for a weak effect.\n\nEdible herbs: <a href=\"handbook://item-alchemy:herbball-archer\">Archer</a>, <a href=\"handbook://item-alchemy:herbball-healingeffect\">Potent</a>, <a href=\"handbook://item-alchemy:herbball-hungerenhance\">Purging</a>, <a href=\"handbook://item-alchemy:herbball-hungersupress\">Settling</a>, <a href=\"handbook://item-alchemy:herbball-hunter\">Hunter</a>, <a href=\"handbook://item-alchemy:herbball-looter\">Looter</a>, <a href=\"handbook://item-alchemy:herbball-melee\">Fighter</a>, <a href=\"handbook://item-alchemy:herbball-mining\">Miner</a>, <a href=\"handbook://item-alchemy:herbball-poison\">Spiked</a>, <a href=\"handbook://item-alchemy:herbball-predator\">Predator</a>, <a href=\"handbook://item-alchemy:herbball-regen\">Healing</a>, <a href=\"handbook://item-alchemy:herbball-scentmask\">Scentmask</a>, <a href=\"handbook://item-alchemy:herbball-speed\">Speed</a>, <a href=\"handbook://item-alchemy:herbball-vitality\">Vitality</a>",
+  "fr": "Les herbes comestibles sont la forme la plus simple d'alchimie et ne nécessitent aucun outil métallique.\n\nFabriquez un <a href=\"handbook://item-alchemy:mortarpestle-wood\">mortier et pilon</a> pour commencer. Il existe une variante en bois ou en pierre offrant une plus grande durabilité. Récoltez des herbes, des fleurs, des champignons vénéneux/psychédéliques et de la prêle dans la nature.\n\nBroyez ensemble les champignons vénéneux/psychédéliques et la prêle dans le mortier et pilon pour créer une <a href=\"handbook://item-alchemy:potionbase-basic\">base de potion basique</a>. Broyez ensuite les herbes ou fleurs de votre choix pour obtenir une base de potion faible. Combinez la base de potion faible et la base de potion basique dans une grille de fabrication pour créer une <a href=\"handbooksearch://edible herb\">boule d'herbe comestible</a>.\n\nLes herbes comestibles se consomment directement pour un effet faible.\n\nHerbes comestibles : <a href=\"handbook://item-alchemy:herbball-archer\">Archer</a>, <a href=\"handbook://item-alchemy:herbball-healingeffect\">Puissante</a>, <a href=\"handbook://item-alchemy:herbball-hungerenhance\">Purgative</a>, <a href=\"handbook://item-alchemy:herbball-hungersupress\">Apaisante</a>, <a href=\"handbook://item-alchemy:herbball-hunter\">Chasseur</a>, <a href=\"handbook://item-alchemy:herbball-looter\">Pillard</a>, <a href=\"handbook://item-alchemy:herbball-melee\">Combattant</a>, <a href=\"handbook://item-alchemy:herbball-mining\">Mineur</a>, <a href=\"handbook://item-alchemy:herbball-poison\">Empoisonnée</a>, <a href=\"handbook://item-alchemy:herbball-predator\">Prédateur</a>, <a href=\"handbook://item-alchemy:herbball-regen\">Soin</a>, <a href=\"handbook://item-alchemy:herbball-scentmask\">Masque d'odeur</a>, <a href=\"handbook://item-alchemy:herbball-speed\">Vitesse</a>, <a href=\"handbook://item-alchemy:herbball-vitality\">Vitalité</a>"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-herbs-title",
+  "en": "Alchemy: Tier 1 - Edible Herbs",
+  "fr": "Alchimie : palier 1 - herbes comestibles"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-medium-text",
+  "en": "Medium potions are liquid brews cooked in a <a href=\"handbooksearch://brewing cauldron\">brewing cauldron</a>. They are more effective than edible herbs and they are stored in flasks.\n\nYou will need: a brewing cauldron, a <a href=\"handbook://item-alchemy:stirringspoon\">wooden stirring spoon</a> attached to the cauldron, a <a href=\"handbook://block-barrel\">barrel</a> for making potion tea, and <a href=\"handbooksearch://potion flask\">flasks</a> to store and drink the finished potions (You can drink from other liquid containers if config is changed, although flasks handle potion drinking better).\n\nCauldron Setup:\nPlace the cauldron in the world, then right-click it with dry grass in hand, followed by four right-clicks with firewood in hand. The cauldron is now ready to use.\n\nStep 1 - Make Potion Tea:\nSeal a barrel with 1 <a href=\"handbook://item-alchemy:potionbase-basic\">basic potion base</a> and 2 litres of water. After 24 hours it will turn into <a href=\"handbook://item-alchemy:potionteaportion\">potion tea</a>. This is a key ingredient for all liquid potions.\n\nStep 2 - Brew the Potion:\nPlace 1 weak potion base and 1 litre of potion tea into the cauldron, attach a wooden stirring spoon, then light the fire beneath. The cauldron will cook the mixture into a medium potion.\n\nStep 3 - Fill Flasks:\nUse a flask or bowl to take the finished potion from the cauldron output slot.\n\nA warning about jugs: jugs only move 0.3 litres of liquid at a time, so filling or emptying one at a cauldron takes a painful number of interactions. Use flasks or bowls with the cauldron instead.\n\nUtility potions are brewed the same way using their respective bases with 1 litre of potion tea.\n\nMedium potions: <a href=\"handbook://item-alchemy:potionportion-archer-medium\">Archer's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-healingeffect-medium\">Potent Oil</a>, <a href=\"handbook://item-alchemy:potionportion-hungerenhance-medium\">Purging Brew</a>, <a href=\"handbook://item-alchemy:potionportion-hungersupress-medium\">Settling Brew</a>, <a href=\"handbook://item-alchemy:potionportion-hunter-medium\">Hunter's Delight</a>, <a href=\"handbook://item-alchemy:potionportion-looter-medium\">Looter's Delight</a>, <a href=\"handbook://item-alchemy:potionportion-melee-medium\">Fighter's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-mining-medium\">Miner's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-poison-medium\">Spiked Oil</a>, <a href=\"handbook://item-alchemy:potionportion-predator-medium\">Predator Pheromones</a>, <a href=\"handbook://item-alchemy:potionportion-regen-medium\">Healing Oil</a>, <a href=\"handbook://item-alchemy:potionportion-scentmask-medium\">Scent Mask</a>, <a href=\"handbook://item-alchemy:potionportion-speed-medium\">Sprinter's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-vitality-medium\">Vitality Flask</a>\nUtility potions: <a href=\"handbook://item-alchemy:utilitypotionportion-waterbreathe\">Water Breathing Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-glow\">Glow Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-nutrition\">Nutrition Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-fall\">Featherfall Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-climb\">Spider Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-grow\">Growth Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-shrink\">Shrinking Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-coldresist\">Warmth Flask</a>\n\nThe stronger utility flasks (recall, stability and reshape) use the Tier 3 recipe instead, see <a href=\"handbook://alchemyguide-strong\">Tier 3 - Strong Potions</a>. Which tier each utility flask uses can be changed in the config.",
+  "fr": "Les potions moyennes sont des décoctions liquides cuites dans un <a href=\"handbooksearch://brewing cauldron\">chaudron de brassage</a>. Elles sont plus efficaces que les herbes comestibles et se conservent dans des flacons.\n\nVous aurez besoin : d'un chaudron de brassage, d'une <a href=\"handbook://item-alchemy:stirringspoon\">cuillère en bois</a> fixée au chaudron, d'un <a href=\"handbook://block-barrel\">tonneau</a> pour préparer le thé de potion, et de <a href=\"handbooksearch://potion flask\">flacons</a> pour stocker et boire les potions terminées (vous pouvez boire depuis d'autres récipients liquides si la configuration est modifiée, bien que les flacons gèrent mieux la consommation de potions).\n\nMise en place du chaudron :\nPlacez le chaudron dans le monde, puis faites un clic droit dessus avec de l'herbe sèche en main, suivi de quatre clics droits avec du petit bois en main. Le chaudron est maintenant prêt à l'emploi.\n\nÉtape 1 - Préparer le thé de potion :\nScellez un tonneau avec 1 <a href=\"handbook://item-alchemy:potionbase-basic\">base de potion basique</a> et 2 litres d'eau. Après 24 heures, il se transformera en <a href=\"handbook://item-alchemy:potionteaportion\">thé de potion</a>. C'est un ingrédient clé pour toutes les potions liquides.\n\nÉtape 2 - Brasser la potion :\nPlacez 1 base de potion faible et 1 litre de thé de potion dans le chaudron, attachez une cuillère en bois, puis allumez le feu en dessous. Le chaudron va cuire le mélange en une potion moyenne.\n\nÉtape 3 - Remplir les flacons :\nUtilisez un flacon ou un bol pour prélever la potion terminée dans l'emplacement de sortie du chaudron.\n\nUn avertissement concernant les cruches : les cruches ne déplacent que 0,3 litre de liquide à la fois, remplir ou vider une cruche au chaudron demande donc un nombre pénible d'interactions. Utilisez plutôt des flacons ou des bols avec le chaudron.\n\nLes potions utilitaires se brassent de la même manière en utilisant leur base respective avec 1 litre de thé de potion.\n\nPotions moyennes : <a href=\"handbook://item-alchemy:potionportion-archer-medium\">flacon de l'archer</a>, <a href=\"handbook://item-alchemy:potionportion-healingeffect-medium\">huile puissante</a>, <a href=\"handbook://item-alchemy:potionportion-hungerenhance-medium\">décoction purgative</a>, <a href=\"handbook://item-alchemy:potionportion-hungersupress-medium\">décoction apaisante</a>, <a href=\"handbook://item-alchemy:potionportion-hunter-medium\">délice du chasseur</a>, <a href=\"handbook://item-alchemy:potionportion-looter-medium\">délice du pillard</a>, <a href=\"handbook://item-alchemy:potionportion-melee-medium\">flacon du combattant</a>, <a href=\"handbook://item-alchemy:potionportion-mining-medium\">flacon du mineur</a>, <a href=\"handbook://item-alchemy:potionportion-poison-medium\">huile empoisonnée</a>, <a href=\"handbook://item-alchemy:potionportion-predator-medium\">phéromones de prédateur</a>, <a href=\"handbook://item-alchemy:potionportion-regen-medium\">huile de soin</a>, <a href=\"handbook://item-alchemy:potionportion-scentmask-medium\">masque d'odeur</a>, <a href=\"handbook://item-alchemy:potionportion-speed-medium\">flacon du sprinteur</a>, <a href=\"handbook://item-alchemy:potionportion-vitality-medium\">flacon de vitalité</a>\nPotions utilitaires : <a href=\"handbook://item-alchemy:utilitypotionportion-waterbreathe\">flacon de respiration aquatique</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-glow\">flacon lumineux</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-nutrition\">flacon de nutrition</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-fall\">flacon de plume</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-climb\">flacon d'araignée</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-grow\">flacon de croissance</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-shrink\">flacon de rétrécissement</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-coldresist\">flacon de chaleur</a>\n\nLes flacons utilitaires les plus puissants (rappel, stabilité et remodelage) utilisent la recette du palier 3, voir <a href=\"handbook://alchemyguide-strong\">Palier 3 - potions fortes</a>. Le palier utilisé par chaque flacon utilitaire peut être modifié dans la configuration."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-medium-title",
+  "en": "Alchemy: Tier 2 - Medium Potions",
+  "fr": "Alchimie : palier 2 - potions moyennes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-strong-text",
+  "en": "Strong potions are the most powerful of brews, requiring glassworking and aqua vitae in addition to the equipment from Tier 2.\n\nAdditional requirements: a <a href=\"handbooksearch://glass stirring spoon\">glass stirring spoon</a> (required instead of a wooden spoon), a <a href=\"handbook://block-alchemy:herbrack-oak-copper\">herb rack</a> for drying your herbs, and <a href=\"handbook://item-alcoholportion\">aqua vitae</a>. There are many wood and metal variants of <a href=\"handbooksearch://herb rack\">herb racks</a> available.\n\nStep 1 - Dry Your Herbs:\nHang fresh herb or flower <a href=\"handbooksearch://raw cuttings\">raw cuttings</a> on a herb rack. They will slowly dry into <a href=\"handbooksearch://dried cuttings\">dried cuttings</a>. Cuttings are unlikely to spoil while on the rack.\n\nStep 2 - Cook the Dried Cuttings:\nCook the dried cuttings on a firepit or in a clay oven to create <a href=\"handbooksearch://cooked cuttings\">cooked cuttings</a>.\n\nStep 3 - Make the Strong Potion Base:\nCombine cooked cuttings in a crafting grid to create a strong potion base.\n\nStep 4 - Brew the Potion:\nPlace 1 strong potion base, 0.25 litres of aqua vitae, and 0.75 litres of potion tea into the cauldron. Attach a glass stirring spoon and light the fire. Potion tea is still made the same way as in Tier 2 (basic potion base + 2L water in a barrel, sealed for 24 hours).\n\nStrong potions: <a href=\"handbook://item-alchemy:potionportion-archer-strong\">Archer's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-healingeffect-strong\">Potent Oil</a>, <a href=\"handbook://item-alchemy:potionportion-hungerenhance-strong\">Purging Brew</a>, <a href=\"handbook://item-alchemy:potionportion-hungersupress-strong\">Settling Brew</a>, <a href=\"handbook://item-alchemy:potionportion-hunter-strong\">Hunter's Delight</a>, <a href=\"handbook://item-alchemy:potionportion-looter-strong\">Looter's Delight</a>, <a href=\"handbook://item-alchemy:potionportion-melee-strong\">Fighter's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-mining-strong\">Miner's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-poison-strong\">Spiked Oil</a>, <a href=\"handbook://item-alchemy:potionportion-predator-strong\">Predator Pheromones</a>, <a href=\"handbook://item-alchemy:potionportion-regen-strong\">Healing Oil</a>, <a href=\"handbook://item-alchemy:potionportion-scentmask-strong\">Scent Mask</a>, <a href=\"handbook://item-alchemy:potionportion-speed-strong\">Sprinter's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-vitality-strong\">Vitality Flask</a>\nUtility potions: <a href=\"handbook://item-alchemy:utilitypotionportion-recall\">Recall Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-temporal\">Stability Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-reshape\">Reshape Flask</a>\n\nThese utility flasks are brewed like any other strong potion, using their own base with 0.25 litres of aqua vitae and 0.75 litres of potion tea. The remaining utility flasks use the Tier 2 recipe, see <a href=\"handbook://alchemyguide-medium\">Tier 2 - Medium Potions</a>. Which tier each utility flask uses can be changed in the config.",
+  "fr": "Les potions fortes sont les décoctions les plus puissantes, nécessitant le travail du verre et de l'aqua vitae en plus de l'équipement du palier 2.\n\nExigences supplémentaires : une <a href=\"handbooksearch://glass stirring spoon\">cuillère en verre</a> (requise à la place d'une cuillère en bois), un <a href=\"handbook://block-alchemy:herbrack-oak-copper\">séchoir à herbes</a> pour sécher vos herbes, et de l'<a href=\"handbook://item-alcoholportion\">aqua vitae</a>. Il existe de nombreuses variantes en bois et en métal de <a href=\"handbooksearch://herb rack\">séchoirs à herbes</a> disponibles.\n\nÉtape 1 - Sécher vos herbes :\nSuspendez des <a href=\"handbooksearch://raw cuttings\">boutures fraîches</a> d'herbe ou de fleur sur un séchoir à herbes. Elles sécheront lentement en <a href=\"handbooksearch://dried cuttings\">boutures séchées</a>. Les boutures ont peu de risques de pourrir sur le séchoir.\n\nÉtape 2 - Cuire les boutures séchées :\nFaites cuire les boutures séchées sur un feu de camp ou dans un four en argile pour créer des <a href=\"handbooksearch://cooked cuttings\">boutures cuites</a>.\n\nÉtape 3 - Fabriquer la base de potion forte :\nCombinez des boutures cuites dans une grille de fabrication pour créer une base de potion forte.\n\nÉtape 4 - Brasser la potion :\nPlacez 1 base de potion forte, 0,25 litre d'aqua vitae et 0,75 litre de thé de potion dans le chaudron. Attachez une cuillère en verre et allumez le feu. Le thé de potion se prépare toujours de la même manière qu'au palier 2 (base de potion basique + 2 L d'eau dans un tonneau, scellé pendant 24 heures).\n\nPotions fortes : <a href=\"handbook://item-alchemy:potionportion-archer-strong\">flacon de l'archer</a>, <a href=\"handbook://item-alchemy:potionportion-healingeffect-strong\">huile puissante</a>, <a href=\"handbook://item-alchemy:potionportion-hungerenhance-strong\">décoction purgative</a>, <a href=\"handbook://item-alchemy:potionportion-hungersupress-strong\">décoction apaisante</a>, <a href=\"handbook://item-alchemy:potionportion-hunter-strong\">délice du chasseur</a>, <a href=\"handbook://item-alchemy:potionportion-looter-strong\">délice du pillard</a>, <a href=\"handbook://item-alchemy:potionportion-melee-strong\">flacon du combattant</a>, <a href=\"handbook://item-alchemy:potionportion-mining-strong\">flacon du mineur</a>, <a href=\"handbook://item-alchemy:potionportion-poison-strong\">huile empoisonnée</a>, <a href=\"handbook://item-alchemy:potionportion-predator-strong\">phéromones de prédateur</a>, <a href=\"handbook://item-alchemy:potionportion-regen-strong\">huile de soin</a>, <a href=\"handbook://item-alchemy:potionportion-scentmask-strong\">masque d'odeur</a>, <a href=\"handbook://item-alchemy:potionportion-speed-strong\">flacon du sprinteur</a>, <a href=\"handbook://item-alchemy:potionportion-vitality-strong\">flacon de vitalité</a>\nPotions utilitaires : <a href=\"handbook://item-alchemy:utilitypotionportion-recall\">flacon de rappel</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-temporal\">flacon de stabilité</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-reshape\">flacon de remodelage</a>\n\nCes flacons utilitaires se brassent comme n'importe quelle autre potion forte, en utilisant leur propre base avec 0,25 litre d'aqua vitae et 0,75 litre de thé de potion. Les flacons utilitaires restants utilisent la recette du palier 2, voir <a href=\"handbook://alchemyguide-medium\">Palier 2 - potions moyennes</a>. Le palier utilisé par chaque flacon utilitaire peut être modifié dans la configuration."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-strong-title",
+  "en": "Alchemy: Tier 3 - Strong Potions",
+  "fr": "Alchimie : palier 3 - potions fortes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-throw-text",
+  "en": "Throwable flasks are vessels filled with a potion that shatter on impact, splashing their effect onto all living creatures within range. They come in two variants: glass and ceramic.\n\nGlass Throwable Flasks:\nAvailable in many colours depending on the ore used (clear quartz, olivine, amethyst, rose quartz, smoky quartz, and others).\nSee: <a href=\"handbook://block-alchemy:throwableflask-plain\">Glass Throwable Flask</a>\n\nCeramic Throwable Flasks:\nClay-formed using blue, fire, or red clay colour based on cooking method.\nSee: <a href=\"handbook://block-alchemy:claythrowableflask-blue-fired\">Ceramic Throwable Flask</a>\n\nFilling:\nFill a throwable flask the same way as any potion flask - tap right-click on a liquid container. The flask holds exactly one dose.\n\nThrowing:\nHold the filled flask in your main hand and right-click to wind up and release the throw.\n\nOn impact:\nThe flask shatters and applies the potion effect to all living creatures within the splash radius (2.5m by default, configurable). Effects are applied at 50% strength by default (configurable). Only potions permitted for weapon coating can be applied this way but still can be thrown.\n\nIf thrown into liquids the flask will slow rapidly dropping as an intact item without shattering and preserving its contents if its slow enough. Doesn't apply potion effects under water.",
+  "fr": "Les flacons jetables sont des récipients remplis d'une potion qui se brisent à l'impact, projetant leur effet sur toutes les créatures vivantes à portée. Ils existent en deux variantes : verre et céramique.\n\nFlacons jetables en verre :\nDisponibles dans de nombreuses couleurs selon le minerai utilisé (quartz clair, olivine, améthyste, quartz rose, quartz fumé, et autres).\nVoir : <a href=\"handbook://block-alchemy:throwableflask-plain\">flacon jetable en verre</a>\n\nFlacons jetables en céramique :\nFormés en argile bleue, ignifuge ou rouge selon la méthode de cuisson.\nVoir : <a href=\"handbook://block-alchemy:claythrowableflask-blue-fired\">flacon jetable en céramique</a>\n\nRemplissage :\nRemplissez un flacon jetable de la même manière que n'importe quel flacon de potion : appuyez sur clic droit sur un récipient liquide. Le flacon contient exactement une dose.\n\nLancer :\nTenez le flacon rempli dans votre main principale et faites un clic droit pour armer et relâcher le lancer.\n\nÀ l'impact :\nLe flacon se brise et applique l'effet de la potion à toutes les créatures vivantes dans le rayon d'éclaboussure (2,5 m par défaut, configurable). Les effets sont appliqués à 50 % de puissance par défaut (configurable). Seules les potions autorisées pour le revêtement d'arme peuvent être appliquées de cette manière, mais toutes peuvent tout de même être lancées.\n\nSi lancé dans un liquide, le flacon ralentira rapidement en tombant, restant intact sans se briser et préservant son contenu s'il est assez lent. Ne produit pas d'effet de potion sous l'eau."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-throw-title",
+  "en": "Alchemy: Throwable Flasks",
+  "fr": "Alchimie : flacons jetables"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-z-effects-text",
+  "en": "A glossary of every effect a potion that can be applied and what each one does.\n\nMany effects come in three strengths, shown on the flask as weak, medium and strong. A higher strength only increases the size of the effect, not how long it lasts.\n\nRanged accuracy: steadies your aim with bows and slings.\nRanged damage: increases damage from arrows and sling rocks.\nRanged speed: speeds up drawing and loading ranged weapons.\nMelee damage: increases damage with melee weapons.\nWalk speed: increases movement speed on foot.\nHunger rate: changes how fast your food bar drains; a higher rate hungers you faster, a lower rate slower.\nHealing effectiveness: affects bandages apply time (config can be used to effect potions drink/eat time as well). It for some reason doesn't change your natural regeneration or the amount healed last checked on v1.22.3 of Vintage story.\nMax health: raises your maximum health for the duration.\nRestore health: heals you over time.\nPoison: damages you over time and ignores armour.\nMining speed: breaks stones and ores faster. Doesn't affect dirt.\nOre amount: increases ore from mined ore blocks.\nAnimal loot: increases drops from harvesting carcasses. Doesn't apply to rust creatures.\nForage amount: increases drops from foraged berries, mushrooms and ground forage.\nWild crop: increases drops from harvesting wild plants.\nGears from metal pile: increases rusty gears recovered from metal piles.\nVessel contents: increases loot from broken storage vessels.\nAnimal seek range: changes how far creatures notice you; lowering it hides you, raising it draws them toward you.\n\nUtility effects come in only weak strength and last for the duration shown on the flask:\nGlow: you emit light.\nWater breathing: your oxygen stays full underwater.\nWarmth: your body temperature will not fall below normal.\nTemporal stability: a one-time boost to your temporal stability.\nNutrition: evens out your nutrition across all food groups. Usually with a cost of overall nutrition loss.\nRecall: teleports you to your spawn point.\nReshape: lets you re-open character selection once with the .charsel command.\nGrowth: increases your size until death or drink purging brew (or disconnect if RetainEffectsOnDisconnect is off).\nShrinking: decreases your size until death or drink purging brew (or disconnect if RetainEffectsOnDisconnect is off).\nFeatherfall: reduces fall damage.\nSpider: lets you climb any surface.\nFlight: lets you fly freely. You cannot mount anything when the effect is active.\n\nSide effects when drank (a cost paid only when applied):\nDamage taken / health restored: a brew may hurt or heal you.\nIntoxication: a drunkenness effect, shown as a percentage of maximum.\nPsychedelic: a hallucinogenic effect, shown as a percentage of maximum.\nSaturation: a change to your food bar level.\n\nOther mods may change how these effects behave and this list may fall out of date.",
+  "fr": "Un glossaire de tous les effets qu'une potion peut appliquer et ce que chacun fait.\n\nDe nombreux effets existent en trois puissances, indiquées sur le flacon comme faible, moyenne et forte. Une puissance plus élevée n'augmente que l'ampleur de l'effet, pas sa durée.\n\nPrécision à distance : stabilise votre visée avec les arcs et les frondes.\nDégâts à distance : augmente les dégâts des flèches et des pierres de fronde.\nVitesse à distance : accélère l'armement et le chargement des armes à distance.\nDégâts de mêlée : augmente les dégâts des armes de mêlée.\nVitesse de marche : augmente la vitesse de déplacement à pied.\nTaux de faim : modifie la vitesse à laquelle votre barre de nourriture se vide ; un taux plus élevé affame plus vite, un taux plus bas plus lentement.\nEfficacité de soin : affecte le temps d'application des bandages (la configuration peut aussi affecter le temps de consommation/de manger des potions). Pour une raison quelconque, cela ne change pas votre régénération naturelle ni le montant soigné, d'après les dernières vérifications sur la v1.22.3 de Vintage Story.\nSanté maximale : augmente votre santé maximale pendant la durée.\nRestaurer la santé : vous soigne au fil du temps.\nPoison : vous inflige des dégâts au fil du temps et ignore l'armure.\nVitesse de minage : brise les pierres et minerais plus vite. N'affecte pas la terre.\nQuantité de minerai : augmente le minerai obtenu des blocs de minerai minés.\nButin animal : augmente le butin obtenu en dépeçant des carcasses. Ne s'applique pas aux créatures de rouille.\nQuantité de récolte : augmente le butin des baies, champignons et récoltes sauvages ramassés.\nCulture sauvage : augmente le butin obtenu en récoltant des plantes sauvages.\nRouages depuis un tas de métal : augmente les rouages rouillés récupérés des tas de métal.\nContenu de récipient : augmente le butin des récipients de stockage brisés.\nPortée de détection animale : modifie la distance à laquelle les créatures vous remarquent ; la réduire vous dissimule, l'augmenter les attire vers vous.\n\nLes effets utilitaires n'existent qu'en puissance faible et durent la durée indiquée sur le flacon :\nLumineux : vous émettez de la lumière.\nRespiration aquatique : votre oxygène reste plein sous l'eau.\nChaleur : votre température corporelle ne descendra pas en dessous de la normale.\nStabilité temporelle : un gain ponctuel de stabilité temporelle.\nNutrition : équilibre votre nutrition entre tous les groupes alimentaires. Généralement au prix d'une perte de nutrition globale.\nRappel : vous téléporte à votre point d'apparition.\nRemodelage : vous permet de rouvrir une fois la sélection de personnage avec la commande .charsel.\nCroissance : augmente votre taille jusqu'à la mort ou jusqu'à boire une décoction purgative (ou déconnexion si RetainEffectsOnDisconnect est désactivé).\nRétrécissement : diminue votre taille jusqu'à la mort ou jusqu'à boire une décoction purgative (ou déconnexion si RetainEffectsOnDisconnect est désactivé).\nPlume : réduit les dégâts de chute.\nAraignée : vous permet d'escalader n'importe quelle surface.\nVol : vous permet de voler librement. Vous ne pouvez rien monter tant que l'effet est actif.\n\nEffets secondaires à la consommation (un coût payé uniquement lors de l'application) :\nDégâts subis / santé restaurée : une décoction peut vous blesser ou vous soigner.\nIntoxication : un effet d'ébriété, indiqué en pourcentage du maximum.\nPsychédélique : un effet hallucinogène, indiqué en pourcentage du maximum.\nSaturation : un changement du niveau de votre barre de nourriture.\n\nD'autres mods peuvent modifier le comportement de ces effets et cette liste peut devenir obsolète."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:alchemyguide-z-effects-title",
+  "en": "Alchemy: Potion Effects Glossary",
+  "fr": "Alchimie : glossaire des effets de potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:arrow-coated",
+  "en": "Arrow coated with {0}",
+  "fr": "Flèche revêtue de {0}"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-climb",
+  "en": "Spider Flask",
+  "fr": "Flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-coldresist",
+  "en": "Warmth Flask",
+  "fr": "Flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-fall",
+  "en": "Featherfall Flask",
+  "fr": "Flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-flight",
+  "en": "Flight Flask",
+  "fr": "Flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-grow",
+  "en": "Growth Flask",
+  "fr": "Flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-reshape",
+  "en": "Reshape Flask",
+  "fr": "Flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:incontainer-item-utilitypotionportion-shrink",
+  "en": "Shrinking Flask",
+  "fr": "Flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "alchemy:weapon-coated",
+  "en": "Weapon coated with {0} ({1} charges remaining)",
+  "fr": "Arme revêtue de {0} ({1} charges restantes)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "arrow-already-coated",
+  "en": "This arrow is already coated",
+  "fr": "Cette flèche est déjà revêtue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-black-fired",
+  "en": "Black ceramic potion flask",
+  "fr": "Flacon de potion en céramique noire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-blue-fired",
+  "en": "Dark brown ceramic potion flask",
+  "fr": "Flacon de potion en céramique brun foncé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-blue-raw",
+  "en": "Raw blue clay potion flask",
+  "fr": "Flacon de potion en argile bleue crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-brown-fired",
+  "en": "Brown ceramic potion flask",
+  "fr": "Flacon de potion en céramique brune"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-cream-fired",
+  "en": "Cream ceramic potion flask",
+  "fr": "Flacon de potion en céramique crème"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-earthyorange-fired",
+  "en": "Earthy orange ceramic potion flask",
+  "fr": "Flacon de potion en céramique orange terreux"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-fire-fired",
+  "en": "Fireclay ceramic potion flask",
+  "fr": "Flacon de potion en céramique réfractaire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-fire-raw",
+  "en": "Raw fire clay potion flask",
+  "fr": "Flacon de potion en argile réfractaire crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-gray-fired",
+  "en": "Gray ceramic potion flask",
+  "fr": "Flacon de potion en céramique grise"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-orange-fired",
+  "en": "Orange ceramic potion flask",
+  "fr": "Flacon de potion en céramique orange"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-red-fired",
+  "en": "Red ceramic potion flask",
+  "fr": "Flacon de potion en céramique rouge"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-red-raw",
+  "en": "Raw red clay potion flask",
+  "fr": "Flacon de potion en argile rouge crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claypotionflask-tan-fired",
+  "en": "Tan ceramic potion flask",
+  "fr": "Flacon de potion en céramique havane"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-*-fired",
+  "en": "Ceramic Throwable Flask",
+  "fr": "Flacon jetable en céramique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-*-raw",
+  "en": "Raw clay throwable flask",
+  "fr": "Flacon jetable en argile crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-black-fired",
+  "en": "Black ceramic throwable flask",
+  "fr": "Flacon jetable en céramique noire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-blue-fired",
+  "en": "Dark brown ceramic throwable flask",
+  "fr": "Flacon jetable en céramique brun foncé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-blue-raw",
+  "en": "Raw blue clay throwable flask",
+  "fr": "Flacon jetable en argile bleue crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-brown-fired",
+  "en": "Brown ceramic throwable flask",
+  "fr": "Flacon jetable en céramique brune"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-cream-fired",
+  "en": "Cream ceramic throwable flask",
+  "fr": "Flacon jetable en céramique crème"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-earthyorange-fired",
+  "en": "Earthy orange ceramic throwable flask",
+  "fr": "Flacon jetable en céramique orange terreux"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-fire-fired",
+  "en": "Fireclay ceramic throwable flask",
+  "fr": "Flacon jetable en céramique réfractaire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-fire-raw",
+  "en": "Raw fire clay Throwable Flask",
+  "fr": "Flacon jetable en argile réfractaire crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-gray-fired",
+  "en": "Gray ceramic throwable flask",
+  "fr": "Flacon jetable en céramique grise"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-orange-fired",
+  "en": "Orange ceramic throwable flask",
+  "fr": "Flacon jetable en céramique orange"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-red-fired",
+  "en": "Red ceramic throwable flask",
+  "fr": "Flacon jetable en céramique rouge"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-red-raw",
+  "en": "Raw red clay throwable flask",
+  "fr": "Flacon jetable en argile rouge crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-claythrowableflask-tan-fired",
+  "en": "Tan ceramic throwable flask",
+  "fr": "Flacon jetable en céramique havane"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-handbooktext-potioncauldron",
+  "en": "Acts like a large residue covered pot, the brewing cauldron is a large vessel too big to fit inside a firepit. Place it directly on the ground, build a firepit inside of it and ignite it. It has a greater capacity which allows for much larger batches, allowing up to 50 litres of potion liquid in one batch. A stirring spoon is required to brew potions. Not suitable for cooking food.",
+  "fr": "Semblable à une grande marmite couverte de résidus, le chaudron de brassage est un grand récipient trop volumineux pour tenir dans un feu de camp. Placez-le directement sur le sol, construisez un feu de camp à l'intérieur et allumez-le. Il offre une plus grande capacité, permettant des lots bien plus importants, jusqu'à 50 litres de liquide de potion en un seul lot. Une cuillère est nécessaire pour brasser des potions. Ne convient pas à la cuisson d'aliments."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-handbooktitle-potioncauldron",
+  "en": "Potion cauldron",
+  "fr": "Chaudron de brassage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-black-fired-herbrackhook",
+  "en": "Black ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique noire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-black-fired-herbracktop",
+  "en": "Black ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique noire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-blue-fired-herbrackhook",
+  "en": "Dark brown ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique brun foncé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-blue-fired-herbracktop",
+  "en": "Dark brown ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique brun foncé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-blue-raw-herbrackhook",
+  "en": "Raw blue herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en argile bleue crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-blue-raw-herbracktop",
+  "en": "Raw blue herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en argile bleue crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-brown-fired-herbrackhook",
+  "en": "Brown ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique brune"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-brown-fired-herbracktop",
+  "en": "Brown ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique brune"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-cream-fired-herbrackhook",
+  "en": "Cream ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique crème"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-cream-fired-herbracktop",
+  "en": "Cream ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique crème"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-earthyorange-fired-herbrackhook",
+  "en": "Earthy orange ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique orange terreux"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-earthyorange-fired-herbracktop",
+  "en": "Earthy orange ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique orange terreux"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-fire-fired-herbrackhook",
+  "en": "Fire clay ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique réfractaire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-fire-fired-herbracktop",
+  "en": "Fire clay ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique réfractaire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-fire-raw-herbrackhook",
+  "en": "Raw fire herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en argile réfractaire crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-fire-raw-herbracktop",
+  "en": "Raw fire herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en argile réfractaire crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-gray-fired-herbrackhook",
+  "en": "Gray ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique grise"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-gray-fired-herbracktop",
+  "en": "Gray ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique grise"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-orange-fired-herbrackhook",
+  "en": "Orange ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique orange"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-orange-fired-herbracktop",
+  "en": "Orange ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique orange"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-red-fired-herbrackhook",
+  "en": "Red ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique rouge"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-red-fired-herbracktop",
+  "en": "Red ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique rouge"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-red-raw-herbrackhook",
+  "en": "Raw red herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en argile rouge crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-red-raw-herbracktop",
+  "en": "Raw red herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en argile rouge crue"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-tan-fired-herbrackhook",
+  "en": "Tan ceramic herb rack hook mold",
+  "fr": "Moule de crochet de séchoir à herbes en céramique havane"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-herbrackmold-tan-fired-herbracktop",
+  "en": "Tan ceramic herb rack top mold",
+  "fr": "Moule de sommet de séchoir à herbes en céramique havane"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron",
+  "en": "Brewing Cauldron",
+  "fr": "Chaudron de brassage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-*",
+  "en": "Brewing Cauldron",
+  "fr": "Chaudron de brassage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-bismuthbronze",
+  "en": "Brewing Cauldron (Bismuth bronze)",
+  "fr": "Chaudron de brassage (bronze au bismuth)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-blackbronze",
+  "en": "Brewing Cauldron (Black bronze)",
+  "fr": "Chaudron de brassage (bronze noir)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-copper",
+  "en": "Brewing Cauldron (Copper)",
+  "fr": "Chaudron de brassage (cuivre)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-iron",
+  "en": "Brewing Cauldron (Iron)",
+  "fr": "Chaudron de brassage (fer)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-meteoriciron",
+  "en": "Brewing Cauldron (Meteoric iron)",
+  "fr": "Chaudron de brassage (fer météorique)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-oldworld",
+  "en": "Brewing Cauldron (Old World)",
+  "fr": "Chaudron de brassage (ancien monde)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-steel",
+  "en": "Brewing Cauldron (Steel)",
+  "fr": "Chaudron de brassage (acier)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-potioncauldron-tinbronze",
+  "en": "Brewing Cauldron (Tin bronze)",
+  "fr": "Chaudron de brassage (bronze à l'étain)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "block-throwableflask-*",
+  "en": "Throwable Glass Flask",
+  "fr": "Flacon jetable en verre"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "blockdesc-potioncauldron-*",
+  "en": "Not designed for meal-making. Specially crafted for brewing potions.",
+  "fr": "Non conçu pour préparer des repas. Spécialement fabriqué pour brasser des potions."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "blockdesc-potionflask",
+  "en": "Used to hold {0} litres of potions",
+  "fr": "Sert à contenir {0} litres de potions"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "blockhelp-cauldron-addfirewood",
+  "en": "Add firewood",
+  "fr": "Ajouter du petit bois"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "blockhelp-cauldron-addgrass",
+  "en": "Add dry grass",
+  "fr": "Ajouter de l'herbe sèche"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "blockhelp-cauldron-attachspoon",
+  "en": "Attach stirring spoon",
+  "fr": "Attacher la cuillère"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "blockhelp-cauldron-detachspoon",
+  "en": "Remove stirring spoon",
+  "fr": "Retirer la cuillère"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "cauldron-warning-glass-spoon",
+  "en": "A glass stirring spoon is required for strong potions",
+  "fr": "Une cuillère en verre est requise pour les potions fortes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "cauldron-warning-no-spoon",
+  "en": "A stirring spoon is required to brew potions",
+  "fr": "Une cuillère est requise pour brasser des potions"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "cauldron-warning-output-full",
+  "en": "Output slot is full, remove it to continue brewing",
+  "fr": "L'emplacement de sortie est plein, retirez-le pour continuer le brassage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "climb",
+  "en": "Climbing",
+  "fr": "Escalade"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "coating-conflict",
+  "en": "This weapon is already coated with a different potion",
+  "fr": "Cette arme est déjà revêtue d'une potion différente"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "coating-max-charges",
+  "en": "This weapon's coating is already at maximum charges",
+  "fr": "Le revêtement de cette arme est déjà à la charge maximale"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "coating-not-allowed",
+  "en": "This potion cannot be used for weapon coating",
+  "fr": "Cette potion ne peut pas être utilisée pour un revêtement d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "coldresist",
+  "en": "Cold resistance",
+  "fr": "Résistance au froid"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "disabled",
+  "en": "Disabled by server admin config!",
+  "fr": "Désactivé par la configuration de l'administrateur du serveur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "exclusivity-group-conflict",
+  "en": "This potion conflicts with another active potion of the same type",
+  "fr": "Cette potion entre en conflit avec une autre potion active du même type"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "exclusivity-solo-active",
+  "en": "An active potion prevents you from combining it with any other potion",
+  "fr": "Une potion active vous empêche de la combiner avec une autre potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "exclusivity-solo-incoming",
+  "en": "This potion must be taken on its own and cannot be combined with another active potion",
+  "fr": "Cette potion doit être prise seule et ne peut pas être combinée avec une autre potion active"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "fall",
+  "en": "Fall protection",
+  "fr": "Protection contre les chutes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "flight",
+  "en": "Flight",
+  "fr": "Vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "flight-mount-block",
+  "en": "You cannot mount while the flight flask is active",
+  "fr": "Vous ne pouvez pas monter tant que le flacon de vol est actif"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-climb",
+  "en": "Spider Flask",
+  "fr": "Flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-coldresist",
+  "en": "Warmth Flask",
+  "fr": "Flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-fall",
+  "en": "Featherfall Flask",
+  "fr": "Flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-flight",
+  "en": "Flight Flask",
+  "fr": "Flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-grow",
+  "en": "Growth Flask",
+  "fr": "Flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-reshape",
+  "en": "Reshape Flask",
+  "fr": "Flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "game:incontainer-item-utilitypotionportion-shrink",
+  "en": "Shrinking Flask",
+  "fr": "Flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "grow",
+  "en": "Growth",
+  "fr": "Croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "heldhelp-coat-weapon",
+  "en": "Hold in off hand to coat weapon or arrows",
+  "fr": "Tenir en main secondaire pour revêtir une arme ou des flèches"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluebell-cooked",
+  "en": "Cooked Cuttings (bluebell)",
+  "fr": "Boutures cuites (jacinthe des bois)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluebell-dried",
+  "en": "Dried Cuttings (bluebell)",
+  "fr": "Boutures séchées (jacinthe des bois)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluebell-raw",
+  "en": "Raw Cuttings (bluebell)",
+  "fr": "Boutures fraîches (jacinthe des bois)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluecatmint-cooked",
+  "en": "Cooked Cuttings (blue catmint)",
+  "fr": "Boutures cuites (népéta bleu)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluecatmint-dried",
+  "en": "Dried Cuttings (blue catmint)",
+  "fr": "Boutures séchées (népéta bleu)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluecatmint-raw",
+  "en": "Raw Cuttings (blue catmint)",
+  "fr": "Boutures fraîches (népéta bleu)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-blueforgetmenot-cooked",
+  "en": "Cooked Cuttings (forget me not, blue)",
+  "fr": "Boutures cuites (myosotis bleu)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-blueforgetmenot-dried",
+  "en": "Dried Cuttings (forget me not, blue)",
+  "fr": "Boutures séchées (myosotis bleu)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-blueforgetmenot-raw",
+  "en": "Raw Cuttings (forget me not, blue)",
+  "fr": "Boutures fraîches (myosotis bleu)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-blueheather-cooked",
+  "en": "Cooked Cuttings (blue lagoon heather)",
+  "fr": "Boutures cuites (bruyère bleu lagon)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-blueheather-dried",
+  "en": "Dried Cuttings (blue lagoon heather)",
+  "fr": "Boutures séchées (bruyère bleu lagon)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-blueheather-raw",
+  "en": "Raw Cuttings (blue lagoon heather)",
+  "fr": "Boutures fraîches (bruyère bleu lagon)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluemallow-cooked",
+  "en": "Cooked Cuttings (primley blue mallow)",
+  "fr": "Boutures cuites (mauve bleue primley)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluemallow-dried",
+  "en": "Dried Cuttings (primley blue mallow)",
+  "fr": "Boutures séchées (mauve bleue primley)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluemallow-raw",
+  "en": "Raw Cuttings (primley blue mallow)",
+  "fr": "Boutures fraîches (mauve bleue primley)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluepoppy-cooked",
+  "en": "Cooked Cuttings (himalayan blue poppy)",
+  "fr": "Boutures cuites (pavot bleu de l'Himalaya)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluepoppy-dried",
+  "en": "Dried Cuttings (himalayan blue poppy)",
+  "fr": "Boutures séchées (pavot bleu de l'Himalaya)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-bluepoppy-raw",
+  "en": "Raw Cuttings (himalayan blue poppy)",
+  "fr": "Boutures fraîches (pavot bleu de l'Himalaya)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-burgundybroom-cooked",
+  "en": "Cooked Cuttings (boskoop ruby broom)",
+  "fr": "Boutures cuites (genêt rubis de Boskoop)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-burgundybroom-dried",
+  "en": "Dried Cuttings (boskoop ruby broom)",
+  "fr": "Boutures séchées (genêt rubis de Boskoop)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-burgundybroom-raw",
+  "en": "Raw Cuttings (boskoop ruby broom)",
+  "fr": "Boutures fraîches (genêt rubis de Boskoop)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-burgundycornflower-cooked",
+  "en": "Cooked Cuttings (black gem cornflower)",
+  "fr": "Boutures cuites (bleuet joyau noir)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-burgundycornflower-dried",
+  "en": "Dried Cuttings (black gem cornflower)",
+  "fr": "Boutures séchées (bleuet joyau noir)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-burgundycornflower-raw",
+  "en": "Raw Cuttings (black gem cornflower)",
+  "fr": "Boutures fraîches (bleuet joyau noir)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-daffodil-cooked",
+  "en": "Cooked Cuttings (daffodil)",
+  "fr": "Boutures cuites (jonquille)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-daffodil-dried",
+  "en": "Dried Cuttings (daffodil)",
+  "fr": "Boutures séchées (jonquille)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-daffodil-raw",
+  "en": "Raw Cuttings (daffodil)",
+  "fr": "Boutures fraîches (jonquille)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipepink-cooked",
+  "en": "Cooked Cuttings (ghost pipe pink)",
+  "fr": "Boutures cuites (monotrope rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipepink-dried",
+  "en": "Dried Cuttings (ghost pipe pink)",
+  "fr": "Boutures séchées (monotrope rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipepink-raw",
+  "en": "Raw Cuttings (ghost pipe pink)",
+  "fr": "Boutures fraîches (monotrope rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipered-cooked",
+  "en": "Cooked Cuttings (ghost pipe red)",
+  "fr": "Boutures cuites (monotrope rouge)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipered-dried",
+  "en": "Dried Cuttings (ghost pipe red)",
+  "fr": "Boutures séchées (monotrope rouge)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipered-raw",
+  "en": "Raw Cuttings (ghost pipe red)",
+  "fr": "Boutures fraîches (monotrope rouge)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipewhite-cooked",
+  "en": "Cooked Cuttings (ghost pipe white)",
+  "fr": "Boutures cuites (monotrope blanc)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipewhite-dried",
+  "en": "Dried Cuttings (ghost pipe white)",
+  "fr": "Boutures séchées (monotrope blanc)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-ghostpipewhite-raw",
+  "en": "Raw Cuttings (ghost pipe white)",
+  "fr": "Boutures fraîches (monotrope blanc)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-mugwort-cooked",
+  "en": "Cooked Cuttings (mugwort)",
+  "fr": "Boutures cuites (armoise)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-mugwort-dried",
+  "en": "Dried Cuttings (mugwort)",
+  "fr": "Boutures séchées (armoise)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-mugwort-raw",
+  "en": "Raw Cuttings (mugwort)",
+  "fr": "Boutures fraîches (armoise)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-orangebroom-cooked",
+  "en": "Cooked Cuttings (lena scotch broom)",
+  "fr": "Boutures cuites (genêt d'Écosse de Lena)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-orangebroom-dried",
+  "en": "Dried Cuttings (lena scotch broom)",
+  "fr": "Boutures séchées (genêt d'Écosse de Lena)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-orangebroom-raw",
+  "en": "Raw Cuttings (lena scotch broom)",
+  "fr": "Boutures fraîches (genêt d'Écosse de Lena)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-orangeheather-cooked",
+  "en": "Cooked Cuttings (wickwar flame heather)",
+  "fr": "Boutures cuites (bruyère flamme de Wickwar)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-orangeheather-dried",
+  "en": "Dried Cuttings (wickwar flame heather)",
+  "fr": "Boutures séchées (bruyère flamme de Wickwar)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-orangeheather-raw",
+  "en": "Raw Cuttings (wickwar flame heather)",
+  "fr": "Boutures fraîches (bruyère flamme de Wickwar)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-persianbluecatmint-cooked",
+  "en": "Cooked Cuttings (persian blue catmint)",
+  "fr": "Boutures cuites (népéta bleu de Perse)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-persianbluecatmint-dried",
+  "en": "Dried Cuttings (persian blue catmint)",
+  "fr": "Boutures séchées (népéta bleu de Perse)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-persianbluecatmint-raw",
+  "en": "Raw Cuttings (persian blue catmint)",
+  "fr": "Boutures fraîches (népéta bleu de Perse)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkbroom-cooked",
+  "en": "Cooked Cuttings (moyclare pink broom)",
+  "fr": "Boutures cuites (genêt rose de Moyclare)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkbroom-dried",
+  "en": "Dried Cuttings (moyclare pink broom)",
+  "fr": "Boutures séchées (genêt rose de Moyclare)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkbroom-raw",
+  "en": "Raw Cuttings (moyclare pink broom)",
+  "fr": "Boutures fraîches (genêt rose de Moyclare)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkcatmint-cooked",
+  "en": "Cooked Cuttings (pink catmint)",
+  "fr": "Boutures cuites (népéta rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkcatmint-dried",
+  "en": "Dried Cuttings (pink catmint)",
+  "fr": "Boutures séchées (népéta rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkcatmint-raw",
+  "en": "Raw Cuttings (pink catmint)",
+  "fr": "Boutures fraîches (népéta rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkcornflower-cooked",
+  "en": "Cooked Cuttings (pink ball cornflower)",
+  "fr": "Boutures cuites (bleuet boule rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkcornflower-dried",
+  "en": "Dried Cuttings (pink ball cornflower)",
+  "fr": "Boutures séchées (bleuet boule rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkcornflower-raw",
+  "en": "Raw Cuttings (pink ball cornflower)",
+  "fr": "Boutures fraîches (bleuet boule rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkforgetmenot-cooked",
+  "en": "Cooked Cuttings (forget me not, pink)",
+  "fr": "Boutures cuites (myosotis rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkforgetmenot-dried",
+  "en": "Dried Cuttings (forget me not, pink)",
+  "fr": "Boutures séchées (myosotis rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkforgetmenot-raw",
+  "en": "Raw Cuttings (forget me not, pink)",
+  "fr": "Boutures fraîches (myosotis rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinklilyofthevalley-cooked",
+  "en": "Cooked Cuttings (lily of the valley, rosea)",
+  "fr": "Boutures cuites (muguet rosea)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinklilyofthevalley-dried",
+  "en": "Dried Cuttings (lily of the valley, rosea)",
+  "fr": "Boutures séchées (muguet rosea)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinklilyofthevalley-raw",
+  "en": "Raw Cuttings (lily of the valley, rosea)",
+  "fr": "Boutures fraîches (muguet rosea)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkmallow-cooked",
+  "en": "Cooked Cuttings (pink mallow)",
+  "fr": "Boutures cuites (mauve rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkmallow-dried",
+  "en": "Dried Cuttings (pink mallow)",
+  "fr": "Boutures séchées (mauve rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkmallow-raw",
+  "en": "Raw Cuttings (pink mallow)",
+  "fr": "Boutures fraîches (mauve rose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkpoppy-cooked",
+  "en": "Cooked Cuttings (shirley poppy)",
+  "fr": "Boutures cuites (pavot Shirley)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkpoppy-dried",
+  "en": "Dried Cuttings (shirley poppy)",
+  "fr": "Boutures séchées (pavot Shirley)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-pinkpoppy-raw",
+  "en": "Raw Cuttings (shirley poppy)",
+  "fr": "Boutures fraîches (pavot Shirley)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-purplelilyofthevalley-cooked",
+  "en": "Cooked Cuttings (lily of the valley, lavender)",
+  "fr": "Boutures cuites (muguet lavande)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-purplelilyofthevalley-dried",
+  "en": "Dried Cuttings (lily of the valley, lavender)",
+  "fr": "Boutures séchées (muguet lavande)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-purplelilyofthevalley-raw",
+  "en": "Raw Cuttings (lily of the valley, lavender)",
+  "fr": "Boutures fraîches (muguet lavande)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redbroom-cooked",
+  "en": "Cooked Cuttings (red scotch broom)",
+  "fr": "Boutures cuites (genêt d'Écosse rouge)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redbroom-dried",
+  "en": "Dried Cuttings (red scotch broom)",
+  "fr": "Boutures séchées (genêt d'Écosse rouge)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redbroom-raw",
+  "en": "Raw Cuttings (red scotch broom)",
+  "fr": "Boutures fraîches (genêt d'Écosse rouge)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redcornflower-cooked",
+  "en": "Cooked Cuttings (red boy cornflower)",
+  "fr": "Boutures cuites (bleuet red boy)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redcornflower-dried",
+  "en": "Dried Cuttings (red boy cornflower)",
+  "fr": "Boutures séchées (bleuet red boy)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redcornflower-raw",
+  "en": "Raw Cuttings (red boy cornflower)",
+  "fr": "Boutures fraîches (bleuet red boy)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redmallow-cooked",
+  "en": "Cooked Cuttings (scarlet rosemallow)",
+  "fr": "Boutures cuites (mauve écarlate)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redmallow-dried",
+  "en": "Dried Cuttings (scarlet rosemallow)",
+  "fr": "Boutures séchées (mauve écarlate)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redmallow-raw",
+  "en": "Raw Cuttings (scarlet rosemallow)",
+  "fr": "Boutures fraîches (mauve écarlate)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redpoppy-cooked",
+  "en": "Cooked Cuttings (field poppy)",
+  "fr": "Boutures cuites (coquelicot des champs)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redpoppy-dried",
+  "en": "Dried Cuttings (field poppy)",
+  "fr": "Boutures séchées (coquelicot des champs)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redpoppy-raw",
+  "en": "Raw Cuttings (field poppy)",
+  "fr": "Boutures fraîches (coquelicot des champs)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redtopgrass-cooked",
+  "en": "Cooked Cuttings (redtop grass)",
+  "fr": "Boutures cuites (agrostide commune)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redtopgrass-dried",
+  "en": "Dried Cuttings (redtop grass)",
+  "fr": "Boutures séchées (agrostide commune)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-redtopgrass-raw",
+  "en": "Raw Cuttings (redtop grass)",
+  "fr": "Boutures fraîches (agrostide commune)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-scarletheather-cooked",
+  "en": "Cooked Cuttings (scarlet heather)",
+  "fr": "Boutures cuites (bruyère écarlate)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-scarletheather-dried",
+  "en": "Dried Cuttings (scarlet heather)",
+  "fr": "Boutures séchées (bruyère écarlate)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-scarletheather-raw",
+  "en": "Raw Cuttings (scarlet heather)",
+  "fr": "Boutures fraîches (bruyère écarlate)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-whitecatmint-cooked",
+  "en": "Cooked Cuttings (montrose white catmint)",
+  "fr": "Boutures cuites (népéta blanc de Montrose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-whitecatmint-dried",
+  "en": "Dried Cuttings (montrose white catmint)",
+  "fr": "Boutures séchées (népéta blanc de Montrose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-whitecatmint-raw",
+  "en": "Raw Cuttings (montrose white catmint)",
+  "fr": "Boutures fraîches (népéta blanc de Montrose)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-whitecornflower-cooked",
+  "en": "Cooked Cuttings (white dwarf cornflower)",
+  "fr": "Boutures cuites (bleuet nain blanc)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-whitecornflower-dried",
+  "en": "Dried Cuttings (white dwarf cornflower)",
+  "fr": "Boutures séchées (bleuet nain blanc)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-whitecornflower-raw",
+  "en": "Raw Cuttings (white dwarf cornflower)",
+  "fr": "Boutures fraîches (bleuet nain blanc)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowheather-cooked",
+  "en": "Cooked Cuttings (gold haze heather)",
+  "fr": "Boutures cuites (bruyère gold haze)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowheather-dried",
+  "en": "Dried Cuttings (gold haze heather)",
+  "fr": "Boutures séchées (bruyère gold haze)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowheather-raw",
+  "en": "Raw Cuttings (gold haze heather)",
+  "fr": "Boutures fraîches (bruyère gold haze)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowmallow-cooked",
+  "en": "Cooked Cuttings (yellow mallow)",
+  "fr": "Boutures cuites (mauve jaune)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowmallow-dried",
+  "en": "Dried Cuttings (yellow mallow)",
+  "fr": "Boutures séchées (mauve jaune)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowmallow-raw",
+  "en": "Raw Cuttings (yellow mallow)",
+  "fr": "Boutures fraîches (mauve jaune)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowpoppy-cooked",
+  "en": "Cooked Cuttings (wood poppy)",
+  "fr": "Boutures cuites (pavot des bois)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowpoppy-dried",
+  "en": "Dried Cuttings (wood poppy)",
+  "fr": "Boutures séchées (pavot des bois)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-cuttings-yellowpoppy-raw",
+  "en": "Raw Cuttings (wood poppy)",
+  "fr": "Boutures fraîches (pavot des bois)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon",
+  "en": "Wooden Stirring Spoon",
+  "fr": "Cuillère en bois"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-blue",
+  "en": "Blue Glass Stirring Spoon",
+  "fr": "Cuillère en verre bleu"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-brown",
+  "en": "Brown Glass Stirring Spoon",
+  "fr": "Cuillère en verre brun"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-green",
+  "en": "Green Glass Stirring Spoon",
+  "fr": "Cuillère en verre vert"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-pink",
+  "en": "Pink Glass Stirring Spoon",
+  "fr": "Cuillère en verre rose"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-quartz",
+  "en": "Quartz Glass Stirring Spoon",
+  "fr": "Cuillère en verre quartz"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-red",
+  "en": "Red Glass Stirring Spoon",
+  "fr": "Cuillère en verre rouge"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-smoky",
+  "en": "Smoky Glass Stirring Spoon",
+  "fr": "Cuillère en verre fumé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-violet",
+  "en": "Violet Glass Stirring Spoon",
+  "fr": "Cuillère en verre violet"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-stirringspoon-glass-yellow",
+  "en": "Yellow Glass Stirring Spoon",
+  "fr": "Cuillère en verre jaune"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-climb",
+  "en": "Spider Flask base",
+  "fr": "Base du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-coldresist",
+  "en": "Warmth Flask base",
+  "fr": "Base du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-fall",
+  "en": "Featherfall Flask base",
+  "fr": "Base du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-flight",
+  "en": "Flight Flask base",
+  "fr": "Base du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-grow",
+  "en": "Growth Flask base",
+  "fr": "Base du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-reshape",
+  "en": "Reshape Flask base",
+  "fr": "Base du flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionbase-shrink",
+  "en": "Shrinking Flask base",
+  "fr": "Base du flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-climb",
+  "en": "Spider Flask",
+  "fr": "Flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-coldresist",
+  "en": "Warmth Flask",
+  "fr": "Flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-fall",
+  "en": "Featherfall Flask",
+  "fr": "Flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-flight",
+  "en": "Flight Flask",
+  "fr": "Flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-grow",
+  "en": "Growth Flask",
+  "fr": "Flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-reshape",
+  "en": "Reshape Flask",
+  "fr": "Flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "item-utilitypotionportion-shrink",
+  "en": "Shrinking Flask",
+  "fr": "Flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-climb",
+  "en": "Used to make Spider Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-coldresist",
+  "en": "Used to make Warmth Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-fall",
+  "en": "Used to make Featherfall Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-flight",
+  "en": "Used to make Flight Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-grow",
+  "en": "Used to make Growth Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-reshape",
+  "en": "Used to make Reshape Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "itemdesc-utilitypotionbase-shrink",
+  "en": "Used to make Shrinking Flask potion",
+  "fr": "Utilisé pour fabriquer la potion du flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "mappingkey-combat",
+  "en": "Combat",
+  "fr": "Combat"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "mappingkey-none",
+  "en": "None",
+  "fr": "Aucun"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "mappingkey-solo",
+  "en": "Solo",
+  "fr": "Solo"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "mappingkey-special",
+  "en": "Special",
+  "fr": "Spécial"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "mappingkey-survival",
+  "en": "Survival",
+  "fr": "Survie"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "mappingkey-utility",
+  "en": "Utility",
+  "fr": "Utilitaire"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "not-enough-potion",
+  "en": "There is not enough potion left for a full dose",
+  "fr": "Il ne reste pas assez de potion pour une dose complète"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-already-active",
+  "en": "This potion effect is already active",
+  "fr": "Cet effet de potion est déjà actif"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-climb-effect",
+  "en": "You can climb any surface",
+  "fr": "Vous pouvez escalader n'importe quelle surface"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-coldresist-effect",
+  "en": "You are protected from the cold",
+  "fr": "Vous êtes protégé du froid"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-fall-effect",
+  "en": "You take reduced fall damage",
+  "fr": "Vous subissez moins de dégâts de chute"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-flight-effect",
+  "en": "You gain the power flight",
+  "fr": "Vous obtenez le pouvoir de voler"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-glow-effect",
+  "en": "You glow brightly",
+  "fr": "Vous brillez intensément"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-grow-effect",
+  "en": "You will increase your size until death",
+  "fr": "Votre taille augmentera jusqu'à la mort"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-limit-active",
+  "en": "You already have a potion active",
+  "fr": "Vous avez déjà une potion active"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-nutrition-effect",
+  "en": "You gain satiety in your lower nutrition but lose satiety in your higher nutrition levels",
+  "fr": "Vous gagnez de la satiété dans vos niveaux de nutrition les plus bas mais en perdez dans vos niveaux de nutrition les plus élevés"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-purge-effect",
+  "en": "Removes all active potion effects",
+  "fr": "Supprime tous les effets de potion actifs"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-recall-effect",
+  "en": "You teleport back to your returning point",
+  "fr": "Vous êtes téléporté à votre point de retour"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-reshape-effect",
+  "en": "You are able to reshape your form and origins, using the command .charsel",
+  "fr": "Vous êtes capable de remodeler votre forme et vos origines, en utilisant la commande .charsel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-shrink-effect",
+  "en": "You will decrease your size until death",
+  "fr": "Votre taille diminuera jusqu'à la mort"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-damage-effect",
+  "en": "{0} damage taken",
+  "fr": "{0} dégâts subis"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-effects-header",
+  "en": "Side effects when drank: ",
+  "fr": "Effets secondaires à la consommation : "
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-heal-effect",
+  "en": "{0} health restored",
+  "fr": "{0} santé restaurée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-intoxication-effect",
+  "en": "+{0}% of max intoxication",
+  "fr": "+{0} % du maximum d'intoxication"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-intoxication-reduce-effect",
+  "en": "-{0}% of max intoxication",
+  "fr": "-{0} % du maximum d'intoxication"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-psychedelic-effect",
+  "en": "+{0}% of max psychedelic effect",
+  "fr": "+{0} % du maximum d'effet psychédélique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-psychedelic-reduce-effect",
+  "en": "-{0}% of max psychedelic effect",
+  "fr": "-{0} % du maximum d'effet psychédélique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-saturation-gain-effect",
+  "en": "+{0} saturation gain",
+  "fr": "+{0} gain de saturation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-side-saturation-loss-effect",
+  "en": "-{0} saturation loss",
+  "fr": "-{0} perte de saturation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-single-health-effect",
+  "en": "one time of {0} health",
+  "fr": "une fois {0} de santé"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-temporal-effect",
+  "en": "You gain some temporal stability",
+  "fr": "Vous gagnez un peu de stabilité temporelle"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "potion-waterbreathe-effect",
+  "en": "You can breathe underwater",
+  "fr": "Vous pouvez respirer sous l'eau"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "reshape-block",
+  "en": "You cannot drink anymore reshape as you already have the ability to do so by typing into chat .charsel",
+  "fr": "Vous ne pouvez plus boire de remodelage car vous avez déjà la capacité de le faire en tapant .charsel dans le chat"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "reshape-gain",
+  "en": "You feel the effects of the {0}. It has enabled you to reshape your form and origins, by typing into chat .charsel",
+  "fr": "Vous ressentez les effets de {0}. Il vous a permis de remodeler votre forme et vos origines, en tapant .charsel dans le chat"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "shrink",
+  "en": "Shrunk",
+  "fr": "Rétréci"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "size-at-max",
+  "en": "You are already as large as you can grow",
+  "fr": "Vous avez déjà atteint votre taille de croissance maximale"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "size-at-min",
+  "en": "You are already as small as you can shrink",
+  "fr": "Vous avez déjà atteint votre taille de rétrécissement minimale"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "throwableflask-info",
+  "en": "Shatters on impact when thrown, applying its potion to all creatures within {0}m.",
+  "fr": "Se brise à l'impact lorsqu'il est lancé, appliquant sa potion à toutes les créatures dans un rayon de {0} m."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "throwableflask-notfull",
+  "en": "The contents of the flask don't feel heavy enough to take effect.",
+  "fr": "Le contenu du flacon ne semble pas assez conséquent pour faire effet."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "throwableflask-notthrowable",
+  "en": "This potion is too unstable to work when thrown.",
+  "fr": "Cette potion est trop instable pour fonctionner une fois lancée."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "throwableflask-splash-notfull",
+  "en": "The splash feels too light to take effect.",
+  "fr": "L'éclaboussure semble trop légère pour faire effet."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "throwableflask-splash-notthrowable",
+  "en": "The splash soaks you, but the potion does nothing.",
+  "fr": "L'éclaboussure vous trempe, mais la potion ne fait rien."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "waterbreathe",
+  "en": "Water breathing",
+  "fr": "Respiration aquatique"
+ }
+]

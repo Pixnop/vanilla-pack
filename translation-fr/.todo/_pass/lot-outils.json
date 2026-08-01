@@ -1,0 +1,4904 @@
+[
+ {
+  "dom": "chiseltools",
+  "cle": "ADDPASTE",
+  "en": "Merge Shapes",
+  "fr": "Fusionner les Formes"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "CHANGEMAT",
+  "en": "Paste Material",
+  "fr": "Coller le Matériau"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "CLOSEDDOOR",
+  "en": "Assign Closed Door Shape",
+  "fr": "Assigner la Forme de Porte Fermée"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "COPYDENY",
+  "en": "Sorry you don't have access to copy this block!",
+  "fr": "Désolé, vous n'avez pas le droit de copier ce bloc !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "COPYGRANT",
+  "en": "Access granted, copy made!",
+  "fr": "Accès accordé, copie effectuée !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "DOORERROR",
+  "en": "You must assign a closed door state before assigning an open door state!",
+  "fr": "Vous devez assigner un état de porte fermée avant d'assigner un état de porte ouverte !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "DOORTOOL",
+  "en": "Setup Linked Doors",
+  "fr": "Configurer les Portes Liées"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "LOCK",
+  "en": "COPY PROTECT",
+  "fr": "PROTECTION DE COPIE"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "MIRRORPASTE",
+  "en": "Mirror Shape",
+  "fr": "Coller en Miroir"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "NAME",
+  "en": "Renaming Tool",
+  "fr": "Outil de Renommage"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "OPENDOOR",
+  "en": "Assign Open Door Shape",
+  "fr": "Assigner la Forme de Porte Ouverte"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "PASTEALL",
+  "en": "Paste Shape & Materials",
+  "fr": "Coller Forme et Matériaux"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "PLANEALL",
+  "en": "Remove a one voxel plane",
+  "fr": "Retirer un plan d'un voxel"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "PLANEISLAND",
+  "en": "Remove a one voxel plane of connected material",
+  "fr": "Retirer un plan d'un voxel de matériau connecté"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "PLANEMATERIAL",
+  "en": "Remove a one voxel plane of matching material",
+  "fr": "Retirer un plan d'un voxel de matériau correspondant"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "SCRAPE",
+  "en": "Remove Duplicate & Unused Materials",
+  "fr": "Retirer les Matériaux Dupliqués et Inutilisés"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "SHAPEPASTE",
+  "en": "Paste Shape Only",
+  "fr": "Coller uniquement la forme"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "UNDO",
+  "en": "Undo",
+  "fr": "Annuler"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "WEDGEFLIP",
+  "en": "Mirror the voxels on any plane",
+  "fr": "Refléter les voxels sur n'importe quel plan"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "WEDGEMOVE",
+  "en": "Push the voxels in clicked direction.",
+  "fr": "Pousser les voxels dans la direction cliquée."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "WEDGEROTATE",
+  "en": "Rotate the voxels on any plane",
+  "fr": "Faire pivoter les voxels sur n'importe quel plan"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "addremoveanymaterial",
+  "en": "Add/Remove any material",
+  "fr": "Ajouter/Retirer n'importe quel matériau"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "addremoveislandmode",
+  "en": "Add/Remove island mode",
+  "fr": "Ajouter/Retirer le mode îlot"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "addremovematchingmaterial",
+  "en": "Add/Remove matching material",
+  "fr": "Ajouter/Retirer le matériau correspondant"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "addshape",
+  "en": "Add Shape",
+  "fr": "Ajouter la Forme"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "assigncloseddoormodel",
+  "en": "Assign Closed Door Model",
+  "fr": "Assigner le Modèle de Porte Fermée"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "assignopendoormodel",
+  "en": "Assign Open Door Model",
+  "fr": "Assigner le Modèle de Porte Ouverte"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-*chiseledstoragevessel-*",
+  "en": "Decorative Storage Vessel",
+  "fr": "Récipient de Stockage Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block--chiseledchest-*",
+  "en": "Decorative Chest (High Capacity)",
+  "fr": "Coffre Décoratif (Haute Capacité)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block--chiseledchestnerfed-*",
+  "en": "Decorative Chest",
+  "fr": "Coffre Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-bismuthbronze",
+  "en": "Decorative Anvil (Bismuth Bronze)",
+  "fr": "Enclume Décorative (Bronze au Bismuth)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-blackbronze",
+  "en": "Decorative Anvil (Black Bronze)",
+  "fr": "Enclume Décorative (Bronze Noir)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-copper",
+  "en": "Decorative Anvil (Copper)",
+  "fr": "Enclume Décorative (Cuivre)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-iron",
+  "en": "Decorative Anvil (Iron)",
+  "fr": "Enclume Décorative (Fer)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-meteoriciron",
+  "en": "Decorative Anvil (Meteoric Iron)",
+  "fr": "Enclume Décorative (Fer Météorique)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-steel",
+  "en": "Decorative Anvil (Steel)",
+  "fr": "Enclume Décorative (Acier)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledanvil-tinbronze",
+  "en": "Decorative Anvil (Tin Bronze)",
+  "fr": "Enclume Décorative (Bronze à l'Étain)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledbarrel*",
+  "en": "Decorative Barrel",
+  "fr": "Tonneau Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledbed-*",
+  "en": "Decorative Bed",
+  "fr": "Lit Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledchimney",
+  "en": "Decorative Chimney",
+  "fr": "Cheminée Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseleddisplaycase*",
+  "en": "Decorative Display Case",
+  "fr": "Vitrine Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledfirepit-*",
+  "en": "Decorative Firepit",
+  "fr": "Foyer Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledflowerpot-*",
+  "en": "Decorative Flower Pot",
+  "fr": "Pot de Fleurs Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledforge",
+  "en": "Decorative Forge",
+  "fr": "Forge Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledoven*",
+  "en": "Decorative Oven",
+  "fr": "Four Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledplanter-*",
+  "en": "Decorative Planter",
+  "fr": "Jardinière Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledshelf*",
+  "en": "Decorative Shelf",
+  "fr": "Étagère Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledsign-*",
+  "en": "Decorative Sign",
+  "fr": "Panneau Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledtoolrack*",
+  "en": "Decorative Tool Rack",
+  "fr": "Râtelier à Outils Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledwatersource",
+  "en": "Decorative Water Source",
+  "fr": "Source d'Eau Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiseledwoodenfence",
+  "en": "Decorative Fence",
+  "fr": "Clôture Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-chiselprojector-*",
+  "en": "Chiseled Block Projector",
+  "fr": "Projecteur de Bloc Ciselé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-copyprotectedblock",
+  "en": "Copy Protected Block",
+  "fr": "Bloc Protégé Contre la Copie"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-decobookshelf",
+  "en": "Decorative Book Shelf",
+  "fr": "Bibliothèque Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-deeps-000088",
+  "en": "Deep #000088",
+  "fr": "Profond #000088"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-deeps-008800",
+  "en": "Deep #008800",
+  "fr": "Profond #008800"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-deeps-008888",
+  "en": "Deep #008888",
+  "fr": "Profond #008888"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-deeps-880000",
+  "en": "Deep #880000",
+  "fr": "Profond #880000"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-deeps-880088",
+  "en": "Deep #880088",
+  "fr": "Profond #880088"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-deeps-888800",
+  "en": "Deep #888800",
+  "fr": "Profond #888800"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-32",
+  "en": "Light 32",
+  "fr": "Lumière 32"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-33",
+  "en": "Light 33",
+  "fr": "Lumière 33"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-34",
+  "en": "Light 34",
+  "fr": "Lumière 34"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-35",
+  "en": "Light 35",
+  "fr": "Lumière 35"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-36",
+  "en": "Light 36",
+  "fr": "Lumière 36"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-37",
+  "en": "Light 37",
+  "fr": "Lumière 37"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-38",
+  "en": "Light 38",
+  "fr": "Lumière 38"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-39",
+  "en": "Light 39",
+  "fr": "Lumière 39"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-40",
+  "en": "Light 40",
+  "fr": "Lumière 40"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-41",
+  "en": "Light 41",
+  "fr": "Lumière 41"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-42",
+  "en": "Light 42",
+  "fr": "Lumière 42"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-43",
+  "en": "Light 43",
+  "fr": "Lumière 43"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-44",
+  "en": "Light 44",
+  "fr": "Lumière 44"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-45",
+  "en": "Light 45",
+  "fr": "Lumière 45"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-46",
+  "en": "Light 46",
+  "fr": "Lumière 46"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-47",
+  "en": "Light 47",
+  "fr": "Lumière 47"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-48",
+  "en": "Light 48",
+  "fr": "Lumière 48"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-49",
+  "en": "Light 49",
+  "fr": "Lumière 49"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-50",
+  "en": "Light 50",
+  "fr": "Lumière 50"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-51",
+  "en": "Light 51",
+  "fr": "Lumière 51"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-52",
+  "en": "Light 52",
+  "fr": "Lumière 52"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-53",
+  "en": "Light 53",
+  "fr": "Lumière 53"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-54",
+  "en": "Light 54",
+  "fr": "Lumière 54"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-55",
+  "en": "Light 55",
+  "fr": "Lumière 55"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-56",
+  "en": "Light 56",
+  "fr": "Lumière 56"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-57",
+  "en": "Light 57",
+  "fr": "Lumière 57"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-58",
+  "en": "Light 58",
+  "fr": "Lumière 58"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-59",
+  "en": "Light 59",
+  "fr": "Lumière 59"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-60",
+  "en": "Light 60",
+  "fr": "Lumière 60"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-61",
+  "en": "Light 61",
+  "fr": "Lumière 61"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-62",
+  "en": "Light 62",
+  "fr": "Lumière 62"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-63",
+  "en": "Light 63",
+  "fr": "Lumière 63"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-64",
+  "en": "Light 64",
+  "fr": "Lumière 64"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-65",
+  "en": "Light 65",
+  "fr": "Lumière 65"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-66",
+  "en": "Light 66",
+  "fr": "Lumière 66"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-67",
+  "en": "Light 67",
+  "fr": "Lumière 67"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-68",
+  "en": "Light 68",
+  "fr": "Lumière 68"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-69",
+  "en": "Light 69",
+  "fr": "Lumière 69"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-70",
+  "en": "Light 70",
+  "fr": "Lumière 70"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-71",
+  "en": "Light 71",
+  "fr": "Lumière 71"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-72",
+  "en": "Light 72",
+  "fr": "Lumière 72"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-73",
+  "en": "Light 73",
+  "fr": "Lumière 73"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-74",
+  "en": "Light 74",
+  "fr": "Lumière 74"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-75",
+  "en": "Light 75",
+  "fr": "Lumière 75"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-76",
+  "en": "Light 76",
+  "fr": "Lumière 76"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-77",
+  "en": "Light 77",
+  "fr": "Lumière 77"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-78",
+  "en": "Light 78",
+  "fr": "Lumière 78"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-halfcreativelight-79",
+  "en": "Light 79",
+  "fr": "Lumière 79"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-normal-generic-chiseledchest-*",
+  "en": "Decorative Chest (High Capacity)",
+  "fr": "Coffre Décoratif (Haute Capacité)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-normal-generic-chiseledchestnerfed-*",
+  "en": "Decorative Chest",
+  "fr": "Coffre Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-0000ff",
+  "en": "Pastel #0000ff",
+  "fr": "Pastel #0000ff"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-0088ff",
+  "en": "Pastel #0088ff",
+  "fr": "Pastel #0088ff"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-00ff00",
+  "en": "Pastel #00ff00",
+  "fr": "Pastel #00ff00"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-00ff88",
+  "en": "Pastel #00ff88",
+  "fr": "Pastel #00ff88"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-00ffff",
+  "en": "Pastel #00ffff",
+  "fr": "Pastel #00ffff"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-8800ff",
+  "en": "Pastel #8800ff",
+  "fr": "Pastel #8800ff"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-88ff00",
+  "en": "Pastel #88ff00",
+  "fr": "Pastel #88ff00"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-ff0000",
+  "en": "Pastel #ff0000",
+  "fr": "Pastel #ff0000"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-ff0088",
+  "en": "Pastel #ff0088",
+  "fr": "Pastel #ff0088"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-ff8800",
+  "en": "Pastel #ff8800",
+  "fr": "Pastel #ff8800"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pastel-ffff00",
+  "en": "Pastel #ffff00",
+  "fr": "Pastel #ffff00"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-pathedchiseledblock",
+  "en": "Decorative Path Block",
+  "fr": "Bloc de Chemin Décoratif"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-bluemortar",
+  "en": "Art Blue Mortar",
+  "fr": "Art Mortier Bleu"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-burntsandstone",
+  "en": "Art Burnt Sandstone",
+  "fr": "Art Grès Brûlé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-fadedbluemortar",
+  "en": "Art Faded Blue Mortar",
+  "fr": "Art Mortier Bleu Délavé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-fadedgreenmortar",
+  "en": "Art Faded Green Mortar",
+  "fr": "Art Mortier Vert Délavé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-fadedmortar",
+  "en": "Art Faded Mortar",
+  "fr": "Art Mortier Délavé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-mars",
+  "en": "Art Mars",
+  "fr": "Art Mars"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-specials-mud",
+  "en": "Art Muddy",
+  "fr": "Art Boueux"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "block-table-chiseled",
+  "en": "Decorative Table",
+  "fr": "Table Décorative"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-*chiseledstoragevessel-*",
+  "en": "A normal storage vessel with a twist, right click with a chiseled block to change its shape! Breaking the block will return the chiseled model.",
+  "fr": "Un récipient de stockage normal avec une touche d'originalité : faites un clic droit avec un bloc ciselé pour changer sa forme ! Casser le bloc rendra le modèle ciselé."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledanvil-*",
+  "en": "Anvil but you can right click with a chiseled block to change its shape! Note that it uses a full block collider no matter what shape you use. (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.",
+  "fr": "Une enclume, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! Notez qu'elle utilise un collisionneur de bloc complet quelle que soit la forme utilisée. (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledbarrel*",
+  "en": "Like a regular barrel, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back. Currently a chiseled barrel will always show just the chiseled block with no open/close or contents rendered. Optionally you can ctrl+right click with a different chiseled block to set the sealed or closed barrel graphic!",
+  "fr": "Comme un tonneau classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'il est détruit. Vous pouvez le modifier avec un autre bloc ciselé et récupérer le bloc d'origine. Actuellement, un tonneau ciselé affichera toujours seulement le bloc ciselé, sans ouverture/fermeture ni contenu affiché. Vous pouvez en option faire ctrl+clic droit avec un autre bloc ciselé pour définir le graphisme du tonneau scellé ou fermé !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledbed-*",
+  "en": "Sleepy time - in style! Note: only places a half bed so it's up to you to chisel a matching foot for the bed!'",
+  "fr": "L'heure de dormir - avec style ! Remarque : ne place qu'un demi-lit, c'est à vous de ciseler un pied assorti pour le lit !'"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledchest-*",
+  "en": "A larger capacity decorative chest - still only takes one slot",
+  "fr": "Un coffre décoratif à plus grande capacité - ne prend toujours qu'un seul emplacement"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledchestnerfed-*",
+  "en": "A normal chest with a twist, right click with a chiseled block to change its shape! Breaking the block will return the chiseled model.",
+  "fr": "Un coffre normal avec une touche d'originalité, faites un clic droit avec un bloc ciselé pour changer sa forme ! Casser le bloc rendra le modèle ciselé."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledchimney",
+  "en": "Chimney (always smoking), but you can right click with a chiseled block to change its shape! Note that it uses a full block collider no matter what shape you use. (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.",
+  "fr": "Une cheminée (qui fume en permanence), mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! Notez qu'elle utilise un collisionneur de bloc complet quelle que soit la forme utilisée. (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseleddisplaycase*",
+  "en": "Wait aren't display cases already decorative? Anyways...Like a regular display case, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.",
+  "fr": "Attendez, les vitrines ne sont pas déjà décoratives ? Enfin bref... Comme une vitrine classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledfirepit-*",
+  "en": "A fancy firepit that accepts a chiseled block as a shape!",
+  "fr": "Un foyer élégant qui accepte un bloc ciselé comme forme !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledflowerpot-*",
+  "en": "Like a Flower Pot, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.  NOTE: CHISEL YOUR OWN DIRT",
+  "fr": "Comme un pot de fleurs, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'il est détruit. Vous pouvez le modifier avec un autre bloc ciselé et récupérer le bloc d'origine. REMARQUE : CISELEZ VOTRE PROPRE TERRE"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledforge",
+  "en": "Forge but you can right click with a chiseled block to change its shape! Note that it uses a full block collider no matter what shape you use. (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back. ",
+  "fr": "Une forge, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! Notez qu'elle utilise un collisionneur de bloc complet quelle que soit la forme utilisée. (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine. "
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledoven*",
+  "en": "Like a regular oven, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chiseled block and get the original block back.",
+  "fr": "Comme un four classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'il est détruit. Vous pouvez le modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledplanter-*",
+  "en": "Like a regular planter, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back. NOTE: CHISEL YOUR OWN DIRT",
+  "fr": "Comme une jardinière classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine. REMARQUE : CISELEZ VOTRE PROPRE TERRE"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledshelf*",
+  "en": "Like a regular shelf, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.",
+  "fr": "Comme une étagère classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledsign-*",
+  "en": "Sign, but you can right click with a chiseled block to change its shape! Note that it uses a full block collider no matter what shape you use. (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chiseled block and get the original block back. NOTE: place chiseled block *before* editing sign text!",
+  "fr": "Un panneau, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! Notez qu'il utilise un collisionneur de bloc complet quelle que soit la forme utilisée. (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'il est détruit. Vous pouvez le modifier avec un autre bloc ciselé et récupérer le bloc d'origine. REMARQUE : placez le bloc ciselé *avant* de modifier le texte du panneau !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledtoolrack*",
+  "en": "Like a regular tool rack, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.",
+  "fr": "Comme un râtelier à outils classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'il est détruit. Vous pouvez le modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledwatersource",
+  "en": "An infinite source of fresh water that will take the shape of a chiseled block. No leaks!",
+  "fr": "Une source d'eau fraîche infinie qui prendra la forme d'un bloc ciselé. Aucune fuite !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiseledwoodenfence",
+  "en": "Fence, but you can right click with a chiseled block to change its shape!",
+  "fr": "Une clôture, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-chiselprojector-*",
+  "en": "Install a chiseled block in it to project a large version, useful for planning out your builds!  Right click with empty hand to access the configuration menu!",
+  "fr": "Installez-y un bloc ciselé pour en projeter une version agrandie, utile pour planifier vos constructions ! Faites un clic droit à mains nues pour accéder au menu de configuration !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-copyprotectedblock",
+  "en": "A chiseled block which cannot be copied by the pantograph.",
+  "fr": "Un bloc ciselé qui ne peut pas être copié par le pantographe."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-decobookshelf",
+  "en": "Accepts a chiseled block to replace its shape, otherwise a functional bookshelf. (Use a wrench to remove the shape)",
+  "fr": "Accepte un bloc ciselé pour remplacer sa forme, sinon c'est une bibliothèque fonctionnelle. (Utilisez une clé pour retirer la forme)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-pathedchiseledblock",
+  "en": "Like a path block but nicer (well depending on how good you are at chiseling!)",
+  "fr": "Comme un bloc de chemin, mais en plus joli (enfin, ça dépend de votre talent de ciseleur !)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "blockdesc-table-chiseled",
+  "en": "Like a regular table, but you can right click with a chiseled block to change its shape! (You will have to pre-rotate the chiseled block in the direction you'd like. Will return the chiseled block when destroyed. You can change it with another chisleed block and get the original block back.",
+  "fr": "Comme une table classique, mais vous pouvez faire un clic droit avec un bloc ciselé pour changer sa forme ! (Vous devrez pré-orienter le bloc ciselé dans la direction souhaitée. Rendra le bloc ciselé lorsqu'elle est détruite. Vous pouvez la modifier avec un autre bloc ciselé et récupérer le bloc d'origine."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "chiseltools-guide",
+  "en": "Chisel Tools Guide",
+  "fr": "Guide des Outils de Ciselage"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "chiseltools-guide-text",
+  "en": "<strong>Welcome to Chisel Tools<icon path=\"icons/worldedit/chiselbrush.svg\"></icon></strong><br>- <strong><a href=\"handbook://item-chiseltools:handplaner-iron\">Hand Planer</a></strong> - scrape away groups of voxels (or add them)<br>- <strong><a href=\"handbook://item-chiseltools:handwedge-iron\">Hand Wedge</a></strong> Rotate, Mirror, Rotate, and Move voxels on all axis<br>- <strong><a href=\"handbook://item-chiseltools:pantograph-steel\">Pantograph</a></strong>- Copy and paste between blocks, load and save shapes, merge shapes.<br>- <strong><a href=\"handbook://item-chiseltools:laddermaker-steel\">Ladder Maker</a></strong>- Make any chiseled block climable!<br>- <strong><a href=\"handbook://item-chiseltools:pathmaker-steel\">Path Maker</a></strong>- transform chiseled blocks into decorative path blocks (gives a speed boost when traveling on them). (Note: Requires and uses up path blocks from your inventory in survival mode)<br>- <strong><a href=\"handbook://item-chiseltools:paintbrush-steel\">Paint Brush</a></strong>- replace or add materials (and dyes!) to your chiseled blocks.<br>- <strong><a href=\"handbook://item-chiseltools:paintscraper-steel\">Paint Scraper</a></strong>- remove unused materials from a chiseled block<br>-<strong><a href=\"handbooksearch://decorative\">Decorative Objects</a></strong>- there are large number of items you can now make chiselable. Most of them you just right click with a chiseled block and they will take on that shape! You'll get the block back if you put another one in, or break the object.<br><br>-<strong>Commands</strong><br>-.pf save filename- saves the shape in your held pantograph to disk<br>-.pf load filename - loads the shape file into your held pantograph<br>- press \"P\" (by default) to open the Portfolio (must be looking at a chiseled block). Click on a shape to load it into the held pantograph.",
+  "fr": "<strong>Bienvenue dans les Outils de Ciselage<icon path=\"icons/worldedit/chiselbrush.svg\"></icon></strong><br>- <strong><a href=\"handbook://item-chiseltools:handplaner-iron\">Rabot à Main</a></strong> - retire des groupes de voxels (ou les ajoute)<br>- <strong><a href=\"handbook://item-chiseltools:handwedge-iron\">Coin à Main</a></strong> Fait pivoter, refléter, tourner et déplacer les voxels sur tous les axes<br>- <strong><a href=\"handbook://item-chiseltools:pantograph-steel\">Pantographe</a></strong>- Copie et colle entre les blocs, charge et sauvegarde des formes, fusionne des formes.<br>- <strong><a href=\"handbook://item-chiseltools:laddermaker-steel\">Fabricant d'Échelle</a></strong>- Rend n'importe quel bloc ciselé escaladable !<br>- <strong><a href=\"handbook://item-chiseltools:pathmaker-steel\">Fabricant de Chemin</a></strong>- transforme les blocs ciselés en blocs de chemin décoratifs (donne un bonus de vitesse en vous déplaçant dessus). (Remarque : nécessite et consomme des blocs de chemin de votre inventaire en mode survie)<br>- <strong><a href=\"handbook://item-chiseltools:paintbrush-steel\">Pinceau</a></strong>- remplace ou ajoute des matériaux (et des teintures !) à vos blocs ciselés.<br>- <strong><a href=\"handbook://item-chiseltools:paintscraper-steel\">Grattoir</a></strong>- retire les matériaux inutilisés d'un bloc ciselé<br>-<strong><a href=\"handbooksearch://decorative\">Objets Décoratifs</a></strong>- il existe désormais un grand nombre d'objets que vous pouvez rendre ciselables. Pour la plupart, il suffit de faire un clic droit avec un bloc ciselé et ils prendront cette forme ! Vous récupérerez le bloc si vous en insérez un autre, ou si vous cassez l'objet.<br><br>-<strong>Commandes</strong><br>-.pf save nomdefichier- sauvegarde la forme de votre pantographe en main sur le disque<br>-.pf load nomdefichier - charge le fichier de forme dans votre pantographe en main<br>- appuyez sur \"P\" (par défaut) pour ouvrir le Portfolio (vous devez regarder un bloc ciselé). Cliquez sur une forme pour la charger dans le pantographe en main."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "chiseltools-guide-title",
+  "en": "Chisel Tools Guide",
+  "fr": "Guide des Outils de Ciselage"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "close",
+  "en": "CLOSE",
+  "fr": "FERMER"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "connectdoortool",
+  "en": "Connect Door Tool",
+  "fr": "Outil de Connexion de Porte"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "controlledby",
+  "en": "Controlled by ",
+  "fr": "Contrôlé par "
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "controlling:",
+  "en": "Controlling: ",
+  "fr": "Contrôle : "
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "copied",
+  "en": "Copied",
+  "fr": "Copié"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "copying",
+  "en": "Copying",
+  "fr": "Copie en cours"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "createcopyprotectedblock",
+  "en": "Create Copy Protected Block",
+  "fr": "Créer un Bloc Protégé Contre la Copie"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "doorsoundset",
+  "en": "Door sound set (if sound exists)",
+  "fr": "Ensemble de sons de porte (si le son existe)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "drawmode",
+  "en": "Draw Mode",
+  "fr": "Mode Dessin"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "drawmode1x1",
+  "en": "Draw Mode 1x1",
+  "fr": "Mode Dessin 1x1"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "drawmode2x2",
+  "en": "Draw Mode 2x2",
+  "fr": "Mode Dessin 2x2"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "drawmode4x4",
+  "en": "Draw Mode 4x4",
+  "fr": "Mode Dessin 4x4"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "drawmode8x8",
+  "en": "Draw Mode 8x8",
+  "fr": "Mode Dessin 8x8"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "filterinstructions",
+  "en": "Enter your file search here, eg: *dog* will find all files with the letters dog",
+  "fr": "Entrez votre recherche de fichier ici, ex : *chien* trouvera tous les fichiers contenant les lettres chien"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "helphelp-copyblock",
+  "en": "Copy Block Shape",
+  "fr": "Copier la Forme du Bloc"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "helphelp-pasteblock",
+  "en": "Paste Block Shape",
+  "fr": "Coller la Forme du Bloc"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-blockswapper-iron",
+  "en": "Iron Block Swapper",
+  "fr": "Échangeur de Bloc en Fer"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-blockswapper-meteoriciron",
+  "en": "Meteoric Iron Block Swapper",
+  "fr": "Échangeur de Bloc en Fer Météorique"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-blockswapper-steel",
+  "en": "Steel Block Swapper",
+  "fr": "Échangeur de Bloc en Acier"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-clothes-head-ptahs-diadem",
+  "en": "Ptah's Diadem",
+  "fr": "Diadème de Ptah"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-doorpart",
+  "en": "Door Part",
+  "fr": "Partie de Porte"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-doortool-*",
+  "en": "Chiseled Door Tool",
+  "fr": "Outil de Porte Ciselée"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-bismuthbronze",
+  "en": "Bismuth Bronze Hand Planer",
+  "fr": "Rabot à Main en Bronze au Bismuth"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-blackbronze",
+  "en": "Black Bronze Hand Planer",
+  "fr": "Rabot à Main en Bronze Noir"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-copper",
+  "en": "Copper Hand Planer",
+  "fr": "Rabot à Main en Cuivre"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-iron",
+  "en": "Iron Hand Planer",
+  "fr": "Rabot à Main en Fer"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-meteoriciron",
+  "en": "Meteoric Iron Hand Planer",
+  "fr": "Rabot à Main en Fer Météorique"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-steel",
+  "en": "Steel Hand Planer",
+  "fr": "Rabot à Main en Acier"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handplaner-tinbronze",
+  "en": "Tin Bronze Hand Planer",
+  "fr": "Rabot à Main en Bronze à l'Étain"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-bismuthbronze",
+  "en": "Bismuth Bronze Hand Wedge",
+  "fr": "Coin à Main en Bronze au Bismuth"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-blackbronze",
+  "en": "Black Bronze Hand Wedge",
+  "fr": "Coin à Main en Bronze Noir"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-copper",
+  "en": "Copper Hand Wedge",
+  "fr": "Coin à Main en Cuivre"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-iron",
+  "en": "Iron Hand Wedge",
+  "fr": "Coin à Main en Fer"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-meteoriciron",
+  "en": "Meteoric Iron Hand Wedge",
+  "fr": "Coin à Main en Fer Météorique"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-steel",
+  "en": "Steel Hand Wedge",
+  "fr": "Coin à Main en Acier"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-handwedge-tinbronze",
+  "en": "Tin Bronze Hand Wedge",
+  "fr": "Coin à Main en Bronze à l'Étain"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-jonaspaintbrush-steel",
+  "en": "Jonas Paint Brush",
+  "fr": "Pinceau de Jonas"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-laddermaker-iron",
+  "en": "Iron Ladder Maker",
+  "fr": "Fabricant d'Échelle en Fer"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-laddermaker-meteoriciron",
+  "en": "Meteoric Iron Ladder Maker",
+  "fr": "Fabricant d'Échelle en Fer Météorique"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-laddermaker-steel",
+  "en": "Steel Ladder Maker",
+  "fr": "Fabricant d'Échelle en Acier"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-locktool-*",
+  "en": "Chisel Copy Lock Tool",
+  "fr": "Outil de Verrouillage de Copie du Ciseau"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-megapantograph-*",
+  "en": "Multigraph",
+  "fr": "Multigraphe"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintbrush-iron",
+  "en": "Paintbrush (Iron)",
+  "fr": "Pinceau (Fer)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintbrush-meteoriciron",
+  "en": "Paintbrush (Meteoric Iron)",
+  "fr": "Pinceau (Fer Météorique)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintbrush-steel",
+  "en": "Paintbrush (Steel)",
+  "fr": "Pinceau (Acier)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-bismuthbronze",
+  "en": "Paint Scraper (Bismuth Bronze)",
+  "fr": "Grattoir à Peinture (Bronze au Bismuth)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-blackbronze",
+  "en": "Paint Scraper (Black Bronze)",
+  "fr": "Grattoir à Peinture (Bronze Noir)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-copper",
+  "en": "Paint Scraper (Copper)",
+  "fr": "Grattoir à Peinture (Cuivre)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-iron",
+  "en": "Paint Scraper (Iron)",
+  "fr": "Grattoir à Peinture (Fer)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-meteoriciron",
+  "en": "Paint Scraper (Meteoric Iron)",
+  "fr": "Grattoir à Peinture (Fer Météorique)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-steel",
+  "en": "Paint Scraper (Steel)",
+  "fr": "Grattoir à Peinture (Acier)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-paintscraper-tinbronze",
+  "en": "Paint Scraper (Tin Bronze)",
+  "fr": "Grattoir à Peinture (Bronze à l'Étain)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-palette-glow",
+  "en": "Palette (Glow)",
+  "fr": "Palette (Lumineuse)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-palette-light",
+  "en": "Palette (Jonas)",
+  "fr": "Palette (Jonas)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-palette-standard",
+  "en": "Palette (Standard)",
+  "fr": "Palette (Standard)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pantograph-bismuthbronze",
+  "en": "Bismuth Bronze Pantograph",
+  "fr": "Pantographe en Bronze au Bismuth"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pantograph-blackbronze",
+  "en": "Black Bronze Pantograph",
+  "fr": "Pantographe en Bronze Noir"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pantograph-iron",
+  "en": "Iron Pantograph",
+  "fr": "Pantographe en Fer"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pantograph-meteoriciron",
+  "en": "Meteoric Iron Pantograph",
+  "fr": "Pantographe en Fer Météorique"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pantograph-steel",
+  "en": "Steel Pantograph",
+  "fr": "Pantographe en Acier"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pantograph-tinbronze",
+  "en": "Tin Bronze Pantograph",
+  "fr": "Pantographe en Bronze à l'Étain"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-pathmaker-*",
+  "en": "Path Maker",
+  "fr": "Fabricant de Chemin"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-bismuthbronze",
+  "en": "Bismuth Bronze Pantograph (Simple)",
+  "fr": "Pantographe en Bronze au Bismuth (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-blackbronze",
+  "en": "Black Bronze Pantograph (Simple)",
+  "fr": "Pantographe en Bronze Noir (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-copper",
+  "en": "Copper Pantograph (Simple)",
+  "fr": "Pantographe en Cuivre (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-iron",
+  "en": "Iron Pantograph (Simple)",
+  "fr": "Pantographe en Fer (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-meteoriciron",
+  "en": "Meteoric Iron Pantograph (Simple)",
+  "fr": "Pantographe en Fer Météorique (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-steel",
+  "en": "Steel Pantograph (Simple)",
+  "fr": "Pantographe en Acier (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-simplepantograph-tinbronze",
+  "en": "Tin Bronze Pantograph (Simple)",
+  "fr": "Pantographe en Bronze à l'Étain (Simple)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-truechisel-*bronze",
+  "en": "QP's Chisel (Bronze)'",
+  "fr": "Ciseau de QP (Bronze)'"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-truechisel-iron",
+  "en": "QP's Chisel (Iron)'",
+  "fr": "Ciseau de QP (Fer)'"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-truechisel-meteoriciron",
+  "en": "QP's Chisel (Meteoric Iron)'",
+  "fr": "Ciseau de QP (Fer Météorique)'"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-truechisel-steel",
+  "en": "The True Chisel",
+  "fr": "Le Véritable Ciseau"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-truechisel-ult",
+  "en": "Ptah's Chisel",
+  "fr": "Ciseau de Ptah"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-tuningcylinder-ct1",
+  "en": "Ptah's Anthem",
+  "fr": "Hymne de Ptah"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-tuningcylinder-ct2",
+  "en": "For Dave & Gears!",
+  "fr": "Pour Dave et les Engrenages !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-tuningcylinder-ct3",
+  "en": "For Dave & Gears:Metal Edition",
+  "fr": "Pour Dave et les Engrenages : Édition Métal"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-tuningcylinder-ct4",
+  "en": "REDACTED",
+  "fr": "CAVIARDÉ"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "item-tuningcylinder-ct5",
+  "en": "Sunny Chisel Village",
+  "fr": "Village du Ciseau Ensoleillé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-blockswapper-*",
+  "en": "Replaces the targetted block with whatever block is in your first inventory slot. (Targeted block is destroyed)",
+  "fr": "Remplace le bloc ciblé par le bloc présent dans votre premier emplacement d'inventaire. (Le bloc ciblé est détruit)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-clothes-head-ptahs-diadem",
+  "en": "A garish and hideous hat, but don't tell QP it looks bad!",
+  "fr": "Un chapeau criard et hideux, mais ne dites pas à QP qu'il a l'air moche !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-doorpart",
+  "en": "Place in the world to make a chiseled door. The <a href=\"handbook://item-chiseltools:pantograph-iron\">Pantograph</a> can be used to change the open and closed shape and to link multiple chiseled doors together.",
+  "fr": "Placez dans le monde pour créer une porte ciselée. Le <a href=\"handbook://item-chiseltools:pantograph-iron\">Pantographe</a> peut être utilisé pour changer la forme ouverte et fermée et pour lier plusieurs portes ciselées entre elles."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-doortool-*",
+  "en": "Chiseled doors? Kind of!\nSet an open and a closed shape and cycle between them.\nYou can link multiple chiseled doors together to make one big door.(Right click chiseled doors with a wrench for more options) Can be crafted back into a Simple Pantograph",
+  "fr": "Des portes ciselées ? En quelque sorte !\nDéfinissez une forme ouverte et une forme fermée et alternez entre elles.\nVous pouvez lier plusieurs portes ciselées entre elles pour n'en faire qu'une seule grande porte.(Faites un clic droit sur les portes ciselées avec une clé pour plus d'options) Peut être refabriqué en Pantographe Simple"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-handplaner-*",
+  "en": "Use on chiseled blocks to quickly add and remove material. Press F for options!<br><a href=\"handbook://chiseltools:chiseltools-guide\">QPs Chisel Tools Guide</a>",
+  "fr": "Utilisez-le sur des blocs ciselés pour ajouter et retirer rapidement du matériau. Appuyez sur F pour les options !<br><a href=\"handbook://chiseltools:chiseltools-guide\">Guide des Outils de Ciselage de QP</a>"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-handwedge-*",
+  "en": "Push, Mirror, and Rotate chiseled blocks! (Within the cube of the chiseled block) Press F for options! <br><a href=\"handbook://chiseltools:chiseltools-guide\">QPs Chisel Tools Guide</a>",
+  "fr": "Poussez, reflétez et faites pivoter les blocs ciselés ! (À l'intérieur du cube du bloc ciselé) Appuyez sur F pour les options ! <br><a href=\"handbook://chiseltools:chiseltools-guide\">Guide des Outils de Ciselage de QP</a>"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-jonaspaintbrush-steel",
+  "en": "A fading relic of the past - use the Jonas Palette from now on to get the lights! (No longer craftable) To get glow colors put bucket of dye in hotbar slot one and right click on the material you want to change. To make them into full lights next put a bucket of white dye in hotbar slot one and right click the material to change it from glow only to bright light. Gray makes a glowing cyan and Black will make glowing white.",
+  "fr": "Une relique du passé qui s'estompe - utilisez désormais la Palette de Jonas pour obtenir les lumières ! (Plus fabricable) Pour obtenir des couleurs lumineuses, placez un seau de teinture dans le premier emplacement de la barre d'accès rapide et faites un clic droit sur le matériau que vous voulez changer. Pour les transformer en lumières complètes, placez ensuite un seau de teinture blanche dans le premier emplacement de la barre d'accès rapide et faites un clic droit sur le matériau pour le faire passer de simplement lumineux à lumière vive. Le gris donne un cyan lumineux et le noir donnera un blanc lumineux."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-laddermaker-*",
+  "en": "Right click on a chiseled block to make it climable! (Chiseled block must have at least 8 voxels)",
+  "fr": "Faites un clic droit sur un bloc ciselé pour le rendre escaladable ! (Le bloc ciselé doit avoir au moins 8 voxels)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-locktool-*",
+  "en": "Right click on your chiseled block with this tool to prevent anyone else from copying your block with the pantograph.",
+  "fr": "Faites un clic droit sur votre bloc ciselé avec cet outil pour empêcher quiconque d'autre de copier votre bloc avec le pantographe."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-megapantograph-*",
+  "en": "Forged in the mighty heart of your creativity, it is the fusion of the Pantograph, the Hand Wedge, and the Hand Planer. Adds at least six or seven functions to the pantograph.",
+  "fr": "Forgé dans le cœur puissant de votre créativité, c'est la fusion du Pantographe, du Coin à Main et du Rabot à Main. Ajoute au moins six ou sept fonctions au pantographe."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-paintbrush-*",
+  "en": "Replaces the targeted voxel with the material in your first hotbar slot. Also will change the material into a creative color block if you have a bucket of dye in the slot. Shift+Right click to add the material to the chiseled object.",
+  "fr": "Remplace le voxel ciblé par le matériau présent dans votre premier emplacement de la barre d'accès rapide. Changera aussi le matériau en bloc de couleur créative si vous avez un seau de teinture dans l'emplacement. Maj+Clic droit pour ajouter le matériau à l'objet ciselé."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-paintscraper-*",
+  "en": "Right click to remove unused & duplicate materials from a chiseled block.",
+  "fr": "Faites un clic droit pour retirer les matériaux inutilisés et dupliqués d'un bloc ciselé."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-palette-glow",
+  "en": "Access glow colours - visible in the dark but don't really add light to the world. Press F to select color, right click to change a target voxel to that colour or shift+right click to add this colour to the selected chiseled block. Also works as a block source for QP Chisels, Paintbrushes, and pantographs.",
+  "fr": "Accédez aux couleurs lumineuses - visibles dans le noir mais n'ajoutent pas vraiment de lumière au monde. Appuyez sur F pour sélectionner une couleur, clic droit pour changer un voxel ciblé vers cette couleur ou Maj+clic droit pour ajouter cette couleur au bloc ciselé sélectionné. Fonctionne aussi comme source de blocs pour les Ciseaux QP, les Pinceaux et les pantographes."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-palette-light",
+  "en": "Create powerful light blocks! Expensive to use! In general you will get better lighting results if this is the first material in your chiseled block. Press F to select color, right click to change a target voxel to that colour or shift+right click to add this colour to the selected chiseled block. Also works as a block source for QP Chisels, Paintbrushes, and pantographs.",
+  "fr": "Créez des blocs de lumière puissants ! Coûteux à utiliser ! En général, vous obtiendrez de meilleurs résultats d'éclairage si celui-ci est le premier matériau de votre bloc ciselé. Appuyez sur F pour sélectionner une couleur, clic droit pour changer un voxel ciblé vers cette couleur ou Maj+clic droit pour ajouter cette couleur au bloc ciselé sélectionné. Fonctionne aussi comme source de blocs pour les Ciseaux QP, les Pinceaux et les pantographes."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-palette-standard",
+  "en": "Access creative block colours plus a few extras! Press F to select color, right click to change a target voxel to that colour or shift+right click to add this colour to the selected chiseled block. Also works as a block source for QP Chisels, Paintbrushes, and pantographs.",
+  "fr": "Accédez aux couleurs de blocs créatifs ainsi qu'à quelques extras ! Appuyez sur F pour sélectionner une couleur, clic droit pour changer un voxel ciblé vers cette couleur ou Maj+clic droit pour ajouter cette couleur au bloc ciselé sélectionné. Fonctionne aussi comme source de blocs pour les Ciseaux QP, les Pinceaux et les pantographes."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-pantograph-*",
+  "en": "Allows for copying of another chiseled blocks shape. Press F for options! To save the shape currently in your pantograph to disk enter <strong>.pf save <filename</strong><br><br>Press Look at a chiseled block and press P to open your portfolio (all your saved shapes) <strong>Left Click to copy a shape, Right Click to perform action</strong> Can be crafted into a door tool",
+  "fr": "Permet de copier la forme d'un autre bloc ciselé. Appuyez sur F pour les options ! Pour sauvegarder la forme actuellement dans votre pantographe sur le disque, entrez <strong>.pf save <nomdefichier</strong><br><br>Regardez un bloc ciselé et appuyez sur P pour ouvrir votre portfolio (toutes vos formes sauvegardées) <strong>Clic Gauche pour copier une forme, Clic Droit pour effectuer une action</strong> Peut être refabriqué en outil de porte"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-pathmaker-*",
+  "en": "Turn chiseled blocks into paths (increases movement speed). Must have paths in inventory!",
+  "fr": "Transformez des blocs ciselés en chemins (augmente la vitesse de déplacement). Vous devez avoir des chemins dans votre inventaire !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-simplepantograph-*",
+  "en": "Allows for copying of another chiseled blocks shape. Press F for options! <strong>Left Click to copy a shape, Right Click to perform action</strong> Craft into a full Pantograph for even more options!",
+  "fr": "Permet de copier la forme d'un autre bloc ciselé. Appuyez sur F pour les options ! <strong>Clic Gauche pour copier une forme, Clic Droit pour effectuer une action</strong> Fabriquez-le en Pantographe complet pour encore plus d'options !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-truechisel-*bronze",
+  "en": "Enhanced version of the standard chisel. In draw mode left click to pick a color, right click to draw with that color. (Will add materials if possible)",
+  "fr": "Version améliorée du ciseau standard. En mode dessin, clic gauche pour choisir une couleur, clic droit pour dessiner avec cette couleur. (Ajoutera des matériaux si possible)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-truechisel-iron",
+  "en": "Enhanced version of the standard chisel. In draw mode left click to pick a color, right click to draw with that color. (Will add materials if possible)",
+  "fr": "Version améliorée du ciseau standard. En mode dessin, clic gauche pour choisir une couleur, clic droit pour dessiner avec cette couleur. (Ajoutera des matériaux si possible)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-truechisel-meteoriciron",
+  "en": "Enhanced version of the standard chisel. In draw mode left click to pick a color, right click to draw with that color. (Will add materials if possible)",
+  "fr": "Version améliorée du ciseau standard. En mode dessin, clic gauche pour choisir une couleur, clic droit pour dessiner avec cette couleur. (Ajoutera des matériaux si possible)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-truechisel-steel",
+  "en": "A hammerless, ultra-high durability chisel for those who wish to pay the price. Note - the recipe consumes the hammer! (You owe me Dampus) In draw mode left click to pick a color, right click to draw with that color. (Will add materials if possible)",
+  "fr": "Un ciseau sans marteau, d'une durabilité ultra-élevée pour ceux qui veulent en payer le prix. Remarque : la recette consomme le marteau ! (Tu me le dois, Dampus) En mode dessin, clic gauche pour choisir une couleur, clic droit pour dessiner avec cette couleur. (Ajoutera des matériaux si possible)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-truechisel-ult",
+  "en": "You are not worthy!",
+  "fr": "Vous n'êtes pas digne !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-tunningcylinder-ct1",
+  "en": "Please bow and raise your true chisels while this plays. Show some respect people!",
+  "fr": "Veuillez vous incliner et lever vos véritables ciseaux pendant que ceci joue. Montrez un peu de respect !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-tunningcylinder-ct2",
+  "en": "Take Up Arms, Fight!",
+  "fr": "Prenez les armes, combattez !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-tunningcylinder-ct3",
+  "en": "Leeeeeeeeeeeeeeeroy Jenkins!",
+  "fr": "Leeeeeeeeeeeeeeeroy Jenkins !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-tunningcylinder-ct4",
+  "en": "NO ONE SHOULD LISTEN TO THIS",
+  "fr": "PERSONNE NE DEVRAIT ÉCOUTER CECI"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "itemdesc-tunningcylinder-ct5",
+  "en": "NO ONE SHOULD LISTEN TO THIS",
+  "fr": "PERSONNE NE DEVRAIT ÉCOUTER CECI"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "ladder",
+  "en": "Ladder",
+  "fr": "Échelle"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "leftclicktocopyrightclicktopaste",
+  "en": "Left Click to Copy, Right Click to Paste",
+  "fr": "Clic Gauche pour Copier, Clic Droit pour Coller"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "loaderror",
+  "en": "Load Error - does file exist?",
+  "fr": "Erreur de Chargement - le fichier existe-t-il ?"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "loadfromportfolio",
+  "en": "Load from Portfolio into held pantograph",
+  "fr": "Charger depuis le Portfolio dans le pantographe en main"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "lookatchiseled",
+  "en": "Please look at a chiseled block first!",
+  "fr": "Veuillez d'abord regarder un bloc ciselé !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "lookatdoor",
+  "en": "Please look at a chiseled door first (and be close)",
+  "fr": "Veuillez d'abord regarder une porte ciselée (et être à proximité)"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "materials",
+  "en": " materials",
+  "fr": " matériaux"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "mirrorblock",
+  "en": "Mirror Block",
+  "fr": "Bloc Miroir"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "mirrorpaste",
+  "en": "Mirror & Paste",
+  "fr": "Miroir et Coller"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "moveblock",
+  "en": "Move Block",
+  "fr": "Déplacer le Bloc"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "needcreative",
+  "en": "Sorry you must be creative mode to use this feature!",
+  "fr": "Désolé, vous devez être en mode créatif pour utiliser cette fonctionnalité !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "needdoorsoundpermission",
+  "en": "Sorry you require the adddoorsound privilege or creative mode to use the doorsound function!",
+  "fr": "Désolé, vous avez besoin du privilège adddoorsound ou du mode créatif pour utiliser la fonction de son de porte !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "nofilename",
+  "en": "Please provide a filename",
+  "fr": "Veuillez fournir un nom de fichier"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "nofiles",
+  "en": "No files saved in portfolio!",
+  "fr": "Aucun fichier sauvegardé dans le portfolio !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "nomatch",
+  "en": "No matching shapes found!",
+  "fr": "Aucune forme correspondante trouvée !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "nopanto",
+  "en": "No Pantograph or pantograph has no copied data.",
+  "fr": "Aucun Pantographe ou le pantographe n'a aucune donnée copiée."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "notenoughmaterials",
+  "en": "Sorry the chiseled block in this item doesn't have enough materials for your shape!",
+  "fr": "Désolé, le bloc ciselé de cet objet n'a pas assez de matériaux pour votre forme !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "notenoughmaterialstopastefirstmissingmat",
+  "en": "Not enough materials to paste! (First missing mat:",
+  "fr": "Pas assez de matériaux pour coller ! (Premier matériau manquant :"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "nullinventory",
+  "en": "null inventory",
+  "fr": "inventaire nul"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "open",
+  "en": "OPEN",
+  "fr": "OUVRIR"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "openbrowser",
+  "en": "Open portfolio browser",
+  "fr": "Ouvrir le navigateur de portfolio"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "openportfolio",
+  "en": "Open Pantograph Portfolio",
+  "fr": "Ouvrir le Portfolio du Pantographe"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "pastematerialsonly",
+  "en": "Paste Materials Only",
+  "fr": "Coller Uniquement les Matériaux"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "pasteshapeandmaterials",
+  "en": "Paste Shape and Materials",
+  "fr": "Coller la Forme et les Matériaux"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "pasteshapeonly",
+  "en": "Paste Shape Only",
+  "fr": "Coller uniquement la forme"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "portfolio",
+  "en": "PORTFOLIO",
+  "fr": "PORTFOLIO"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "portfoliobrowser",
+  "en": "Pantograph Portfolio",
+  "fr": "Portfolio du Pantographe"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "portfoliolist",
+  "en": "Portfolio List",
+  "fr": "Liste du Portfolio"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "portfoliomatching",
+  "en": "Portfolio Contents matching",
+  "fr": "Contenu du Portfolio correspondant"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "portfoliosearch",
+  "en": "Portfolio Search",
+  "fr": "Recherche dans le Portfolio"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "renamechiseledblock",
+  "en": "Rename Chiseled Block",
+  "fr": "Renommer le Bloc Ciselé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "reset",
+  "en": "Reset chisel tools settings to defaults",
+  "fr": "Réinitialiser les paramètres des outils de ciselage aux valeurs par défaut"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "rotateblock",
+  "en": "Rotate Block",
+  "fr": "Faire Pivoter le Bloc"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "saved",
+  "en": "Saved",
+  "fr": "Sauvegardé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "savefilename",
+  "en": "filename if you want to save current pantograph shape",
+  "fr": "nom de fichier si vous voulez sauvegarder la forme actuelle du pantographe"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "saveshape",
+  "en": "SAVE SHAPE",
+  "fr": "SAUVEGARDER LA FORME"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "saveshapemouseover",
+  "en": "Click to save the selected pantograph's shape to your portfolio",
+  "fr": "Cliquez pour sauvegarder la forme du pantographe sélectionné dans votre portfolio"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "savetoportfolio",
+  "en": "Save to Portfolio",
+  "fr": "Sauvegarder dans le Portfolio"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "searchshapes",
+  "en": "SEARCH SHAPES",
+  "fr": "RECHERCHER DES FORMES"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "setdoorsound",
+  "en": "Set Chiseled Door Sound",
+  "fr": "Définir le Son de Porte Ciselée"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "setpantodamage",
+  "en": "Set how fast hand pantograph gets damaged when used.",
+  "fr": "Définit la vitesse à laquelle le pantographe à main s'endommage à l'usage."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "setplanerdamage",
+  "en": "Set how fast hand planer gets damaged when used.",
+  "fr": "Définit la vitesse à laquelle le rabot à main s'endommage à l'usage."
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "sorrycannotpastematerialsfromportfolioshapes",
+  "en": "Sorry cannot paste materials from portfolio shapes!",
+  "fr": "Désolé, impossible de coller les matériaux depuis les formes du portfolio !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "textureflip",
+  "en": "Flip Textures",
+  "fr": "Retourner les Textures"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "thisblockiscopyprotected!",
+  "en": "This Block is Copy Protected!",
+  "fr": "Ce Bloc est Protégé Contre la Copie !"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "topantographfromportolio!uses",
+  "en": " to pantograph from portolio! (Uses ",
+  "fr": " vers le pantographe depuis le portfolio ! (Utilisations "
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "undolastblockchange",
+  "en": "Undo Last Block Change",
+  "fr": "Annuler le Dernier Changement de Bloc"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "weird",
+  "en": "Something weird happened with this chiseled block",
+  "fr": "Quelque chose d'étrange s'est produit avec ce bloc ciselé"
+ },
+ {
+  "dom": "chiseltools",
+  "cle": "yourpantograph",
+  "en": "YOUR PANTOGRAPH",
+  "fr": "VOTRE PANTOGRAPHE"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-bismuthbronze",
+  "en": "Bismuth Bronze Goblet",
+  "fr": "Gobelet en bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-blackbronze",
+  "en": "Black Bronze Goblet",
+  "fr": "Gobelet en bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-brass",
+  "en": "Brass Goblet",
+  "fr": "Gobelet en laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-copper",
+  "en": "Copper Goblet",
+  "fr": "Gobelet en cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-gold",
+  "en": "Royal Goblet",
+  "fr": "Gobelet royal"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-iron",
+  "en": "Iron Goblet",
+  "fr": "Gobelet en fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-amethyst",
+  "en": "Bismuth Bronze & Amethyst Goblet",
+  "fr": "Gobelet en bronze de bismuth et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-cinnabar",
+  "en": "Bismuth Bronze & Cinnabar Goblet",
+  "fr": "Gobelet en bronze de bismuth et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-diamond",
+  "en": "Bismuth Bronze & Diamond Goblet",
+  "fr": "Gobelet en bronze de bismuth et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-emerald",
+  "en": "Bismuth Bronze & Emerald Goblet",
+  "fr": "Gobelet en bronze de bismuth et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gaazurite",
+  "en": "Bismuth Bronze & Azurite Goblet",
+  "fr": "Gobelet en bronze de bismuth et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gaberylbixbite",
+  "en": "Bismuth Bronze & Bixbite Goblet",
+  "fr": "Gobelet en bronze de bismuth et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gachalcopyrite",
+  "en": "Bismuth Bronze & Chalcopyrite Goblet",
+  "fr": "Gobelet en bronze de bismuth et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gacorundumsapphire",
+  "en": "Bismuth Bronze & Sapphire Goblet",
+  "fr": "Gobelet en bronze de bismuth et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gajade",
+  "en": "Bismuth Bronze & Jade Goblet",
+  "fr": "Gobelet en bronze de bismuth et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gapyrite",
+  "en": "Bismuth Bronze & Pyrite Goblet",
+  "fr": "Gobelet en bronze de bismuth et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gasmithsonite",
+  "en": "Bismuth Bronze & Smithsonite Goblet",
+  "fr": "Gobelet en bronze de bismuth et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gatopazamber",
+  "en": "Bismuth Bronze & Amber Topaz Goblet",
+  "fr": "Gobelet en bronze de bismuth et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gatopazblue",
+  "en": "Bismuth Bronze & Blue Topaz Goblet",
+  "fr": "Gobelet en bronze de bismuth et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gatopazpink",
+  "en": "Bismuth Bronze & Pink Topaz Goblet",
+  "fr": "Gobelet en bronze de bismuth et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-gawulfenite",
+  "en": "Bismuth Bronze & Wulfenite Goblet",
+  "fr": "Gobelet en bronze de bismuth et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-lapislazuli",
+  "en": "Bismuth Bronze & Lapis Lazuli Goblet",
+  "fr": "Gobelet en bronze de bismuth et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-malachite",
+  "en": "Bismuth Bronze & Malachite Goblet",
+  "fr": "Gobelet en bronze de bismuth et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-olivine",
+  "en": "Bismuth Bronze & Olivine Goblet",
+  "fr": "Gobelet en bronze de bismuth et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-onyx",
+  "en": "Bismuth Bronze & Onyx Goblet",
+  "fr": "Gobelet en bronze de bismuth et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-quartz",
+  "en": "Bismuth Bronze & Quartz Goblet",
+  "fr": "Gobelet en bronze de bismuth et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-rosequartz",
+  "en": "Bismuth Bronze & Rose Quartz Goblet",
+  "fr": "Gobelet en bronze de bismuth et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-ruby",
+  "en": "Bismuth Bronze & Ruby Goblet",
+  "fr": "Gobelet en bronze de bismuth et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-bismuthbronze-turquoise",
+  "en": "Bismuth Bronze & Turquoise Goblet",
+  "fr": "Gobelet en bronze de bismuth et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-amethyst",
+  "en": "Black Bronze & Amethyst Goblet",
+  "fr": "Gobelet en bronze noir et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-cinnabar",
+  "en": "Black Bronze & Cinnabar Goblet",
+  "fr": "Gobelet en bronze noir et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-diamond",
+  "en": "Black Bronze & Diamond Goblet",
+  "fr": "Gobelet en bronze noir et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-emerald",
+  "en": "Black Bronze & Emerald Goblet",
+  "fr": "Gobelet en bronze noir et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gaazurite",
+  "en": "Black Bronze & Azurite Goblet",
+  "fr": "Gobelet en bronze noir et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gaberylbixbite",
+  "en": "Black Bronze & Bixbite Goblet",
+  "fr": "Gobelet en bronze noir et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gachalcopyrite",
+  "en": "Black Bronze & Chalcopyrite Goblet",
+  "fr": "Gobelet en bronze noir et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gacorundumsapphire",
+  "en": "Black Bronze & Sapphire Goblet",
+  "fr": "Gobelet en bronze noir et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gajade",
+  "en": "Black Bronze & Jade Goblet",
+  "fr": "Gobelet en bronze noir et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gapyrite",
+  "en": "Black Bronze & Pyrite Goblet",
+  "fr": "Gobelet en bronze noir et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gasmithsonite",
+  "en": "Black Bronze & Smithsonite Goblet",
+  "fr": "Gobelet en bronze noir et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gatopazamber",
+  "en": "Black Bronze & Amber Topaz Goblet",
+  "fr": "Gobelet en bronze noir et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gatopazblue",
+  "en": "Black Bronze & Blue Topaz Goblet",
+  "fr": "Gobelet en bronze noir et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gatopazpink",
+  "en": "Black Bronze & Pink Topaz Goblet",
+  "fr": "Gobelet en bronze noir et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-gawulfenite",
+  "en": "Black Bronze & Wulfenite Goblet",
+  "fr": "Gobelet en bronze noir et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-lapislazuli",
+  "en": "Black Bronze & Lapis Lazuli Goblet",
+  "fr": "Gobelet en bronze noir et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-malachite",
+  "en": "Black Bronze & Malachite Goblet",
+  "fr": "Gobelet en bronze noir et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-olivine",
+  "en": "Black Bronze & Olivine Goblet",
+  "fr": "Gobelet en bronze noir et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-onyx",
+  "en": "Black Bronze & Onyx Goblet",
+  "fr": "Gobelet en bronze noir et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-quartz",
+  "en": "Black Bronze & Quartz Goblet",
+  "fr": "Gobelet en bronze noir et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-rosequartz",
+  "en": "Black Bronze & Rose Quartz Goblet",
+  "fr": "Gobelet en bronze noir et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-ruby",
+  "en": "Black Bronze & Ruby Goblet",
+  "fr": "Gobelet en bronze noir et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-blackbronze-turquoise",
+  "en": "Black Bronze & Turquoise Goblet",
+  "fr": "Gobelet en bronze noir et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-amethyst",
+  "en": "Brass & Amethyst Goblet",
+  "fr": "Gobelet en laiton et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-cinnabar",
+  "en": "Brass & Cinnabar Goblet",
+  "fr": "Gobelet en laiton et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-diamond",
+  "en": "Brass & Diamond Goblet",
+  "fr": "Gobelet en laiton et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-emerald",
+  "en": "Brass & Emerald Goblet",
+  "fr": "Gobelet en laiton et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gaazurite",
+  "en": "Brass & Azurite Goblet",
+  "fr": "Gobelet en laiton et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gaberylbixbite",
+  "en": "Brass & Bixbite Goblet",
+  "fr": "Gobelet en laiton et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gachalcopyrite",
+  "en": "Brass & Chalcopyrite Goblet",
+  "fr": "Gobelet en laiton et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gacorundumsapphire",
+  "en": "Brass & Sapphire Goblet",
+  "fr": "Gobelet en laiton et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gajade",
+  "en": "Brass & Jade Goblet",
+  "fr": "Gobelet en laiton et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gapyrite",
+  "en": "Brass & Pyrite Goblet",
+  "fr": "Gobelet en laiton et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gasmithsonite",
+  "en": "Brass & Smithsonite Goblet",
+  "fr": "Gobelet en laiton et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gatopazamber",
+  "en": "Brass & Amber Topaz Goblet",
+  "fr": "Gobelet en laiton et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gatopazblue",
+  "en": "Brass & Blue Topaz Goblet",
+  "fr": "Gobelet en laiton et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gatopazpink",
+  "en": "Brass & Pink Topaz Goblet",
+  "fr": "Gobelet en laiton et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-gawulfenite",
+  "en": "Brass & Wulfenite Goblet",
+  "fr": "Gobelet en laiton et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-lapislazuli",
+  "en": "Brass & Lapis Lazuli Goblet",
+  "fr": "Gobelet en laiton et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-malachite",
+  "en": "Brass & Malachite Goblet",
+  "fr": "Gobelet en laiton et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-olivine",
+  "en": "Brass & Olivine Goblet",
+  "fr": "Gobelet en laiton et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-onyx",
+  "en": "Brass & Onyx Goblet",
+  "fr": "Gobelet en laiton et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-quartz",
+  "en": "Brass & Quartz Goblet",
+  "fr": "Gobelet en laiton et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-rosequartz",
+  "en": "Brass & Rose Quartz Goblet",
+  "fr": "Gobelet en laiton et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-ruby",
+  "en": "Brass & Ruby Goblet",
+  "fr": "Gobelet en laiton et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-brass-turquoise",
+  "en": "Brass & Turquoise Goblet",
+  "fr": "Gobelet en laiton et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-amethyst",
+  "en": "Copper & Amethyst Goblet",
+  "fr": "Gobelet en cuivre et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-cinnabar",
+  "en": "Copper & Cinnabar Goblet",
+  "fr": "Gobelet en cuivre et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-diamond",
+  "en": "Copper & Diamond Goblet",
+  "fr": "Gobelet en cuivre et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-emerald",
+  "en": "Copper & Emerald Goblet",
+  "fr": "Gobelet en cuivre et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gaazurite",
+  "en": "Copper & Azurite Goblet",
+  "fr": "Gobelet en cuivre et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gaberylbixbite",
+  "en": "Copper & Bixbite Goblet",
+  "fr": "Gobelet en cuivre et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gachalcopyrite",
+  "en": "Copper & Chalcopyrite Goblet",
+  "fr": "Gobelet en cuivre et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gacorundumsapphire",
+  "en": "Copper & Sapphire Goblet",
+  "fr": "Gobelet en cuivre et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gajade",
+  "en": "Copper & Jade Goblet",
+  "fr": "Gobelet en cuivre et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gapyrite",
+  "en": "Copper & Pyrite Goblet",
+  "fr": "Gobelet en cuivre et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gasmithsonite",
+  "en": "Copper & Smithsonite Goblet",
+  "fr": "Gobelet en cuivre et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gatopazamber",
+  "en": "Copper & Amber Topaz Goblet",
+  "fr": "Gobelet en cuivre et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gatopazblue",
+  "en": "Copper & Blue Topaz Goblet",
+  "fr": "Gobelet en cuivre et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gatopazpink",
+  "en": "Copper & Pink Topaz Goblet",
+  "fr": "Gobelet en cuivre et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-gawulfenite",
+  "en": "Copper & Wulfenite Goblet",
+  "fr": "Gobelet en cuivre et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-lapislazuli",
+  "en": "Copper & Lapis Lazuli Goblet",
+  "fr": "Gobelet en cuivre et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-malachite",
+  "en": "Copper & Malachite Goblet",
+  "fr": "Gobelet en cuivre et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-olivine",
+  "en": "Copper & Olivine Goblet",
+  "fr": "Gobelet en cuivre et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-onyx",
+  "en": "Copper & Onyx Goblet",
+  "fr": "Gobelet en cuivre et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-quartz",
+  "en": "Copper & Quartz Goblet",
+  "fr": "Gobelet en cuivre et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-rosequartz",
+  "en": "Copper & Rose Quartz Goblet",
+  "fr": "Gobelet en cuivre et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-ruby",
+  "en": "Copper & Ruby Goblet",
+  "fr": "Gobelet en cuivre et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-copper-turquoise",
+  "en": "Copper & Turquoise Goblet",
+  "fr": "Gobelet en cuivre et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-amethyst",
+  "en": "Gold & Amethyst Goblet",
+  "fr": "Gobelet en or et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-cinnabar",
+  "en": "Gold & Cinnabar Goblet",
+  "fr": "Gobelet en or et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-diamond",
+  "en": "Gold & Diamond Goblet",
+  "fr": "Gobelet en or et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-emerald",
+  "en": "Gold & Emerald Goblet",
+  "fr": "Gobelet en or et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gaazurite",
+  "en": "Gold & Azurite Goblet",
+  "fr": "Gobelet en or et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gaberylbixbite",
+  "en": "Gold & Bixbite Goblet",
+  "fr": "Gobelet en or et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gachalcopyrite",
+  "en": "Gold & Chalcopyrite Goblet",
+  "fr": "Gobelet en or et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gacorundumsapphire",
+  "en": "Gold & Sapphire Goblet",
+  "fr": "Gobelet en or et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gajade",
+  "en": "Gold & Jade Goblet",
+  "fr": "Gobelet en or et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gapyrite",
+  "en": "Gold & Pyrite Goblet",
+  "fr": "Gobelet en or et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gasmithsonite",
+  "en": "Gold & Smithsonite Goblet",
+  "fr": "Gobelet en or et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gatopazamber",
+  "en": "Gold & Amber Topaz Goblet",
+  "fr": "Gobelet en or et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gatopazblue",
+  "en": "Gold & Blue Topaz Goblet",
+  "fr": "Gobelet en or et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gatopazpink",
+  "en": "Gold & Pink Topaz Goblet",
+  "fr": "Gobelet en or et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-gawulfenite",
+  "en": "Gold & Wulfenite Goblet",
+  "fr": "Gobelet en or et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-lapislazuli",
+  "en": "Gold & Lapis Lazuli Goblet",
+  "fr": "Gobelet en or et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-malachite",
+  "en": "Gold & Malachite Goblet",
+  "fr": "Gobelet en or et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-olivine",
+  "en": "Gold & Olivine Goblet",
+  "fr": "Gobelet en or et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-onyx",
+  "en": "Gold & Onyx Goblet",
+  "fr": "Gobelet en or et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-quartz",
+  "en": "Gold & Quartz Goblet",
+  "fr": "Gobelet en or et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-rosequartz",
+  "en": "Gold & Rose Quartz Goblet",
+  "fr": "Gobelet en or et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-ruby",
+  "en": "Gold & Ruby Goblet",
+  "fr": "Gobelet en or et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-gold-turquoise",
+  "en": "Gold & Turquoise Goblet",
+  "fr": "Gobelet en or et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-amethyst",
+  "en": "Iron & Amethyst Goblet",
+  "fr": "Gobelet en fer et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-cinnabar",
+  "en": "Iron & Cinnabar Goblet",
+  "fr": "Gobelet en fer et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-diamond",
+  "en": "Iron & Diamond Goblet",
+  "fr": "Gobelet en fer et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-emerald",
+  "en": "Iron & Emerald Goblet",
+  "fr": "Gobelet en fer et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gaazurite",
+  "en": "Iron & Azurite Goblet",
+  "fr": "Gobelet en fer et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gaberylbixbite",
+  "en": "Iron & Bixbite Goblet",
+  "fr": "Gobelet en fer et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gachalcopyrite",
+  "en": "Iron & Chalcopyrite Goblet",
+  "fr": "Gobelet en fer et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gacorundumsapphire",
+  "en": "Iron & Sapphire Goblet",
+  "fr": "Gobelet en fer et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gajade",
+  "en": "Iron & Jade Goblet",
+  "fr": "Gobelet en fer et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gapyrite",
+  "en": "Iron & Pyrite Goblet",
+  "fr": "Gobelet en fer et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gasmithsonite",
+  "en": "Iron & Smithsonite Goblet",
+  "fr": "Gobelet en fer et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gatopazamber",
+  "en": "Iron & Amber Topaz Goblet",
+  "fr": "Gobelet en fer et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gatopazblue",
+  "en": "Iron & Blue Topaz Goblet",
+  "fr": "Gobelet en fer et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gatopazpink",
+  "en": "Iron & Pink Topaz Goblet",
+  "fr": "Gobelet en fer et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-gawulfenite",
+  "en": "Iron & Wulfenite Goblet",
+  "fr": "Gobelet en fer et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-lapislazuli",
+  "en": "Iron & Lapis Lazuli Goblet",
+  "fr": "Gobelet en fer et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-malachite",
+  "en": "Iron & Malachite Goblet",
+  "fr": "Gobelet en fer et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-olivine",
+  "en": "Iron & Olivine Goblet",
+  "fr": "Gobelet en fer et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-onyx",
+  "en": "Iron & Onyx Goblet",
+  "fr": "Gobelet en fer et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-quartz",
+  "en": "Iron & Quartz Goblet",
+  "fr": "Gobelet en fer et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-rosequartz",
+  "en": "Iron & Rose Quartz Goblet",
+  "fr": "Gobelet en fer et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-ruby",
+  "en": "Iron & Ruby Goblet",
+  "fr": "Gobelet en fer et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-iron-turquoise",
+  "en": "Iron & Turquoise Goblet",
+  "fr": "Gobelet en fer et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-amethyst",
+  "en": "Meteoric Iron & Amethyst Goblet",
+  "fr": "Gobelet en fer météorique et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-cinnabar",
+  "en": "Meteoric Iron & Cinnabar Goblet",
+  "fr": "Gobelet en fer météorique et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-diamond",
+  "en": "Meteoric Iron & Diamond Goblet",
+  "fr": "Gobelet en fer météorique et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-emerald",
+  "en": "Meteoric Iron & Emerald Goblet",
+  "fr": "Gobelet en fer météorique et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gaazurite",
+  "en": "Meteoric Iron & Azurite Goblet",
+  "fr": "Gobelet en fer météorique et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gaberylbixbite",
+  "en": "Meteoric Iron & Bixbite Goblet",
+  "fr": "Gobelet en fer météorique et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gachalcopyrite",
+  "en": "Meteoric Iron & Chalcopyrite Goblet",
+  "fr": "Gobelet en fer météorique et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gacorundumsapphire",
+  "en": "Meteoric Iron & Sapphire Goblet",
+  "fr": "Gobelet en fer météorique et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gajade",
+  "en": "Meteoric Iron & Jade Goblet",
+  "fr": "Gobelet en fer météorique et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gapyrite",
+  "en": "Meteoric Iron & Pyrite Goblet",
+  "fr": "Gobelet en fer météorique et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gasmithsonite",
+  "en": "Meteoric Iron & Smithsonite Goblet",
+  "fr": "Gobelet en fer météorique et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gatopazamber",
+  "en": "Meteoric Iron & Amber Topaz Goblet",
+  "fr": "Gobelet en fer météorique et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gatopazblue",
+  "en": "Meteoric Iron & Blue Topaz Goblet",
+  "fr": "Gobelet en fer météorique et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gatopazpink",
+  "en": "Meteoric Iron & Pink Topaz Goblet",
+  "fr": "Gobelet en fer météorique et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-gawulfenite",
+  "en": "Meteoric Iron & Wulfenite Goblet",
+  "fr": "Gobelet en fer météorique et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-lapislazuli",
+  "en": "Meteoric Iron & Lapis Lazuli Goblet",
+  "fr": "Gobelet en fer météorique et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-malachite",
+  "en": "Meteoric Iron & Malachite Goblet",
+  "fr": "Gobelet en fer météorique et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-olivine",
+  "en": "Meteoric Iron & Olivine Goblet",
+  "fr": "Gobelet en fer météorique et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-onyx",
+  "en": "Meteoric Iron & Onyx Goblet",
+  "fr": "Gobelet en fer météorique et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-quartz",
+  "en": "Meteoric Iron & Quartz Goblet",
+  "fr": "Gobelet en fer météorique et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-rosequartz",
+  "en": "Meteoric Iron & Rose Quartz Goblet",
+  "fr": "Gobelet en fer météorique et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-ruby",
+  "en": "Meteoric Iron & Ruby Goblet",
+  "fr": "Gobelet en fer météorique et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-meteoriciron-turquoise",
+  "en": "Meteoric Iron & Turquoise Goblet",
+  "fr": "Gobelet en fer météorique et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-amethyst",
+  "en": "Platinum & Amethyst Goblet",
+  "fr": "Gobelet en platine et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-cinnabar",
+  "en": "Platinum & Cinnabar Goblet",
+  "fr": "Gobelet en platine et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-diamond",
+  "en": "Platinum & Diamond Goblet",
+  "fr": "Gobelet en platine et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-emerald",
+  "en": "Platinum & Emerald Goblet",
+  "fr": "Gobelet en platine et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gaazurite",
+  "en": "Platinum & Azurite Goblet",
+  "fr": "Gobelet en platine et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gaberylbixbite",
+  "en": "Platinum & Bixbite Goblet",
+  "fr": "Gobelet en platine et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gachalcopyrite",
+  "en": "Platinum & Chalcopyrite Goblet",
+  "fr": "Gobelet en platine et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gacorundumsapphire",
+  "en": "Platinum & Sapphire Goblet",
+  "fr": "Gobelet en platine et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gajade",
+  "en": "Platinum & Jade Goblet",
+  "fr": "Gobelet en platine et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gapyrite",
+  "en": "Platinum & Pyrite Goblet",
+  "fr": "Gobelet en platine et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gasmithsonite",
+  "en": "Platinum & Smithsonite Goblet",
+  "fr": "Gobelet en platine et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gatopazamber",
+  "en": "Platinum & Amber Topaz Goblet",
+  "fr": "Gobelet en platine et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gatopazblue",
+  "en": "Platinum & Blue Topaz Goblet",
+  "fr": "Gobelet en platine et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gatopazpink",
+  "en": "Platinum & Pink Topaz Goblet",
+  "fr": "Gobelet en platine et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-gawulfenite",
+  "en": "Platinum & Wulfenite Goblet",
+  "fr": "Gobelet en platine et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-lapislazuli",
+  "en": "Platinum & Lapis Lazuli Goblet",
+  "fr": "Gobelet en platine et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-malachite",
+  "en": "Platinum & Malachite Goblet",
+  "fr": "Gobelet en platine et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-olivine",
+  "en": "Platinum & Olivine Goblet",
+  "fr": "Gobelet en platine et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-onyx",
+  "en": "Platinum & Onyx Goblet",
+  "fr": "Gobelet en platine et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-quartz",
+  "en": "Platinum & Quartz Goblet",
+  "fr": "Gobelet en platine et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-rosequartz",
+  "en": "Platinum & Rose Quartz Goblet",
+  "fr": "Gobelet en platine et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-ruby",
+  "en": "Platinum & Ruby Goblet",
+  "fr": "Gobelet en platine et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-platinum-turquoise",
+  "en": "Platinum & Turquoise Goblet",
+  "fr": "Gobelet en platine et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-amethyst",
+  "en": "Silver & Amethyst Goblet",
+  "fr": "Gobelet en argent et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-cinnabar",
+  "en": "Silver & Cinnabar Goblet",
+  "fr": "Gobelet en argent et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-diamond",
+  "en": "Silver & Diamond Goblet",
+  "fr": "Gobelet en argent et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-emerald",
+  "en": "Silver & Emerald Goblet",
+  "fr": "Gobelet en argent et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gaazurite",
+  "en": "Silver & Azurite Goblet",
+  "fr": "Gobelet en argent et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gaberylbixbite",
+  "en": "Silver & Bixbite Goblet",
+  "fr": "Gobelet en argent et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gachalcopyrite",
+  "en": "Silver & Chalcopyrite Goblet",
+  "fr": "Gobelet en argent et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gacorundumsapphire",
+  "en": "Silver & Sapphire Goblet",
+  "fr": "Gobelet en argent et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gajade",
+  "en": "Silver & Jade Goblet",
+  "fr": "Gobelet en argent et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gapyrite",
+  "en": "Silver & Pyrite Goblet",
+  "fr": "Gobelet en argent et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gasmithsonite",
+  "en": "Silver & Smithsonite Goblet",
+  "fr": "Gobelet en argent et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gatopazamber",
+  "en": "Silver & Amber Topaz Goblet",
+  "fr": "Gobelet en argent et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gatopazblue",
+  "en": "Silver & Blue Topaz Goblet",
+  "fr": "Gobelet en argent et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gatopazpink",
+  "en": "Silver & Pink Topaz Goblet",
+  "fr": "Gobelet en argent et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-gawulfenite",
+  "en": "Silver & Wulfenite Goblet",
+  "fr": "Gobelet en argent et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-lapislazuli",
+  "en": "Silver & Lapis Lazuli Goblet",
+  "fr": "Gobelet en argent et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-malachite",
+  "en": "Silver & Malachite Goblet",
+  "fr": "Gobelet en argent et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-olivine",
+  "en": "Silver & Olivine Goblet",
+  "fr": "Gobelet en argent et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-onyx",
+  "en": "Silver & Onyx Goblet",
+  "fr": "Gobelet en argent et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-quartz",
+  "en": "Silver & Quartz Goblet",
+  "fr": "Gobelet en argent et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-rosequartz",
+  "en": "Silver & Rose Quartz Goblet",
+  "fr": "Gobelet en argent et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-ruby",
+  "en": "Silver & Ruby Goblet",
+  "fr": "Gobelet en argent et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-silver-turquoise",
+  "en": "Silver & Turquoise Goblet",
+  "fr": "Gobelet en argent et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-amethyst",
+  "en": "Steel & Amethyst Goblet",
+  "fr": "Gobelet en acier et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-cinnabar",
+  "en": "Steel & Cinnabar Goblet",
+  "fr": "Gobelet en acier et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-diamond",
+  "en": "Steel & Diamond Goblet",
+  "fr": "Gobelet en acier et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-emerald",
+  "en": "Steel & Emerald Goblet",
+  "fr": "Gobelet en acier et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gaazurite",
+  "en": "Steel & Azurite Goblet",
+  "fr": "Gobelet en acier et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gaberylbixbite",
+  "en": "Steel & Bixbite Goblet",
+  "fr": "Gobelet en acier et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gachalcopyrite",
+  "en": "Steel & Chalcopyrite Goblet",
+  "fr": "Gobelet en acier et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gacorundumsapphire",
+  "en": "Steel & Sapphire Goblet",
+  "fr": "Gobelet en acier et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gajade",
+  "en": "Steel & Jade Goblet",
+  "fr": "Gobelet en acier et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gapyrite",
+  "en": "Steel & Pyrite Goblet",
+  "fr": "Gobelet en acier et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gasmithsonite",
+  "en": "Steel & Smithsonite Goblet",
+  "fr": "Gobelet en acier et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gatopazamber",
+  "en": "Steel & Amber Topaz Goblet",
+  "fr": "Gobelet en acier et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gatopazblue",
+  "en": "Steel & Blue Topaz Goblet",
+  "fr": "Gobelet en acier et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gatopazpink",
+  "en": "Steel & Pink Topaz Goblet",
+  "fr": "Gobelet en acier et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-gawulfenite",
+  "en": "Steel & Wulfenite Goblet",
+  "fr": "Gobelet en acier et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-lapislazuli",
+  "en": "Steel & Lapis Lazuli Goblet",
+  "fr": "Gobelet en acier et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-malachite",
+  "en": "Steel & Malachite Goblet",
+  "fr": "Gobelet en acier et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-olivine",
+  "en": "Steel & Olivine Goblet",
+  "fr": "Gobelet en acier et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-onyx",
+  "en": "Steel & Onyx Goblet",
+  "fr": "Gobelet en acier et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-quartz",
+  "en": "Steel & Quartz Goblet",
+  "fr": "Gobelet en acier et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-rosequartz",
+  "en": "Steel & Rose Quartz Goblet",
+  "fr": "Gobelet en acier et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-ruby",
+  "en": "Steel & Ruby Goblet",
+  "fr": "Gobelet en acier et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-steel-turquoise",
+  "en": "Steel & Turquoise Goblet",
+  "fr": "Gobelet en acier et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-amethyst",
+  "en": "Tin Bronze & Amethyst Goblet",
+  "fr": "Gobelet en bronze d'étain et améthyste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-cinnabar",
+  "en": "Tin Bronze & Cinnabar Goblet",
+  "fr": "Gobelet en bronze d'étain et cinabre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-diamond",
+  "en": "Tin Bronze & Diamond Goblet",
+  "fr": "Gobelet en bronze d'étain et diamant"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-emerald",
+  "en": "Tin Bronze & Emerald Goblet",
+  "fr": "Gobelet en bronze d'étain et émeraude"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gaazurite",
+  "en": "Tin Bronze & Azurite Goblet",
+  "fr": "Gobelet en bronze d'étain et azurite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gaberylbixbite",
+  "en": "Tin Bronze & Bixbite Goblet",
+  "fr": "Gobelet en bronze d'étain et bixbite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gachalcopyrite",
+  "en": "Tin Bronze & Chalcopyrite Goblet",
+  "fr": "Gobelet en bronze d'étain et chalcopyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gacorundumsapphire",
+  "en": "Tin Bronze & Sapphire Goblet",
+  "fr": "Gobelet en bronze d'étain et saphir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gajade",
+  "en": "Tin Bronze & Jade Goblet",
+  "fr": "Gobelet en bronze d'étain et jade"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gapyrite",
+  "en": "Tin Bronze & Pyrite Goblet",
+  "fr": "Gobelet en bronze d'étain et pyrite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gasmithsonite",
+  "en": "Tin Bronze & Smithsonite Goblet",
+  "fr": "Gobelet en bronze d'étain et smithsonite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gatopazamber",
+  "en": "Tin Bronze & Amber Topaz Goblet",
+  "fr": "Gobelet en bronze d'étain et topaze ambre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gatopazblue",
+  "en": "Tin Bronze & Blue Topaz Goblet",
+  "fr": "Gobelet en bronze d'étain et topaze bleue"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gatopazpink",
+  "en": "Tin Bronze & Pink Topaz Goblet",
+  "fr": "Gobelet en bronze d'étain et topaze rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-gawulfenite",
+  "en": "Tin Bronze & Wulfenite Goblet",
+  "fr": "Gobelet en bronze d'étain et wulfénite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-lapislazuli",
+  "en": "Tin Bronze & Lapis Lazuli Goblet",
+  "fr": "Gobelet en bronze d'étain et lapis-lazuli"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-malachite",
+  "en": "Tin Bronze & Malachite Goblet",
+  "fr": "Gobelet en bronze d'étain et malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-olivine",
+  "en": "Tin Bronze & Olivine Goblet",
+  "fr": "Gobelet en bronze d'étain et olivine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-onyx",
+  "en": "Tin Bronze & Onyx Goblet",
+  "fr": "Gobelet en bronze d'étain et onyx"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-quartz",
+  "en": "Tin Bronze & Quartz Goblet",
+  "fr": "Gobelet en bronze d'étain et quartz"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-rosequartz",
+  "en": "Tin Bronze & Rose Quartz Goblet",
+  "fr": "Gobelet en bronze d'étain et quartz rose"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-ruby",
+  "en": "Tin Bronze & Ruby Goblet",
+  "fr": "Gobelet en bronze d'étain et rubis"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-jeweled-tinbronze-turquoise",
+  "en": "Tin Bronze & Turquoise Goblet",
+  "fr": "Gobelet en bronze d'étain et turquoise"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-lead",
+  "en": "Lead Goblet",
+  "fr": "Gobelet en plomb"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-meteoriciron",
+  "en": "Heaven's Goblet",
+  "fr": "Gobelet céleste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-platinum",
+  "en": "Platinum Goblet",
+  "fr": "Gobelet en platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-silver",
+  "en": "Silver Goblet",
+  "fr": "Gobelet en argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-steel",
+  "en": "Steel Goblet",
+  "fr": "Gobelet en acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-goblet-tinbronze",
+  "en": "Tin Bronze Goblet",
+  "fr": "Gobelet en bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-goblet-glass",
+  "en": "Glass Goblet",
+  "fr": "Gobelet en verre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-largedemijohn-null-*",
+  "en": "Large Demijohn Bottle",
+  "fr": "Grande dame-jeanne"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-largedemijohn-wicker-*",
+  "en": "Large Wicker Demijohn",
+  "fr": "Grande demijohn en osier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-mug",
+  "en": "Mug",
+  "fr": "Chope"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-smalldemijohn-null-*",
+  "en": "Small Demijohn Bottle",
+  "fr": "Petite dame-jeanne"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-smalldemijohn-wicker-*",
+  "en": "Small Wicker Demijohn",
+  "fr": "Petite demijohn en osier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-tankard-glass",
+  "en": "Glass Tankard",
+  "fr": "Chope en verre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-winebottle-*",
+  "en": "Glass Bottle",
+  "fr": "Bouteille en verre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-t&g-winebottle-wicker-*",
+  "en": "Wicker Bottle",
+  "fr": "Bouteille en osier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-bismuthbronze",
+  "en": "Bismuth Bronze Tankard",
+  "fr": "Chope en bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-blackbronze",
+  "en": "Black Bronze Tankard",
+  "fr": "Chope en bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-brass",
+  "en": "Brass Tankard",
+  "fr": "Chope en laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-copper",
+  "en": "Copper Tankard",
+  "fr": "Chope en cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-gold",
+  "en": "Royal Tankard",
+  "fr": "Chope royale"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-iron",
+  "en": "Iron Tankard",
+  "fr": "Chope en fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-lead",
+  "en": "Lead Tankard",
+  "fr": "Chope en plomb"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-meteoriciron",
+  "en": "Heaven's Tankard",
+  "fr": "Chope céleste"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-platinum",
+  "en": "Platinum Tankard",
+  "fr": "Chope en platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-silver",
+  "en": "Silver Tankard",
+  "fr": "Chope en argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-steel",
+  "en": "Steel Tankard",
+  "fr": "Chope en acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-metal-tinbronze",
+  "en": "Tin Bronze Tankard",
+  "fr": "Chope en bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-wood",
+  "en": "Basic Wooden Tankard",
+  "fr": "Chope en bois simple"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-bismuth",
+  "en": "Bismuth-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-bismuthbronze",
+  "en": "Bismuth bronze-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-blackbronze",
+  "en": "Black bronze-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-brass",
+  "en": "Brass-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-copper",
+  "en": "Copper-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-cupronickel",
+  "en": "Cupronickel-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-gold",
+  "en": "Gold-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-iron",
+  "en": "Iron-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-leather*",
+  "en": "Leather-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-malachite",
+  "en": "Malachite-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-meteoriciron",
+  "en": "Meteoric iron-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-nickel",
+  "en": "Nickel-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-platinum",
+  "en": "Platinum-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-silver",
+  "en": "Silver-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-steel",
+  "en": "Steel-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-acacia.-tinbronze",
+  "en": "Tin Bronze-bound Acacia Tankard",
+  "fr": "Chope en acacia avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-bismuth",
+  "en": "Bismuth-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-bismuthbronze",
+  "en": "Bismuth bronze-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-blackbronze",
+  "en": "Black bronze-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-brass",
+  "en": "Brass-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-copper",
+  "en": "Copper-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-cupronickel",
+  "en": "Cupronickel-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-gold",
+  "en": "Gold-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-iron",
+  "en": "Iron-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-leather*",
+  "en": "Leather-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-malachite",
+  "en": "Malachite-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-meteoriciron",
+  "en": "Meteoric iron-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-nickel",
+  "en": "Nickel-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-platinum",
+  "en": "Platinum-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-silver",
+  "en": "Silver-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-steel",
+  "en": "Steel-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-aged.-tinbronze",
+  "en": "Tin Bronze-bound Aged Tankard",
+  "fr": "Chope vieillie avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-bismuth",
+  "en": "Bismuth-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-bismuthbronze",
+  "en": "Bismuth bronze-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-blackbronze",
+  "en": "Black bronze-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-brass",
+  "en": "Brass-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-copper",
+  "en": "Copper-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-cupronickel",
+  "en": "Cupronickel-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-gold",
+  "en": "Gold-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-iron",
+  "en": "Iron-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-leather*",
+  "en": "Leather-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-malachite",
+  "en": "Malachite-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-meteoriciron",
+  "en": "Meteoric iron-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-nickel",
+  "en": "Nickel-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-platinum",
+  "en": "Platinum-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-silver",
+  "en": "Silver-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-steel",
+  "en": "Steel-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-baldcypress.-tinbronze",
+  "en": "Tin Bronze-bound Bald Cypress Tankard",
+  "fr": "Chope en cyprès chauve avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-bismuth",
+  "en": "Bismuth-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-bismuthbronze",
+  "en": "Bismuth bronze-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-blackbronze",
+  "en": "Black bronze-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-brass",
+  "en": "Brass-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-copper",
+  "en": "Copper-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-cupronickel",
+  "en": "Cupronickel-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-gold",
+  "en": "Gold-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-iron",
+  "en": "Iron-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-leather*",
+  "en": "Leather-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-malachite",
+  "en": "Malachite-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-meteoriciron",
+  "en": "Meteoric iron-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-nickel",
+  "en": "Nickel-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-platinum",
+  "en": "Platinum-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-silver",
+  "en": "Silver-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-steel",
+  "en": "Steel-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-birch.-tinbronze",
+  "en": "Tin Bronze-bound Birch Tankard",
+  "fr": "Chope en bouleau avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-bismuth",
+  "en": "Bismuth-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-bismuthbronze",
+  "en": "Bismuth bronze-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-blackbronze",
+  "en": "Black bronze-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-brass",
+  "en": "Brass-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-copper",
+  "en": "Copper-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-cupronickel",
+  "en": "Cupronickel-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-gold",
+  "en": "Gold-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-iron",
+  "en": "Iron-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-leather*",
+  "en": "Leather-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-malachite",
+  "en": "Malachite-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-meteoriciron",
+  "en": "Meteoric iron-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-nickel",
+  "en": "Nickel-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-platinum",
+  "en": "Platinum-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-silver",
+  "en": "Silver-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-steel",
+  "en": "Steel-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-ebony.-tinbronze",
+  "en": "Tin Bronze-bound Ebony Tankard",
+  "fr": "Chope en ébène avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-bismuth",
+  "en": "Bismuth-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-bismuthbronze",
+  "en": "Bismuth bronze-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-blackbronze",
+  "en": "Black bronze-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-brass",
+  "en": "Brass-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-copper",
+  "en": "Copper-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-cupronickel",
+  "en": "Cupronickel-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-gold",
+  "en": "Gold-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-iron",
+  "en": "Iron-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-leather*",
+  "en": "Leather-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-malachite",
+  "en": "Malachite-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-meteoriciron",
+  "en": "Meteoric iron-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-nickel",
+  "en": "Nickel-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-platinum",
+  "en": "Platinum-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-silver",
+  "en": "Silver-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-steel",
+  "en": "Steel-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-kapok.-tinbronze",
+  "en": "Tin Bronze-bound Kapok Tankard",
+  "fr": "Chope en kapok avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-bismuth",
+  "en": "Bismuth-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-bismuthbronze",
+  "en": "Bismuth bronze-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-blackbronze",
+  "en": "Black bronze-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-brass",
+  "en": "Brass-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-copper",
+  "en": "Copper-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-cupronickel",
+  "en": "Cupronickel-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-gold",
+  "en": "Gold-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-iron",
+  "en": "Iron-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-leather*",
+  "en": "Leather-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-malachite",
+  "en": "Malachite-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-meteoriciron",
+  "en": "Meteoric iron-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-nickel",
+  "en": "Nickel-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-platinum",
+  "en": "Platinum-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-silver",
+  "en": "Silver-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-steel",
+  "en": "Steel-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-larch.-tinbronze",
+  "en": "Tin Bronze-bound Larch Tankard",
+  "fr": "Chope en mélèze avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-bismuth",
+  "en": "Bismuth-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-bismuthbronze",
+  "en": "Bismuth bronze-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-blackbronze",
+  "en": "Black bronze-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-brass",
+  "en": "Brass-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-copper",
+  "en": "Copper-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-cupronickel",
+  "en": "Cupronickel-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-gold",
+  "en": "Gold-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-iron",
+  "en": "Iron-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-leather*",
+  "en": "Leather-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-malachite",
+  "en": "Malachite-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-meteoriciron",
+  "en": "Meteoric iron-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-nickel",
+  "en": "Nickel-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-platinum",
+  "en": "Platinum-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-silver",
+  "en": "Silver-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-steel",
+  "en": "Steel-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-maple.-tinbronze",
+  "en": "Tin Bronze-bound Maple Tankard",
+  "fr": "Chope en érable avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-bismuth",
+  "en": "Bismuth-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-bismuthbronze",
+  "en": "Bismuth bronze-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-blackbronze",
+  "en": "Black bronze-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-brass",
+  "en": "Brass-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-copper",
+  "en": "Copper-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-cupronickel",
+  "en": "Cupronickel-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-gold",
+  "en": "Gold-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-iron",
+  "en": "Iron-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-leather*",
+  "en": "Leather-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-malachite",
+  "en": "Malachite-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-meteoriciron",
+  "en": "Meteoric iron-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-nickel",
+  "en": "Nickel-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-platinum",
+  "en": "Platinum-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-silver",
+  "en": "Silver-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-steel",
+  "en": "Steel-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-oak.-tinbronze",
+  "en": "Tin Bronze-bound Oak Tankard",
+  "fr": "Chope en chêne avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-bismuth",
+  "en": "Bismuth-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-bismuthbronze",
+  "en": "Bismuth bronze-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-blackbronze",
+  "en": "Black bronze-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-brass",
+  "en": "Brass-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-copper",
+  "en": "Copper-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-cupronickel",
+  "en": "Cupronickel-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-gold",
+  "en": "Gold-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-iron",
+  "en": "Iron-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-leather*",
+  "en": "Leather-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-malachite",
+  "en": "Malachite-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-meteoriciron",
+  "en": "Meteoric iron-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-nickel",
+  "en": "Nickel-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-platinum",
+  "en": "Platinum-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-silver",
+  "en": "Silver-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-steel",
+  "en": "Steel-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-pine.-tinbronze",
+  "en": "Tin Bronze-bound Pine Tankard",
+  "fr": "Chope en pin avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-bismuth",
+  "en": "Bismuth-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-bismuthbronze",
+  "en": "Bismuth bronze-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-blackbronze",
+  "en": "Black bronze-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-brass",
+  "en": "Brass-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-copper",
+  "en": "Copper-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-cupronickel",
+  "en": "Cupronickel-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-gold",
+  "en": "Gold-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-iron",
+  "en": "Iron-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-leather*",
+  "en": "Leather-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-malachite",
+  "en": "Malachite-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-meteoriciron",
+  "en": "Meteoric iron-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-nickel",
+  "en": "Nickel-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-platinum",
+  "en": "Platinum-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-silver",
+  "en": "Silver-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-steel",
+  "en": "Steel-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-purpleheart.-tinbronze",
+  "en": "Tin Bronze-bound Purpleheart Tankard",
+  "fr": "Chope en padauk avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-bismuth",
+  "en": "Bismuth-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-bismuthbronze",
+  "en": "Bismuth bronze-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-blackbronze",
+  "en": "Black bronze-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-brass",
+  "en": "Brass-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-copper",
+  "en": "Copper-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-cupronickel",
+  "en": "Cupronickel-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-gold",
+  "en": "Gold-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-iron",
+  "en": "Iron-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-leather*",
+  "en": "Leather-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-malachite",
+  "en": "Malachite-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-meteoriciron",
+  "en": "Meteoric iron-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-nickel",
+  "en": "Nickel-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-platinum",
+  "en": "Platinum-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-silver",
+  "en": "Silver-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-steel",
+  "en": "Steel-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-redwood.-tinbronze",
+  "en": "Tin Bronze-bound Redwood Tankard",
+  "fr": "Chope en séquoia avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-bismuth",
+  "en": "Bismuth-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-bismuthbronze",
+  "en": "Bismuth bronze-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de bronze de bismuth"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-blackbronze",
+  "en": "Black bronze-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de bronze noir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-brass",
+  "en": "Brass-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de laiton"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-copper",
+  "en": "Copper-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de cuivre"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-cupronickel",
+  "en": "Cupronickel-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de cupronickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-gold",
+  "en": "Gold-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure d'or"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-iron",
+  "en": "Iron-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de fer"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-leather*",
+  "en": "Leather-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de cuir"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-malachite",
+  "en": "Malachite-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de malachite"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-meteoriciron",
+  "en": "Meteoric iron-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de fer météorique"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-nickel",
+  "en": "Nickel-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de nickel"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-platinum",
+  "en": "Platinum-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de platine"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-silver",
+  "en": "Silver-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure d'argent"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-steel",
+  "en": "Steel-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure d'acier"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "block-tankard-woodtype-walnut.-tinbronze",
+  "en": "Tin Bronze-bound Walnut Tankard",
+  "fr": "Chope en noyer avec ferrure de bronze d'étain"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-goblet-*",
+  "en": "Capacity: 1L",
+  "fr": "Capacité : 1 L"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-goblet-jeweled-*",
+  "en": "Capacity: 0.5L",
+  "fr": "Capacité : 0,5 L"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-goblet-lead",
+  "en": "Capacity: 1L<br>Probably not safe to drink from...",
+  "fr": "Capacité : 1 L<br>Probablement pas sûr pour boire..."
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-t&g-largedemijohn-*",
+  "en": "Capacity: 25L",
+  "fr": "Capacité : 25 L"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-t&g-smalldemijohn-*",
+  "en": "Capacity: 5L",
+  "fr": "Capacité : 5 L"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-t&g-winebottle-*",
+  "en": "Capacity: 2L",
+  "fr": "Capacité : 2 L"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-tankard-metal-*",
+  "en": "Capacity: 1L",
+  "fr": "Capacité : 1 L"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-tankard-metal-lead",
+  "en": "Capacity: 1L<br>Probably not safe to drink from...",
+  "fr": "Capacité : 1 L<br>Probablement pas sûr pour boire..."
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-tankard-wood",
+  "en": "Capacity: 1L<br>How can we know how far we've come without a reminder of where we started?",
+  "fr": "Capacité : 1 L<br>Comment pourrions-nous savoir jusqu'où nous sommes allés sans un rappel d'où nous venons?"
+ },
+ {
+  "dom": "tankardsandgoblets",
+  "cle": "blockdesc-tankard-woodtype-*-*",
+  "en": "Capacity: 1L",
+  "fr": "Capacité : 1 L"
+ }
+]

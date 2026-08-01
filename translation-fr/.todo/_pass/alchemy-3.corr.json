@@ -1,0 +1,51 @@
+[
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionAnimalLootDrop",
+    "avant": "Huile empoisonnée : butin animal (%)",
+    "apres": "Butin d'animaux de l'huile empoisonnée (%)",
+    "motif": "Incohérence interne : les quatre entrées équivalentes (Predator/Regen/ScentMask/Speed) rendent toutes « animal loot drop % » par « Butin d'animaux de/du X (%) », jamais par une structure à deux-points."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionAnimalLootDrop-Comment",
+    "avant": "Butin animal supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé).",
+    "apres": "Butin animal supplémentaire ajouté par l'huile empoisonnée, mis à l'échelle par la puissance de la potion. Par défaut 0 (désactivé).",
+    "motif": "Incohérence interne : « mis à l'échelle par la puissance » est la formule utilisée partout ailleurs dans le lot, « selon » n'apparaît que trois fois, toutes dans cette section."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionAnimalSeekingRange",
+    "avant": "Huile empoisonnée : portée de détection des animaux (%)",
+    "apres": "Portée de détection des animaux de l'huile empoisonnée (%)",
+    "motif": "Incohérence interne : même correction que PoisonPotionAnimalLootDrop, pour aligner sur la structure utilisée par toutes les entrées équivalentes des autres potions."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionAnimalSeekingRange-Comment",
+    "avant": "Portée de détection des animaux supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé).",
+    "apres": "Portée de détection des animaux supplémentaire ajoutée par l'huile empoisonnée, mise à l'échelle par la puissance de la potion. Par défaut 0 (désactivé).",
+    "motif": "Incohérence interne : « mis à l'échelle par la puissance » est la formule utilisée partout ailleurs dans le lot, « selon » n'apparaît que trois fois, toutes dans cette section."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionDrinkingDamage",
+    "avant": "Flacon d'huile empoisonnée : changement de santé au moment de boire",
+    "apres": "Changement de santé du flacon de poison à la consommation",
+    "motif": "Incohérence interne : les trois clés sœurs (PoisonPotionDrinkingIntoxication/Psychedelic/SaturationLoss) désignent l'objet par « flacon de poison » et utilisent « à la consommation », comme le fait le même groupe de clés pour toutes les autres potions."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon d'huile empoisonnée : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de poison : changement de santé à la consommation. Cette valeur s'ajoute au montant global et est mise à l'échelle par la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)",
+    "motif": "Incohérence interne : formulation réalignée sur les trois clés sœurs identiques, mot pour mot ailleurs dans le lot (« flacon de poison », « à la consommation », « mis à l'échelle par », « la diminuent »)."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonExtraEffects-Config",
+    "avant": "Effets supplémentaires/secondaires de l'huile empoisonnée",
+    "apres": "Effets secondaires/supplémentaires de l'huile empoisonnée",
+    "motif": "Incohérence interne : les quatre entrées équivalentes (Predator/Regen/ScentMask/Speed ExtraEffects-Config) utilisent toutes l'ordre « secondaires/supplémentaires »."
+  }
+]

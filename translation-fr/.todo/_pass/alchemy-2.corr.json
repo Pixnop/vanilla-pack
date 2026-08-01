@@ -1,0 +1,1304 @@
+[
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingDamage",
+    "avant": "Flacon d'huile puissante : changement de santé au moment de boire",
+    "apres": "Flacon d'huile puissante : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon d'huile puissante : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon d'huile puissante : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingIntoxication",
+    "avant": "Flacon d'huile puissante : changement d'intoxication au moment de boire",
+    "apres": "Flacon d'huile puissante : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon d'huile puissante : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon d'huile puissante : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingPsychedelic",
+    "avant": "Flacon d'huile puissante : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon d'huile puissante : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon d'huile puissante : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon d'huile puissante : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingSaturationLoss",
+    "avant": "Flacon d'huile puissante : changement de saturation au moment de boire",
+    "apres": "Flacon d'huile puissante : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon d'huile puissante : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon d'huile puissante : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionForageDrop",
+    "avant": "Huile puissante : butin de cueillette (%)",
+    "apres": "Huile puissante : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionGearDrop",
+    "avant": "Huile puissante : butin d'équipement (%)",
+    "apres": "Huile puissante : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionHealth",
+    "avant": "Huile puissante : changement de santé",
+    "apres": "Huile puissante : changement de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionHealthTickSec",
+    "avant": "Huile puissante : intervalle des ticks de santé",
+    "apres": "Huile puissante : intervalle des ticks de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionHungerRate",
+    "avant": "Huile puissante : taux de faim (%)",
+    "apres": "Huile puissante : taux de faim (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionMaxHealth",
+    "avant": "Huile puissante : santé maximale",
+    "apres": "Huile puissante : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionMeleeDamage",
+    "avant": "Huile puissante : dégâts de mêlée (%)",
+    "apres": "Huile puissante : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionMiningSpeed",
+    "avant": "Huile puissante : vitesse de minage (%)",
+    "apres": "Huile puissante : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionOreDrop",
+    "avant": "Huile puissante : butin de minerai (%)",
+    "apres": "Huile puissante : butin de minerai (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionRangedAccuracy",
+    "avant": "Huile puissante : précision à distance (%)",
+    "apres": "Huile puissante : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionRangedDamage",
+    "avant": "Huile puissante : dégâts à distance (%)",
+    "apres": "Huile puissante : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionRangedSpeed",
+    "avant": "Huile puissante : vitesse à distance (%)",
+    "apres": "Huile puissante : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionVesselContentsDrop",
+    "avant": "Huile puissante : butin de contenu de récipient (%)",
+    "apres": "Huile puissante : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionWalkSpeed",
+    "avant": "Huile puissante : vitesse de déplacement (%)",
+    "apres": "Huile puissante : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionWildCropDrop",
+    "avant": "Huile puissante : butin de récolte sauvage (%)",
+    "apres": "Huile puissante : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionAnimalLootDrop",
+    "avant": "Décoction purgative : butin animal (%)",
+    "apres": "Décoction purgative : butin animal (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionAnimalSeekingRange",
+    "avant": "Décoction purgative : portée de détection des animaux (%)",
+    "apres": "Décoction purgative : portée de détection des animaux (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingDamage",
+    "avant": "Flacon de décoction purgative : changement de santé au moment de boire",
+    "apres": "Flacon de décoction purgative : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon de décoction purgative : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction purgative : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingIntoxication",
+    "avant": "Flacon de décoction purgative : changement d'intoxication au moment de boire",
+    "apres": "Flacon de décoction purgative : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon de décoction purgative : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction purgative : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingPsychedelic",
+    "avant": "Flacon de décoction purgative : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon de décoction purgative : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon de décoction purgative : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction purgative : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingSaturationLoss",
+    "avant": "Flacon de décoction purgative : changement de saturation au moment de boire",
+    "apres": "Flacon de décoction purgative : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon de décoction purgative : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction purgative : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionForageDrop",
+    "avant": "Décoction purgative : butin de cueillette (%)",
+    "apres": "Décoction purgative : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionGearDrop",
+    "avant": "Décoction purgative : butin d'équipement (%)",
+    "apres": "Décoction purgative : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionHealingEffectiveness",
+    "avant": "Décoction purgative : efficacité de soin (%)",
+    "apres": "Décoction purgative : efficacité de soin (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionHealth",
+    "avant": "Décoction purgative : changement de santé",
+    "apres": "Décoction purgative : changement de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionHealthTickSec",
+    "avant": "Décoction purgative : intervalle des ticks de santé",
+    "apres": "Décoction purgative : intervalle des ticks de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionMaxHealth",
+    "avant": "Décoction purgative : santé maximale",
+    "apres": "Décoction purgative : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionMeleeDamage",
+    "avant": "Décoction purgative : dégâts de mêlée (%)",
+    "apres": "Décoction purgative : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionMiningSpeed",
+    "avant": "Décoction purgative : vitesse de minage (%)",
+    "apres": "Décoction purgative : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionOreDrop",
+    "avant": "Décoction purgative : butin de minerai (%)",
+    "apres": "Décoction purgative : butin de minerai (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionRangedAccuracy",
+    "avant": "Décoction purgative : précision à distance (%)",
+    "apres": "Décoction purgative : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionRangedDamage",
+    "avant": "Décoction purgative : dégâts à distance (%)",
+    "apres": "Décoction purgative : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionRangedSpeed",
+    "avant": "Décoction purgative : vitesse à distance (%)",
+    "apres": "Décoction purgative : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionVesselContentsDrop",
+    "avant": "Décoction purgative : butin de contenu de récipient (%)",
+    "apres": "Décoction purgative : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionWalkSpeed",
+    "avant": "Décoction purgative : vitesse de déplacement (%)",
+    "apres": "Décoction purgative : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionWildCropDrop",
+    "avant": "Décoction purgative : butin de récolte sauvage (%)",
+    "apres": "Décoction purgative : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionAnimalLootDrop",
+    "avant": "Décoction apaisante : butin animal (%)",
+    "apres": "Décoction apaisante : butin animal (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionAnimalSeekingRange",
+    "avant": "Décoction apaisante : portée de détection des animaux (%)",
+    "apres": "Décoction apaisante : portée de détection des animaux (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingDamage",
+    "avant": "Flacon de décoction apaisante : changement de santé au moment de boire",
+    "apres": "Flacon de décoction apaisante : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon de décoction apaisante : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction apaisante : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingIntoxication",
+    "avant": "Flacon de décoction apaisante : changement d'intoxication au moment de boire",
+    "apres": "Flacon de décoction apaisante : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon de décoction apaisante : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction apaisante : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingPsychedelic",
+    "avant": "Flacon de décoction apaisante : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon de décoction apaisante : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon de décoction apaisante : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction apaisante : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingSaturationLoss",
+    "avant": "Flacon de décoction apaisante : changement de saturation au moment de boire",
+    "apres": "Flacon de décoction apaisante : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon de décoction apaisante : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon de décoction apaisante : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionForageDrop",
+    "avant": "Décoction apaisante : butin de cueillette (%)",
+    "apres": "Décoction apaisante : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionGearDrop",
+    "avant": "Décoction apaisante : butin d'équipement (%)",
+    "apres": "Décoction apaisante : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionHealingEffectiveness",
+    "avant": "Décoction apaisante : efficacité de soin (%)",
+    "apres": "Décoction apaisante : efficacité de soin (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionHealth",
+    "avant": "Décoction apaisante : changement de santé",
+    "apres": "Décoction apaisante : changement de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionHealthTickSec",
+    "avant": "Décoction apaisante : intervalle des ticks de santé",
+    "apres": "Décoction apaisante : intervalle des ticks de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionMaxHealth",
+    "avant": "Décoction apaisante : santé maximale",
+    "apres": "Décoction apaisante : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionMeleeDamage",
+    "avant": "Décoction apaisante : dégâts de mêlée (%)",
+    "apres": "Décoction apaisante : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionMiningSpeed",
+    "avant": "Décoction apaisante : vitesse de minage (%)",
+    "apres": "Décoction apaisante : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionOreDrop",
+    "avant": "Décoction apaisante : butin de minerai (%)",
+    "apres": "Décoction apaisante : butin de minerai (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionRangedAccuracy",
+    "avant": "Décoction apaisante : précision à distance (%)",
+    "apres": "Décoction apaisante : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionRangedDamage",
+    "avant": "Décoction apaisante : dégâts à distance (%)",
+    "apres": "Décoction apaisante : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionRangedSpeed",
+    "avant": "Décoction apaisante : vitesse à distance (%)",
+    "apres": "Décoction apaisante : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionVesselContentsDrop",
+    "avant": "Décoction apaisante : butin de contenu de récipient (%)",
+    "apres": "Décoction apaisante : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionWalkSpeed",
+    "avant": "Décoction apaisante : vitesse de déplacement (%)",
+    "apres": "Décoction apaisante : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionWildCropDrop",
+    "avant": "Décoction apaisante : butin de récolte sauvage (%)",
+    "apres": "Décoction apaisante : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionAnimalDrop",
+    "avant": "Délice du chasseur : butin animal (%)",
+    "apres": "Délice du chasseur : butin animal (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionAnimalSeek",
+    "avant": "Délice du chasseur : portée de détection des animaux (%)",
+    "apres": "Délice du chasseur : portée de détection des animaux (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingDamage",
+    "avant": "Flacon du délice du chasseur : changement de santé au moment de boire",
+    "apres": "Flacon du délice du chasseur : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon du délice du chasseur : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du chasseur : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingIntoxication",
+    "avant": "Flacon du délice du chasseur : changement d'intoxication au moment de boire",
+    "apres": "Flacon du délice du chasseur : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon du délice du chasseur : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du chasseur : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingPsychedelic",
+    "avant": "Flacon du délice du chasseur : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon du délice du chasseur : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon du délice du chasseur : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du chasseur : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingSaturationLoss",
+    "avant": "Flacon du délice du chasseur : changement de saturation au moment de boire",
+    "apres": "Flacon du délice du chasseur : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon du délice du chasseur : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du chasseur : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionForageDrop",
+    "avant": "Délice du chasseur : butin de cueillette (%)",
+    "apres": "Délice du chasseur : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionGearDrop",
+    "avant": "Délice du chasseur : butin d'équipement (%)",
+    "apres": "Délice du chasseur : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionHealingEffectiveness",
+    "avant": "Délice du chasseur : efficacité de soin (%)",
+    "apres": "Délice du chasseur : efficacité de soin (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionHealth",
+    "avant": "Délice du chasseur : changement de santé",
+    "apres": "Délice du chasseur : changement de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionHealthTickSec",
+    "avant": "Délice du chasseur : intervalle des ticks de santé",
+    "apres": "Délice du chasseur : intervalle des ticks de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionHungerRate",
+    "avant": "Délice du chasseur : taux de faim (%)",
+    "apres": "Délice du chasseur : taux de faim (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionMaxHealth",
+    "avant": "Délice du chasseur : santé maximale",
+    "apres": "Délice du chasseur : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionMeleeDamage",
+    "avant": "Délice du chasseur : dégâts de mêlée (%)",
+    "apres": "Délice du chasseur : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionMiningSpeed",
+    "avant": "Délice du chasseur : vitesse de minage (%)",
+    "apres": "Délice du chasseur : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionOreDrop",
+    "avant": "Délice du chasseur : butin de minerai (%)",
+    "apres": "Délice du chasseur : butin de minerai (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionRangedAccuracy",
+    "avant": "Délice du chasseur : précision à distance (%)",
+    "apres": "Délice du chasseur : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionRangedDamage",
+    "avant": "Délice du chasseur : dégâts à distance (%)",
+    "apres": "Délice du chasseur : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionRangedSpeed",
+    "avant": "Délice du chasseur : vitesse à distance (%)",
+    "apres": "Délice du chasseur : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionVesselContentsDrop",
+    "avant": "Délice du chasseur : butin de contenu de récipient (%)",
+    "apres": "Délice du chasseur : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionWalkSpeed",
+    "avant": "Délice du chasseur : vitesse de déplacement (%)",
+    "apres": "Délice du chasseur : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionWildDrop",
+    "avant": "Délice du chasseur : butin de récolte sauvage (%)",
+    "apres": "Délice du chasseur : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionAnimalLootDrop",
+    "avant": "Délice du pillard : butin animal (%)",
+    "apres": "Délice du pillard : butin animal (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionAnimalSeekingRange",
+    "avant": "Délice du pillard : portée de détection des animaux (%)",
+    "apres": "Délice du pillard : portée de détection des animaux (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingDamage",
+    "avant": "Flacon du délice du pillard : changement de santé au moment de boire",
+    "apres": "Flacon du délice du pillard : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon du délice du pillard : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du pillard : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingIntoxication",
+    "avant": "Flacon du délice du pillard : changement d'intoxication au moment de boire",
+    "apres": "Flacon du délice du pillard : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon du délice du pillard : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du pillard : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingPsychedelic",
+    "avant": "Flacon du délice du pillard : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon du délice du pillard : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon du délice du pillard : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du pillard : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingSaturationLoss",
+    "avant": "Flacon du délice du pillard : changement de saturation au moment de boire",
+    "apres": "Flacon du délice du pillard : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon du délice du pillard : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du délice du pillard : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionForageDrop",
+    "avant": "Délice du pillard : butin de cueillette (%)",
+    "apres": "Délice du pillard : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionGearDrop",
+    "avant": "Délice du pillard : butin d'équipement (%)",
+    "apres": "Délice du pillard : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionGearDrop-Comment",
+    "avant": "Taux de butin d'équipement du délice du pillard !",
+    "apres": "Taux de butin d'équipement du délice du pillard !",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionHealingEffectiveness",
+    "avant": "Délice du pillard : efficacité de soin (%)",
+    "apres": "Délice du pillard : efficacité de soin (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionHealth",
+    "avant": "Délice du pillard : changement de santé",
+    "apres": "Délice du pillard : changement de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionHealthTickSec",
+    "avant": "Délice du pillard : intervalle des ticks de santé",
+    "apres": "Délice du pillard : intervalle des ticks de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionHungerRate",
+    "avant": "Délice du pillard : taux de faim (%)",
+    "apres": "Délice du pillard : taux de faim (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionMaxHealth",
+    "avant": "Délice du pillard : santé maximale",
+    "apres": "Délice du pillard : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionMeleeDamage",
+    "avant": "Délice du pillard : dégâts de mêlée (%)",
+    "apres": "Délice du pillard : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionMiningSpeed",
+    "avant": "Délice du pillard : vitesse de minage (%)",
+    "apres": "Délice du pillard : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionOreDrop",
+    "avant": "Délice du pillard : butin de minerai (%)",
+    "apres": "Délice du pillard : butin de minerai (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionRangedAccuracy",
+    "avant": "Délice du pillard : précision à distance (%)",
+    "apres": "Délice du pillard : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionRangedDamage",
+    "avant": "Délice du pillard : dégâts à distance (%)",
+    "apres": "Délice du pillard : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionRangedSpeed",
+    "avant": "Délice du pillard : vitesse à distance (%)",
+    "apres": "Délice du pillard : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionVesselContentDrop",
+    "avant": "Délice du pillard : butin de contenu de récipient (%)",
+    "apres": "Délice du pillard : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionWalkSpeed",
+    "avant": "Délice du pillard : vitesse de déplacement (%)",
+    "apres": "Délice du pillard : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionWildDrop",
+    "avant": "Délice du pillard : butin de récolte sauvage (%)",
+    "apres": "Délice du pillard : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionAnimalLootDrop",
+    "avant": "Flacon du guerrier : butin animal (%)",
+    "apres": "Flacon du guerrier : butin animal (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionAnimalSeekingRange",
+    "avant": "Flacon du guerrier : portée de détection des animaux (%)",
+    "apres": "Flacon du guerrier : portée de détection des animaux (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDamage",
+    "avant": "Flacon du guerrier : dégâts de mêlée (%)",
+    "apres": "Flacon du guerrier : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingDamage",
+    "avant": "Flacon du guerrier : changement de santé au moment de boire",
+    "apres": "Flacon du guerrier : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon du guerrier : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du guerrier : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingIntoxication",
+    "avant": "Flacon du guerrier : changement d'intoxication au moment de boire",
+    "apres": "Flacon du guerrier : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon du guerrier : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du guerrier : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingPsychedelic",
+    "avant": "Flacon du guerrier : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon du guerrier : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon du guerrier : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du guerrier : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingSaturationLoss",
+    "avant": "Flacon du guerrier : changement de saturation au moment de boire",
+    "apres": "Flacon du guerrier : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon du guerrier : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du guerrier : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionForageDrop",
+    "avant": "Flacon du guerrier : butin de cueillette (%)",
+    "apres": "Flacon du guerrier : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionGearDrop",
+    "avant": "Flacon du guerrier : butin d'équipement (%)",
+    "apres": "Flacon du guerrier : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionHealingEffectiveness",
+    "avant": "Flacon du guerrier : efficacité de soin (%)",
+    "apres": "Flacon du guerrier : efficacité de soin (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionHealth",
+    "avant": "Flacon du guerrier : changement de santé",
+    "apres": "Flacon du guerrier : changement de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionHealthTickSec",
+    "avant": "Flacon du guerrier : intervalle des ticks de santé",
+    "apres": "Flacon du guerrier : intervalle des ticks de santé",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionHungerRate",
+    "avant": "Flacon du guerrier : taux de faim (%)",
+    "apres": "Flacon du guerrier : taux de faim (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionMaxHealth",
+    "avant": "Flacon du guerrier : santé maximale",
+    "apres": "Flacon du guerrier : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionMiningSpeed",
+    "avant": "Flacon du guerrier : vitesse de minage (%)",
+    "apres": "Flacon du guerrier : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionOreDrop",
+    "avant": "Flacon du guerrier : butin de minerai (%)",
+    "apres": "Flacon du guerrier : butin de minerai (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionRangedAccuracy",
+    "avant": "Flacon du guerrier : précision à distance (%)",
+    "apres": "Flacon du guerrier : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionRangedDamage",
+    "avant": "Flacon du guerrier : dégâts à distance (%)",
+    "apres": "Flacon du guerrier : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionRangedSpeed",
+    "avant": "Flacon du guerrier : vitesse à distance (%)",
+    "apres": "Flacon du guerrier : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionVesselContentsDrop",
+    "avant": "Flacon du guerrier : butin de contenu de récipient (%)",
+    "apres": "Flacon du guerrier : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionWalkSpeed",
+    "avant": "Flacon du guerrier : vitesse de déplacement (%)",
+    "apres": "Flacon du guerrier : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MeleePotionWildCropDrop",
+    "avant": "Flacon du guerrier : butin de récolte sauvage (%)",
+    "apres": "Flacon du guerrier : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionAnimalLootDrop",
+    "avant": "Flacon du mineur : butin animal (%)",
+    "apres": "Flacon du mineur : butin animal (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionAnimalSeekingRange",
+    "avant": "Flacon du mineur : portée de détection des animaux (%)",
+    "apres": "Flacon du mineur : portée de détection des animaux (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingDamage",
+    "avant": "Flacon du mineur : changement de santé au moment de boire",
+    "apres": "Flacon du mineur : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon du mineur : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du mineur : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingIntoxication",
+    "avant": "Flacon du mineur : changement d'intoxication au moment de boire",
+    "apres": "Flacon du mineur : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon du mineur : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du mineur : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingPsychedelic",
+    "avant": "Flacon du mineur : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon du mineur : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon du mineur : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du mineur : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingSaturationLoss",
+    "avant": "Flacon du mineur : changement de saturation au moment de boire",
+    "apres": "Flacon du mineur : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon du mineur : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon du mineur : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle selon la puissance peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionForageDrop",
+    "avant": "Flacon du mineur : butin de cueillette (%)",
+    "apres": "Flacon du mineur : butin de cueillette (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionGearDrop",
+    "avant": "Flacon du mineur : butin d'équipement (%)",
+    "apres": "Flacon du mineur : butin d'équipement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionHealingEffectiveness",
+    "avant": "Flacon du mineur : efficacité de soin (%)",
+    "apres": "Flacon du mineur : efficacité de soin (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionHealthExtra",
+    "avant": "Flacon du mineur : santé supplémentaire par tick",
+    "apres": "Flacon du mineur : santé supplémentaire par tick",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionHealthExtraTickSec",
+    "avant": "Flacon du mineur : intervalle des ticks de santé supplémentaire",
+    "apres": "Flacon du mineur : intervalle des ticks de santé supplémentaire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionHungerRate",
+    "avant": "Flacon du mineur : taux de faim (%)",
+    "apres": "Flacon du mineur : taux de faim (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionMaxHealth",
+    "avant": "Flacon du mineur : santé maximale",
+    "apres": "Flacon du mineur : santé maximale",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionMeleeDamage",
+    "avant": "Flacon du mineur : dégâts de mêlée (%)",
+    "apres": "Flacon du mineur : dégâts de mêlée (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionOreDrop",
+    "avant": "Flacon du mineur : taux de butin de minerai",
+    "apres": "Flacon du mineur : taux de butin de minerai",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionRangedAccuracy",
+    "avant": "Flacon du mineur : précision à distance (%)",
+    "apres": "Flacon du mineur : précision à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionRangedDamage",
+    "avant": "Flacon du mineur : dégâts à distance (%)",
+    "apres": "Flacon du mineur : dégâts à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionRangedSpeed",
+    "avant": "Flacon du mineur : vitesse à distance (%)",
+    "apres": "Flacon du mineur : vitesse à distance (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionSpeed",
+    "avant": "Flacon du mineur : vitesse de minage (%)",
+    "apres": "Flacon du mineur : vitesse de minage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionVesselContentsDrop",
+    "avant": "Flacon du mineur : butin de contenu de récipient (%)",
+    "apres": "Flacon du mineur : butin de contenu de récipient (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionWalkSpeed",
+    "avant": "Flacon du mineur : vitesse de déplacement (%)",
+    "apres": "Flacon du mineur : vitesse de déplacement (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "MiningPotionWildCropDrop",
+    "avant": "Flacon du mineur : butin de récolte sauvage (%)",
+    "apres": "Flacon du mineur : butin de récolte sauvage (%)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingDamage",
+    "avant": "Flacon nutritif : changement de santé au moment de boire",
+    "apres": "Flacon nutritif : changement de santé au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingDamage-Comment",
+    "avant": "Effet secondaire du flacon nutritif : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon nutritif : changement de santé au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives diminuent la santé. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingIntoxication",
+    "avant": "Flacon nutritif : changement d'intoxication au moment de boire",
+    "apres": "Flacon nutritif : changement d'intoxication au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingIntoxication-Comment",
+    "avant": "Effet secondaire du flacon nutritif : changement de intoxication au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon nutritif : changement d'intoxication au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives diminuent l'intoxication. (0 = désactivé)",
+    "motif": "élision manquante (« de intoxication » → « d'intoxication ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingPsychedelic",
+    "avant": "Flacon nutritif : changement d'effet psychédélique au moment de boire",
+    "apres": "Flacon nutritif : changement d'effet psychédélique au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingPsychedelic-Comment",
+    "avant": "Effet secondaire du flacon nutritif : changement de effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon nutritif : changement d'effet psychédélique au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives diminuent les effets psychédéliques. (0 = désactivé)",
+    "motif": "élision manquante (« de effet » → « d'effet ») ; espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingSaturationLoss",
+    "avant": "Flacon nutritif : changement de saturation au moment de boire",
+    "apres": "Flacon nutritif : changement de saturation au moment de boire",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "NutritionPotionDrinkingSaturationLoss-Comment",
+    "avant": "Effet secondaire du flacon nutritif : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "apres": "Effet secondaire du flacon nutritif : changement de saturation au moment de boire. Cette valeur s'ajoute au montant global et n'est pas mise à l'échelle selon la puissance de la potion, car il s'agit de potions utilitaires. Il s'agit d'une valeur réelle, non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives diminuent la saturation. (0 = désactivé)",
+    "motif": "espace insécable manquante avant « : » ou « ! » (typographie française)"
+  }
+]

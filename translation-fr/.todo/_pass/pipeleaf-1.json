@@ -1,0 +1,5228 @@
+[
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-bodytemperature-buff",
+  "en": "You feel warm inside.",
+  "fr": "Vous vous sentez chaud à l'intérieur."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-bodytemperature-desc",
+  "en": "body temperature",
+  "fr": "température corporelle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-hungerrate-buff",
+  "en": "Your appetite is supressed.",
+  "fr": "Votre appétit est supprimé."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-hungerrate-debuff",
+  "en": "Smoking made you hungrier.",
+  "fr": "Fumer vous a donné plus faim."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-hungerrate-desc",
+  "en": "hunger rate",
+  "fr": "taux de faim"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-intoxication-debuff",
+  "en": "You feel kind of woozy.",
+  "fr": "Vous vous sentez un peu étourdi."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-intoxication-desc",
+  "en": "intoxication",
+  "fr": "intoxication"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-temporalstability-buff",
+  "en": "You feel focused and less inclined to insanity.",
+  "fr": "Vous vous sentez concentré et moins enclin à la folie."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-temporalstability-debuff",
+  "en": "The darkness surrounds you.",
+  "fr": "L'obscurité vous entoure."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-temporalstability-desc",
+  "en": "temporal stability",
+  "fr": "stabilité temporelle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-tiredness-debuff",
+  "en": "You feel a little napish.",
+  "fr": "Vous vous sentez un peu somnolent."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "effect-tiredness-desc",
+  "en": "tiredness",
+  "fr": "fatigue"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "game:block-flower-treeheath-free",
+  "en": "Tree Heath",
+  "fr": "Bruyère d'arbre"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "game:blockdesc-flower-treeheath-*",
+  "en": "Break with a shovel for a change to find a Briar Burl, an ingredient in the Briar Burl Smoking Pipe.",
+  "fr": "Cassez avec une pelle pour une chance de trouver une Racine de Bruyère, un ingrédient de la Pipe à tabac Racine de Bruyère."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "game:pipeleaf-guide-text",
+  "en": "<strong>Pipeleaf Guide</strong>\nThis mod adds smoking pipes, shag blends, and a smoking system.\nPipes are wearable items (equip them in the Face slot). They can be loaded with shag or shagblends and lit with a match.\nSome cut flowers and herbs (from Wildcraft mod) can be placed in a firepit to be fire-cured.  Then, grind the fired-cured material in a quern to produce shag. Based on the source plant material, different effects are applied when smoked.  Check the Handbook shag item types to learn what plants produce what effects!\nA new crop called Pipeleaf can be found in rainy temperate climates. Pipeleaf can be cultivated to produce Pipeleaf Shag. Using Pipeleaf Shag as a base, you can mix together two herb shags to produce a blend that combines some of the effects of both herbs!",
+  "fr": "<strong>Guide Pipeleaf</strong>\nCe mod ajoute des pipes à tabac, des mélanges de shag et un système de fumage.\nLes pipes sont des articles portables (équipez-les dans l'emplacement du visage). Elles peuvent être chargées avec du shag ou des mélanges de shag et allumées avec une allumette.\nCertaines fleurs et herbes coupées (du mod Wildcraft) peuvent être placées dans un foyer pour être séchées au feu. Ensuite, broyez le matériau séché au feu dans une meule pour produire du shag. En fonction du matériau végétal source, différents effets sont appliqués lorsqu'on fume. Consultez les types d'articles de shag du Manuel pour savoir quelles plantes produisent quels effets !\nUne nouvelle culture appelée Pipeleaf peut être trouvée dans les climats tempérés humides. Pipeleaf peut être cultivé pour produire du Shag Pipeleaf. En utilisant du Shag Pipeleaf comme base, vous pouvez mélanger deux shags d'herbes ensemble pour produire un mélange qui combine certains des effets des deux herbes !"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "game:pipeleaf-guide-title",
+  "en": "Pipeleaf Guide",
+  "fr": "Guide Pipeleaf"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "game:tabname-pipeleaf",
+  "en": "Pipeleaf",
+  "fr": "Pipeleaf"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "handbook-item-effect",
+  "en": "Effect",
+  "fr": "Effet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "hotkey-smokepipe",
+  "en": "Smoke Pipe",
+  "fr": "Fumer la pipe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-emptysource",
+  "en": "You’re not holding anything to load.",
+  "fr": "Vous ne tenez rien à charger."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-notempty",
+  "en": "You must finish smoking before refilling.",
+  "fr": "Vous devez finir de fumer avant de remplir à nouveau."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-notenough",
+  "en": "Not enough loaded.",
+  "fr": "Pas assez chargé."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-notenough-loaded",
+  "en": "You must have at least 3 shag to load.",
+  "fr": "Vous devez avoir au moins 3 shag à charger."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-notsmokable",
+  "en": "That’s not smokable.",
+  "fr": "Ce n'est pas fumable."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-pipeempty",
+  "en": "The pipe is empty.",
+  "fr": "La pipe est vide."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-pipenotlit",
+  "en": "Pipe has gone out.",
+  "fr": "La pipe s'est éteinte."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-smokefail",
+  "en": "Couldn’t smoke.",
+  "fr": "Impossible de fumer."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "ingameerror-unknown",
+  "en": "Cannot load pipe.",
+  "fr": "Impossible de charger la pipe."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipe-contents",
+  "en": "Contains: {0}",
+  "fr": "Contient : {0}"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipe-effect-applied",
+  "en": "You feel the effects of smoking {0}:",
+  "fr": "Vous sentez les effets de fumer {0} :"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipe-effect-dissipates",
+  "en": "You feel the effects of smoking dissipate.",
+  "fr": "Vous sentez les effets de fumer se dissiper."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipe-effect-ready-in",
+  "en": "Effect ready in {0} seconds",
+  "fr": "Effet prêt dans {0} secondes"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipe-effect-ready-now",
+  "en": "Effect ready now",
+  "fr": "Effet prêt maintenant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipe-shag-remaining",
+  "en": "Shag remaining: {0}",
+  "fr": "Shag restant : {0}"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:Lit",
+  "en": "--lit--",
+  "fr": "--allumé--"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:Unlit",
+  "en": "--gone out--",
+  "fr": "--éteint--"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:block-crop-pipeleaf-*",
+  "en": "Growing Pipeleaf",
+  "fr": "Pipeleaf en croissance"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:block-crop-pipeleaf-9",
+  "en": "Mature Pipeleaf",
+  "fr": "Pipeleaf mature"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:effect-ready",
+  "en": "Smoking effect cooldown ready.",
+  "fr": "Réduction du temps d'attente de l'effet prêt."
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:effect_cooldown",
+  "en": "Effect cooldown: {0}s",
+  "fr": "Réduction du temps d'attente : {0}s"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-antlerpipe",
+  "en": "Antler Pipe",
+  "fr": "Pipe en bois de cerf"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-briarburl-dried",
+  "en": "Dried Briar Burl",
+  "fr": "Racine de Bruyère séchée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-briarburl-raw",
+  "en": "Raw Briar Burl",
+  "fr": "Racine de Bruyère brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-briarburl-soaked",
+  "en": "Soaked Briar Burl",
+  "fr": "Racine de Bruyère imbibée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipe-*",
+  "en": "Clay Smoking Pipe",
+  "fr": "Pipe à tabac en argile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipe-diamond-diamond",
+  "en": "Diamond Smoking Pipe",
+  "fr": "Pipe à tabac en diamant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipe-glass-glass",
+  "en": "Glass Smoking Pipe",
+  "fr": "Pipe à tabac en verre"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipebowl-blue-fired",
+  "en": "Blue Clay Smoking Pipe Bowl",
+  "fr": "Fourneau de pipe à tabac en argile bleue"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipebowl-blue-raw",
+  "en": "Raw Blue Clay Smoking Pipe Bowl",
+  "fr": "Fourneau de pipe à tabac en argile bleue brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipebowl-fire-fired",
+  "en": "Fire Clay Smoking Pipe Bowl",
+  "fr": "Fourneau de pipe à tabac en argile réfractaire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipebowl-fire-raw",
+  "en": "Raw Fire Clay Smoking Pipe Bowl",
+  "fr": "Fourneau de pipe à tabac en argile réfractaire brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipebowl-red-fired",
+  "en": "Red Clay Smoking Pipe Bowl",
+  "fr": "Fourneau de pipe à tabac en argile rouge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipebowl-red-raw",
+  "en": "Raw Red Clay Smoking Pipe Bowl",
+  "fr": "Fourneau de pipe à tabac en argile rouge brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipestem-blue-fired",
+  "en": "Blue Clay Smoking Pipe Stem",
+  "fr": "Tuyau de pipe à tabac en argile bleue"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipestem-blue-raw",
+  "en": "Raw Blue Clay Smoking Pipe Stem",
+  "fr": "Tuyau de pipe à tabac en argile bleue brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipestem-fire-fired",
+  "en": "Fire Clay Smoking Pipe Stem",
+  "fr": "Tuyau de pipe à tabac en argile réfractaire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipestem-fire-raw",
+  "en": "Raw Fire Clay Smoking Pipe Stem",
+  "fr": "Tuyau de pipe à tabac en argile réfractaire brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipestem-red-fired",
+  "en": "Red Clay Smoking Pipe Stem",
+  "fr": "Tuyau de pipe à tabac en argile rouge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-claysmokingpipestem-red-raw",
+  "en": "Raw Red Clay Smoking Pipe Stem",
+  "fr": "Tuyau de pipe à tabac en argile rouge brute"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-arnica",
+  "en": "Angelica-Arnica Blend",
+  "fr": "Mélange Angelica-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-catmint",
+  "en": "Angelica-Catmint Blend",
+  "fr": "Mélange Angelica-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-chamomile",
+  "en": "Angelica-Chamomile Blend",
+  "fr": "Mélange Angelica-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-chicory",
+  "en": "Angelica-Chicory Blend",
+  "fr": "Mélange Angelica-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-cornflower",
+  "en": "Angelica-Cornflower Blend",
+  "fr": "Mélange Angelica-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-edelweiss",
+  "en": "Angelica-Edelweiss Blend",
+  "fr": "Mélange Angelica-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-ginseng",
+  "en": "Angelica-Ginseng Blend",
+  "fr": "Mélange Angelica-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-goldenpoppy",
+  "en": "Angelica-Goldenpoppy Blend",
+  "fr": "Mélange Angelica-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-horehound",
+  "en": "Angelica-Horehound Blend",
+  "fr": "Mélange Angelica-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-lavender",
+  "en": "Angelica-Lavender Blend",
+  "fr": "Mélange Angelica-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-marigold",
+  "en": "Angelica-Marigold Blend",
+  "fr": "Mélange Angelica-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-marjoram",
+  "en": "Angelica-Marjoram Blend",
+  "fr": "Mélange Angelica-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-marshmallow",
+  "en": "Angelica-Marshmallow Blend",
+  "fr": "Mélange Angelica-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-mint",
+  "en": "Angelica-Mint Blend",
+  "fr": "Mélange Angelica-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-mugwort",
+  "en": "Angelica-Mugwort Blend",
+  "fr": "Mélange Angelica-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-orangemallow",
+  "en": "Angelica-Orangemallow Blend",
+  "fr": "Mélange Angelica-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-poisonoak",
+  "en": "Angelica-Poisonoak Blend",
+  "fr": "Mélange Angelica-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-rosemary",
+  "en": "Angelica-Rosemary Blend",
+  "fr": "Mélange Angelica-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-saffron",
+  "en": "Angelica-Saffron Blend",
+  "fr": "Mélange Angelica-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-sage",
+  "en": "Angelica-Sage Blend",
+  "fr": "Mélange Angelica-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-stingingnettle",
+  "en": "Angelica-Stingingnettle Blend",
+  "fr": "Mélange Angelica-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-stjohnswort",
+  "en": "Angelica-Stjohnswort Blend",
+  "fr": "Mélange Angelica-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-thyme",
+  "en": "Angelica-Thyme Blend",
+  "fr": "Mélange Angelica-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-angelica-yarrow",
+  "en": "Angelica-Yarrow Blend",
+  "fr": "Mélange Angelica-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-angelica",
+  "en": "Arnica-Angelica Blend",
+  "fr": "Mélange Arnica-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-catmint",
+  "en": "Arnica-Catmint Blend",
+  "fr": "Mélange Arnica-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-chamomile",
+  "en": "Arnica-Chamomile Blend",
+  "fr": "Mélange Arnica-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-chicory",
+  "en": "Arnica-Chicory Blend",
+  "fr": "Mélange Arnica-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-cornflower",
+  "en": "Arnica-Cornflower Blend",
+  "fr": "Mélange Arnica-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-edelweiss",
+  "en": "Arnica-Edelweiss Blend",
+  "fr": "Mélange Arnica-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-ginseng",
+  "en": "Arnica-Ginseng Blend",
+  "fr": "Mélange Arnica-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-goldenpoppy",
+  "en": "Arnica-Goldenpoppy Blend",
+  "fr": "Mélange Arnica-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-horehound",
+  "en": "Arnica-Horehound Blend",
+  "fr": "Mélange Arnica-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-lavender",
+  "en": "Arnica-Lavender Blend",
+  "fr": "Mélange Arnica-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-marigold",
+  "en": "Arnica-Marigold Blend",
+  "fr": "Mélange Arnica-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-marjoram",
+  "en": "Arnica-Marjoram Blend",
+  "fr": "Mélange Arnica-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-marshmallow",
+  "en": "Arnica-Marshmallow Blend",
+  "fr": "Mélange Arnica-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-mint",
+  "en": "Arnica-Mint Blend",
+  "fr": "Mélange Arnica-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-mugwort",
+  "en": "Arnica-Mugwort Blend",
+  "fr": "Mélange Arnica-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-orangemallow",
+  "en": "Arnica-Orangemallow Blend",
+  "fr": "Mélange Arnica-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-poisonoak",
+  "en": "Arnica-Poisonoak Blend",
+  "fr": "Mélange Arnica-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-rosemary",
+  "en": "Arnica-Rosemary Blend",
+  "fr": "Mélange Arnica-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-saffron",
+  "en": "Arnica-Saffron Blend",
+  "fr": "Mélange Arnica-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-sage",
+  "en": "Arnica-Sage Blend",
+  "fr": "Mélange Arnica-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-stingingnettle",
+  "en": "Arnica-Stingingnettle Blend",
+  "fr": "Mélange Arnica-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-stjohnswort",
+  "en": "Arnica-Stjohnswort Blend",
+  "fr": "Mélange Arnica-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-thyme",
+  "en": "Arnica-Thyme Blend",
+  "fr": "Mélange Arnica-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-arnica-yarrow",
+  "en": "Arnica-Yarrow Blend",
+  "fr": "Mélange Arnica-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-angelica",
+  "en": "Catmint-Angelica Blend",
+  "fr": "Mélange Catmint-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-arnica",
+  "en": "Catmint-Arnica Blend",
+  "fr": "Mélange Catmint-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-chamomile",
+  "en": "Catmint-Chamomile Blend",
+  "fr": "Mélange Catmint-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-chicory",
+  "en": "Catmint-Chicory Blend",
+  "fr": "Mélange Catmint-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-cornflower",
+  "en": "Catmint-Cornflower Blend",
+  "fr": "Mélange Catmint-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-edelweiss",
+  "en": "Catmint-Edelweiss Blend",
+  "fr": "Mélange Catmint-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-ginseng",
+  "en": "Catmint-Ginseng Blend",
+  "fr": "Mélange Catmint-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-goldenpoppy",
+  "en": "Madman's Slumber",
+  "fr": "Sommeil du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-horehound",
+  "en": "Catmint-Horehound Blend",
+  "fr": "Mélange Catmint-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-lavender",
+  "en": "Catmint-Lavender Blend",
+  "fr": "Mélange Catmint-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-marigold",
+  "en": "Catmint-Marigold Blend",
+  "fr": "Mélange Catmint-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-marjoram",
+  "en": "Catmint-Marjoram Blend",
+  "fr": "Mélange Catmint-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-marshmallow",
+  "en": "Catmint-Marshmallow Blend",
+  "fr": "Mélange Catmint-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-mint",
+  "en": "Catmint-Mint Blend",
+  "fr": "Mélange Catmint-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-mugwort",
+  "en": "Catmint-Mugwort Blend",
+  "fr": "Mélange Catmint-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-orangemallow",
+  "en": "Fool's Courage",
+  "fr": "Courage du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-poisonoak",
+  "en": "Death's Door",
+  "fr": "Porte de la mort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-rosemary",
+  "en": "Catmint-Rosemary Blend",
+  "fr": "Mélange Catmint-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-saffron",
+  "en": "Catmint-Saffron Blend",
+  "fr": "Mélange Catmint-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-sage",
+  "en": "Chaos Theory",
+  "fr": "Théorie du chaos"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-stingingnettle",
+  "en": "Catmint-Stingingnettle Blend",
+  "fr": "Mélange Catmint-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-stjohnswort",
+  "en": "Catmint-Stjohnswort Blend",
+  "fr": "Mélange Catmint-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-thyme",
+  "en": "Catmint-Thyme Blend",
+  "fr": "Mélange Catmint-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-catmint-yarrow",
+  "en": "Catmint-Yarrow Blend",
+  "fr": "Mélange Catmint-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-angelica",
+  "en": "Chamomile-Angelica Blend",
+  "fr": "Mélange Chamomile-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-arnica",
+  "en": "Chamomile-Arnica Blend",
+  "fr": "Mélange Chamomile-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-catmint",
+  "en": "Chamomile-Catmint Blend",
+  "fr": "Mélange Chamomile-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-chicory",
+  "en": "Chamomile-Chicory Blend",
+  "fr": "Mélange Chamomile-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-cornflower",
+  "en": "Chamomile-Cornflower Blend",
+  "fr": "Mélange Chamomile-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-edelweiss",
+  "en": "Chamomile-Edelweiss Blend",
+  "fr": "Mélange Chamomile-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-ginseng",
+  "en": "Chamomile-Ginseng Blend",
+  "fr": "Mélange Chamomile-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-goldenpoppy",
+  "en": "Chamomile-Goldenpoppy Blend",
+  "fr": "Mélange Chamomile-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-horehound",
+  "en": "Chamomile-Horehound Blend",
+  "fr": "Mélange Chamomile-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-lavender",
+  "en": "Chamomile-Lavender Blend",
+  "fr": "Mélange Chamomile-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-marigold",
+  "en": "Chamomile-Marigold Blend",
+  "fr": "Mélange Chamomile-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-marjoram",
+  "en": "Hermit's Evening",
+  "fr": "Soirée de l'ermite"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-marshmallow",
+  "en": "Chamomile-Marshmallow Blend",
+  "fr": "Mélange Chamomile-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-mint",
+  "en": "Chamomile-Mint Blend",
+  "fr": "Mélange Chamomile-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-mugwort",
+  "en": "Chamomile-Mugwort Blend",
+  "fr": "Mélange Chamomile-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-orangemallow",
+  "en": "Chamomile-Orangemallow Blend",
+  "fr": "Mélange Chamomile-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-poisonoak",
+  "en": "Chamomile-Poisonoak Blend",
+  "fr": "Mélange Chamomile-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-rosemary",
+  "en": "Chamomile-Rosemary Blend",
+  "fr": "Mélange Chamomile-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-saffron",
+  "en": "Chamomile-Saffron Blend",
+  "fr": "Mélange Chamomile-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-sage",
+  "en": "Chamomile-Sage Blend",
+  "fr": "Mélange Chamomile-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-stingingnettle",
+  "en": "Chamomile-Stingingnettle Blend",
+  "fr": "Mélange Chamomile-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-stjohnswort",
+  "en": "Chamomile-Stjohnswort Blend",
+  "fr": "Mélange Chamomile-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-thyme",
+  "en": "Chamomile-Thyme Blend",
+  "fr": "Mélange Chamomile-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chamomile-yarrow",
+  "en": "Chamomile-Yarrow Blend",
+  "fr": "Mélange Chamomile-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-angelica",
+  "en": "Chicory-Angelica Blend",
+  "fr": "Mélange Chicory-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-arnica",
+  "en": "Chicory-Arnica Blend",
+  "fr": "Mélange Chicory-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-catmint",
+  "en": "Chicory-Catmint Blend",
+  "fr": "Mélange Chicory-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-chamomile",
+  "en": "Chicory-Chamomile Blend",
+  "fr": "Mélange Chicory-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-cornflower",
+  "en": "Chicory-Cornflower Blend",
+  "fr": "Mélange Chicory-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-edelweiss",
+  "en": "Chicory-Edelweiss Blend",
+  "fr": "Mélange Chicory-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-ginseng",
+  "en": "Chicory-Ginseng Blend",
+  "fr": "Mélange Chicory-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-goldenpoppy",
+  "en": "Chicory-Goldenpoppy Blend",
+  "fr": "Mélange Chicory-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-horehound",
+  "en": "Chicory-Horehound Blend",
+  "fr": "Mélange Chicory-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-lavender",
+  "en": "Chicory-Lavender Blend",
+  "fr": "Mélange Chicory-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-marigold",
+  "en": "Chicory-Marigold Blend",
+  "fr": "Mélange Chicory-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-marjoram",
+  "en": "Chicory-Marjoram Blend",
+  "fr": "Mélange Chicory-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-marshmallow",
+  "en": "Chicory-Marshmallow Blend",
+  "fr": "Mélange Chicory-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-mint",
+  "en": "Chicory-Mint Blend",
+  "fr": "Mélange Chicory-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-mugwort",
+  "en": "Chicory-Mugwort Blend",
+  "fr": "Mélange Chicory-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-orangemallow",
+  "en": "Chicory-Orangemallow Blend",
+  "fr": "Mélange Chicory-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-poisonoak",
+  "en": "Chicory-Poisonoak Blend",
+  "fr": "Mélange Chicory-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-rosemary",
+  "en": "Chicory-Rosemary Blend",
+  "fr": "Mélange Chicory-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-saffron",
+  "en": "Chicory-Saffron Blend",
+  "fr": "Mélange Chicory-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-sage",
+  "en": "Chicory-Sage Blend",
+  "fr": "Mélange Chicory-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-stingingnettle",
+  "en": "Chicory-Stingingnettle Blend",
+  "fr": "Mélange Chicory-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-stjohnswort",
+  "en": "Chicory-Stjohnswort Blend",
+  "fr": "Mélange Chicory-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-thyme",
+  "en": "Chicory-Thyme Blend",
+  "fr": "Mélange Chicory-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-chicory-yarrow",
+  "en": "Chicory-Yarrow Blend",
+  "fr": "Mélange Chicory-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-angelica",
+  "en": "Cornflower-Angelica Blend",
+  "fr": "Mélange Cornflower-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-arnica",
+  "en": "Cornflower-Arnica Blend",
+  "fr": "Mélange Cornflower-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-catmint",
+  "en": "Cornflower-Catmint Blend",
+  "fr": "Mélange Cornflower-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-chamomile",
+  "en": "Cornflower-Chamomile Blend",
+  "fr": "Mélange Cornflower-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-chicory",
+  "en": "Cornflower-Chicory Blend",
+  "fr": "Mélange Cornflower-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-edelweiss",
+  "en": "Mountain Warmth",
+  "fr": "Chaleur des montagnes"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-ginseng",
+  "en": "Cornflower-Ginseng Blend",
+  "fr": "Mélange Cornflower-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-goldenpoppy",
+  "en": "Cornflower-Goldenpoppy Blend",
+  "fr": "Mélange Cornflower-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-horehound",
+  "en": "Cornflower-Horehound Blend",
+  "fr": "Mélange Cornflower-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-lavender",
+  "en": "Cornflower-Lavender Blend",
+  "fr": "Mélange Cornflower-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-marigold",
+  "en": "Cornflower-Marigold Blend",
+  "fr": "Mélange Cornflower-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-marjoram",
+  "en": "Cornflower-Marjoram Blend",
+  "fr": "Mélange Cornflower-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-marshmallow",
+  "en": "Cornflower-Marshmallow Blend",
+  "fr": "Mélange Cornflower-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-mint",
+  "en": "Cornflower-Mint Blend",
+  "fr": "Mélange Cornflower-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-mugwort",
+  "en": "Cornflower-Mugwort Blend",
+  "fr": "Mélange Cornflower-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-orangemallow",
+  "en": "Meadow's Fast",
+  "fr": "Jeûne de la prairie"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-poisonoak",
+  "en": "Cornflower-Poisonoak Blend",
+  "fr": "Mélange Cornflower-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-rosemary",
+  "en": "Cornflower-Rosemary Blend",
+  "fr": "Mélange Cornflower-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-saffron",
+  "en": "Cornflower-Saffron Blend",
+  "fr": "Mélange Cornflower-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-sage",
+  "en": "Cornflower-Sage Blend",
+  "fr": "Mélange Cornflower-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-stingingnettle",
+  "en": "Cornflower-Stingingnettle Blend",
+  "fr": "Mélange Cornflower-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-stjohnswort",
+  "en": "Cornflower-Stjohnswort Blend",
+  "fr": "Mélange Cornflower-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-thyme",
+  "en": "Cornflower-Thyme Blend",
+  "fr": "Mélange Cornflower-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-cornflower-yarrow",
+  "en": "Cornflower-Yarrow Blend",
+  "fr": "Mélange Cornflower-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-angelica",
+  "en": "Edelweiss-Angelica Blend",
+  "fr": "Mélange Edelweiss-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-arnica",
+  "en": "Edelweiss-Arnica Blend",
+  "fr": "Mélange Edelweiss-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-catmint",
+  "en": "Edelweiss-Catmint Blend",
+  "fr": "Mélange Edelweiss-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-chamomile",
+  "en": "Edelweiss-Chamomile Blend",
+  "fr": "Mélange Edelweiss-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-chicory",
+  "en": "Edelweiss-Chicory Blend",
+  "fr": "Mélange Edelweiss-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-cornflower",
+  "en": "Mountain Warmth",
+  "fr": "Chaleur des montagnes"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-ginseng",
+  "en": "Edelweiss-Ginseng Blend",
+  "fr": "Mélange Edelweiss-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-goldenpoppy",
+  "en": "Dream Walker",
+  "fr": "Marcheur des rêves"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-horehound",
+  "en": "Edelweiss-Horehound Blend",
+  "fr": "Mélange Edelweiss-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-lavender",
+  "en": "Edelweiss-Lavender Blend",
+  "fr": "Mélange Edelweiss-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-marigold",
+  "en": "Edelweiss-Marigold Blend",
+  "fr": "Mélange Edelweiss-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-marjoram",
+  "en": "Edelweiss-Marjoram Blend",
+  "fr": "Mélange Edelweiss-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-marshmallow",
+  "en": "Edelweiss-Marshmallow Blend",
+  "fr": "Mélange Edelweiss-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-mint",
+  "en": "Edelweiss-Mint Blend",
+  "fr": "Mélange Edelweiss-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-mugwort",
+  "en": "Edelweiss-Mugwort Blend",
+  "fr": "Mélange Edelweiss-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-orangemallow",
+  "en": "Alpine Haze",
+  "fr": "Brume alpine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-poisonoak",
+  "en": "Edelweiss-Poisonoak Blend",
+  "fr": "Mélange Edelweiss-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-rosemary",
+  "en": "Edelweiss-Rosemary Blend",
+  "fr": "Mélange Edelweiss-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-saffron",
+  "en": "Edelweiss-Saffron Blend",
+  "fr": "Mélange Edelweiss-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-sage",
+  "en": "Scholar's Vision",
+  "fr": "Vision du savant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-stingingnettle",
+  "en": "Edelweiss-Stingingnettle Blend",
+  "fr": "Mélange Edelweiss-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-stjohnswort",
+  "en": "Edelweiss-Stjohnswort Blend",
+  "fr": "Mélange Edelweiss-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-thyme",
+  "en": "Edelweiss-Thyme Blend",
+  "fr": "Mélange Edelweiss-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-edelweiss-yarrow",
+  "en": "Edelweiss-Yarrow Blend",
+  "fr": "Mélange Edelweiss-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-angelica",
+  "en": "Ginseng-Angelica Blend",
+  "fr": "Mélange Ginseng-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-arnica",
+  "en": "Ginseng-Arnica Blend",
+  "fr": "Mélange Ginseng-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-catmint",
+  "en": "Ginseng-Catmint Blend",
+  "fr": "Mélange Ginseng-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-chamomile",
+  "en": "Ginseng-Chamomile Blend",
+  "fr": "Mélange Ginseng-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-chicory",
+  "en": "Ginseng-Chicory Blend",
+  "fr": "Mélange Ginseng-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-cornflower",
+  "en": "Ginseng-Cornflower Blend",
+  "fr": "Mélange Ginseng-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-edelweiss",
+  "en": "Ginseng-Edelweiss Blend",
+  "fr": "Mélange Ginseng-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-goldenpoppy",
+  "en": "Ginseng-Goldenpoppy Blend",
+  "fr": "Mélange Ginseng-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-horehound",
+  "en": "Ginseng-Horehound Blend",
+  "fr": "Mélange Ginseng-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-lavender",
+  "en": "Ginseng-Lavender Blend",
+  "fr": "Mélange Ginseng-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-marigold",
+  "en": "Ginseng-Marigold Blend",
+  "fr": "Mélange Ginseng-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-marjoram",
+  "en": "Ginseng-Marjoram Blend",
+  "fr": "Mélange Ginseng-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-marshmallow",
+  "en": "Ginseng-Marshmallow Blend",
+  "fr": "Mélange Ginseng-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-mint",
+  "en": "Ginseng-Mint Blend",
+  "fr": "Mélange Ginseng-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-mugwort",
+  "en": "Ginseng-Mugwort Blend",
+  "fr": "Mélange Ginseng-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-orangemallow",
+  "en": "Ginseng-Orangemallow Blend",
+  "fr": "Mélange Ginseng-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-poisonoak",
+  "en": "Ginseng-Poisonoak Blend",
+  "fr": "Mélange Ginseng-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-rosemary",
+  "en": "Ginseng-Rosemary Blend",
+  "fr": "Mélange Ginseng-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-saffron",
+  "en": "Ginseng-Saffron Blend",
+  "fr": "Mélange Ginseng-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-sage",
+  "en": "Ginseng-Sage Blend",
+  "fr": "Mélange Ginseng-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-stingingnettle",
+  "en": "Ginseng-Stingingnettle Blend",
+  "fr": "Mélange Ginseng-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-stjohnswort",
+  "en": "Ginseng-Stjohnswort Blend",
+  "fr": "Mélange Ginseng-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-thyme",
+  "en": "Ginseng-Thyme Blend",
+  "fr": "Mélange Ginseng-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-ginseng-yarrow",
+  "en": "Ginseng-Yarrow Blend",
+  "fr": "Mélange Ginseng-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-angelica",
+  "en": "Goldenpoppy-Angelica Blend",
+  "fr": "Mélange Pavot doré-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-arnica",
+  "en": "Goldenpoppy-Arnica Blend",
+  "fr": "Mélange Pavot doré-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-catmint",
+  "en": "Madman's Slumber",
+  "fr": "Sommeil du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-chamomile",
+  "en": "Goldenpoppy-Chamomile Blend",
+  "fr": "Mélange Pavot doré-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-chicory",
+  "en": "Goldenpoppy-Chicory Blend",
+  "fr": "Mélange Pavot doré-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-cornflower",
+  "en": "Goldenpoppy-Cornflower Blend",
+  "fr": "Mélange Pavot doré-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-edelweiss",
+  "en": "Dream Walker",
+  "fr": "Marcheur des rêves"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-ginseng",
+  "en": "Goldenpoppy-Ginseng Blend",
+  "fr": "Mélange Pavot doré-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-horehound",
+  "en": "Goldenpoppy-Horehound Blend",
+  "fr": "Mélange Pavot doré-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-lavender",
+  "en": "Goldenpoppy-Lavender Blend",
+  "fr": "Mélange Pavot doré-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-marigold",
+  "en": "Goldenpoppy-Marigold Blend",
+  "fr": "Mélange Pavot doré-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-marjoram",
+  "en": "Goldenpoppy-Marjoram Blend",
+  "fr": "Mélange Pavot doré-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-marshmallow",
+  "en": "Goldenpoppy-Marshmallow Blend",
+  "fr": "Mélange Pavot doré-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-mint",
+  "en": "Goldenpoppy-Mint Blend",
+  "fr": "Mélange Pavot doré-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-mugwort",
+  "en": "Goldenpoppy-Mugwort Blend",
+  "fr": "Mélange Pavot doré-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-orangemallow",
+  "en": "Sunset Dreams",
+  "fr": "Rêves du couchant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-poisonoak",
+  "en": "Goldenpoppy-Poisonoak Blend",
+  "fr": "Mélange Pavot doré-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-rosemary",
+  "en": "Goldenpoppy-Rosemary Blend",
+  "fr": "Mélange Pavot doré-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-saffron",
+  "en": "Goldenpoppy-Saffron Blend",
+  "fr": "Mélange Pavot doré-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-sage",
+  "en": "Goldenpoppy-Sage Blend",
+  "fr": "Mélange Pavot doré-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-stingingnettle",
+  "en": "Goldenpoppy-Stingingnettle Blend",
+  "fr": "Mélange Pavot doré-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-stjohnswort",
+  "en": "Goldenpoppy-Stjohnswort Blend",
+  "fr": "Mélange Pavot doré-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-thyme",
+  "en": "Goldenpoppy-Thyme Blend",
+  "fr": "Mélange Pavot doré-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-goldenpoppy-yarrow",
+  "en": "Goldenpoppy-Yarrow Blend",
+  "fr": "Mélange Pavot doré-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-angelica",
+  "en": "Horehound-Angelica Blend",
+  "fr": "Mélange Marrube-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-arnica",
+  "en": "Horehound-Arnica Blend",
+  "fr": "Mélange Marrube-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-catmint",
+  "en": "Horehound-Catmint Blend",
+  "fr": "Mélange Marrube-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-chamomile",
+  "en": "Horehound-Chamomile Blend",
+  "fr": "Mélange Marrube-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-chicory",
+  "en": "Horehound-Chicory Blend",
+  "fr": "Mélange Marrube-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-cornflower",
+  "en": "Horehound-Cornflower Blend",
+  "fr": "Mélange Marrube-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-edelweiss",
+  "en": "Horehound-Edelweiss Blend",
+  "fr": "Mélange Marrube-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-ginseng",
+  "en": "Horehound-Ginseng Blend",
+  "fr": "Mélange Marrube-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-goldenpoppy",
+  "en": "Horehound-Goldenpoppy Blend",
+  "fr": "Mélange Marrube-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-lavender",
+  "en": "Horehound-Lavender Blend",
+  "fr": "Mélange Marrube-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-marigold",
+  "en": "Horehound-Marigold Blend",
+  "fr": "Mélange Marrube-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-marjoram",
+  "en": "Horehound-Marjoram Blend",
+  "fr": "Mélange Marrube-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-marshmallow",
+  "en": "Horehound-Marshmallow Blend",
+  "fr": "Mélange Marrube-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-mint",
+  "en": "Horehound-Mint Blend",
+  "fr": "Mélange Marrube-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-mugwort",
+  "en": "Horehound-Mugwort Blend",
+  "fr": "Mélange Marrube-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-orangemallow",
+  "en": "Horehound-Orangemallow Blend",
+  "fr": "Mélange Marrube-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-poisonoak",
+  "en": "Horehound-Poisonoak Blend",
+  "fr": "Mélange Marrube-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-rosemary",
+  "en": "Horehound-Rosemary Blend",
+  "fr": "Mélange Marrube-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-saffron",
+  "en": "Horehound-Saffron Blend",
+  "fr": "Mélange Marrube-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-sage",
+  "en": "Horehound-Sage Blend",
+  "fr": "Mélange Marrube-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-stingingnettle",
+  "en": "Horehound-Stingingnettle Blend",
+  "fr": "Mélange Marrube-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-stjohnswort",
+  "en": "Horehound-Stjohnswort Blend",
+  "fr": "Mélange Marrube-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-thyme",
+  "en": "Horehound-Thyme Blend",
+  "fr": "Mélange Marrube-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-horehound-yarrow",
+  "en": "Horehound-Yarrow Blend",
+  "fr": "Mélange Marrube-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-angelica",
+  "en": "Lavender-Angelica Blend",
+  "fr": "Mélange Lavande-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-arnica",
+  "en": "Lavender-Arnica Blend",
+  "fr": "Mélange Lavande-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-catmint",
+  "en": "Lavender-Catmint Blend",
+  "fr": "Mélange Lavande-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-chamomile",
+  "en": "Lavender-Chamomile Blend",
+  "fr": "Mélange Lavande-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-chicory",
+  "en": "Lavender-Chicory Blend",
+  "fr": "Mélange Lavande-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-cornflower",
+  "en": "Lavender-Cornflower Blend",
+  "fr": "Mélange Lavande-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-edelweiss",
+  "en": "Lavender-Edelweiss Blend",
+  "fr": "Mélange Lavande-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-ginseng",
+  "en": "Lavender-Ginseng Blend",
+  "fr": "Mélange Lavande-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-goldenpoppy",
+  "en": "Lavender-Goldenpoppy Blend",
+  "fr": "Mélange Lavande-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-horehound",
+  "en": "Lavender-Horehound Blend",
+  "fr": "Mélange Lavande-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-marigold",
+  "en": "Lavender-Marigold Blend",
+  "fr": "Mélange Lavande-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-marjoram",
+  "en": "Lavender-Marjoram Blend",
+  "fr": "Mélange Lavande-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-marshmallow",
+  "en": "Lavender-Marshmallow Blend",
+  "fr": "Mélange Lavande-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-mint",
+  "en": "Lavender-Mint Blend",
+  "fr": "Mélange Lavande-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-mugwort",
+  "en": "Lavender-Mugwort Blend",
+  "fr": "Mélange Lavande-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-orangemallow",
+  "en": "Lavender-Orangemallow Blend",
+  "fr": "Mélange Lavande-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-poisonoak",
+  "en": "Lavender-Poisonoak Blend",
+  "fr": "Mélange Lavande-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-rosemary",
+  "en": "Lavender-Rosemary Blend",
+  "fr": "Mélange Lavande-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-saffron",
+  "en": "Lavender-Saffron Blend",
+  "fr": "Mélange Lavande-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-sage",
+  "en": "Lavender-Sage Blend",
+  "fr": "Mélange Lavande-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-stingingnettle",
+  "en": "Lavender-Stingingnettle Blend",
+  "fr": "Mélange Lavande-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-stjohnswort",
+  "en": "Lavender-Stjohnswort Blend",
+  "fr": "Mélange Lavande-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-thyme",
+  "en": "Lavender-Thyme Blend",
+  "fr": "Mélange Lavande-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-lavender-yarrow",
+  "en": "Lavender-Yarrow Blend",
+  "fr": "Mélange Lavande-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-angelica",
+  "en": "Marigold-Angelica Blend",
+  "fr": "Mélange Souci-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-arnica",
+  "en": "Marigold-Arnica Blend",
+  "fr": "Mélange Souci-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-catmint",
+  "en": "Marigold-Catmint Blend",
+  "fr": "Mélange Souci-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-chamomile",
+  "en": "Marigold-Chamomile Blend",
+  "fr": "Mélange Souci-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-chicory",
+  "en": "Marigold-Chicory Blend",
+  "fr": "Mélange Souci-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-cornflower",
+  "en": "Marigold-Cornflower Blend",
+  "fr": "Mélange Souci-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-edelweiss",
+  "en": "Marigold-Edelweiss Blend",
+  "fr": "Mélange Souci-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-ginseng",
+  "en": "Marigold-Ginseng Blend",
+  "fr": "Mélange Souci-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-goldenpoppy",
+  "en": "Marigold-Goldenpoppy Blend",
+  "fr": "Mélange Souci-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-horehound",
+  "en": "Marigold-Horehound Blend",
+  "fr": "Mélange Souci-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-lavender",
+  "en": "Marigold-Lavender Blend",
+  "fr": "Mélange Souci-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-marjoram",
+  "en": "Marigold-Marjoram Blend",
+  "fr": "Mélange Souci-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-marshmallow",
+  "en": "Marigold-Marshmallow Blend",
+  "fr": "Mélange Souci-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-mint",
+  "en": "Marigold-Mint Blend",
+  "fr": "Mélange Souci-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-mugwort",
+  "en": "Marigold-Mugwort Blend",
+  "fr": "Mélange Souci-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-orangemallow",
+  "en": "Marigold-Orangemallow Blend",
+  "fr": "Mélange Souci-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-poisonoak",
+  "en": "Marigold-Poisonoak Blend",
+  "fr": "Mélange Souci-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-rosemary",
+  "en": "Marigold-Rosemary Blend",
+  "fr": "Mélange Souci-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-saffron",
+  "en": "Marigold-Saffron Blend",
+  "fr": "Mélange Souci-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-sage",
+  "en": "Marigold-Sage Blend",
+  "fr": "Mélange Souci-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-stingingnettle",
+  "en": "Marigold-Stingingnettle Blend",
+  "fr": "Mélange Souci-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-stjohnswort",
+  "en": "Marigold-Stjohnswort Blend",
+  "fr": "Mélange Souci-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-thyme",
+  "en": "Marigold-Thyme Blend",
+  "fr": "Mélange Souci-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marigold-yarrow",
+  "en": "Marigold-Yarrow Blend",
+  "fr": "Mélange Souci-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-angelica",
+  "en": "Marjoram-Angelica Blend",
+  "fr": "Mélange Marjolaine-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-arnica",
+  "en": "Marjoram-Arnica Blend",
+  "fr": "Mélange Marjolaine-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-catmint",
+  "en": "Marjoram-Catmint Blend",
+  "fr": "Mélange Marjolaine-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-chamomile",
+  "en": "Hermit's Evening",
+  "fr": "Soirée de l'ermite"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-chicory",
+  "en": "Marjoram-Chicory Blend",
+  "fr": "Mélange Marjolaine-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-cornflower",
+  "en": "Marjoram-Cornflower Blend",
+  "fr": "Mélange Marjolaine-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-edelweiss",
+  "en": "Marjoram-Edelweiss Blend",
+  "fr": "Mélange Marjolaine-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-ginseng",
+  "en": "Marjoram-Ginseng Blend",
+  "fr": "Mélange Marjolaine-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-goldenpoppy",
+  "en": "Marjoram-Goldenpoppy Blend",
+  "fr": "Mélange Marjolaine-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-horehound",
+  "en": "Marjoram-Horehound Blend",
+  "fr": "Mélange Marjolaine-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-lavender",
+  "en": "Marjoram-Lavender Blend",
+  "fr": "Mélange Marjolaine-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-marigold",
+  "en": "Marjoram-Marigold Blend",
+  "fr": "Mélange Marjolaine-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-marshmallow",
+  "en": "Marjoram-Marshmallow Blend",
+  "fr": "Mélange Marjolaine-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-mint",
+  "en": "Marjoram-Mint Blend",
+  "fr": "Mélange Marjolaine-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-mugwort",
+  "en": "Marjoram-Mugwort Blend",
+  "fr": "Mélange Marjolaine-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-orangemallow",
+  "en": "Traveler's Fast",
+  "fr": "Jeûne du voyageur"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-poisonoak",
+  "en": "Marjoram-Poisonoak Blend",
+  "fr": "Mélange Marjolaine-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-rosemary",
+  "en": "Marjoram-Rosemary Blend",
+  "fr": "Mélange Marjolaine-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-saffron",
+  "en": "Marjoram-Saffron Blend",
+  "fr": "Mélange Marjolaine-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-sage",
+  "en": "Marjoram-Sage Blend",
+  "fr": "Mélange Marjolaine-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-stingingnettle",
+  "en": "Marjoram-Stingingnettle Blend",
+  "fr": "Mélange Marjolaine-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-stjohnswort",
+  "en": "Marjoram-Stjohnswort Blend",
+  "fr": "Mélange Marjolaine-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-thyme",
+  "en": "Marjoram-Thyme Blend",
+  "fr": "Mélange Marjolaine-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marjoram-yarrow",
+  "en": "Marjoram-Yarrow Blend",
+  "fr": "Mélange Marjolaine-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-angelica",
+  "en": "Marshmallow-Angelica Blend",
+  "fr": "Mélange Guimauve-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-arnica",
+  "en": "Marshmallow-Arnica Blend",
+  "fr": "Mélange Guimauve-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-catmint",
+  "en": "Marshmallow-Catmint Blend",
+  "fr": "Mélange Guimauve-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-chamomile",
+  "en": "Marshmallow-Chamomile Blend",
+  "fr": "Mélange Guimauve-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-chicory",
+  "en": "Marshmallow-Chicory Blend",
+  "fr": "Mélange Guimauve-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-cornflower",
+  "en": "Marshmallow-Cornflower Blend",
+  "fr": "Mélange Guimauve-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-edelweiss",
+  "en": "Marshmallow-Edelweiss Blend",
+  "fr": "Mélange Guimauve-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-ginseng",
+  "en": "Marshmallow-Ginseng Blend",
+  "fr": "Mélange Guimauve-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-goldenpoppy",
+  "en": "Marshmallow-Goldenpoppy Blend",
+  "fr": "Mélange Guimauve-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-horehound",
+  "en": "Marshmallow-Horehound Blend",
+  "fr": "Mélange Guimauve-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-lavender",
+  "en": "Marshmallow-Lavender Blend",
+  "fr": "Mélange Guimauve-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-marigold",
+  "en": "Marshmallow-Marigold Blend",
+  "fr": "Mélange Guimauve-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-marjoram",
+  "en": "Marshmallow-Marjoram Blend",
+  "fr": "Mélange Guimauve-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-mint",
+  "en": "Marshmallow-Mint Blend",
+  "fr": "Mélange Guimauve-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-mugwort",
+  "en": "Marshmallow-Mugwort Blend",
+  "fr": "Mélange Guimauve-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-orangemallow",
+  "en": "Sweet Stupor",
+  "fr": "Stupeur douce"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-poisonoak",
+  "en": "Marshmallow-Poisonoak Blend",
+  "fr": "Mélange Guimauve-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-rosemary",
+  "en": "Marshmallow-Rosemary Blend",
+  "fr": "Mélange Guimauve-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-saffron",
+  "en": "Marshmallow-Saffron Blend",
+  "fr": "Mélange Guimauve-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-sage",
+  "en": "Marshmallow-Sage Blend",
+  "fr": "Mélange Guimauve-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-stingingnettle",
+  "en": "Marshmallow-Stingingnettle Blend",
+  "fr": "Mélange Guimauve-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-stjohnswort",
+  "en": "Marshmallow-Stjohnswort Blend",
+  "fr": "Mélange Guimauve-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-thyme",
+  "en": "Marshmallow-Thyme Blend",
+  "fr": "Mélange Guimauve-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-marshmallow-yarrow",
+  "en": "Marshmallow-Yarrow Blend",
+  "fr": "Mélange Guimauve-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-angelica",
+  "en": "Mint-Angelica Blend",
+  "fr": "Mélange Menthe-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-arnica",
+  "en": "Mint-Arnica Blend",
+  "fr": "Mélange Menthe-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-catmint",
+  "en": "Mint-Catmint Blend",
+  "fr": "Mélange Menthe-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-chamomile",
+  "en": "Mint-Chamomile Blend",
+  "fr": "Mélange Menthe-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-chicory",
+  "en": "Mint-Chicory Blend",
+  "fr": "Mélange Menthe-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-cornflower",
+  "en": "Mint-Cornflower Blend",
+  "fr": "Mélange Menthe-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-edelweiss",
+  "en": "Mint-Edelweiss Blend",
+  "fr": "Mélange Menthe-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-ginseng",
+  "en": "Mint-Ginseng Blend",
+  "fr": "Mélange Menthe-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-goldenpoppy",
+  "en": "Mint-Goldenpoppy Blend",
+  "fr": "Mélange Menthe-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-horehound",
+  "en": "Mint-Horehound Blend",
+  "fr": "Mélange Menthe-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-lavender",
+  "en": "Mint-Lavender Blend",
+  "fr": "Mélange Menthe-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-marigold",
+  "en": "Mint-Marigold Blend",
+  "fr": "Mélange Menthe-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-marjoram",
+  "en": "Mint-Marjoram Blend",
+  "fr": "Mélange Menthe-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-marshmallow",
+  "en": "Mint-Marshmallow Blend",
+  "fr": "Mélange Menthe-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-mugwort",
+  "en": "Mint-Mugwort Blend",
+  "fr": "Mélange Menthe-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-orangemallow",
+  "en": "Mint-Orangemallow Blend",
+  "fr": "Mélange Menthe-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-poisonoak",
+  "en": "Mint-Poisonoak Blend",
+  "fr": "Mélange Menthe-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-rosemary",
+  "en": "Mint-Rosemary Blend",
+  "fr": "Mélange Menthe-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-saffron",
+  "en": "Mint-Saffron Blend",
+  "fr": "Mélange Menthe-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-sage",
+  "en": "Mint-Sage Blend",
+  "fr": "Mélange Menthe-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-stingingnettle",
+  "en": "Mint-Stingingnettle Blend",
+  "fr": "Mélange Menthe-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-stjohnswort",
+  "en": "Mint-Stjohnswort Blend",
+  "fr": "Mélange Menthe-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-thyme",
+  "en": "Mint-Thyme Blend",
+  "fr": "Mélange Menthe-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mint-yarrow",
+  "en": "Mint-Yarrow Blend",
+  "fr": "Mélange Menthe-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-angelica",
+  "en": "Mugwort-Angelica Blend",
+  "fr": "Mélange Armoise-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-arnica",
+  "en": "Mugwort-Arnica Blend",
+  "fr": "Mélange Armoise-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-catmint",
+  "en": "Mugwort-Catmint Blend",
+  "fr": "Mélange Armoise-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-chamomile",
+  "en": "Mugwort-Chamomile Blend",
+  "fr": "Mélange Armoise-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-chicory",
+  "en": "Mugwort-Chicory Blend",
+  "fr": "Mélange Armoise-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-cornflower",
+  "en": "Mugwort-Cornflower Blend",
+  "fr": "Mélange Armoise-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-edelweiss",
+  "en": "Mugwort-Edelweiss Blend",
+  "fr": "Mélange Armoise-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-ginseng",
+  "en": "Mugwort-Ginseng Blend",
+  "fr": "Mélange Armoise-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-goldenpoppy",
+  "en": "Mugwort-Goldenpoppy Blend",
+  "fr": "Mélange Armoise-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-horehound",
+  "en": "Mugwort-Horehound Blend",
+  "fr": "Mélange Armoise-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-lavender",
+  "en": "Mugwort-Lavender Blend",
+  "fr": "Mélange Armoise-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-marigold",
+  "en": "Mugwort-Marigold Blend",
+  "fr": "Mélange Armoise-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-marjoram",
+  "en": "Mugwort-Marjoram Blend",
+  "fr": "Mélange Armoise-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-marshmallow",
+  "en": "Mugwort-Marshmallow Blend",
+  "fr": "Mélange Armoise-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-mint",
+  "en": "Mugwort-Mint Blend",
+  "fr": "Mélange Armoise-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-orangemallow",
+  "en": "Mugwort-Orangemallow Blend",
+  "fr": "Mélange Armoise-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-poisonoak",
+  "en": "Mugwort-Poisonoak Blend",
+  "fr": "Mélange Armoise-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-rosemary",
+  "en": "Mugwort-Rosemary Blend",
+  "fr": "Mélange Armoise-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-saffron",
+  "en": "Mugwort-Saffron Blend",
+  "fr": "Mélange Armoise-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-sage",
+  "en": "Mugwort-Sage Blend",
+  "fr": "Mélange Armoise-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-stingingnettle",
+  "en": "Mugwort-Stingingnettle Blend",
+  "fr": "Mélange Armoise-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-stjohnswort",
+  "en": "Mugwort-Stjohnswort Blend",
+  "fr": "Mélange Armoise-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-thyme",
+  "en": "Mugwort-Thyme Blend",
+  "fr": "Mélange Armoise-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-mugwort-yarrow",
+  "en": "Mugwort-Yarrow Blend",
+  "fr": "Mélange Armoise-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-angelica",
+  "en": "Orangemallow-Angelica Blend",
+  "fr": "Mélange Mauve orange-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-arnica",
+  "en": "Orangemallow-Arnica Blend",
+  "fr": "Mélange Mauve orange-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-catmint",
+  "en": "Fool's Courage",
+  "fr": "Courage du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-chamomile",
+  "en": "Orangemallow-Chamomile Blend",
+  "fr": "Mélange Mauve orange-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-chicory",
+  "en": "Orangemallow-Chicory Blend",
+  "fr": "Mélange Mauve orange-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-cornflower",
+  "en": "Meadow's Fast",
+  "fr": "Jeûne de la prairie"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-edelweiss",
+  "en": "Alpine Haze",
+  "fr": "Brume alpine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-ginseng",
+  "en": "Orangemallow-Ginseng Blend",
+  "fr": "Mélange Mauve orange-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-goldenpoppy",
+  "en": "Sunset Dreams",
+  "fr": "Rêves du couchant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-horehound",
+  "en": "Orangemallow-Horehound Blend",
+  "fr": "Mélange Mauve orange-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-lavender",
+  "en": "Orangemallow-Lavender Blend",
+  "fr": "Mélange Mauve orange-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-marigold",
+  "en": "Orangemallow-Marigold Blend",
+  "fr": "Mélange Mauve orange-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-marjoram",
+  "en": "Traveler's Fast",
+  "fr": "Jeûne du voyageur"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-marshmallow",
+  "en": "Sweet Stupor",
+  "fr": "Stupeur douce"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-mint",
+  "en": "Orangemallow-Mint Blend",
+  "fr": "Mélange Mauve orange-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-mugwort",
+  "en": "Orangemallow-Mugwort Blend",
+  "fr": "Mélange Mauve orange-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-poisonoak",
+  "en": "Fool's Last Meal",
+  "fr": "Dernier repas du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-rosemary",
+  "en": "Orangemallow-Rosemary Blend",
+  "fr": "Mélange Mauve orange-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-saffron",
+  "en": "Orangemallow-Saffron Blend",
+  "fr": "Mélange Mauve orange-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-sage",
+  "en": "Orangemallow-Sage Blend",
+  "fr": "Mélange Mauve orange-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-stingingnettle",
+  "en": "Orangemallow-Stingingnettle Blend",
+  "fr": "Mélange Mauve orange-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-stjohnswort",
+  "en": "Orangemallow-Stjohnswort Blend",
+  "fr": "Mélange Mauve orange-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-thyme",
+  "en": "Orangemallow-Thyme Blend",
+  "fr": "Mélange Mauve orange-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-orangemallow-yarrow",
+  "en": "Orangemallow-Yarrow Blend",
+  "fr": "Mélange Mauve orange-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-angelica",
+  "en": "Poisonoak-Angelica Blend",
+  "fr": "Mélange Sumac vénéneux-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-arnica",
+  "en": "Poisonoak-Arnica Blend",
+  "fr": "Mélange Sumac vénéneux-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-catmint",
+  "en": "Death's Door",
+  "fr": "Porte de la mort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-chamomile",
+  "en": "Poisonoak-Chamomile Blend",
+  "fr": "Mélange Sumac vénéneux-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-chicory",
+  "en": "Poisonoak-Chicory Blend",
+  "fr": "Mélange Sumac vénéneux-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-cornflower",
+  "en": "Poisonoak-Cornflower Blend",
+  "fr": "Mélange Sumac vénéneux-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-edelweiss",
+  "en": "Poisonoak-Edelweiss Blend",
+  "fr": "Mélange Sumac vénéneux-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-ginseng",
+  "en": "Poisonoak-Ginseng Blend",
+  "fr": "Mélange Sumac vénéneux-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-goldenpoppy",
+  "en": "Poisonoak-Goldenpoppy Blend",
+  "fr": "Mélange Sumac vénéneux-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-horehound",
+  "en": "Poisonoak-Horehound Blend",
+  "fr": "Mélange Sumac vénéneux-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-lavender",
+  "en": "Poisonoak-Lavender Blend",
+  "fr": "Mélange Sumac vénéneux-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-marigold",
+  "en": "Poisonoak-Marigold Blend",
+  "fr": "Mélange Sumac vénéneux-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-marjoram",
+  "en": "Poisonoak-Marjoram Blend",
+  "fr": "Mélange Sumac vénéneux-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-marshmallow",
+  "en": "Poisonoak-Marshmallow Blend",
+  "fr": "Mélange Sumac vénéneux-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-mint",
+  "en": "Poisonoak-Mint Blend",
+  "fr": "Mélange Sumac vénéneux-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-mugwort",
+  "en": "Poisonoak-Mugwort Blend",
+  "fr": "Mélange Sumac vénéneux-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-orangemallow",
+  "en": "Fool's Last Meal",
+  "fr": "Dernier repas du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-rosemary",
+  "en": "Poisonoak-Rosemary Blend",
+  "fr": "Mélange Sumac vénéneux-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-saffron",
+  "en": "Poisonoak-Saffron Blend",
+  "fr": "Mélange Sumac vénéneux-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-sage",
+  "en": "Poisonoak-Sage Blend",
+  "fr": "Mélange Sumac vénéneux-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-stingingnettle",
+  "en": "Poisonoak-Stingingnettle Blend",
+  "fr": "Mélange Sumac vénéneux-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-stjohnswort",
+  "en": "Poisonoak-Stjohnswort Blend",
+  "fr": "Mélange Sumac vénéneux-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-thyme",
+  "en": "Poisonoak-Thyme Blend",
+  "fr": "Mélange Sumac vénéneux-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-poisonoak-yarrow",
+  "en": "Poisonoak-Yarrow Blend",
+  "fr": "Mélange Sumac vénéneux-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-angelica",
+  "en": "Rosemary-Angelica Blend",
+  "fr": "Mélange Romarin-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-arnica",
+  "en": "Rosemary-Arnica Blend",
+  "fr": "Mélange Romarin-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-catmint",
+  "en": "Rosemary-Catmint Blend",
+  "fr": "Mélange Romarin-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-chamomile",
+  "en": "Rosemary-Chamomile Blend",
+  "fr": "Mélange Romarin-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-chicory",
+  "en": "Rosemary-Chicory Blend",
+  "fr": "Mélange Romarin-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-cornflower",
+  "en": "Rosemary-Cornflower Blend",
+  "fr": "Mélange Romarin-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-edelweiss",
+  "en": "Rosemary-Edelweiss Blend",
+  "fr": "Mélange Romarin-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-ginseng",
+  "en": "Rosemary-Ginseng Blend",
+  "fr": "Mélange Romarin-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-goldenpoppy",
+  "en": "Rosemary-Goldenpoppy Blend",
+  "fr": "Mélange Romarin-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-horehound",
+  "en": "Rosemary-Horehound Blend",
+  "fr": "Mélange Romarin-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-lavender",
+  "en": "Rosemary-Lavender Blend",
+  "fr": "Mélange Romarin-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-marigold",
+  "en": "Rosemary-Marigold Blend",
+  "fr": "Mélange Romarin-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-marjoram",
+  "en": "Rosemary-Marjoram Blend",
+  "fr": "Mélange Romarin-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-marshmallow",
+  "en": "Rosemary-Marshmallow Blend",
+  "fr": "Mélange Romarin-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-mint",
+  "en": "Rosemary-Mint Blend",
+  "fr": "Mélange Romarin-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-mugwort",
+  "en": "Rosemary-Mugwort Blend",
+  "fr": "Mélange Romarin-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-orangemallow",
+  "en": "Rosemary-Orangemallow Blend",
+  "fr": "Mélange Romarin-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-poisonoak",
+  "en": "Rosemary-Poisonoak Blend",
+  "fr": "Mélange Romarin-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-saffron",
+  "en": "Rosemary-Saffron Blend",
+  "fr": "Mélange Romarin-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-sage",
+  "en": "Rosemary-Sage Blend",
+  "fr": "Mélange Romarin-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-stingingnettle",
+  "en": "Rosemary-Stingingnettle Blend",
+  "fr": "Mélange Romarin-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-stjohnswort",
+  "en": "Rosemary-Stjohnswort Blend",
+  "fr": "Mélange Romarin-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-thyme",
+  "en": "Rosemary-Thyme Blend",
+  "fr": "Mélange Romarin-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-rosemary-yarrow",
+  "en": "Rosemary-Yarrow Blend",
+  "fr": "Mélange Romarin-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-angelica",
+  "en": "Saffron-Angelica Blend",
+  "fr": "Mélange Safran-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-arnica",
+  "en": "Saffron-Arnica Blend",
+  "fr": "Mélange Safran-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-catmint",
+  "en": "Saffron-Catmint Blend",
+  "fr": "Mélange Safran-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-chamomile",
+  "en": "Saffron-Chamomile Blend",
+  "fr": "Mélange Safran-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-chicory",
+  "en": "Saffron-Chicory Blend",
+  "fr": "Mélange Safran-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-cornflower",
+  "en": "Saffron-Cornflower Blend",
+  "fr": "Mélange Safran-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-edelweiss",
+  "en": "Saffron-Edelweiss Blend",
+  "fr": "Mélange Safran-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-ginseng",
+  "en": "Saffron-Ginseng Blend",
+  "fr": "Mélange Safran-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-goldenpoppy",
+  "en": "Saffron-Goldenpoppy Blend",
+  "fr": "Mélange Safran-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-horehound",
+  "en": "Saffron-Horehound Blend",
+  "fr": "Mélange Safran-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-lavender",
+  "en": "Saffron-Lavender Blend",
+  "fr": "Mélange Safran-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-marigold",
+  "en": "Saffron-Marigold Blend",
+  "fr": "Mélange Safran-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-marjoram",
+  "en": "Saffron-Marjoram Blend",
+  "fr": "Mélange Safran-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-marshmallow",
+  "en": "Saffron-Marshmallow Blend",
+  "fr": "Mélange Safran-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-mint",
+  "en": "Saffron-Mint Blend",
+  "fr": "Mélange Safran-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-mugwort",
+  "en": "Saffron-Mugwort Blend",
+  "fr": "Mélange Safran-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-orangemallow",
+  "en": "Saffron-Orangemallow Blend",
+  "fr": "Mélange Safran-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-poisonoak",
+  "en": "Saffron-Poisonoak Blend",
+  "fr": "Mélange Safran-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-rosemary",
+  "en": "Saffron-Rosemary Blend",
+  "fr": "Mélange Safran-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-sage",
+  "en": "Saffron-Sage Blend",
+  "fr": "Mélange Safran-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-stingingnettle",
+  "en": "Saffron-Stingingnettle Blend",
+  "fr": "Mélange Safran-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-stjohnswort",
+  "en": "Saffron-Stjohnswort Blend",
+  "fr": "Mélange Safran-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-thyme",
+  "en": "Saffron-Thyme Blend",
+  "fr": "Mélange Safran-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-saffron-yarrow",
+  "en": "Saffron-Yarrow Blend",
+  "fr": "Mélange Safran-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-angelica",
+  "en": "Sage-Angelica Blend",
+  "fr": "Mélange Sauge-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-arnica",
+  "en": "Sage-Arnica Blend",
+  "fr": "Mélange Sauge-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-catmint",
+  "en": "Chaos Theory",
+  "fr": "Théorie du chaos"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-chamomile",
+  "en": "Sage-Chamomile Blend",
+  "fr": "Mélange Sauge-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-chicory",
+  "en": "Sage-Chicory Blend",
+  "fr": "Mélange Sauge-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-cornflower",
+  "en": "Sage-Cornflower Blend",
+  "fr": "Mélange Sauge-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-edelweiss",
+  "en": "Scholar's Vision",
+  "fr": "Vision du savant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-ginseng",
+  "en": "Sage-Ginseng Blend",
+  "fr": "Mélange Sauge-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-goldenpoppy",
+  "en": "Sage-Goldenpoppy Blend",
+  "fr": "Mélange Sauge-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-horehound",
+  "en": "Sage-Horehound Blend",
+  "fr": "Mélange Sauge-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-lavender",
+  "en": "Sage-Lavender Blend",
+  "fr": "Mélange Sauge-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-marigold",
+  "en": "Sage-Marigold Blend",
+  "fr": "Mélange Sauge-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-marjoram",
+  "en": "Sage-Marjoram Blend",
+  "fr": "Mélange Sauge-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-marshmallow",
+  "en": "Sage-Marshmallow Blend",
+  "fr": "Mélange Sauge-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-mint",
+  "en": "Sage-Mint Blend",
+  "fr": "Mélange Sauge-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-mugwort",
+  "en": "Sage-Mugwort Blend",
+  "fr": "Mélange Sauge-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-orangemallow",
+  "en": "Sage-Orangemallow Blend",
+  "fr": "Mélange Sauge-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-poisonoak",
+  "en": "Sage-Poisonoak Blend",
+  "fr": "Mélange Sauge-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-rosemary",
+  "en": "Sage-Rosemary Blend",
+  "fr": "Mélange Sauge-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-saffron",
+  "en": "Sage-Saffron Blend",
+  "fr": "Mélange Sauge-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-stingingnettle",
+  "en": "Sage-Stingingnettle Blend",
+  "fr": "Mélange Sauge-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-stjohnswort",
+  "en": "Sage-Stjohnswort Blend",
+  "fr": "Mélange Sauge-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-thyme",
+  "en": "Drifter's Demise",
+  "fr": "Fin du vagabond"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-sage-yarrow",
+  "en": "Sage-Yarrow Blend",
+  "fr": "Mélange Sauge-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-angelica",
+  "en": "Stingingnettle-Angelica Blend",
+  "fr": "Mélange Ortie piquante-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-arnica",
+  "en": "Stingingnettle-Arnica Blend",
+  "fr": "Mélange Ortie piquante-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-catmint",
+  "en": "Stingingnettle-Catmint Blend",
+  "fr": "Mélange Ortie piquante-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-chamomile",
+  "en": "Stingingnettle-Chamomile Blend",
+  "fr": "Mélange Ortie piquante-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-chicory",
+  "en": "Stingingnettle-Chicory Blend",
+  "fr": "Mélange Ortie piquante-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-cornflower",
+  "en": "Stingingnettle-Cornflower Blend",
+  "fr": "Mélange Ortie piquante-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-edelweiss",
+  "en": "Stingingnettle-Edelweiss Blend",
+  "fr": "Mélange Ortie piquante-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-ginseng",
+  "en": "Stingingnettle-Ginseng Blend",
+  "fr": "Mélange Ortie piquante-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-goldenpoppy",
+  "en": "Stingingnettle-Goldenpoppy Blend",
+  "fr": "Mélange Ortie piquante-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-horehound",
+  "en": "Stingingnettle-Horehound Blend",
+  "fr": "Mélange Ortie piquante-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-lavender",
+  "en": "Stingingnettle-Lavender Blend",
+  "fr": "Mélange Ortie piquante-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-marigold",
+  "en": "Stingingnettle-Marigold Blend",
+  "fr": "Mélange Ortie piquante-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-marjoram",
+  "en": "Stingingnettle-Marjoram Blend",
+  "fr": "Mélange Ortie piquante-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-marshmallow",
+  "en": "Stingingnettle-Marshmallow Blend",
+  "fr": "Mélange Ortie piquante-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-mint",
+  "en": "Stingingnettle-Mint Blend",
+  "fr": "Mélange Ortie piquante-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-mugwort",
+  "en": "Stingingnettle-Mugwort Blend",
+  "fr": "Mélange Ortie piquante-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-orangemallow",
+  "en": "Stingingnettle-Orangemallow Blend",
+  "fr": "Mélange Ortie piquante-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-poisonoak",
+  "en": "Stingingnettle-Poisonoak Blend",
+  "fr": "Mélange Ortie piquante-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-rosemary",
+  "en": "Stingingnettle-Rosemary Blend",
+  "fr": "Mélange Ortie piquante-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-saffron",
+  "en": "Stingingnettle-Saffron Blend",
+  "fr": "Mélange Ortie piquante-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-sage",
+  "en": "Stingingnettle-Sage Blend",
+  "fr": "Mélange Ortie piquante-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-stjohnswort",
+  "en": "Stingingnettle-Stjohnswort Blend",
+  "fr": "Mélange Ortie piquante-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-thyme",
+  "en": "Stingingnettle-Thyme Blend",
+  "fr": "Mélange Ortie piquante-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stingingnettle-yarrow",
+  "en": "Stingingnettle-Yarrow Blend",
+  "fr": "Mélange Ortie piquante-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-angelica",
+  "en": "Stjohnswort-Angelica Blend",
+  "fr": "Mélange Millepertuis-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-arnica",
+  "en": "Stjohnswort-Arnica Blend",
+  "fr": "Mélange Millepertuis-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-catmint",
+  "en": "Stjohnswort-Catmint Blend",
+  "fr": "Mélange Millepertuis-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-chamomile",
+  "en": "Stjohnswort-Chamomile Blend",
+  "fr": "Mélange Millepertuis-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-chicory",
+  "en": "Stjohnswort-Chicory Blend",
+  "fr": "Mélange Millepertuis-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-cornflower",
+  "en": "Stjohnswort-Cornflower Blend",
+  "fr": "Mélange Millepertuis-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-edelweiss",
+  "en": "Stjohnswort-Edelweiss Blend",
+  "fr": "Mélange Millepertuis-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-ginseng",
+  "en": "Stjohnswort-Ginseng Blend",
+  "fr": "Mélange Millepertuis-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-goldenpoppy",
+  "en": "Stjohnswort-Goldenpoppy Blend",
+  "fr": "Mélange Millepertuis-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-horehound",
+  "en": "Stjohnswort-Horehound Blend",
+  "fr": "Mélange Millepertuis-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-lavender",
+  "en": "Stjohnswort-Lavender Blend",
+  "fr": "Mélange Millepertuis-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-marigold",
+  "en": "Stjohnswort-Marigold Blend",
+  "fr": "Mélange Millepertuis-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-marjoram",
+  "en": "Stjohnswort-Marjoram Blend",
+  "fr": "Mélange Millepertuis-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-marshmallow",
+  "en": "Stjohnswort-Marshmallow Blend",
+  "fr": "Mélange Millepertuis-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-mint",
+  "en": "Stjohnswort-Mint Blend",
+  "fr": "Mélange Millepertuis-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-mugwort",
+  "en": "Stjohnswort-Mugwort Blend",
+  "fr": "Mélange Millepertuis-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-orangemallow",
+  "en": "Stjohnswort-Orangemallow Blend",
+  "fr": "Mélange Millepertuis-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-poisonoak",
+  "en": "Stjohnswort-Poisonoak Blend",
+  "fr": "Mélange Millepertuis-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-rosemary",
+  "en": "Stjohnswort-Rosemary Blend",
+  "fr": "Mélange Millepertuis-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-saffron",
+  "en": "Stjohnswort-Saffron Blend",
+  "fr": "Mélange Millepertuis-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-sage",
+  "en": "Stjohnswort-Sage Blend",
+  "fr": "Mélange Millepertuis-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-stingingnettle",
+  "en": "Stjohnswort-Stingingnettle Blend",
+  "fr": "Mélange Millepertuis-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-thyme",
+  "en": "Stjohnswort-Thyme Blend",
+  "fr": "Mélange Millepertuis-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-stjohnswort-yarrow",
+  "en": "Stjohnswort-Yarrow Blend",
+  "fr": "Mélange Millepertuis-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-angelica",
+  "en": "Thyme-Angelica Blend",
+  "fr": "Mélange Thym-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-arnica",
+  "en": "Thyme-Arnica Blend",
+  "fr": "Mélange Thym-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-catmint",
+  "en": "Thyme-Catmint Blend",
+  "fr": "Mélange Thym-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-chamomile",
+  "en": "Thyme-Chamomile Blend",
+  "fr": "Mélange Thym-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-chicory",
+  "en": "Thyme-Chicory Blend",
+  "fr": "Mélange Thym-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-cornflower",
+  "en": "Thyme-Cornflower Blend",
+  "fr": "Mélange Thym-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-edelweiss",
+  "en": "Thyme-Edelweiss Blend",
+  "fr": "Mélange Thym-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-ginseng",
+  "en": "Thyme-Ginseng Blend",
+  "fr": "Mélange Thym-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-goldenpoppy",
+  "en": "Thyme-Goldenpoppy Blend",
+  "fr": "Mélange Thym-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-horehound",
+  "en": "Thyme-Horehound Blend",
+  "fr": "Mélange Thym-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-lavender",
+  "en": "Thyme-Lavender Blend",
+  "fr": "Mélange Thym-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-marigold",
+  "en": "Thyme-Marigold Blend",
+  "fr": "Mélange Thym-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-marjoram",
+  "en": "Thyme-Marjoram Blend",
+  "fr": "Mélange Thym-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-marshmallow",
+  "en": "Thyme-Marshmallow Blend",
+  "fr": "Mélange Thym-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-mint",
+  "en": "Thyme-Mint Blend",
+  "fr": "Mélange Thym-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-mugwort",
+  "en": "Thyme-Mugwort Blend",
+  "fr": "Mélange Thym-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-orangemallow",
+  "en": "Thyme-Orangemallow Blend",
+  "fr": "Mélange Thym-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-poisonoak",
+  "en": "Thyme-Poisonoak Blend",
+  "fr": "Mélange Thym-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-rosemary",
+  "en": "Thyme-Rosemary Blend",
+  "fr": "Mélange Thym-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-saffron",
+  "en": "Thyme-Saffron Blend",
+  "fr": "Mélange Thym-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-sage",
+  "en": "Drifter's Demise",
+  "fr": "Fin du vagabond"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-stingingnettle",
+  "en": "Thyme-Stingingnettle Blend",
+  "fr": "Mélange Thym-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-stjohnswort",
+  "en": "Thyme-Stjohnswort Blend",
+  "fr": "Mélange Thym-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-thyme-yarrow",
+  "en": "Thyme-Yarrow Blend",
+  "fr": "Mélange Thym-Achillée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-angelica",
+  "en": "Yarrow-Angelica Blend",
+  "fr": "Mélange Achillée-Angélique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-arnica",
+  "en": "Yarrow-Arnica Blend",
+  "fr": "Mélange Achillée-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-catmint",
+  "en": "Yarrow-Catmint Blend",
+  "fr": "Mélange Achillée-Cataire"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-chamomile",
+  "en": "Yarrow-Chamomile Blend",
+  "fr": "Mélange Achillée-Camomille"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-chicory",
+  "en": "Yarrow-Chicory Blend",
+  "fr": "Mélange Achillée-Chicorée"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-cornflower",
+  "en": "Yarrow-Cornflower Blend",
+  "fr": "Mélange Achillée-Bleuet"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-edelweiss",
+  "en": "Yarrow-Edelweiss Blend",
+  "fr": "Mélange Achillée-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-ginseng",
+  "en": "Yarrow-Ginseng Blend",
+  "fr": "Mélange Achillée-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-goldenpoppy",
+  "en": "Yarrow-Goldenpoppy Blend",
+  "fr": "Mélange Achillée-Pavot doré"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-horehound",
+  "en": "Yarrow-Horehound Blend",
+  "fr": "Mélange Achillée-Marrube"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-lavender",
+  "en": "Yarrow-Lavender Blend",
+  "fr": "Mélange Achillée-Lavande"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-marigold",
+  "en": "Yarrow-Marigold Blend",
+  "fr": "Mélange Achillée-Souci"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-marjoram",
+  "en": "Yarrow-Marjoram Blend",
+  "fr": "Mélange Achillée-Marjolaine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-marshmallow",
+  "en": "Yarrow-Marshmallow Blend",
+  "fr": "Mélange Achillée-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-mint",
+  "en": "Yarrow-Mint Blend",
+  "fr": "Mélange Achillée-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-mugwort",
+  "en": "Yarrow-Mugwort Blend",
+  "fr": "Mélange Achillée-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-orangemallow",
+  "en": "Yarrow-Orangemallow Blend",
+  "fr": "Mélange Achillée-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-poisonoak",
+  "en": "Yarrow-Poisonoak Blend",
+  "fr": "Mélange Achillée-Sumac vénéneux"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-rosemary",
+  "en": "Yarrow-Rosemary Blend",
+  "fr": "Mélange Achillée-Romarin"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-saffron",
+  "en": "Yarrow-Saffron Blend",
+  "fr": "Mélange Achillée-Safran"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-sage",
+  "en": "Yarrow-Sage Blend",
+  "fr": "Mélange Achillée-Sauge"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-stingingnettle",
+  "en": "Yarrow-Stingingnettle Blend",
+  "fr": "Mélange Achillée-Ortie piquante"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-stjohnswort",
+  "en": "Yarrow-Stjohnswort Blend",
+  "fr": "Mélange Achillée-Millepertuis"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-curedblend-yarrow-thyme",
+  "en": "Yarrow-Thyme Blend",
+  "fr": "Mélange Achillée-Thym"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-herbs-pipeleaf",
+  "en": "Pipeleaf",
+  "fr": "Pipeleaf"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-match",
+  "en": "Match",
+  "fr": "Allumette"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-bismuth",
+  "en": "Bismuth Pipe Lighter",
+  "fr": "Briquet à pipe en bismuth"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-bismuthbronze",
+  "en": "Bismuth Bronze Pipe Lighter",
+  "fr": "Briquet à pipe en bronze de bismuth"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-blackbronze",
+  "en": "Black Bronze Pipe Lighter",
+  "fr": "Briquet à pipe en bronze noir"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-brass",
+  "en": "Brass Pipe Lighter",
+  "fr": "Briquet à pipe en laiton"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-bronze",
+  "en": "Bronze Pipe Lighter",
+  "fr": "Briquet à pipe en bronze"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-chromium",
+  "en": "Chromium Pipe Lighter",
+  "fr": "Briquet à pipe en chrome"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-copper",
+  "en": "Copper Pipe Lighter",
+  "fr": "Briquet à pipe en cuivre"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-cupronickel",
+  "en": "Cupronickel Pipe Lighter",
+  "fr": "Briquet à pipe en cupronickel"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-electrum",
+  "en": "Electrum Pipe Lighter",
+  "fr": "Briquet à pipe en électrum"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-gold",
+  "en": "Gold Pipe Lighter",
+  "fr": "Briquet à pipe en or"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-iron",
+  "en": "Iron Pipe Lighter",
+  "fr": "Briquet à pipe en fer"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-lead",
+  "en": "Lead Pipe Lighter",
+  "fr": "Briquet à pipe en plomb"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-meteoriciron",
+  "en": "Meteoric Iron Pipe Lighter",
+  "fr": "Briquet à pipe en fer météorique"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-molybdochalkos",
+  "en": "Molybdochalkos Pipe Lighter",
+  "fr": "Briquet à pipe en molybdochalkos"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-nickel",
+  "en": "Nickel Pipe Lighter",
+  "fr": "Briquet à pipe en nickel"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-platinum",
+  "en": "Platinum Pipe Lighter",
+  "fr": "Briquet à pipe en platine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-silver",
+  "en": "Silver Pipe Lighter",
+  "fr": "Briquet à pipe en argent"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-stainlesssteel",
+  "en": "Stainless Steel Pipe Lighter",
+  "fr": "Briquet à pipe en acier inoxydable"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-steel",
+  "en": "Steel Pipe Lighter",
+  "fr": "Briquet à pipe en acier"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-tin",
+  "en": "Tin Pipe Lighter",
+  "fr": "Briquet à pipe en étain"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-tinbronze",
+  "en": "Tin Bronze Pipe Lighter",
+  "fr": "Briquet à pipe en bronze d'étain"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-titanium",
+  "en": "Titanium Pipe Lighter",
+  "fr": "Briquet à pipe en titane"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-uranium",
+  "en": "Uranium Pipe Lighter",
+  "fr": "Briquet à pipe en uranium"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-pipelighter-zinc",
+  "en": "Zinc Pipe Lighter",
+  "fr": "Briquet à pipe en zinc"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-seeds-pipeleaf",
+  "en": "Pipeleaf Seeds",
+  "fr": "Graines de Pipeleaf"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-arnica",
+  "en": "Angelica-Arnica Blend",
+  "fr": "Mélange Angelica-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-catmint",
+  "en": "Angelica-Catmint Blend",
+  "fr": "Mélange Angelica-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-chamomile",
+  "en": "Angelica-Chamomile Blend",
+  "fr": "Mélange Angelica-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-chicory",
+  "en": "Angelica-Chicory Blend",
+  "fr": "Mélange Angelica-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-cornflower",
+  "en": "Angelica-Cornflower Blend",
+  "fr": "Mélange Angelica-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-edelweiss",
+  "en": "Angelica-Edelweiss Blend",
+  "fr": "Mélange Angelica-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-ginseng",
+  "en": "Angelica-Ginseng Blend",
+  "fr": "Mélange Angelica-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-goldenpoppy",
+  "en": "Angelica-Goldenpoppy Blend",
+  "fr": "Mélange Angelica-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-horehound",
+  "en": "Angelica-Horehound Blend",
+  "fr": "Mélange Angelica-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-lavender",
+  "en": "Angelica-Lavender Blend",
+  "fr": "Mélange Angelica-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-marigold",
+  "en": "Angelica-Marigold Blend",
+  "fr": "Mélange Angelica-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-marjoram",
+  "en": "Angelica-Marjoram Blend",
+  "fr": "Mélange Angelica-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-marshmallow",
+  "en": "Angelica-Marshmallow Blend",
+  "fr": "Mélange Angelica-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-mint",
+  "en": "Angelica-Mint Blend",
+  "fr": "Mélange Angelica-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-mugwort",
+  "en": "Angelica-Mugwort Blend",
+  "fr": "Mélange Angelica-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-orangemallow",
+  "en": "Angelica-Orangemallow Blend",
+  "fr": "Mélange Angelica-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-poisonoak",
+  "en": "Angelica-Poisonoak Blend",
+  "fr": "Mélange Angelica-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-rosemary",
+  "en": "Angelica-Rosemary Blend",
+  "fr": "Mélange Angelica-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-saffron",
+  "en": "Angelica-Saffron Blend",
+  "fr": "Mélange Angelica-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-sage",
+  "en": "Angelica-Sage Blend",
+  "fr": "Mélange Angelica-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-stingingnettle",
+  "en": "Angelica-Stingingnettle Blend",
+  "fr": "Mélange Angelica-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-stjohnswort",
+  "en": "Angelica-Stjohnswort Blend",
+  "fr": "Mélange Angelica-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-thyme",
+  "en": "Angelica-Thyme Blend",
+  "fr": "Mélange Angelica-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-angelica-yarrow",
+  "en": "Angelica-Yarrow Blend",
+  "fr": "Mélange Angelica-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-angelica",
+  "en": "Arnica-Angelica Blend",
+  "fr": "Mélange Arnica-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-catmint",
+  "en": "Arnica-Catmint Blend",
+  "fr": "Mélange Arnica-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-chamomile",
+  "en": "Arnica-Chamomile Blend",
+  "fr": "Mélange Arnica-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-chicory",
+  "en": "Arnica-Chicory Blend",
+  "fr": "Mélange Arnica-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-cornflower",
+  "en": "Arnica-Cornflower Blend",
+  "fr": "Mélange Arnica-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-edelweiss",
+  "en": "Arnica-Edelweiss Blend",
+  "fr": "Mélange Arnica-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-ginseng",
+  "en": "Arnica-Ginseng Blend",
+  "fr": "Mélange Arnica-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-goldenpoppy",
+  "en": "Arnica-Goldenpoppy Blend",
+  "fr": "Mélange Arnica-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-horehound",
+  "en": "Arnica-Horehound Blend",
+  "fr": "Mélange Arnica-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-lavender",
+  "en": "Arnica-Lavender Blend",
+  "fr": "Mélange Arnica-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-marigold",
+  "en": "Arnica-Marigold Blend",
+  "fr": "Mélange Arnica-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-marjoram",
+  "en": "Arnica-Marjoram Blend",
+  "fr": "Mélange Arnica-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-marshmallow",
+  "en": "Arnica-Marshmallow Blend",
+  "fr": "Mélange Arnica-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-mint",
+  "en": "Arnica-Mint Blend",
+  "fr": "Mélange Arnica-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-mugwort",
+  "en": "Arnica-Mugwort Blend",
+  "fr": "Mélange Arnica-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-orangemallow",
+  "en": "Arnica-Orangemallow Blend",
+  "fr": "Mélange Arnica-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-poisonoak",
+  "en": "Arnica-Poisonoak Blend",
+  "fr": "Mélange Arnica-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-rosemary",
+  "en": "Arnica-Rosemary Blend",
+  "fr": "Mélange Arnica-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-saffron",
+  "en": "Arnica-Saffron Blend",
+  "fr": "Mélange Arnica-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-sage",
+  "en": "Arnica-Sage Blend",
+  "fr": "Mélange Arnica-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-stingingnettle",
+  "en": "Arnica-Stingingnettle Blend",
+  "fr": "Mélange Arnica-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-stjohnswort",
+  "en": "Arnica-Stjohnswort Blend",
+  "fr": "Mélange Arnica-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-thyme",
+  "en": "Arnica-Thyme Blend",
+  "fr": "Mélange Arnica-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-arnica-yarrow",
+  "en": "Arnica-Yarrow Blend",
+  "fr": "Mélange Arnica-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-angelica",
+  "en": "Catmint-Angelica Blend",
+  "fr": "Mélange Catmint-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-arnica",
+  "en": "Catmint-Arnica Blend",
+  "fr": "Mélange Catmint-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-chamomile",
+  "en": "Catmint-Chamomile Blend",
+  "fr": "Mélange Catmint-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-chicory",
+  "en": "Catmint-Chicory Blend",
+  "fr": "Mélange Catmint-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-cornflower",
+  "en": "Catmint-Cornflower Blend",
+  "fr": "Mélange Catmint-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-edelweiss",
+  "en": "Catmint-Edelweiss Blend",
+  "fr": "Mélange Catmint-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-ginseng",
+  "en": "Catmint-Ginseng Blend",
+  "fr": "Mélange Catmint-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-goldenpoppy",
+  "en": "Madman's Slumber",
+  "fr": "Sommeil du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-horehound",
+  "en": "Catmint-Horehound Blend",
+  "fr": "Mélange Catmint-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-lavender",
+  "en": "Catmint-Lavender Blend",
+  "fr": "Mélange Catmint-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-marigold",
+  "en": "Catmint-Marigold Blend",
+  "fr": "Mélange Catmint-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-marjoram",
+  "en": "Catmint-Marjoram Blend",
+  "fr": "Mélange Catmint-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-marshmallow",
+  "en": "Catmint-Marshmallow Blend",
+  "fr": "Mélange Catmint-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-mint",
+  "en": "Catmint-Mint Blend",
+  "fr": "Mélange Catmint-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-mugwort",
+  "en": "Catmint-Mugwort Blend",
+  "fr": "Mélange Catmint-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-orangemallow",
+  "en": "Fool's Courage",
+  "fr": "Courage du fou"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-poisonoak",
+  "en": "Death's Door",
+  "fr": "Porte de la mort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-rosemary",
+  "en": "Catmint-Rosemary Blend",
+  "fr": "Mélange Catmint-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-saffron",
+  "en": "Catmint-Saffron Blend",
+  "fr": "Mélange Catmint-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-sage",
+  "en": "Chaos Theory",
+  "fr": "Théorie du chaos"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-stingingnettle",
+  "en": "Catmint-Stingingnettle Blend",
+  "fr": "Mélange Catmint-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-stjohnswort",
+  "en": "Catmint-Stjohnswort Blend",
+  "fr": "Mélange Catmint-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-thyme",
+  "en": "Catmint-Thyme Blend",
+  "fr": "Mélange Catmint-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-catmint-yarrow",
+  "en": "Catmint-Yarrow Blend",
+  "fr": "Mélange Catmint-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-angelica",
+  "en": "Chamomile-Angelica Blend",
+  "fr": "Mélange Chamomile-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-arnica",
+  "en": "Chamomile-Arnica Blend",
+  "fr": "Mélange Chamomile-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-catmint",
+  "en": "Chamomile-Catmint Blend",
+  "fr": "Mélange Chamomile-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-chicory",
+  "en": "Chamomile-Chicory Blend",
+  "fr": "Mélange Chamomile-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-cornflower",
+  "en": "Chamomile-Cornflower Blend",
+  "fr": "Mélange Chamomile-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-edelweiss",
+  "en": "Chamomile-Edelweiss Blend",
+  "fr": "Mélange Chamomile-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-ginseng",
+  "en": "Chamomile-Ginseng Blend",
+  "fr": "Mélange Chamomile-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-goldenpoppy",
+  "en": "Chamomile-Goldenpoppy Blend",
+  "fr": "Mélange Chamomile-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-horehound",
+  "en": "Chamomile-Horehound Blend",
+  "fr": "Mélange Chamomile-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-lavender",
+  "en": "Chamomile-Lavender Blend",
+  "fr": "Mélange Chamomile-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-marigold",
+  "en": "Chamomile-Marigold Blend",
+  "fr": "Mélange Chamomile-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-marjoram",
+  "en": "Hermit's Evening",
+  "fr": "Soirée de l'ermite"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-marshmallow",
+  "en": "Chamomile-Marshmallow Blend",
+  "fr": "Mélange Chamomile-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-mint",
+  "en": "Chamomile-Mint Blend",
+  "fr": "Mélange Chamomile-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-mugwort",
+  "en": "Chamomile-Mugwort Blend",
+  "fr": "Mélange Chamomile-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-orangemallow",
+  "en": "Chamomile-Orangemallow Blend",
+  "fr": "Mélange Chamomile-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-poisonoak",
+  "en": "Chamomile-Poisonoak Blend",
+  "fr": "Mélange Chamomile-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-rosemary",
+  "en": "Chamomile-Rosemary Blend",
+  "fr": "Mélange Chamomile-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-saffron",
+  "en": "Chamomile-Saffron Blend",
+  "fr": "Mélange Chamomile-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-sage",
+  "en": "Chamomile-Sage Blend",
+  "fr": "Mélange Chamomile-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-stingingnettle",
+  "en": "Chamomile-Stingingnettle Blend",
+  "fr": "Mélange Chamomile-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-stjohnswort",
+  "en": "Chamomile-Stjohnswort Blend",
+  "fr": "Mélange Chamomile-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-thyme",
+  "en": "Chamomile-Thyme Blend",
+  "fr": "Mélange Chamomile-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chamomile-yarrow",
+  "en": "Chamomile-Yarrow Blend",
+  "fr": "Mélange Chamomile-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-angelica",
+  "en": "Chicory-Angelica Blend",
+  "fr": "Mélange Chicory-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-arnica",
+  "en": "Chicory-Arnica Blend",
+  "fr": "Mélange Chicory-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-catmint",
+  "en": "Chicory-Catmint Blend",
+  "fr": "Mélange Chicory-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-chamomile",
+  "en": "Chicory-Chamomile Blend",
+  "fr": "Mélange Chicory-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-cornflower",
+  "en": "Chicory-Cornflower Blend",
+  "fr": "Mélange Chicory-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-edelweiss",
+  "en": "Chicory-Edelweiss Blend",
+  "fr": "Mélange Chicory-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-ginseng",
+  "en": "Chicory-Ginseng Blend",
+  "fr": "Mélange Chicory-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-goldenpoppy",
+  "en": "Chicory-Goldenpoppy Blend",
+  "fr": "Mélange Chicory-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-horehound",
+  "en": "Chicory-Horehound Blend",
+  "fr": "Mélange Chicory-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-lavender",
+  "en": "Chicory-Lavender Blend",
+  "fr": "Mélange Chicory-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-marigold",
+  "en": "Chicory-Marigold Blend",
+  "fr": "Mélange Chicory-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-marjoram",
+  "en": "Chicory-Marjoram Blend",
+  "fr": "Mélange Chicory-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-marshmallow",
+  "en": "Chicory-Marshmallow Blend",
+  "fr": "Mélange Chicory-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-mint",
+  "en": "Chicory-Mint Blend",
+  "fr": "Mélange Chicory-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-mugwort",
+  "en": "Chicory-Mugwort Blend",
+  "fr": "Mélange Chicory-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-orangemallow",
+  "en": "Chicory-Orangemallow Blend",
+  "fr": "Mélange Chicory-Orangemallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-poisonoak",
+  "en": "Chicory-Poisonoak Blend",
+  "fr": "Mélange Chicory-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-rosemary",
+  "en": "Chicory-Rosemary Blend",
+  "fr": "Mélange Chicory-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-saffron",
+  "en": "Chicory-Saffron Blend",
+  "fr": "Mélange Chicory-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-sage",
+  "en": "Chicory-Sage Blend",
+  "fr": "Mélange Chicory-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-stingingnettle",
+  "en": "Chicory-Stingingnettle Blend",
+  "fr": "Mélange Chicory-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-stjohnswort",
+  "en": "Chicory-Stjohnswort Blend",
+  "fr": "Mélange Chicory-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-thyme",
+  "en": "Chicory-Thyme Blend",
+  "fr": "Mélange Chicory-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-chicory-yarrow",
+  "en": "Chicory-Yarrow Blend",
+  "fr": "Mélange Chicory-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-angelica",
+  "en": "Cornflower-Angelica Blend",
+  "fr": "Mélange Cornflower-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-arnica",
+  "en": "Cornflower-Arnica Blend",
+  "fr": "Mélange Cornflower-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-catmint",
+  "en": "Cornflower-Catmint Blend",
+  "fr": "Mélange Cornflower-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-chamomile",
+  "en": "Cornflower-Chamomile Blend",
+  "fr": "Mélange Cornflower-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-chicory",
+  "en": "Cornflower-Chicory Blend",
+  "fr": "Mélange Cornflower-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-edelweiss",
+  "en": "Mountain Warmth",
+  "fr": "Chaleur des montagnes"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-ginseng",
+  "en": "Cornflower-Ginseng Blend",
+  "fr": "Mélange Cornflower-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-goldenpoppy",
+  "en": "Cornflower-Goldenpoppy Blend",
+  "fr": "Mélange Cornflower-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-horehound",
+  "en": "Cornflower-Horehound Blend",
+  "fr": "Mélange Cornflower-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-lavender",
+  "en": "Cornflower-Lavender Blend",
+  "fr": "Mélange Cornflower-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-marigold",
+  "en": "Cornflower-Marigold Blend",
+  "fr": "Mélange Cornflower-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-marjoram",
+  "en": "Cornflower-Marjoram Blend",
+  "fr": "Mélange Cornflower-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-marshmallow",
+  "en": "Cornflower-Marshmallow Blend",
+  "fr": "Mélange Cornflower-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-mint",
+  "en": "Cornflower-Mint Blend",
+  "fr": "Mélange Cornflower-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-mugwort",
+  "en": "Cornflower-Mugwort Blend",
+  "fr": "Mélange Cornflower-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-orangemallow",
+  "en": "Meadow's Fast",
+  "fr": "Jeûne de la prairie"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-poisonoak",
+  "en": "Cornflower-Poisonoak Blend",
+  "fr": "Mélange Cornflower-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-rosemary",
+  "en": "Cornflower-Rosemary Blend",
+  "fr": "Mélange Cornflower-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-saffron",
+  "en": "Cornflower-Saffron Blend",
+  "fr": "Mélange Cornflower-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-sage",
+  "en": "Cornflower-Sage Blend",
+  "fr": "Mélange Cornflower-Sage"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-stingingnettle",
+  "en": "Cornflower-Stingingnettle Blend",
+  "fr": "Mélange Cornflower-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-stjohnswort",
+  "en": "Cornflower-Stjohnswort Blend",
+  "fr": "Mélange Cornflower-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-thyme",
+  "en": "Cornflower-Thyme Blend",
+  "fr": "Mélange Cornflower-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-cornflower-yarrow",
+  "en": "Cornflower-Yarrow Blend",
+  "fr": "Mélange Cornflower-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-angelica",
+  "en": "Edelweiss-Angelica Blend",
+  "fr": "Mélange Edelweiss-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-arnica",
+  "en": "Edelweiss-Arnica Blend",
+  "fr": "Mélange Edelweiss-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-catmint",
+  "en": "Edelweiss-Catmint Blend",
+  "fr": "Mélange Edelweiss-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-chamomile",
+  "en": "Edelweiss-Chamomile Blend",
+  "fr": "Mélange Edelweiss-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-chicory",
+  "en": "Edelweiss-Chicory Blend",
+  "fr": "Mélange Edelweiss-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-cornflower",
+  "en": "Mountain Warmth",
+  "fr": "Chaleur des montagnes"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-ginseng",
+  "en": "Edelweiss-Ginseng Blend",
+  "fr": "Mélange Edelweiss-Ginseng"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-goldenpoppy",
+  "en": "Dream Walker",
+  "fr": "Marcheur des rêves"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-horehound",
+  "en": "Edelweiss-Horehound Blend",
+  "fr": "Mélange Edelweiss-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-lavender",
+  "en": "Edelweiss-Lavender Blend",
+  "fr": "Mélange Edelweiss-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-marigold",
+  "en": "Edelweiss-Marigold Blend",
+  "fr": "Mélange Edelweiss-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-marjoram",
+  "en": "Edelweiss-Marjoram Blend",
+  "fr": "Mélange Edelweiss-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-marshmallow",
+  "en": "Edelweiss-Marshmallow Blend",
+  "fr": "Mélange Edelweiss-Marshmallow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-mint",
+  "en": "Edelweiss-Mint Blend",
+  "fr": "Mélange Edelweiss-Mint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-mugwort",
+  "en": "Edelweiss-Mugwort Blend",
+  "fr": "Mélange Edelweiss-Mugwort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-orangemallow",
+  "en": "Alpine Haze",
+  "fr": "Brume alpine"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-poisonoak",
+  "en": "Edelweiss-Poisonoak Blend",
+  "fr": "Mélange Edelweiss-Poisonoak"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-rosemary",
+  "en": "Edelweiss-Rosemary Blend",
+  "fr": "Mélange Edelweiss-Rosemary"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-saffron",
+  "en": "Edelweiss-Saffron Blend",
+  "fr": "Mélange Edelweiss-Saffron"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-sage",
+  "en": "Scholar's Vision",
+  "fr": "Vision du savant"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-stingingnettle",
+  "en": "Edelweiss-Stingingnettle Blend",
+  "fr": "Mélange Edelweiss-Stingingnettle"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-stjohnswort",
+  "en": "Edelweiss-Stjohnswort Blend",
+  "fr": "Mélange Edelweiss-Stjohnswort"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-thyme",
+  "en": "Edelweiss-Thyme Blend",
+  "fr": "Mélange Edelweiss-Thyme"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-edelweiss-yarrow",
+  "en": "Edelweiss-Yarrow Blend",
+  "fr": "Mélange Edelweiss-Yarrow"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-angelica",
+  "en": "Ginseng-Angelica Blend",
+  "fr": "Mélange Ginseng-Angelica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-arnica",
+  "en": "Ginseng-Arnica Blend",
+  "fr": "Mélange Ginseng-Arnica"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-catmint",
+  "en": "Ginseng-Catmint Blend",
+  "fr": "Mélange Ginseng-Catmint"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-chamomile",
+  "en": "Ginseng-Chamomile Blend",
+  "fr": "Mélange Ginseng-Chamomile"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-chicory",
+  "en": "Ginseng-Chicory Blend",
+  "fr": "Mélange Ginseng-Chicory"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-cornflower",
+  "en": "Ginseng-Cornflower Blend",
+  "fr": "Mélange Ginseng-Cornflower"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-edelweiss",
+  "en": "Ginseng-Edelweiss Blend",
+  "fr": "Mélange Ginseng-Edelweiss"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-goldenpoppy",
+  "en": "Ginseng-Goldenpoppy Blend",
+  "fr": "Mélange Ginseng-Goldenpoppy"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-horehound",
+  "en": "Ginseng-Horehound Blend",
+  "fr": "Mélange Ginseng-Horehound"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-lavender",
+  "en": "Ginseng-Lavender Blend",
+  "fr": "Mélange Ginseng-Lavender"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-marigold",
+  "en": "Ginseng-Marigold Blend",
+  "fr": "Mélange Ginseng-Marigold"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-marjoram",
+  "en": "Ginseng-Marjoram Blend",
+  "fr": "Mélange Ginseng-Marjoram"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-marshmallow",
+  "en": "Ginseng-Marshmallow Blend",
+  "fr": "Mélange Ginseng-Guimauve"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-mint",
+  "en": "Ginseng-Mint Blend",
+  "fr": "Mélange Ginseng-Menthe"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-mugwort",
+  "en": "Ginseng-Mugwort Blend",
+  "fr": "Mélange Ginseng-Armoise"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-orangemallow",
+  "en": "Ginseng-Orangemallow Blend",
+  "fr": "Mélange Ginseng-Mauve orange"
+ },
+ {
+  "dom": "pipeleaf",
+  "cle": "pipeleaf:item-shagblend-ginseng-poisonoak",
+  "en": "Ginseng-Poisonoak Blend",
+  "fr": "Mélange Ginseng-Sumac vénéneux"
+ }
+]

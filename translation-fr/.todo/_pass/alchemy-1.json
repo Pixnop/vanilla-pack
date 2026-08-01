@@ -1,0 +1,2282 @@
+[
+ {
+  "dom": "alchemy",
+  "cle": "Allow-Config",
+  "en": "List of allowed blocks/items",
+  "fr": "Liste des blocs/objets autorisés"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "Allow-Throwing-Config",
+  "en": "Allow throwing by potion type",
+  "fr": "Autoriser le lancer par type de potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "Allow-WeaponCoating-Config",
+  "en": "Allow weapon coatings by potion type",
+  "fr": "Autoriser les enrobages d'arme par type de potion"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowArcherPotion",
+  "en": "Allow archer's flask",
+  "fr": "Autoriser le flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowArcherPotion-Comment",
+  "en": "Allow archer's flask!",
+  "fr": "Autoriser le flacon de l'archer !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowBarrelCoating",
+  "en": "Allow barrel coating",
+  "fr": "Autoriser l'enrobage au tonneau"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowBarrelCoating-Comment",
+  "en": "Allow placing a weapon or stack of arrows into a barrel filled with a potion to coat them instantly, no sealing needed. Weapons are coated up to the max charge amount. Requires weapon coating to be enabled!",
+  "fr": "Autoriser à placer une arme ou une pile de flèches dans un tonneau rempli d'une potion pour les enrober instantanément, sans besoin de sceller le tonneau. Les armes sont enrobées jusqu'à la quantité de charge maximale. Nécessite que l'enrobage d'arme soit activé !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCauldronInVanillaFirepit",
+  "en": "Allow cauldron in vanilla firepit",
+  "fr": "Autoriser le chaudron dans le foyer vanilla"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCauldronInVanillaFirepit-Comment",
+  "en": "Allow the potion brewing cauldron to be used inside a vanilla firepit. This will skip the stirring spoon mechanic and make the cauldron act like a large dirty cooking pot inside vanilla firepits. Cauldron's own firepit should be way better suited for potions and better rendering. Recommended only for players who hate spoon or if the cauldron firepit is causing mod incompatabilities. Disabled by default!",
+  "fr": "Autoriser le chaudron de préparation de potions à être utilisé dans un foyer vanilla. Cela ignorera la mécanique de la cuillère à remuer et fera agir le chaudron comme une grande marmite sale dans les foyers vanilla. Le foyer propre au chaudron est bien mieux adapté aux potions et offre un meilleur rendu. Recommandé uniquement pour les joueurs qui détestent la cuillère ou si le foyer du chaudron cause des incompatibilités de mods. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClayFlasks",
+  "en": "Allow ceramic flasks",
+  "fr": "Autoriser les flacons en céramique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClayFlasks-Comment",
+  "en": "Allow clay flasks!",
+  "fr": "Autoriser les flacons en argile !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClayThrowableFlasks",
+  "en": "Allow ceramic throwable flasks",
+  "fr": "Autoriser les flacons en céramique lançables"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClayThrowableFlasks-Comment",
+  "en": "Allow ceramic throwable flasks!",
+  "fr": "Autoriser les flacons en céramique lançables !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClimbPotion",
+  "en": "Allow spider flask",
+  "fr": "Autoriser le flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClimbPotion-Comment",
+  "en": "Allow spider flask!",
+  "fr": "Autoriser le flacon d'araignée !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClimbPotionRecipe",
+  "en": "Allow spider flask recipe",
+  "fr": "Autoriser la recette du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowClimbPotionRecipe-Comment",
+  "en": "Allow the recipe to craft the spider flask. When disabled the item still exists but can only be obtained in creative mode.",
+  "fr": "Autoriser la recette de fabrication du flacon d'araignée. Si désactivé, l'objet existe toujours mais ne peut être obtenu qu'en mode créatif."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingArcher",
+  "en": "Allow archer coating !!!",
+  "fr": "Autoriser l'enrobage de l'archer !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingArcher-Comment",
+  "en": "Allow archer potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de l'archer à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingClimb",
+  "en": "Allow spider flask coating !!!",
+  "fr": "Autoriser l'enrobage d'araignée !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingClimb-Comment",
+  "en": "Allow spider flask potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de flacon d'araignée à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingColdResist",
+  "en": "Allow warmth coating !!!",
+  "fr": "Autoriser l'enrobage de chaleur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingColdResist-Comment",
+  "en": "Allow warmth potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de chaleur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingFall",
+  "en": "Allow featherfall coating !!!",
+  "fr": "Autoriser l'enrobage de plume !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingFall-Comment",
+  "en": "Allow featherfall potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de plume à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingFlight",
+  "en": "Allow flight flask coating !!!",
+  "fr": "Autoriser l'enrobage de vol !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingFlight-Comment",
+  "en": "Allow flight flask potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de vol à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingGlow",
+  "en": "Allow glow coating !!!",
+  "fr": "Autoriser l'enrobage de lueur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingGlow-Comment",
+  "en": "Allow glow potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de lueur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingGrow",
+  "en": "Allow growth coating !!!",
+  "fr": "Autoriser l'enrobage de croissance !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingGrow-Comment",
+  "en": "Allow growth potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de croissance à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHealingEffect",
+  "en": "Allow potent coating !!!",
+  "fr": "Autoriser l'enrobage puissant !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHealingEffect-Comment",
+  "en": "Allow potent oil potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions d'huile puissante à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHungerEnhance",
+  "en": "Allow purging coating !!!",
+  "fr": "Autoriser l'enrobage purgatif !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHungerEnhance-Comment",
+  "en": "Allow purging brew potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de décoction purgative à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHungerSupress",
+  "en": "Allow settling coating !!!",
+  "fr": "Autoriser l'enrobage apaisant !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHungerSupress-Comment",
+  "en": "Allow settling brew potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de décoction apaisante à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHunter",
+  "en": "Allow hunter coating !!!",
+  "fr": "Autoriser l'enrobage du chasseur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingHunter-Comment",
+  "en": "Allow hunter potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions du chasseur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingLooter",
+  "en": "Allow looter coating !!!",
+  "fr": "Autoriser l'enrobage du pillard !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingLooter-Comment",
+  "en": "Allow looter potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions du pillard à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingMelee",
+  "en": "Allow fighter coating !!!",
+  "fr": "Autoriser l'enrobage du combattant !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingMelee-Comment",
+  "en": "Allow fighter potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions du combattant à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingMining",
+  "en": "Allow miner coating !!!",
+  "fr": "Autoriser l'enrobage du mineur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingMining-Comment",
+  "en": "Allow miner potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions du mineur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingNutrition",
+  "en": "Allow nutrition coating !!!",
+  "fr": "Autoriser l'enrobage nutritif !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingNutrition-Comment",
+  "en": "Allow nutrition potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions nutritives à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingPoison",
+  "en": "Allow poison coating",
+  "fr": "Autoriser l'enrobage de poison"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingPoison-Comment",
+  "en": "Allow poison potions to be used as weapon coatings!",
+  "fr": "Autoriser les potions de poison à être utilisées comme enrobages d'arme !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingPredator",
+  "en": "Allow predator coating !!!",
+  "fr": "Autoriser l'enrobage du prédateur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingPredator-Comment",
+  "en": "Allow predator potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions du prédateur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingRecall",
+  "en": "Allow recall coating !!!",
+  "fr": "Autoriser l'enrobage de rappel !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingRecall-Comment",
+  "en": "Allow recall potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de rappel à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingRegen",
+  "en": "Allow healing coating",
+  "fr": "Autoriser l'enrobage de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingRegen-Comment",
+  "en": "Allow healing potions to be used as weapon coatings!",
+  "fr": "Autoriser les potions de soin à être utilisées comme enrobages d'arme !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingReshape",
+  "en": "Allow reshape coating !!!",
+  "fr": "Autoriser l'enrobage de remodelage !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingReshape-Comment",
+  "en": "Allow reshape potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de remodelage à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingScentMask",
+  "en": "Allow scent mask coating !!!",
+  "fr": "Autoriser l'enrobage de masque d'odeur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingScentMask-Comment",
+  "en": "Allow scent mask potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de masque d'odeur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingShrink",
+  "en": "Allow shrink coating !!!",
+  "fr": "Autoriser l'enrobage de rétrécissement !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingShrink-Comment",
+  "en": "Allow shrink potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de rétrécissement à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingSpeed",
+  "en": "Allow sprinter coating !!!",
+  "fr": "Autoriser l'enrobage du sprinteur !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingSpeed-Comment",
+  "en": "Allow sprinter potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions du sprinteur à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingTemporal",
+  "en": "Allow stability coating !!!",
+  "fr": "Autoriser l'enrobage de stabilité !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingTemporal-Comment",
+  "en": "Allow stability potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de stabilité à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingVitality",
+  "en": "Allow vitality coating !!!",
+  "fr": "Autoriser l'enrobage de vitalité !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingVitality-Comment",
+  "en": "Allow vitality potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de vitalité à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingWaterBreathe",
+  "en": "Allow water breathing coating !!!",
+  "fr": "Autoriser l'enrobage de respiration aquatique !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowCoatingWaterBreathe-Comment",
+  "en": "Allow water breathing potions to be used as weapon coatings! This works only on players and is disabled by default!",
+  "fr": "Autoriser les potions de respiration aquatique à être utilisées comme enrobages d'arme ! Cela ne fonctionne que sur les joueurs et est désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowColdResistPotion",
+  "en": "Allow warmth flask",
+  "fr": "Autoriser le flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowColdResistPotion-Comment",
+  "en": "Allow warmth flask!",
+  "fr": "Autoriser le flacon de chaleur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowFallPotion",
+  "en": "Allow featherfall flask",
+  "fr": "Autoriser le flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowFallPotion-Comment",
+  "en": "Allow featherfall flask!",
+  "fr": "Autoriser le flacon de plume !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowFallPotionRecipe",
+  "en": "Allow featherfall flask recipe",
+  "fr": "Autoriser la recette du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowFallPotionRecipe-Comment",
+  "en": "Allow the recipe to craft the featherfall flask. When disabled the item still exists but can only be obtained in creative mode.",
+  "fr": "Autoriser la recette de fabrication du flacon de plume. Si désactivé, l'objet existe toujours mais ne peut être obtenu qu'en mode créatif."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowFlightPotion",
+  "en": "Allow flight flask",
+  "fr": "Autoriser le flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowFlightPotion-Comment",
+  "en": "Allow flight flask! Grants temporary creative flight. Has no recipe and can only be obtained in creative mode.",
+  "fr": "Autoriser le flacon de vol ! Accorde un vol créatif temporaire. N'a pas de recette et ne peut être obtenu qu'en mode créatif."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGlassThrowableFlasks",
+  "en": "Allow glass throwable flasks",
+  "fr": "Autoriser les flacons en verre lançables"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGlassThrowableFlasks-Comment",
+  "en": "Allow glass throwable flasks!",
+  "fr": "Autoriser les flacons en verre lançables !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGlowPotion",
+  "en": "Allow glow flask",
+  "fr": "Autoriser le flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGlowPotion-Comment",
+  "en": "Allow glow flask!",
+  "fr": "Autoriser le flacon de lueur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGrowPotion",
+  "en": "Allow growth flask",
+  "fr": "Autoriser le flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGrowPotion-Comment",
+  "en": "Allow growth flask!",
+  "fr": "Autoriser le flacon de croissance !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGrowPotionRecipe",
+  "en": "Allow growth flask recipe",
+  "fr": "Autoriser la recette du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowGrowPotionRecipe-Comment",
+  "en": "Allow the recipe to craft the growth flask. When disabled the item still exists but can only be obtained in creative mode.",
+  "fr": "Autoriser la recette de fabrication du flacon de croissance. Si désactivé, l'objet existe toujours mais ne peut être obtenu qu'en mode créatif."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHealingEffectPotion",
+  "en": "Allow potent oil",
+  "fr": "Autoriser l'huile puissante"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHealingEffectPotion-Comment",
+  "en": "Allow potent oil!",
+  "fr": "Autoriser l'huile puissante !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHerbRackMolds",
+  "en": "Allow herb rack molds",
+  "fr": "Autoriser les moules d'étagère à herbes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHerbRackMolds-Comment",
+  "en": "Allow herb rack molds!",
+  "fr": "Autoriser les moules d'étagère à herbes !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHerbRacks",
+  "en": "Allow herb racks",
+  "fr": "Autoriser les étagères à herbes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHerbRacks-Comment",
+  "en": "Allow herb racks!",
+  "fr": "Autoriser les étagères à herbes !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHerbballs",
+  "en": "Allow edible herbs",
+  "fr": "Autoriser les herbes comestibles"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHerbballs-Comment",
+  "en": "Allow herbballs!",
+  "fr": "Autoriser les boules d'herbes !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHungerEnhancePotion",
+  "en": "Allow purging brew",
+  "fr": "Autoriser la décoction purgative"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHungerEnhancePotion-Comment",
+  "en": "Allow purging brew!",
+  "fr": "Autoriser la décoction purgative !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHungerSupressPotion",
+  "en": "Allow settling brew",
+  "fr": "Autoriser la décoction apaisante"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHungerSupressPotion-Comment",
+  "en": "Allow settling brew!",
+  "fr": "Autoriser la décoction apaisante !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHunterPotion",
+  "en": "Allow hunter's delight",
+  "fr": "Autoriser le délice du chasseur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowHunterPotion-Comment",
+  "en": "Allow hunter's delight!",
+  "fr": "Autoriser le délice du chasseur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowLargeFlasks",
+  "en": "Allow large glass flasks",
+  "fr": "Autoriser les grands flacons en verre"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowLargeFlasks-Comment",
+  "en": "Allow large flasks!",
+  "fr": "Autoriser les grands flacons !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowLooterPotion",
+  "en": "Allow looter's delight",
+  "fr": "Autoriser le délice du pillard"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowLooterPotion-Comment",
+  "en": "Allow looter's delight!",
+  "fr": "Autoriser le délice du pillard !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMediumFlasks",
+  "en": "Allow medium glass flasks",
+  "fr": "Autoriser les flacons moyens en verre"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMediumFlasks-Comment",
+  "en": "Allow medium flasks!",
+  "fr": "Autoriser les flacons moyens !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMediumPotions",
+  "en": "Allow medium potions",
+  "fr": "Autoriser les potions moyennes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMediumPotions-Comment",
+  "en": "Allow medium potions!",
+  "fr": "Autoriser les potions moyennes !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMeleePotion",
+  "en": "Allow fighter's flask",
+  "fr": "Autoriser le flacon du combattant"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMeleePotion-Comment",
+  "en": "Allow fighter's flask!",
+  "fr": "Autoriser le flacon du combattant !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMiningPotion",
+  "en": "Allow miner's flask",
+  "fr": "Autoriser le flacon du mineur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowMiningPotion-Comment",
+  "en": "Allow miner's flask!",
+  "fr": "Autoriser le flacon du mineur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowNutritionPotion",
+  "en": "Allow nutrition flask",
+  "fr": "Autoriser le flacon nutritif"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowNutritionPotion-Comment",
+  "en": "Allow nutrition flask!",
+  "fr": "Autoriser le flacon nutritif !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPoisonPotion",
+  "en": "Allow spiked oil",
+  "fr": "Autoriser l'huile empoisonnée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPoisonPotion-Comment",
+  "en": "Allow spiked oil!",
+  "fr": "Autoriser l'huile empoisonnée !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPotionBrewingCauldron",
+  "en": "Allow potion brewing cauldron",
+  "fr": "Autoriser le chaudron de préparation de potions"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPotionBrewingCauldron-Comment",
+  "en": "Allow the potion brewing cauldron. This will force players to make smaller batches of potions!",
+  "fr": "Autoriser le chaudron de préparation de potions. Cela obligera les joueurs à préparer des potions en plus petits lots !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPotionExclusivity",
+  "en": "Enable potion exclusivity groups",
+  "fr": "Activer les groupes d'exclusivité de potions"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPotionExclusivity-Comment",
+  "en": "When enabled, each potion is assigned an exclusivity group below. Two potions sharing the same group cannot be active at the same time, and a potion set to 'Solo' cannot be combined with any other potion. 'None' leaves a potion unrestricted. This is a softer alternative to 'Only allow one potion active at a time'. Disabled by default.",
+  "fr": "Lorsque cette option est activée, chaque potion se voit attribuer un groupe d'exclusivité ci-dessous. Deux potions partageant le même groupe ne peuvent pas être actives en même temps, et une potion définie sur « Solo » ne peut être combinée avec aucune autre potion. « Aucun » laisse une potion sans restriction. Il s'agit d'une alternative plus souple à « N'autoriser qu'une seule potion active à la fois ». Désactivé par défaut."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPotionRefresh",
+  "en": "Allow refreshing potion durations",
+  "fr": "Autoriser le rafraîchissement de la durée des potions"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPotionRefresh-Comment",
+  "en": "Allow drinking a potion that is already active to restart its duration. The old effect is replaced by the new drink, so drinking a different strength of the same potion applies the new strength. Potions with health ticks (regen/poison) cannot be refreshed since their healing/damage over time cannot be cancelled early.",
+  "fr": "Autoriser à boire une potion déjà active pour relancer sa durée. L'ancien effet est remplacé par la nouvelle prise, donc boire une puissance différente de la même potion applique la nouvelle puissance. Les potions avec des ticks de santé (régénération/poison) ne peuvent pas être rafraîchies car leurs soins/dégâts au fil du temps ne peuvent pas être annulés prématurément."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPredatorPotion",
+  "en": "Allow predator's pheromones",
+  "fr": "Autoriser les phéromones du prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPredatorPotion-Comment",
+  "en": "Allow predator's pheromones!",
+  "fr": "Autoriser les phéromones du prédateur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPsychedelicMushrooms",
+  "en": "Allow potion base psychedelic mushroom recipe !!!",
+  "fr": "Autoriser la recette de base de potion aux champignons psychédéliques !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowPsychedelicMushrooms-Comment",
+  "en": "Allow psychedelic mushrooms (gold cap, liberty cap, wavy cap, blue meanie) to be used as ingredients in the basic potion base recipe. DO NOT DISABLE THIS AND TOXIC MUSHROOMS RECIPES. THIS ALSO DOESN'T HIDE THE ITEMS FROM THE HANDBOOK BASIC POTION BASE CRAFTING RECIPE. Doing so will leave fly agaric and laughing jim as the only mushroom ingredients as they are both.",
+  "fr": "Autoriser les champignons psychédéliques (chapeau doré, bonnet phrygien, chapeau ondulé, vilain bleu) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS TOXIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le Jim rieur comme seuls ingrédients de champignon, car ils sont tous deux."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowRecallPotion",
+  "en": "Allow recall flask",
+  "fr": "Autoriser le flacon de rappel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowRecallPotion-Comment",
+  "en": "Allow recall flask!",
+  "fr": "Autoriser le flacon de rappel !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowRegenPotion",
+  "en": "Allow healing oil",
+  "fr": "Autoriser l'huile de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowRegenPotion-Comment",
+  "en": "Allow healing oil!",
+  "fr": "Autoriser l'huile de soin !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowReshapePotion",
+  "en": "Allow reshape flask",
+  "fr": "Autoriser le flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowReshapePotion-Comment",
+  "en": "Allow reshape flask!",
+  "fr": "Autoriser le flacon de remodelage !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowReshapePotionRecipe",
+  "en": "Allow reshape flask recipe",
+  "fr": "Autoriser la recette du flacon de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowReshapePotionRecipe-Comment",
+  "en": "Allow the recipe to craft the reshape flask. When disabled the item still exists but can only be obtained in creative mode.",
+  "fr": "Autoriser la recette de fabrication du flacon de remodelage. Si désactivé, l'objet existe toujours mais ne peut être obtenu qu'en mode créatif."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowScentMaskPotion",
+  "en": "Allow scent mask",
+  "fr": "Autoriser le masque d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowScentMaskPotion-Comment",
+  "en": "Allow scent mask!",
+  "fr": "Autoriser le masque d'odeur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowShrinkPotion",
+  "en": "Allow shrinking flask",
+  "fr": "Autoriser le flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowShrinkPotion-Comment",
+  "en": "Allow shrinking flask!",
+  "fr": "Autoriser le flacon de rétrécissement !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowShrinkPotionRecipe",
+  "en": "Allow shrinking flask recipe",
+  "fr": "Autoriser la recette du flacon de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowShrinkPotionRecipe-Comment",
+  "en": "Allow the recipe to craft the shrinking flask. When disabled the item still exists but can only be obtained in creative mode.",
+  "fr": "Autoriser la recette de fabrication du flacon de rétrécissement. Si désactivé, l'objet existe toujours mais ne peut être obtenu qu'en mode créatif."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowSmallFlasks",
+  "en": "Allow small glass flasks",
+  "fr": "Autoriser les petits flacons en verre"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowSmallFlasks-Comment",
+  "en": "Allow small flasks!",
+  "fr": "Autoriser les petits flacons !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowSpeedPotion",
+  "en": "Allow sprinter's flask",
+  "fr": "Autoriser le flacon du sprinteur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowSpeedPotion-Comment",
+  "en": "Allow sprinter's flask!",
+  "fr": "Autoriser le flacon du sprinteur !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowStrongPotionCookingPot",
+  "en": "Allow strong potions in cooking pot",
+  "fr": "Autoriser les potions fortes dans la marmite"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowStrongPotionCookingPot-Comment",
+  "en": "If on, strong potions can be crafted in a cooking pot. If off, only medium potions can be crafted in a cooking pot; strong potions must be brewed in the alchemy cauldron. Default: on.",
+  "fr": "Si activé, les potions fortes peuvent être fabriquées dans une marmite. Si désactivé, seules les potions moyennes peuvent être fabriquées dans une marmite ; les potions fortes doivent être préparées dans le chaudron d'alchimie. Par défaut : activé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowStrongPotions",
+  "en": "Allow strong potions",
+  "fr": "Autoriser les potions fortes"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowStrongPotions-Comment",
+  "en": "Allow strong potions!",
+  "fr": "Autoriser les potions fortes !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowTemporalPotion",
+  "en": "Allow stability flask",
+  "fr": "Autoriser le flacon de stabilité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowTemporalPotion-Comment",
+  "en": "Allow stability flask!",
+  "fr": "Autoriser le flacon de stabilité !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowArcher",
+  "en": "Allow archer throwing",
+  "fr": "Autoriser le lancer de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowArcher-Comment",
+  "en": "Allow archer potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de l'archer à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowClimb",
+  "en": "Allow climb throwing",
+  "fr": "Autoriser le lancer d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowClimb-Comment",
+  "en": "Allow climb potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions d'araignée à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowColdResist",
+  "en": "Allow cold resist throwing",
+  "fr": "Autoriser le lancer de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowColdResist-Comment",
+  "en": "Allow cold resist potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de chaleur à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowFall",
+  "en": "Allow fall throwing",
+  "fr": "Autoriser le lancer de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowFall-Comment",
+  "en": "Allow fall potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de plume à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowFlight",
+  "en": "Allow flight throwing",
+  "fr": "Autoriser le lancer de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowFlight-Comment",
+  "en": "Allow flight potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de vol à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowGlow",
+  "en": "Allow glow throwing",
+  "fr": "Autoriser le lancer de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowGlow-Comment",
+  "en": "Allow glow potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de lueur à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowGrow",
+  "en": "Allow grow throwing",
+  "fr": "Autoriser le lancer de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowGrow-Comment",
+  "en": "Allow grow potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de croissance à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHealingEffect",
+  "en": "Allow healing throwing",
+  "fr": "Autoriser le lancer de soin"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHealingEffect-Comment",
+  "en": "Allow healing potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de soin à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHungerEnhance",
+  "en": "Allow hunger enhance throwing",
+  "fr": "Autoriser le lancer d'amplification de la faim"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHungerEnhance-Comment",
+  "en": "Allow hunger enhance potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions d'amplification de la faim à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHungerSupress",
+  "en": "Allow hunger supress throwing",
+  "fr": "Autoriser le lancer de suppression de la faim"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHungerSupress-Comment",
+  "en": "Allow hunger supress potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de suppression de la faim à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHunter",
+  "en": "Allow hunter throwing",
+  "fr": "Autoriser le lancer du chasseur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowHunter-Comment",
+  "en": "Allow hunter potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions du chasseur à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowLooter",
+  "en": "Allow looter throwing",
+  "fr": "Autoriser le lancer du pillard"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowLooter-Comment",
+  "en": "Allow looter potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions du pillard à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowMelee",
+  "en": "Allow melee throwing",
+  "fr": "Autoriser le lancer de mêlée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowMelee-Comment",
+  "en": "Allow melee potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de mêlée à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowMining",
+  "en": "Allow mining throwing",
+  "fr": "Autoriser le lancer de minage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowMining-Comment",
+  "en": "Allow mining potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de minage à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowNutrition",
+  "en": "Allow nutrition throwing",
+  "fr": "Autoriser le lancer nutritif"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowNutrition-Comment",
+  "en": "Allow nutrition potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions nutritives à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowPoison",
+  "en": "Allow poison throwing",
+  "fr": "Autoriser le lancer de poison"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowPoison-Comment",
+  "en": "Allow poison potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Enabled by default!",
+  "fr": "Autoriser les potions de poison à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Activé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowPredator",
+  "en": "Allow predator throwing",
+  "fr": "Autoriser le lancer du prédateur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowPredator-Comment",
+  "en": "Allow predator potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions du prédateur à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowRecall",
+  "en": "Allow recall throwing",
+  "fr": "Autoriser le lancer de rappel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowRecall-Comment",
+  "en": "Allow recall potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de rappel à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowRegen",
+  "en": "Allow regen throwing",
+  "fr": "Autoriser le lancer de régénération"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowRegen-Comment",
+  "en": "Allow regen potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Enabled by default!",
+  "fr": "Autoriser les potions de régénération à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Activé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowReshape",
+  "en": "Allow reshape throwing",
+  "fr": "Autoriser le lancer de remodelage"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowReshape-Comment",
+  "en": "Allow reshape potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de remodelage à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowScentMask",
+  "en": "Allow scent mask throwing",
+  "fr": "Autoriser le lancer de masque d'odeur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowScentMask-Comment",
+  "en": "Allow scent mask potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de masque d'odeur à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowShrink",
+  "en": "Allow shrink throwing",
+  "fr": "Autoriser le lancer de rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowShrink-Comment",
+  "en": "Allow shrink potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de rétrécissement à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowSpeed",
+  "en": "Allow speed throwing",
+  "fr": "Autoriser le lancer de vitesse"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowSpeed-Comment",
+  "en": "Allow speed potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de vitesse à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowTemporal",
+  "en": "Allow temporal throwing",
+  "fr": "Autoriser le lancer temporel"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowTemporal-Comment",
+  "en": "Allow temporal potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions temporelles à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowVitality",
+  "en": "Allow vitality throwing",
+  "fr": "Autoriser le lancer de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowVitality-Comment",
+  "en": "Allow vitality potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de vitalité à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowWaterBreathe",
+  "en": "Allow water breathe throwing",
+  "fr": "Autoriser le lancer de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowThrowWaterBreathe-Comment",
+  "en": "Allow water breathe potions to be thrown as a splash flask that applies the effect to entities in the splash radius. Disabled by default!",
+  "fr": "Autoriser les potions de respiration aquatique à être lancées comme un flacon à éclaboussure qui applique l'effet aux entités dans le rayon d'éclaboussure. Désactivé par défaut !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowToxicMushrooms",
+  "en": "Allow potion base toxic mushroom recipe !!!",
+  "fr": "Autoriser la recette de base de potion aux champignons toxiques !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowToxicMushrooms-Comment",
+  "en": "Allow toxic mushrooms (earthball, deathcap, elfin saddle, jack-o-lantern, devil bolete, bitter bolete, devil's tooth, gold drop milkcap, fool's conecap, sickener) to be used as ingredients in the basic potion base recipe. DO NOT DISABLE THIS AND PSYCHEDLIC MUSHROOMS RECIPES. THIS ALSO DOESN'T HIDE THE ITEMS FROM THE HANDBOOK BASIC POTION BASE CRAFTING RECIPE. Doing so will leave fly agaric and laughing jim as the only mushroom ingredients as they are both.",
+  "fr": "Autoriser les champignons toxiques (scléroderme, amanite phalloïde, helvelle, clitocybe de l'olivier, bolet Satan, bolet amer, dent du diable, lactaire à gouttes dorées, conocybe du fou, russule émétique) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS PSYCHÉDÉLIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le Jim rieur comme seuls ingrédients de champignon, car ils sont tous deux."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowVanillaContainerDrinking",
+  "en": "Allow drinking from other liquid containers",
+  "fr": "Autoriser à boire depuis d'autres récipients à liquide"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowVanillaContainerDrinking-Comment",
+  "en": "Allow potions to be drunk from vanilla bowls, buckets, and jugs, as well as Expanded Foods glass bottles when that mod (A Culinary Artillery) is installed. I assume its a little buggy to since the potion flasks handle some interactions differently to vanilla containers.",
+  "fr": "Autoriser à boire des potions depuis des bols, seaux et cruches vanilla, ainsi que des bouteilles en verre d'Expanded Foods lorsque ce mod (A Culinary Artillery) est installé. Je suppose que c'est un peu buggé car les flacons de potion gèrent certaines interactions différemment des récipients vanilla."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowVitalityPotion",
+  "en": "Allow vitality flask",
+  "fr": "Autoriser le flacon de vitalité"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowVitalityPotion-Comment",
+  "en": "Allow vitality flask!",
+  "fr": "Autoriser le flacon de vitalité !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowWaterBreathePotion",
+  "en": "Allow water breathing flask",
+  "fr": "Autoriser le flacon de respiration aquatique"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowWaterBreathePotion-Comment",
+  "en": "Allow water breathing flask!",
+  "fr": "Autoriser le flacon de respiration aquatique !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowWeaponCoating",
+  "en": "Allow weapon coating",
+  "fr": "Autoriser l'enrobage d'arme"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "AllowWeaponCoating-Comment",
+  "en": "Allow weapon coating!",
+  "fr": "Autoriser l'enrobage d'arme !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherExtraEffects-Config",
+  "en": "Archer's Flask extra/side effects",
+  "fr": "Effets supplémentaires/secondaires du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionAcc",
+  "en": "Archer's flask's accuracy",
+  "fr": "Précision du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionAcc-Comment",
+  "en": "Archer's flask's Accuracy value before strength multiplier",
+  "fr": "Valeur de précision du flacon de l'archer avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionAnimalLootDrop",
+  "en": "Archer's Flask animal loot drop %",
+  "fr": "% de butin animal du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin animal supplémentaire ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionAnimalSeekingRange",
+  "en": "Archer's Flask animal seeking range %",
+  "fr": "% de portée de détection des animaux du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionAnimalSeekingRange-Comment",
+  "en": "Extra animal seeking range added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Portée de détection des animaux supplémentaire ajoutée par le flacon de l'archer, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDamage",
+  "en": "Archer's flask's damage",
+  "fr": "Dégâts du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDamage-Comment",
+  "en": "Archer's flask's damage value before strength multiplier",
+  "fr": "Valeur de dégâts du flacon de l'archer avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingDamage",
+  "en": "Archer Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingDamage-Comment",
+  "en": "Archer flask side effect of health change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de l'archer de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingIntoxication",
+  "en": "Archer Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingIntoxication-Comment",
+  "en": "Archer flask side effect of intoxication change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de l'archer de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingPsychedelic",
+  "en": "Archer Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingPsychedelic-Comment",
+  "en": "Archer flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de l'archer de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingSaturationLoss",
+  "en": "Archer Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDrinkingSaturationLoss-Comment",
+  "en": "Archer flask side effect of saturation change on drink. This value is added on top of the global amount and is scaled by potion strength (potion strength scaling can be turned off for side effects). This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de l'archer de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et est mise à l'échelle selon la puissance de la potion (la mise à l'échelle par la puissance de la potion peut être désactivée pour les effets secondaires). Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDuration",
+  "en": "Archer's flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionDuration-Comment",
+  "en": "Duration of archer flask!",
+  "fr": "Durée du flacon de l'archer !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionForageDrop",
+  "en": "Archer's Flask forage drop %",
+  "fr": "% de butin de cueillette du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionForageDrop-Comment",
+  "en": "Extra forage drop added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de cueillette supplémentaire ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionGearDrop",
+  "en": "Archer's Flask gear drop %",
+  "fr": "% de butin d'équipement du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionGearDrop-Comment",
+  "en": "Extra gear drop added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin d'équipement supplémentaire ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionGroup",
+  "en": "Archer potion group",
+  "fr": "Groupe de la potion de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHealingEffectiveness",
+  "en": "Archer's Flask healing effectiveness %",
+  "fr": "% d'efficacité de soin du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHealingEffectiveness-Comment",
+  "en": "Extra healing effectiveness added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Efficacité de soin supplémentaire ajoutée par le flacon de l'archer, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHealth",
+  "en": "Archer's Flask health change",
+  "fr": "Changement de santé du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHealth-Comment",
+  "en": "Health change added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Changement de santé ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHealthTickSec",
+  "en": "Archer's Flask health tick interval",
+  "fr": "Intervalle de tick de santé du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHealthTickSec-Comment",
+  "en": "Seconds between health ticks for Archer's Flask extra health. 0 = instant.",
+  "fr": "Secondes entre les ticks de santé pour la santé supplémentaire du flacon de l'archer. 0 = instantané."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHungerRate",
+  "en": "Archer's Flask hunger rate %",
+  "fr": "% de taux de faim du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionHungerRate-Comment",
+  "en": "Hunger rate modifier added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Modificateur de taux de faim ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionMaxHealth",
+  "en": "Archer's Flask max health",
+  "fr": "Santé maximale du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionMaxHealth-Comment",
+  "en": "Extra max health added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Santé maximale supplémentaire ajoutée par le flacon de l'archer, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionMeleeDamage",
+  "en": "Archer's Flask melee damage %",
+  "fr": "% de dégâts de mêlée du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionMeleeDamage-Comment",
+  "en": "Extra melee damage added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Dégâts de mêlée supplémentaires ajoutés par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionMiningSpeed",
+  "en": "Archer's Flask mining speed %",
+  "fr": "% de vitesse de minage du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionMiningSpeed-Comment",
+  "en": "Extra mining speed added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de minage supplémentaire ajoutée par le flacon de l'archer, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionOreDrop",
+  "en": "Archer's Flask ore drop %",
+  "fr": "% de butin de minerai du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionOreDrop-Comment",
+  "en": "Extra ore drop added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de minerai supplémentaire ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionResetsEffects",
+  "en": "Archer potion resets effects",
+  "fr": "La potion de l'archer réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionSpeed",
+  "en": "Archer's flask's draw speed",
+  "fr": "Vitesse de tir du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionSpeed-Comment",
+  "en": "Archer's flask's draw speed value before strength multiplier",
+  "fr": "Valeur de vitesse de tir du flacon de l'archer avant le multiplicateur de puissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionVesselContentsDrop",
+  "en": "Archer's Flask vessel contents drop %",
+  "fr": "% de butin de contenu de récipient du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionVesselContentsDrop-Comment",
+  "en": "Extra vessel contents drop added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de contenu de récipient supplémentaire ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionWalkSpeed",
+  "en": "Archer's Flask walk speed %",
+  "fr": "% de vitesse de marche du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionWalkSpeed-Comment",
+  "en": "Extra walk speed added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Vitesse de marche supplémentaire ajoutée par le flacon de l'archer, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionWildCropDrop",
+  "en": "Archer's Flask wild crop drop %",
+  "fr": "% de butin de culture sauvage du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherPotionWildCropDrop-Comment",
+  "en": "Extra wild crop drop added by Archer's Flask, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin de culture sauvage supplémentaire ajouté par le flacon de l'archer, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ArcherValues-Config",
+  "en": "List of archer flask modifiers",
+  "fr": "Liste des modificateurs du flacon de l'archer"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbExtraEffects-Config",
+  "en": "Spider Flask side effects",
+  "fr": "Effets secondaires du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingDamage",
+  "en": "Climb Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingDamage-Comment",
+  "en": "Climb flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon d'araignée de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingIntoxication",
+  "en": "Climb Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingIntoxication-Comment",
+  "en": "Climb flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon d'araignée de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingPsychedelic",
+  "en": "Climb Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingPsychedelic-Comment",
+  "en": "Climb flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon d'araignée de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingSaturationLoss",
+  "en": "Climb Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDrinkingSaturationLoss-Comment",
+  "en": "Climb flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon d'araignée de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDuration",
+  "en": "Spider flask's duration in seconds",
+  "fr": "Durée en secondes du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionDuration-Comment",
+  "en": "Duration of spider flask",
+  "fr": "Durée du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionGroup",
+  "en": "Climb potion group",
+  "fr": "Groupe de la potion d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionResetsEffects",
+  "en": "Climb potion resets effects",
+  "fr": "La potion d'araignée réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionStrongRecipe",
+  "en": "Spider flask strong recipe",
+  "fr": "Recette forte du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbPotionStrongRecipe-Comment",
+  "en": "If on, the spider flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon d'araignée utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ClimbValues-Config",
+  "en": "List of spider flask modifiers",
+  "fr": "Liste des modificateurs du flacon d'araignée"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "CoatableProjectilesCodes",
+  "en": "Coatable projectile codes",
+  "fr": "Codes de projectiles enrobables"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "CoatableProjectilesCodes-Comment",
+  "en": "Comma-separated wildcard item codes for projectiles that can be coated with potions. \"*arrow*\" is the default, which makes every vanilla and modded arrow coatable. Patterns are matched against the full item code (domain:path), so you can use forms like \"*arrow*\", \"game:arrow-*\", or \"mymod:bolt-*\". For example \"game:arrow-*, mymod:bolt-*\" allows only vanilla arrows and that mod's bolts. Leave empty to disable projectile coating entirely.",
+  "fr": "Codes d'objets génériques séparés par des virgules pour les projectiles pouvant être enrobés de potions. « *arrow* » est la valeur par défaut, ce qui rend enrobable chaque flèche vanilla et modée. Les motifs sont comparés au code d'objet complet (domaine:chemin), donc vous pouvez utiliser des formes comme « *arrow* », « game:arrow-* » ou « mymod:bolt-* ». Par exemple « game:arrow-*, mymod:bolt-* » n'autorise que les flèches vanilla et les carreaux de ce mod. Laisser vide pour désactiver entièrement l'enrobage de projectiles."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "CoatableWeaponTags",
+  "en": "Coatable weapon tags!!!",
+  "fr": "Tags d'armes enrobables !!!"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "CoatableWeaponTags-Comment",
+  "en": "Comma-separated VS item tags for weapons that can be coated with potions. \"weapon-melee\" is the default. This will mean every vanilla weapon and every modded weapon with that tag can be coated. If you want to only allow specific weapons with different tags to be coated. For example if you replace it with \"weapon-sword, tool-cleaver\" then only swords and the cleaver will be coatable. MAKE SURE TO HAVE VALID TAGS OR IT WON'T WORK!",
+  "fr": "Tags d'objets VS séparés par des virgules pour les armes pouvant être enrobées de potions. « weapon-melee » est la valeur par défaut. Cela signifie que chaque arme vanilla et chaque arme modée possédant ce tag pourra être enrobée. Si vous souhaitez n'autoriser que des armes spécifiques avec des tags différents à être enrobées. Par exemple si vous le remplacez par « weapon-sword, tool-cleaver » alors seules les épées et le couperet seront enrobables. ASSUREZ-VOUS D'AVOIR DES TAGS VALIDES SINON CELA NE FONCTIONNERA PAS !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistExtraEffects-Config",
+  "en": "Warmth Flask side effects",
+  "fr": "Effets secondaires du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingDamage",
+  "en": "ColdResist Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingDamage-Comment",
+  "en": "ColdResist flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de chaleur de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingIntoxication",
+  "en": "ColdResist Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingIntoxication-Comment",
+  "en": "ColdResist flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de chaleur de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingPsychedelic",
+  "en": "ColdResist Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingPsychedelic-Comment",
+  "en": "ColdResist flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de chaleur de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingSaturationLoss",
+  "en": "ColdResist Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDrinkingSaturationLoss-Comment",
+  "en": "ColdResist flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de chaleur de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDuration",
+  "en": "Warmth flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionDuration-Comment",
+  "en": "Duration of warmth flask",
+  "fr": "Durée du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionGroup",
+  "en": "Cold resist potion group",
+  "fr": "Groupe de la potion de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionResetsEffects",
+  "en": "Cold resist potion resets effects",
+  "fr": "La potion de chaleur réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionStrongRecipe",
+  "en": "Warmth flask strong recipe",
+  "fr": "Recette forte du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistPotionStrongRecipe-Comment",
+  "en": "If on, the warmth flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon de chaleur utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "ColdResistValues-Config",
+  "en": "List of warmth flask modifiers",
+  "fr": "Liste des modificateurs du flacon de chaleur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionDamageAmount",
+  "en": "Global health change on drink",
+  "fr": "Changement de santé global à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionDamageAmount-Comment",
+  "en": "How much health is changed on the player per potion consumed (0 = disabled).  This isn't scaled by potion strength. This is a side effect. This applies to ALL POTIONS, for individual potion types go to the extra effect sections below this section!",
+  "fr": "Quantité de santé modifiée chez le joueur par potion consommée (0 = désactivé). Ceci n'est pas mis à l'échelle selon la puissance de la potion. Il s'agit d'un effet secondaire. Cela s'applique à TOUTES LES POTIONS ; pour les types de potions individuels, allez dans les sections d'effets supplémentaires sous cette section !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionIntoxicationAmount",
+  "en": "Global intoxication amount on drink",
+  "fr": "Quantité d'intoxication globale à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionIntoxicationAmount-Comment",
+  "en": "How much intoxication is changed per potion consumed (0 = disabled). This isn't scaled by potion strength. This is a side effect. This applies to ALL POTIONS, for individual potion types go to the extra effect sections below this section!",
+  "fr": "Quantité d'intoxication modifiée par potion consommée (0 = désactivé). Ceci n'est pas mis à l'échelle selon la puissance de la potion. Il s'agit d'un effet secondaire. Cela s'applique à TOUTES LES POTIONS ; pour les types de potions individuels, allez dans les sections d'effets supplémentaires sous cette section !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionPsychedelicAmount",
+  "en": "Global psychedelic amount on drink",
+  "fr": "Quantité psychédélique globale à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionPsychedelicAmount-Comment",
+  "en": "How much psychedelic effect is changed per potion consumed (0 = disabled). This isn't scaled by potion strength. This is a side effect. This applies to ALL POTIONS, for individual potion types go to the extra effect sections below this section!",
+  "fr": "Quantité d'effet psychédélique modifiée par potion consommée (0 = désactivé). Ceci n'est pas mis à l'échelle selon la puissance de la potion. Il s'agit d'un effet secondaire. Cela s'applique à TOUTES LES POTIONS ; pour les types de potions individuels, allez dans les sections d'effets supplémentaires sous cette section !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionSaturationLossAmount",
+  "en": "Global Saturation change on drink",
+  "fr": "Changement de saturation global à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingPotionSaturationLossAmount-Comment",
+  "en": "How much saturation is changed per potion consumed (0 = disabled). This isn't scaled by potion strength. This is a side effect. This applies to ALL POTIONS, for individual potion types go to the extra effect sections below this section!",
+  "fr": "Quantité de saturation modifiée par potion consommée (0 = désactivé). Ceci n'est pas mis à l'échelle selon la puissance de la potion. Il s'agit d'un effet secondaire. Cela s'applique à TOUTES LES POTIONS ; pour les types de potions individuels, allez dans les sections d'effets supplémentaires sous cette section !"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "DrinkingSideEffects-Config",
+  "en": "Global drinking side effects",
+  "fr": "Effets secondaires globaux à la consommation"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallExtraEffects-Config",
+  "en": "Featherfall Flask side effects",
+  "fr": "Effets secondaires du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDamageReduction",
+  "en": "Featherfall flask's damage reduction",
+  "fr": "Réduction de dégâts du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDamageReduction-Comment",
+  "en": "Featherfall flask's fall damage reduction fraction (0.5 = 50% less fall damage)",
+  "fr": "Fraction de réduction des dégâts de chute du flacon de plume (0.5 = 50% de dégâts de chute en moins)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingDamage",
+  "en": "Fall Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingDamage-Comment",
+  "en": "Fall flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de plume de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingIntoxication",
+  "en": "Fall Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingIntoxication-Comment",
+  "en": "Fall flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de plume de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingPsychedelic",
+  "en": "Fall Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingPsychedelic-Comment",
+  "en": "Fall flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de plume de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingSaturationLoss",
+  "en": "Fall Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDrinkingSaturationLoss-Comment",
+  "en": "Fall flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de plume de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDuration",
+  "en": "Featherfall flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionDuration-Comment",
+  "en": "Duration of featherfall flask",
+  "fr": "Durée du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionGroup",
+  "en": "Fall potion group",
+  "fr": "Groupe de la potion de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionResetsEffects",
+  "en": "Fall potion resets effects",
+  "fr": "La potion de plume réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionStrongRecipe",
+  "en": "Featherfall flask strong recipe",
+  "fr": "Recette forte du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallPotionStrongRecipe-Comment",
+  "en": "If on, the featherfall flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon de plume utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FallValues-Config",
+  "en": "List of featherfall flask modifiers",
+  "fr": "Liste des modificateurs du flacon de plume"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightExtraEffects-Config",
+  "en": "Flight Flask side effects",
+  "fr": "Effets secondaires du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingDamage",
+  "en": "Flight Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingDamage-Comment",
+  "en": "Flight flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vol de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingIntoxication",
+  "en": "Flight Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingIntoxication-Comment",
+  "en": "Flight flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vol de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingPsychedelic",
+  "en": "Flight Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingPsychedelic-Comment",
+  "en": "Flight flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vol de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingSaturationLoss",
+  "en": "Flight Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDrinkingSaturationLoss-Comment",
+  "en": "Flight flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de vol de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDuration",
+  "en": "Flight flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionDuration-Comment",
+  "en": "Duration of flight flask",
+  "fr": "Durée du flacon de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionGroup",
+  "en": "Flight potion group",
+  "fr": "Groupe de la potion de vol"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "FlightPotionResetsEffects",
+  "en": "Flight potion resets effects",
+  "fr": "La potion de vol réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowExtraEffects-Config",
+  "en": "Glow Flask side effects",
+  "fr": "Effets secondaires du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingDamage",
+  "en": "Glow Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingDamage-Comment",
+  "en": "Glow flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de lueur de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingIntoxication",
+  "en": "Glow Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingIntoxication-Comment",
+  "en": "Glow flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de lueur de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingPsychedelic",
+  "en": "Glow Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingPsychedelic-Comment",
+  "en": "Glow flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de lueur de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingSaturationLoss",
+  "en": "Glow Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDrinkingSaturationLoss-Comment",
+  "en": "Glow flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de lueur de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDuration",
+  "en": "Glow flask's duration in seconds",
+  "fr": "Durée en secondes du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionDuration-Comment",
+  "en": "Duration of glow flask",
+  "fr": "Durée du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionGroup",
+  "en": "Glow potion group",
+  "fr": "Groupe de la potion de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionResetsEffects",
+  "en": "Glow potion resets effects",
+  "fr": "La potion de lueur réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionStrength",
+  "en": "Glow flask's light strength",
+  "fr": "Intensité lumineuse du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionStrength-Comment",
+  "en": "Glow flask's light strength, never really fully understood how this worked with the amount but I remember it crashed when the number was above 31. From my testing it didn't really make much of a difference when changing the value.",
+  "fr": "Intensité lumineuse du flacon de lueur, je n'ai jamais vraiment bien compris comment cela fonctionnait avec la quantité mais je me souviens que ça plantait quand le nombre dépassait 31. D'après mes tests, changer la valeur ne faisait pas vraiment grande différence."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionStrongRecipe",
+  "en": "Glow flask strong recipe",
+  "fr": "Recette forte du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowPotionStrongRecipe-Comment",
+  "en": "If on, the glow flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon de lueur utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GlowValues-Config",
+  "en": "List of glow flask modifiers",
+  "fr": "Liste des modificateurs du flacon de lueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowExtraEffects-Config",
+  "en": "Growth Flask side effects",
+  "fr": "Effets secondaires du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingDamage",
+  "en": "Grow Flask health change on drink",
+  "fr": "Changement de santé à la consommation du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingDamage-Comment",
+  "en": "Grow flask side effect of health change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase health, negative values decrease health. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de croissance de changement de santé à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la santé, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingIntoxication",
+  "en": "Grow Flask intoxication change on drink",
+  "fr": "Changement d'intoxication à la consommation du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingIntoxication-Comment",
+  "en": "Grow flask side effect of intoxication change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase intoxication, negative values decrease intoxication. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de croissance de changement d'intoxication à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent l'intoxication, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingPsychedelic",
+  "en": "Grow Flask psychedelic effect change on drink",
+  "fr": "Changement d'effet psychédélique à la consommation du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingPsychedelic-Comment",
+  "en": "Grow flask side effect of psychedelic effect change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase psychedelic effects, negative values decrease psychedelic effects. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de croissance de changement d'effet psychédélique à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent les effets psychédéliques, les valeurs négatives les diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingSaturationLoss",
+  "en": "Grow Flask saturation change on drink",
+  "fr": "Changement de saturation à la consommation du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionDrinkingSaturationLoss-Comment",
+  "en": "Grow flask side effect of saturation change on drink. This value is added on top of the global amount and are not scaled with potion strength as they are utility potions. This is an actual value and not a percentage. Positive values increase saturation, negative values decrease saturation. (0 = disabled)",
+  "fr": "Effet secondaire du flacon de croissance de changement de saturation à la consommation. Cette valeur s'ajoute à la quantité globale et n'est pas mise à l'échelle selon la puissance de la potion car ce sont des potions utilitaires. Il s'agit d'une valeur réelle et non d'un pourcentage. Les valeurs positives augmentent la saturation, les valeurs négatives la diminuent. (0 = désactivé)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionGroup",
+  "en": "Grow potion group",
+  "fr": "Groupe de la potion de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionResetsEffects",
+  "en": "Grow potion resets effects",
+  "fr": "La potion de croissance réinitialise les effets"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionSizeChange",
+  "en": "Growth flask's size change",
+  "fr": "Changement de taille du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionSizeChange-Comment",
+  "en": "Growth flask's height change in blocks per use",
+  "fr": "Changement de hauteur en blocs par utilisation du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionStrongRecipe",
+  "en": "Growth flask strong recipe",
+  "fr": "Recette forte du flacon de croissance"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowPotionStrongRecipe-Comment",
+  "en": "If on, the growth flask uses the strong recipe (potion base + alcohol + tea). If off, it uses the medium recipe (potion base + tea). Default: off.",
+  "fr": "Si activé, le flacon de croissance utilise la recette forte (base de potion + alcool + thé). Si désactivé, il utilise la recette moyenne (base de potion + thé). Par défaut : désactivé."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowShrinkMaxHeight",
+  "en": "Maximum player height",
+  "fr": "Hauteur maximale du joueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowShrinkMaxHeight-Comment",
+  "en": "The maximum height in blocks a player can be grown to",
+  "fr": "La hauteur maximale en blocs à laquelle un joueur peut être agrandi"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowShrinkMinHeight",
+  "en": "Minimum player height",
+  "fr": "Hauteur minimale du joueur"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowShrinkMinHeight-Comment",
+  "en": "The minimum height in blocks a player can be shrunk to",
+  "fr": "La hauteur minimale en blocs à laquelle un joueur peut être rétréci"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "GrowShrinkValues-Config",
+  "en": "List of Growth/Shrinking Flask modifiers",
+  "fr": "Liste des modificateurs des flacons de croissance/rétrécissement"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "HealingEffectExtraEffects-Config",
+  "en": "Potent Oil extra/side effects",
+  "fr": "Effets supplémentaires/secondaires de l'huile puissante"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "HealingEffectPotionAnimalLootDrop",
+  "en": "Potent Oil animal loot drop %",
+  "fr": "Huile puissante : butin animal (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "HealingEffectPotionAnimalLootDrop-Comment",
+  "en": "Extra animal loot drop added by Potent Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Butin animal supplémentaire ajouté par l'huile puissante, mis à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ },
+ {
+  "dom": "alchemy",
+  "cle": "HealingEffectPotionAnimalSeekingRange",
+  "en": "Potent Oil animal seeking range %",
+  "fr": "Huile puissante : portée de détection des animaux (%)"
+ },
+ {
+  "dom": "alchemy",
+  "cle": "HealingEffectPotionAnimalSeekingRange-Comment",
+  "en": "Extra animal seeking range added by Potent Oil, scaled by potion strength. Default 0 (disabled).",
+  "fr": "Portée de détection des animaux supplémentaire ajoutée par l'huile puissante, mise à l'échelle selon la puissance de la potion. Par défaut 0 (désactivé)."
+ }
+]

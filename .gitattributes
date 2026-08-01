@@ -1,0 +1,19 @@
+# Les entrypoints sont copies dans des images Linux. Sans ca, un checkout sous
+# Windows les passe en CRLF et le conteneur meurt sur
+# "bad interpreter: /bin/bash^M".
+* text=auto eol=lf
+
+*.sh            text eol=lf
+Dockerfile      text eol=lf
+*.yml           text eol=lf
+*.yaml          text eol=lf
+*.json          text eol=lf
+*.md            text eol=lf
+.env.example    text eol=lf
+mods.manifest   text eol=lf
+
+# Binaires: aucune conversion, aucun diff.
+stratum-local/StratumServer  binary
+*.dll                        binary
+*.pdb                        binary
+*.zip                        binary

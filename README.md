@@ -33,6 +33,33 @@ Les joueurs se connectent à l'adresse du proxy, port 42420. Une fois en jeu,
 `/server creative` ou `/server survival` fait passer d'un monde à l'autre. Il
 leur faut RedirectFix, voir plus bas.
 
+## Sous Windows
+
+La stack tourne en conteneurs Linux, donc via Docker Desktop avec le moteur
+WSL2. Lance les scripts depuis Git Bash, livré avec Git for Windows :
+
+```bash
+bash scripts/setup.sh
+docker compose up -d
+```
+
+Le `.gitattributes` force les fins de ligne en LF sur les scripts. Sans lui, Git
+for Windows les convertit en CRLF au checkout et les conteneurs meurent aussitôt
+sur `bad interpreter: /bin/bash^M`. Ne le supprime pas, et si tu as cloné avant
+son ajout, refais un clone propre plutôt que de corriger à la main.
+
+`setup.sh` renseigne `PUID` et `PGID` depuis `id -u` et `id -g`. Sous Git Bash
+ces commandes renvoient des identifiants Windows qui n'ont pas de sens pour un
+conteneur. Si les backends bouclent sur un redémarrage en se plaignant de ne pas
+pouvoir écrire dans `/data`, mets `PUID=0` et `PGID=0` dans `.env` : les
+conteneurs tourneront en root, ce qui est sans conséquence ici puisque les
+montages passent par la VM de Docker Desktop.
+
+Le plus confortable reste de cloner dans le système de fichiers WSL2, par exemple
+sous `\\wsl$\Ubuntu\home\...`, plutôt que sur un chemin `C:\`. Les
+performances de montage sont bien meilleures et les permissions se comportent
+normalement.
+
 ## Ce qu'il y a dans les images
 
 Le backend part de `mcr.microsoft.com/dotnet/runtime:10.0`, parce que le serveur

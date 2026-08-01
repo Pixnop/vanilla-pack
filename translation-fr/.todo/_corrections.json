@@ -1,0 +1,93 @@
+[
+  {
+    "dom": "aculinaryartillery",
+    "cle": "item-rollingpin-lightaged",
+    "avant": "Rouleau à pâtisserie légèrement vieillis",
+    "apres": "Rouleau à pâtisserie légèrement vieilli",
+    "pourquoi": "Accord fautif : « vieillis » (pluriel) ne s'accorde pas avec « Rouleau » (masculin singulier)."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionGearDrop",
+    "avant": "% de rouages supplémentaires du flacon de vitalité",
+    "apres": "% de butin d'équipement supplémentaire du flacon de vitalité",
+    "pourquoi": "Contresens : « gear » désigne ici l'équipement/butin (comme dans les entrées sœurs « butin d'équipement »), pas des « rouages » mécaniques."
+  },
+  {
+    "dom": "alchemy",
+    "cle": "disabled",
+    "avant": "Désactivé par la configuration de l'administrateur du serveur !",
+    "apres": "Désactivé par la configuration de l'administrateur du serveur !",
+    "pourquoi": "Espace insécable manquante avant le point d'exclamation, incohérente avec le reste du fichier."
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-LeftEarrings",
+    "avant": "LeftEarrings",
+    "apres": "Oreille gauche",
+    "pourquoi": "Texte resté entièrement en anglais alors qu'un équivalent français existe."
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-LeftPalm",
+    "avant": "LeftPalm",
+    "apres": "Paume gauche",
+    "pourquoi": "Texte resté entièrement en anglais alors qu'un équivalent français existe."
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-Nose",
+    "avant": "Nose",
+    "apres": "Nez",
+    "pourquoi": "« Nose » n'est pas un mot français ; traduction manquante."
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-RightEarrings",
+    "avant": "RightEarrings",
+    "apres": "Oreille droite",
+    "pourquoi": "Texte resté entièrement en anglais alors qu'un équivalent français existe."
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-RightPalm",
+    "avant": "RightPalm",
+    "apres": "Paume droite",
+    "pourquoi": "Texte resté entièrement en anglais alors qu'un équivalent français existe."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "ingameerror-emptysource",
+    "avant": "You’re not holding anything to load.",
+    "apres": "Vous ne tenez rien à charger.",
+    "pourquoi": "Chaîne restée non traduite (texte anglais intégral copié tel quel)."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "ingameerror-notsmokable",
+    "avant": "That’s not smokable.",
+    "apres": "Ce n'est pas fumable.",
+    "pourquoi": "Chaîne restée non traduite (texte anglais intégral copié tel quel)."
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "ingameerror-smokefail",
+    "avant": "Couldn’t smoke.",
+    "apres": "Impossible de fumer.",
+    "pourquoi": "Chaîne restée non traduite ; formulation alignée sur « Impossible de charger la pipe. » déjà présente."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-t&g-largedemijohn-null-*",
+    "avant": "Grande demijohn",
+    "apres": "Grande dame-jeanne",
+    "pourquoi": "Anglicisme évitable : le terme français consacré pour « demijohn » est « dame-jeanne »."
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-t&g-smalldemijohn-null-*",
+    "avant": "Petite demijohn",
+    "apres": "Petite dame-jeanne",
+    "pourquoi": "Anglicisme évitable : le terme français consacré pour « demijohn » est « dame-jeanne »."
+  }
+]

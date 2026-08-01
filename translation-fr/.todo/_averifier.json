@@ -1,0 +1,1578 @@
+[
+  {
+    "dom": "aculinaryartillery",
+    "cle": "item-rollingpin-lightaged",
+    "en": "Light aged rolling pin",
+    "fr": "Rouleau à pâtisserie légèrement vieillis",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowGrowPotionRecipe",
+    "en": "Allow growth flask recipe",
+    "fr": "Autoriser la recette du flacon de croissance",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowHerbRackMolds",
+    "en": "Allow herb rack molds",
+    "fr": "Autoriser les moules d'étagère à herbes",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowHerbRackMolds-Comment",
+    "en": "Allow herb rack molds!",
+    "fr": "Autoriser les moules d'étagère à herbes !",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowShrinkPotion",
+    "en": "Allow shrinking flask",
+    "fr": "Autoriser le flacon de rétrécissement",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowShrinkPotion-Comment",
+    "en": "Allow shrinking flask!",
+    "fr": "Autoriser le flacon de rétrécissement !",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowThrowShrink",
+    "en": "Allow shrink throwing",
+    "fr": "Autoriser le lancer de rétrécissement",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "GrowPotionDrinkingDamage",
+    "en": "Grow Flask health change on drink",
+    "fr": "Changement de santé à la consommation du flacon de croissance",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "GrowPotionDrinkingSaturationLoss",
+    "en": "Grow Flask saturation change on drink",
+    "fr": "Changement de saturation à la consommation du flacon de croissance",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "GrowPotionResetsEffects",
+    "en": "Grow potion resets effects",
+    "fr": "La potion de croissance réinitialise les effets",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectExtraEffects-Config",
+    "en": "Potent Oil extra/side effects",
+    "fr": "Effets supplémentaires/secondaires de l'huile puissante",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionGearDrop",
+    "en": "Potent Oil gear drop %",
+    "fr": "Huile puissante : butin d'équipement (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionOreDrop",
+    "en": "Potent Oil ore drop %",
+    "fr": "Huile puissante : butin de minerai (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HealingEffectPotionWalkSpeed",
+    "en": "Potent Oil walk speed %",
+    "fr": "Huile puissante : vitesse de déplacement (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhanceExtraEffects-Config",
+    "en": "Purging Brew extra/side effects",
+    "fr": "Effets supplémentaires/secondaires de la décoction purgative",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionGearDrop",
+    "en": "Purging Brew gear drop %",
+    "fr": "Décoction purgative : butin d'équipement (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionOreDrop",
+    "en": "Purging Brew ore drop %",
+    "fr": "Décoction purgative : butin de minerai (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerEnhancePotionWalkSpeed",
+    "en": "Purging Brew walk speed %",
+    "fr": "Décoction purgative : vitesse de déplacement (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressExtraEffects-Config",
+    "en": "Settling Brew extra/side effects",
+    "fr": "Effets supplémentaires/secondaires de la décoction apaisante",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionGearDrop",
+    "en": "Settling Brew gear drop %",
+    "fr": "Décoction apaisante : butin d'équipement (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HungerSupressPotionWalkSpeed",
+    "en": "Settling Brew walk speed %",
+    "fr": "Décoction apaisante : vitesse de déplacement (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingDamage",
+    "en": "Hunter Flask health change on drink",
+    "fr": "Flacon du délice du chasseur : changement de santé au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingIntoxication",
+    "en": "Hunter Flask intoxication change on drink",
+    "fr": "Flacon du délice du chasseur : changement d'intoxication au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "HunterPotionDrinkingSaturationLoss",
+    "en": "Hunter Flask saturation change on drink",
+    "fr": "Flacon du délice du chasseur : changement de saturation au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingDamage",
+    "en": "Looter Flask health change on drink",
+    "fr": "Flacon du délice du pillard : changement de santé au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingIntoxication",
+    "en": "Looter Flask intoxication change on drink",
+    "fr": "Flacon du délice du pillard : changement d'intoxication au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "LooterPotionDrinkingSaturationLoss",
+    "en": "Looter Flask saturation change on drink",
+    "fr": "Flacon du délice du pillard : changement de saturation au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonExtraEffects-Config",
+    "en": "Spiked Oil extra/side effects",
+    "fr": "Effets supplémentaires/secondaires de l'huile empoisonnée",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionDrinkingDamage",
+    "en": "Poison Flask health change on drink",
+    "fr": "Flacon d'huile empoisonnée : changement de santé au moment de boire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionForageDrop",
+    "en": "Spiked Oil forage drop %",
+    "fr": "Butin de cueillette de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionGearDrop",
+    "en": "Spiked Oil gear drop %",
+    "fr": "Butin d'équipement de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionMaxHealth",
+    "en": "Spiked Oil max health",
+    "fr": "Santé maximale de l'huile empoisonnée",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionMeleeDamage",
+    "en": "Spiked Oil melee damage %",
+    "fr": "Dégâts au corps à corps de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionMiningSpeed",
+    "en": "Spiked Oil mining speed %",
+    "fr": "Vitesse de minage de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionOreDrop",
+    "en": "Spiked Oil ore drop %",
+    "fr": "Butin de minerai de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionRangedSpeed",
+    "en": "Spiked Oil ranged speed %",
+    "fr": "Vitesse à distance de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionTickSec",
+    "en": "Spiked oil's ticks sec",
+    "fr": "Secondes par tic de l'huile empoisonnée",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionWalkSpeed",
+    "en": "Spiked Oil walk speed %",
+    "fr": "Vitesse de marche de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PoisonPotionWildCropDrop",
+    "en": "Spiked Oil wild crop drop %",
+    "fr": "Butin de culture sauvage de l'huile empoisonnée (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenExtraEffects-Config",
+    "en": "Healing Oil extra/side effects",
+    "fr": "Effets secondaires/supplémentaires de l'huile de soin",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenPotionDrinkingDamage",
+    "en": "Regen Flask health change on drink",
+    "fr": "Changement de santé du flacon de régénération à la consommation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenPotionDrinkingSaturationLoss",
+    "en": "Regen Flask saturation change on drink",
+    "fr": "Changement de saturation du flacon de régénération à la consommation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenPotionGearDrop",
+    "en": "Healing Oil gear drop %",
+    "fr": "Butin d'équipement de l'huile de soin (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenPotionMeleeDamage",
+    "en": "Healing Oil melee damage %",
+    "fr": "Dégâts au corps à corps de l'huile de soin (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenPotionOreDrop",
+    "en": "Healing Oil ore drop %",
+    "fr": "Butin de minerai de l'huile de soin (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "RegenPotionResetsEffects",
+    "en": "Regen potion resets effects",
+    "fr": "La potion de régénération réinitialise les effets",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskExtraEffects-Config",
+    "en": "Scent Mask Flask extra/side effects",
+    "fr": "Effets secondaires/supplémentaires du flacon de masquage d'odeur",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionDrinkingDamage",
+    "en": "ScentMask Flask health change on drink",
+    "fr": "Changement de santé du flacon de masquage d'odeur à la consommation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionForageDrop",
+    "en": "Scent Mask Flask forage drop %",
+    "fr": "Butin de cueillette du flacon de masquage d'odeur (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionGearDrop",
+    "en": "Scent Mask Flask gear drop %",
+    "fr": "Butin d'équipement du flacon de masquage d'odeur (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionMeleeDamage",
+    "en": "Scent Mask Flask melee damage %",
+    "fr": "Dégâts au corps à corps du flacon de masquage d'odeur (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionOreDrop",
+    "en": "Scent Mask Flask ore drop %",
+    "fr": "Butin de minerai du flacon de masquage d'odeur (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionWalkSpeed",
+    "en": "Scent Mask Flask walk speed %",
+    "fr": "Vitesse de marche du flacon de masquage d'odeur (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ScentMaskPotionWildCropDrop",
+    "en": "Scent Mask Flask wild crop drop %",
+    "fr": "Butin de culture sauvage du flacon de masquage d'odeur (%)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ShrinkPotionDrinkingDamage",
+    "en": "Shrink Flask health change on drink",
+    "fr": "Changement de santé du flacon de rétrécissement à la consommation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ShrinkPotionDrinkingSaturationLoss",
+    "en": "Shrink Flask saturation change on drink",
+    "fr": "Changement de saturation du flacon de rétrécissement à la consommation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "ShrinkPotionResetsEffects",
+    "en": "Shrink potion resets effects",
+    "fr": "La potion de rétrécissement réinitialise les effets",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "UseTime-Config",
+    "en": "List of use time modifiers",
+    "fr": "Liste des modificateurs de temps d'utilisation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionForageDrop",
+    "en": "Vitality Flask forage drop %",
+    "fr": "% de récolte sauvage supplémentaire du flacon de vitalité",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionGearDrop",
+    "en": "Vitality Flask gear drop %",
+    "fr": "% de rouages supplémentaires du flacon de vitalité",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "VitalityPotionOreDrop",
+    "en": "Vitality Flask ore drop %",
+    "fr": "% de minerai supplémentaire du flacon de vitalité",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "WaterBreathePotionDrinkingDamage",
+    "en": "WaterBreathe Flask health change on drink",
+    "fr": "Changement de santé du flacon de respiration aquatique à la consommation",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "WeaponCoatApplyTime",
+    "en": "Weapon coat apply time",
+    "fr": "Temps d'application du revêtement d'arme",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "alchemy:alchemyguide-coat-text",
+    "en": "Weapon coating lets you apply a potion onto a melee weapon or onto arrows so the potion's effect is delivered to whatever you hit. Great for making a healing club for an ally, or poisoning your enemies. \n\nWhat you need:\nA coating source held in your OFF hand. This can be an <a href=\"handbooksearch://edible herb\">edible herb ball</a> (uses one herb) or a potion <a href=\"handbooksearch://potion flask\">flask</a>(uses 0.25 L).\nA coatable item held in your MAIN hand which is any melee weapon or a arrow (both configurable).\n\nHow to apply a coating:\nHold the coating source in your off hand and the weapon or arrows in your main hand, then hold Shift + Right-click and keep holding for a couple of seconds.\n\nQuick coating with a barrel:\nPlace a weapon or a stack of arrows into a barrel of potion to coat them instantly. Weapons are coated to max charge and arrow stacks all at once.\n\nMelee weapons:\nEach coat adds one charge, up to a maximum (5 by default). Every melee hit on a living creature spends one charge and applies the potion effect.\n\nProjectiles:\nProjectiles such as arrows are coated individually rather than by charges. A coated projectile delivers its effect to the first creature it hits. By default it's only arrows.\n\nStrength:\nCoating effects are a fraction of the strength of drinking the same potion (90% by default). If enabled, potions that aren't healing or spiked oil can be used but will only work on players.\n\nA weapon can only hold one type of potion at a time at one strength, so hit something to clear a coating before switching potions.",
+    "fr": "Le revêtement d'arme vous permet d'appliquer une potion sur une arme de mêlée ou sur des flèches afin que l'effet de la potion soit délivré à tout ce que vous touchez. Idéal pour créer une massue de soin pour un allié, ou empoisonner vos ennemis. \n\nCe dont vous avez besoin :\nUne source de revêtement tenue dans votre main SECONDAIRE. Cela peut être une <a href=\"handbooksearch://edible herb\">boule d'herbe comestible</a> (utilise une herbe) ou un <a href=\"handbooksearch://potion flask\">flacon</a> de potion (utilise 0,25 L).\nUn objet revêtable tenu dans votre main PRINCIPALE, c'est-à-dire n'importe quelle arme de mêlée ou une flèche (les deux sont configurables).\n\nComment appliquer un revêtement :\nTenez la source de revêtement dans votre main secondaire et l'arme ou les flèches dans votre main principale, puis maintenez Maj + clic droit pendant quelques secondes.\n\nRevêtement rapide avec un tonneau :\nPlacez une arme ou une pile de flèches dans un tonneau de potion pour les revêtir instantanément. Les armes sont revêtues jusqu'à la charge maximale et les piles de flèches en une seule fois.\n\nArmes de mêlée :\nChaque revêtement ajoute une charge, jusqu'à un maximum (5 par défaut). Chaque coup de mêlée porté à une créature vivante consomme une charge et applique l'effet de la potion.\n\nProjectiles :\nLes projectiles tels que les flèches sont revêtus individuellement plutôt que par charges. Un projectile revêtu délivre son effet à la première créature qu'il touche. Par défaut, seules les flèches sont concernées.\n\nPuissance :\nLes effets de revêtement représentent une fraction de la puissance de la même potion bue (90 % par défaut). Si activé, les potions qui ne sont ni de soin ni de l'huile empoisonnée peuvent être utilisées mais ne fonctionneront que sur les joueurs.\n\nUne arme ne peut contenir qu'un seul type de potion à la fois à une seule puissance, il faut donc frapper quelque chose pour effacer un revêtement avant de changer de potion.",
+    "motifs": [
+      "anglais"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "alchemy:alchemyguide-medium-text",
+    "en": "Medium potions are liquid brews cooked in a <a href=\"handbooksearch://brewing cauldron\">brewing cauldron</a>. They are more effective than edible herbs and they are stored in flasks.\n\nYou will need: a brewing cauldron, a <a href=\"handbook://item-alchemy:stirringspoon\">wooden stirring spoon</a> attached to the cauldron, a <a href=\"handbook://block-barrel\">barrel</a> for making potion tea, and <a href=\"handbooksearch://potion flask\">flasks</a> to store and drink the finished potions (You can drink from other liquid containers if config is changed, although flasks handle potion drinking better).\n\nCauldron Setup:\nPlace the cauldron in the world, then right-click it with dry grass in hand, followed by four right-clicks with firewood in hand. The cauldron is now ready to use.\n\nStep 1 - Make Potion Tea:\nSeal a barrel with 1 <a href=\"handbook://item-alchemy:potionbase-basic\">basic potion base</a> and 2 litres of water. After 24 hours it will turn into <a href=\"handbook://item-alchemy:potionteaportion\">potion tea</a>. This is a key ingredient for all liquid potions.\n\nStep 2 - Brew the Potion:\nPlace 1 weak potion base and 1 litre of potion tea into the cauldron, attach a wooden stirring spoon, then light the fire beneath. The cauldron will cook the mixture into a medium potion.\n\nStep 3 - Fill Flasks:\nUse a flask or bowl to take the finished potion from the cauldron output slot.\n\nA warning about jugs: jugs only move 0.3 litres of liquid at a time, so filling or emptying one at a cauldron takes a painful number of interactions. Use flasks or bowls with the cauldron instead.\n\nUtility potions are brewed the same way using their respective bases with 1 litre of potion tea.\n\nMedium potions: <a href=\"handbook://item-alchemy:potionportion-archer-medium\">Archer's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-healingeffect-medium\">Potent Oil</a>, <a href=\"handbook://item-alchemy:potionportion-hungerenhance-medium\">Purging Brew</a>, <a href=\"handbook://item-alchemy:potionportion-hungersupress-medium\">Settling Brew</a>, <a href=\"handbook://item-alchemy:potionportion-hunter-medium\">Hunter's Delight</a>, <a href=\"handbook://item-alchemy:potionportion-looter-medium\">Looter's Delight</a>, <a href=\"handbook://item-alchemy:potionportion-melee-medium\">Fighter's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-mining-medium\">Miner's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-poison-medium\">Spiked Oil</a>, <a href=\"handbook://item-alchemy:potionportion-predator-medium\">Predator Pheromones</a>, <a href=\"handbook://item-alchemy:potionportion-regen-medium\">Healing Oil</a>, <a href=\"handbook://item-alchemy:potionportion-scentmask-medium\">Scent Mask</a>, <a href=\"handbook://item-alchemy:potionportion-speed-medium\">Sprinter's Flask</a>, <a href=\"handbook://item-alchemy:potionportion-vitality-medium\">Vitality Flask</a>\nUtility potions: <a href=\"handbook://item-alchemy:utilitypotionportion-waterbreathe\">Water Breathing Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-glow\">Glow Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-nutrition\">Nutrition Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-fall\">Featherfall Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-climb\">Spider Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-grow\">Growth Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-shrink\">Shrinking Flask</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-coldresist\">Warmth Flask</a>\n\nThe stronger utility flasks (recall, stability and reshape) use the Tier 3 recipe instead, see <a href=\"handbook://alchemyguide-strong\">Tier 3 - Strong Potions</a>. Which tier each utility flask uses can be changed in the config.",
+    "fr": "Les potions moyennes sont des décoctions liquides cuites dans un <a href=\"handbooksearch://brewing cauldron\">chaudron de brassage</a>. Elles sont plus efficaces que les herbes comestibles et se conservent dans des flacons.\n\nVous aurez besoin : d'un chaudron de brassage, d'une <a href=\"handbook://item-alchemy:stirringspoon\">cuillère en bois</a> fixée au chaudron, d'un <a href=\"handbook://block-barrel\">tonneau</a> pour préparer le thé de potion, et de <a href=\"handbooksearch://potion flask\">flacons</a> pour stocker et boire les potions terminées (vous pouvez boire depuis d'autres récipients liquides si la configuration est modifiée, bien que les flacons gèrent mieux la consommation de potions).\n\nMise en place du chaudron :\nPlacez le chaudron dans le monde, puis faites un clic droit dessus avec de l'herbe sèche en main, suivi de quatre clics droits avec du petit bois en main. Le chaudron est maintenant prêt à l'emploi.\n\nÉtape 1 - Préparer le thé de potion :\nScellez un tonneau avec 1 <a href=\"handbook://item-alchemy:potionbase-basic\">base de potion basique</a> et 2 litres d'eau. Après 24 heures, il se transformera en <a href=\"handbook://item-alchemy:potionteaportion\">thé de potion</a>. C'est un ingrédient clé pour toutes les potions liquides.\n\nÉtape 2 - Brasser la potion :\nPlacez 1 base de potion faible et 1 litre de thé de potion dans le chaudron, attachez une cuillère en bois, puis allumez le feu en dessous. Le chaudron va cuire le mélange en une potion moyenne.\n\nÉtape 3 - Remplir les flacons :\nUtilisez un flacon ou un bol pour prélever la potion terminée dans l'emplacement de sortie du chaudron.\n\nUn avertissement concernant les cruches : les cruches ne déplacent que 0,3 litre de liquide à la fois, remplir ou vider une cruche au chaudron demande donc un nombre pénible d'interactions. Utilisez plutôt des flacons ou des bols avec le chaudron.\n\nLes potions utilitaires se brassent de la même manière en utilisant leur base respective avec 1 litre de thé de potion.\n\nPotions moyennes : <a href=\"handbook://item-alchemy:potionportion-archer-medium\">flacon de l'archer</a>, <a href=\"handbook://item-alchemy:potionportion-healingeffect-medium\">huile puissante</a>, <a href=\"handbook://item-alchemy:potionportion-hungerenhance-medium\">décoction purgative</a>, <a href=\"handbook://item-alchemy:potionportion-hungersupress-medium\">décoction apaisante</a>, <a href=\"handbook://item-alchemy:potionportion-hunter-medium\">délice du chasseur</a>, <a href=\"handbook://item-alchemy:potionportion-looter-medium\">délice du pillard</a>, <a href=\"handbook://item-alchemy:potionportion-melee-medium\">flacon du combattant</a>, <a href=\"handbook://item-alchemy:potionportion-mining-medium\">flacon du mineur</a>, <a href=\"handbook://item-alchemy:potionportion-poison-medium\">huile empoisonnée</a>, <a href=\"handbook://item-alchemy:potionportion-predator-medium\">phéromones de prédateur</a>, <a href=\"handbook://item-alchemy:potionportion-regen-medium\">huile de soin</a>, <a href=\"handbook://item-alchemy:potionportion-scentmask-medium\">masque d'odeur</a>, <a href=\"handbook://item-alchemy:potionportion-speed-medium\">flacon du sprinteur</a>, <a href=\"handbook://item-alchemy:potionportion-vitality-medium\">flacon de vitalité</a>\nPotions utilitaires : <a href=\"handbook://item-alchemy:utilitypotionportion-waterbreathe\">flacon de respiration aquatique</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-glow\">flacon lumineux</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-nutrition\">flacon de nutrition</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-fall\">flacon de plume</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-climb\">flacon d'araignée</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-grow\">flacon de croissance</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-shrink\">flacon de rétrécissement</a>, <a href=\"handbook://item-alchemy:utilitypotionportion-coldresist\">flacon de chaleur</a>\n\nLes flacons utilitaires les plus puissants (rappel, stabilité et remodelage) utilisent la recette du palier 3, voir <a href=\"handbook://alchemyguide-strong\">Palier 3 - potions fortes</a>. Le palier utilisé par chaque flacon utilitaire peut être modifié dans la configuration.",
+    "motifs": [
+      "anglais"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-blue-raw-herbrackhook",
+    "en": "Raw blue herb rack hook mold",
+    "fr": "Moule de crochet de séchoir à herbes en argile bleue crue",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-blue-raw-herbracktop",
+    "en": "Raw blue herb rack top mold",
+    "fr": "Moule de sommet de séchoir à herbes en argile bleue crue",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-fire-raw-herbrackhook",
+    "en": "Raw fire herb rack hook mold",
+    "fr": "Moule de crochet de séchoir à herbes en argile réfractaire crue",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-fire-raw-herbracktop",
+    "en": "Raw fire herb rack top mold",
+    "fr": "Moule de sommet de séchoir à herbes en argile réfractaire crue",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-red-fired-herbrackhook",
+    "en": "Red ceramic herb rack hook mold",
+    "fr": "Moule de crochet de séchoir à herbes en céramique rouge",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-red-fired-herbracktop",
+    "en": "Red ceramic herb rack top mold",
+    "fr": "Moule de sommet de séchoir à herbes en céramique rouge",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-red-raw-herbrackhook",
+    "en": "Raw red herb rack hook mold",
+    "fr": "Moule de crochet de séchoir à herbes en argile rouge crue",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-red-raw-herbracktop",
+    "en": "Raw red herb rack top mold",
+    "fr": "Moule de sommet de séchoir à herbes en argile rouge crue",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-tan-fired-herbrackhook",
+    "en": "Tan ceramic herb rack hook mold",
+    "fr": "Moule de crochet de séchoir à herbes en céramique havane",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "block-herbrackmold-tan-fired-herbracktop",
+    "en": "Tan ceramic herb rack top mold",
+    "fr": "Moule de sommet de séchoir à herbes en céramique havane",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "disabled",
+    "en": "Disabled by server admin config!",
+    "fr": "Désactivé par la configuration de l'administrateur du serveur !",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "item-cuttings-pinklilyofthevalley-cooked",
+    "en": "Cooked Cuttings (lily of the valley, rosea)",
+    "fr": "Boutures cuites (muguet rosea)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "item-cuttings-pinklilyofthevalley-dried",
+    "en": "Dried Cuttings (lily of the valley, rosea)",
+    "fr": "Boutures séchées (muguet rosea)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "item-cuttings-purplelilyofthevalley-cooked",
+    "en": "Cooked Cuttings (lily of the valley, lavender)",
+    "fr": "Boutures cuites (muguet lavande)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "item-cuttings-purplelilyofthevalley-dried",
+    "en": "Dried Cuttings (lily of the valley, lavender)",
+    "fr": "Boutures séchées (muguet lavande)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "mappingkey-combat",
+    "en": "Combat",
+    "fr": "Combat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "mappingkey-solo",
+    "en": "Solo",
+    "fr": "Solo",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "alchemy",
+    "cle": "potion-climb-effect",
+    "en": "You can climb any surface",
+    "fr": "Vous pouvez escalader n'importe quelle surface",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "block-apepaperitem-chubs-*",
+    "en": "Chubbs",
+    "fr": "Chubbs",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "block-apepaperitem-saxon-*",
+    "en": "Saxon",
+    "fr": "Saxon",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "block-handbooktitle-apestonelantern-ikekomi-gata-oribe-*",
+    "en": "Ikekomi Dōrō",
+    "fr": "Ikekomi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "block-handbooktitle-apestonelantern-kodai-maru-yukimi-*",
+    "en": "Kodai Maru Yukimi Dōrō",
+    "fr": "Kodai Maru Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "block-handbooktitle-apestonelantern-okunoin-daitsuki-*",
+    "en": "Yukimi Dōrō",
+    "fr": "Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "block-handbooktitle-apestonelantern-yukimi-doro-*",
+    "en": "Yukimi Dōrō",
+    "fr": "Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "game:apepaperitem-handbook-help-title-chubs",
+    "en": "Chubbs",
+    "fr": "Chubbs",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "game:apepaperitem-handbook-help-title-saxon",
+    "en": "Saxon",
+    "fr": "Saxon",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "game:apestonelantern-handbook-help-title-daitsuki",
+    "en": "Daitsuki Dōrō",
+    "fr": "Daitsuki Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "game:apestonelantern-handbook-help-title-ikekomi-gata-oribe",
+    "en": "Ikekomi Dōrō",
+    "fr": "Ikekomi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "game:apestonelantern-handbook-help-title-kodai-maru-yukimi",
+    "en": "Kodai Maru Yukimi Dōrō",
+    "fr": "Kodai Maru Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "game:apestonelantern-handbook-help-title-yukimi-doro",
+    "en": "Yukimi Dōrō",
+    "fr": "Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lanterncolor-cyan",
+    "en": "Cyan",
+    "fr": "Cyan",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lanterncolor-orange",
+    "en": "Orange",
+    "fr": "Orange",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lanternparts-style-daitsuki",
+    "en": "Daitsuki",
+    "fr": "Daitsuki",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lanternparts-style-ikekomi",
+    "en": "Ikekomi",
+    "fr": "Ikekomi",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lanternparts-style-maru",
+    "en": "Kodai Maru Yukimi",
+    "fr": "Kodai Maru Yukimi",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lanternparts-style-yukimi",
+    "en": "Yukimi",
+    "fr": "Yukimi",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "lightl2",
+    "en": "Normal",
+    "fr": "Normal",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "stonelantern-ikekomi-gata-oribe",
+    "en": "Oribe Ikekomi Dōrō",
+    "fr": "Oribe Ikekomi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "stonelantern-kodai-maru-yukimi",
+    "en": "Kodai Maru Yukimi Dōrō",
+    "fr": "Kodai Maru Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "stonelantern-okunoin-daitsuki",
+    "en": "Okunoin Daitsuki Dōrō",
+    "fr": "Okunoin Daitsuki Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "apelanterns",
+    "cle": "stonelantern-yukimi-doro",
+    "en": "Yukimi Dōrō",
+    "fr": "Yukimi Dōrō",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "betterruins",
+    "cle": "game:item-stackrandomizer-sundialdiary",
+    "en": "BR Lore Sundial Diary",
+    "fr": "Savoir BR : Journal du Cadran Solaire",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "betterruins",
+    "cle": "item-br-schematic-cartwright",
+    "en": "Cartwright's Blueprint",
+    "fr": "Plan du Charron",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "betterruins",
+    "cle": "item-br-schematic-gravedigger",
+    "en": "Gravedigger's Blueprint",
+    "fr": "Plan du Fossoyeur",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-LeftEarrings",
+    "en": "LeftEarrings",
+    "fr": "LeftEarrings",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-LeftPalm",
+    "en": "LeftPalm",
+    "fr": "LeftPalm",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-Nose",
+    "en": "Nose",
+    "fr": "Nose",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-RightEarrings",
+    "en": "RightEarrings",
+    "fr": "RightEarrings",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "clothcategory-RightPalm",
+    "en": "RightPalm",
+    "fr": "RightPalm",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "item-canearrings-left-gemstuddedearrings",
+    "en": " Gem Studded Earrings",
+    "fr": " boucles d'oreilles serties de gemmes",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "item-canearrings-right-gemstuddedearrings",
+    "en": " Gem Studded Earrings",
+    "fr": " boucles d'oreilles serties de gemmes",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "jewelerset-incompatible",
+    "en": "Gem doesn't fit this socket",
+    "fr": "La pierre précieuse ne s'adapte pas à cette monture",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "canjewelry",
+    "cle": "jewelerset-inscription",
+    "en": "Inscription",
+    "fr": "Inscription",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-0000ff",
+    "en": "Pastel #0000ff",
+    "fr": "Pastel #0000ff",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-0088ff",
+    "en": "Pastel #0088ff",
+    "fr": "Pastel #0088ff",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-00ff00",
+    "en": "Pastel #00ff00",
+    "fr": "Pastel #00ff00",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-00ff88",
+    "en": "Pastel #00ff88",
+    "fr": "Pastel #00ff88",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-00ffff",
+    "en": "Pastel #00ffff",
+    "fr": "Pastel #00ffff",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-8800ff",
+    "en": "Pastel #8800ff",
+    "fr": "Pastel #8800ff",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-88ff00",
+    "en": "Pastel #88ff00",
+    "fr": "Pastel #88ff00",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-ff0000",
+    "en": "Pastel #ff0000",
+    "fr": "Pastel #ff0000",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-ff0088",
+    "en": "Pastel #ff0088",
+    "fr": "Pastel #ff0088",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-ff8800",
+    "en": "Pastel #ff8800",
+    "fr": "Pastel #ff8800",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-pastel-ffff00",
+    "en": "Pastel #ffff00",
+    "fr": "Pastel #ffff00",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "block-specials-mars",
+    "en": "Art Mars",
+    "fr": "Art Mars",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "item-locktool-*",
+    "en": "Chisel Copy Lock Tool",
+    "fr": "Outil de Verrouillage de Copie du Ciseau",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "item-palette-light",
+    "en": "Palette (Jonas)",
+    "fr": "Palette (Jonas)",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "item-palette-standard",
+    "en": "Palette (Standard)",
+    "fr": "Palette (Standard)",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "portfolio",
+    "en": "PORTFOLIO",
+    "fr": "PORTFOLIO",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "chiseltools",
+    "cle": "reset",
+    "en": "Reset chisel tools settings to defaults",
+    "fr": "Réinitialiser les paramètres des outils de ciselage aux valeurs par défaut",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "dressmakers",
+    "cle": "dressmakers:handbook-description",
+    "en": "Description",
+    "fr": "Description",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-potentspiritportion-gooseberry",
+    "en": "Aged gooseberry brandy",
+    "fr": "Eau-de-vie de groseille à maquereau vieillie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongspiritportion-gooseberry",
+    "en": "Aged gooseberry brandy",
+    "fr": "Eau-de-vie de groseille à maquereau vieillie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-blackberry",
+    "en": "Strong blackberry wine",
+    "fr": "Vin fort de mûre",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-libertycap-normal-raw",
+    "en": "Liberty Cap pie (raw)",
+    "fr": "Tourte au bonnet de la liberté (crue)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-dehydratedfruit-kumquat",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-dehydratedfruit-kumquat-insturmentalcase",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-dryfruit-kumquat",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-dryfruit-kumquat-insturmentalcase",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-potentspiritportion-gooseberry",
+    "en": "Aged gooseberry brandy",
+    "fr": "Eau-de-vie de groseille à maquereau vieillie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongspiritportion-gooseberry",
+    "en": "Aged gooseberry brandy",
+    "fr": "Eau-de-vie de groseille à maquereau vieillie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-blackberry",
+    "en": "Strong blackberry wine",
+    "fr": "Vin fort de mûre",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktitle-cookedchoppedvegetable",
+    "en": "Cooked Chopped Vegetable",
+    "fr": "Légume haché cuit",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktitle-gozinaki",
+    "en": "Gozinaki",
+    "fr": "Gozinaki",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktitle-muffin",
+    "en": "Muffin",
+    "fr": "Muffin",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-handbooktitle-pemmican",
+    "en": "Pemmican",
+    "fr": "Pemmican",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-strongspiritportion-gooseberry",
+    "en": "Aged gooseberry brandy portion",
+    "fr": "Portion d'eau-de-vie de groseille à maquereau vieillie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-raw",
+    "en": "Liberty Cap pie (raw)",
+    "fr": "Tourte au bonnet de la liberté (crue)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dehydratedfruit-gooseberry-perfect",
+    "en": "Dehydrated gooseberry pie",
+    "fr": "Tourte à la groseille à maquereau déshydratée",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dryfruit-gooseberry-raw",
+    "en": "Dried gooseberry pie (raw)",
+    "fr": "Tourte à la groseille à maquereau séchée (crue)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:fruitsyrupportion-gooseberry-raw",
+    "en": "Gooseberry syrup pie (raw)",
+    "fr": "Tourte au sirop de groseille à maquereau (crue)",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:gelatin-cactusfruit-perfect",
+    "en": "Cactusfruit jelly pie",
+    "fr": "Tourte à la gelée de figue de Barbarie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dehydratedfruit-kumquat",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dehydratedfruit-kumquat-insturmentalcase",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dryfruit-kumquat",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-dryfruit-kumquat-insturmentalcase",
+    "en": "kumquat",
+    "fr": "kumquat",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-potentspiritportion-gooseberry-insturmentalcase",
+    "en": "vintage gooseberry brandy",
+    "fr": "eau-de-vie de groseille à maquereau millésimée",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-strongspiritportion-gooseberry-insturmentalcase",
+    "en": "aged gooseberry brandy",
+    "fr": "eau-de-vie de groseille à maquereau vieillie",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "farseer",
+    "cle": "config-setting-disableprogresslogging-name",
+    "en": "Disable Progress Logging",
+    "fr": "Désactiver la journalisation de progression",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "effect-bodytemperature-buff",
+    "en": "You feel warm inside.",
+    "fr": "Vous vous sentez chaud à l'intérieur.",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "effect-intoxication-desc",
+    "en": "intoxication",
+    "fr": "intoxication",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "game:tabname-pipeleaf",
+    "en": "Pipeleaf",
+    "fr": "Pipeleaf",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "ingameerror-emptysource",
+    "en": "You’re not holding anything to load.",
+    "fr": "You’re not holding anything to load.",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "ingameerror-notsmokable",
+    "en": "That’s not smokable.",
+    "fr": "That’s not smokable.",
+    "motifs": [
+      "identique",
+      "anglais"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "ingameerror-smokefail",
+    "en": "Couldn’t smoke.",
+    "fr": "Couldn’t smoke.",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "pipeleaf",
+    "cle": "pipeleaf:item-herbs-pipeleaf",
+    "en": "Pipeleaf",
+    "fr": "Pipeleaf",
+    "motifs": [
+      "identique"
+    ]
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-t&g-largedemijohn-null-*",
+    "en": "Large Demijohn Bottle",
+    "fr": "Grande demijohn",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "tankardsandgoblets",
+    "cle": "block-t&g-smalldemijohn-null-*",
+    "en": "Small Demijohn Bottle",
+    "fr": "Petite demijohn",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "trailmod",
+    "cle": "heldhelp-trampleprotectblock",
+    "en": "Add trample protection",
+    "fr": "Ajouter une protection contre le piétinement",
+    "motifs": [
+      "longueur"
+    ]
+  },
+  {
+    "dom": "wool",
+    "cle": "wool:handbook-description",
+    "en": "Description",
+    "fr": "Description",
+    "motifs": [
+      "identique"
+    ]
+  }
+]

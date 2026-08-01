@@ -1,0 +1,1836 @@
+[
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-bluemeanie",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-goldcap",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-libertycap",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-wavycap",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-stew-primary-choppedmushroom-laughingjim",
+    "avant": "Jim le rieur haché",
+    "apres": "Jim rieur haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-stew-secondary-choppedmushroom-laughingjim",
+    "avant": "Jim le rieur haché",
+    "apres": "Jim rieur haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-bluemeanie",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-bluemeanie-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-goldcap",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-goldcap-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-libertycap",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-libertycap-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-wavycap",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-wavycap-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-charred",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-charred-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-perfect",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-goldcap-perfect-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-charred-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-perfect-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-charred",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-charred-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-perfect",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-wavycap-perfect-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-bluemeanie",
+    "avant": "Vilain Bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-goldcap",
+    "avant": "Chapeau Doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-laughingjim",
+    "avant": "Jim le Rieur haché",
+    "apres": "Jim rieur haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-libertycap",
+    "avant": "Bonnet de la Liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-wavycap",
+    "avant": "Chapeau Ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-bluemeanie-charred",
+    "avant": "Vilain Bleu haché cuit (brûlé)",
+    "apres": "Vilain bleu haché cuit (brûlé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-bluemeanie-partbaked",
+    "avant": "Vilain Bleu haché cuit (à moitié cuit)",
+    "apres": "Vilain bleu haché cuit (à moitié cuit)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-bluemeanie-perfect",
+    "avant": "Vilain Bleu haché cuit",
+    "apres": "Vilain bleu haché cuit",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-goldcap-charred",
+    "avant": "Chapeau Doré haché cuit (brûlé)",
+    "apres": "Chapeau doré haché cuit (brûlé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-goldcap-partbaked",
+    "avant": "Chapeau Doré haché cuit (à moitié cuit)",
+    "apres": "Chapeau doré haché cuit (à moitié cuit)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-goldcap-perfect",
+    "avant": "Chapeau Doré haché cuit",
+    "apres": "Chapeau doré haché cuit",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-laughingjim-charred",
+    "avant": "Jim le Rieur haché cuit (brûlé)",
+    "apres": "Jim rieur haché cuit (brûlé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-laughingjim-partbaked",
+    "avant": "Jim le Rieur haché cuit (à moitié cuit)",
+    "apres": "Jim rieur haché cuit (à moitié cuit)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-laughingjim-perfect",
+    "avant": "Jim le Rieur haché cuit",
+    "apres": "Jim rieur haché cuit",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "Bonnet de la Liberté haché cuit (brûlé)",
+    "apres": "Bonnet de la liberté haché cuit (brûlé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "Bonnet de la Liberté haché cuit (à moitié cuit)",
+    "apres": "Bonnet de la liberté haché cuit (à moitié cuit)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "Bonnet de la Liberté haché cuit",
+    "apres": "Bonnet de la liberté haché cuit",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-wavycap-charred",
+    "avant": "Chapeau Ondulé haché cuit (brûlé)",
+    "apres": "Chapeau ondulé haché cuit (brûlé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-wavycap-partbaked",
+    "avant": "Chapeau Ondulé haché cuit (à moitié cuit)",
+    "apres": "Chapeau ondulé haché cuit (à moitié cuit)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-wavycap-perfect",
+    "avant": "Chapeau Ondulé haché cuit",
+    "apres": "Chapeau ondulé haché cuit",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-laughingjim-charred",
+    "avant": "Jim le rieur cuit (brûlé)",
+    "apres": "Jim rieur cuit (brûlé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-laughingjim-partbaked",
+    "avant": "Jim le rieur cuit (à moitié cuit)",
+    "apres": "Jim rieur cuit (à moitié cuit)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-laughingjim-perfect",
+    "avant": "Jim le rieur cuit",
+    "apres": "Jim rieur cuit",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-bluemeanie",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-bluemeanie-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-goldcap",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-goldcap-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-libertycap",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-libertycap-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-wavycap",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-wavycap-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-charred-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-partbaked-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-bluemeanie-perfect-insturmentalcase",
+    "avant": "vilain bleu haché",
+    "apres": "Vilain bleu haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-charred",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-charred-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-partbaked-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-perfect",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-goldcap-perfect-insturmentalcase",
+    "avant": "chapeau doré haché",
+    "apres": "Chapeau doré haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-charred-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-perfect-insturmentalcase",
+    "avant": "bonnet de la liberté haché",
+    "apres": "Bonnet de la liberté haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-charred",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-charred-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-partbaked-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-perfect",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-wavycap-perfect-insturmentalcase",
+    "avant": "chapeau ondulé haché",
+    "apres": "Chapeau ondulé haché",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "block-sporepaperprinted-bluemeanie-*",
+    "avant": "Papier sporé imprégné (bleu méchant)",
+    "apres": "Papier sporé imprégné (vilain bleu)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "block-sporepaperprinted-goldcap-*",
+    "avant": "Papier sporé imprégné (bonnet doré)",
+    "apres": "Papier sporé imprégné (chapeau doré)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "block-sporepaperprinted-libertycap-*",
+    "avant": "Papier sporé imprégné (bonnet de liberté)",
+    "apres": "Papier sporé imprégné (bonnet de la liberté)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "block-sporepaperprinted-wavycap-*",
+    "avant": "Papier sporé imprégné (coiffe ondulée)",
+    "apres": "Papier sporé imprégné (chapeau ondulé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "item-sporeprint-bluemeanie",
+    "avant": "Empreinte sporale (bleu méchant)",
+    "apres": "Empreinte sporale (vilain bleu)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "item-sporeprint-goldcap",
+    "avant": "Empreinte sporale (bonnet doré)",
+    "apres": "Empreinte sporale (chapeau doré)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "item-sporeprint-libertycap",
+    "avant": "Empreinte sporale (bonnet de liberté)",
+    "apres": "Empreinte sporale (bonnet de la liberté)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "item-sporeprint-wavycap",
+    "avant": "Empreinte sporale (coiffe ondulée)",
+    "apres": "Empreinte sporale (chapeau ondulé)",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "mushroom-bluemeanie",
+    "avant": "bleu méchant",
+    "apres": "Vilain bleu",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "mushroom-goldcap",
+    "avant": "bonnet doré",
+    "apres": "Chapeau doré",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "mushroom-libertycap",
+    "avant": "bonnet de liberté",
+    "apres": "Bonnet de la liberté",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "mushroom-wavycap",
+    "avant": "coiffe ondulée",
+    "apres": "Chapeau ondulé",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowPsychedelicMushrooms-Comment",
+    "avant": "Autoriser les champignons psychédéliques (calotte dorée, calotte de la liberté, calotte ondulée, bleu vicieux) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS TOXIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le jim rieur comme seuls ingrédients de champignon, car ils sont tous deux.",
+    "apres": "Autoriser les champignons psychédéliques (chapeau doré, bonnet de la liberté, chapeau ondulé, vilain bleu) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS TOXIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le Jim rieur comme seuls ingrédients de champignon, car ils sont tous deux.",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowToxicMushrooms-Comment",
+    "avant": "Autoriser les champignons toxiques (scléroderme, amanite phalloïde, helvelle, clitocybe de l'olivier, bolet Satan, bolet amer, dent du diable, lactaire à gouttes dorées, conocybe du fou, russule émétique) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS PSYCHÉDÉLIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le jim rieur comme seuls ingrédients de champignon, car ils sont tous deux.",
+    "apres": "Autoriser les champignons toxiques (scléroderme, amanite phalloïde, helvelle, clitocybe de l'olivier, bolet Satan, bolet amer, dent du diable, lactaire à gouttes dorées, conocybe du fou, russule émétique) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS PSYCHÉDÉLIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le Jim rieur comme seuls ingrédients de champignon, car ils sont tous deux.",
+    "motif": "unification nom de champignon psychédélique (harmonisation inter-mods)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-libertycap",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-stew-primary-choppedmushroom-libertycap",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-stew-secondary-choppedmushroom-libertycap",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-libertycap-normal-charred",
+    "avant": "Tourte au bonnet de la liberté (brûlée)",
+    "apres": "Tourte au bonnet phrygien (brûlée)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-libertycap-normal-partbaked",
+    "avant": "Tourte au bonnet de la liberté (à moitié cuite)",
+    "apres": "Tourte au bonnet phrygien (à moitié cuite)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-libertycap-normal-perfect",
+    "avant": "Tourte au bonnet de la liberté",
+    "apres": "Tourte au bonnet phrygien",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-libertycap-normal-raw",
+    "avant": "Tourte au bonnet de la liberté (crue)",
+    "apres": "Tourte au bonnet phrygien (crue)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-libertycap",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-libertycap-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-charred-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-libertycap-perfect-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-libertycap",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "Bonnet de la liberté haché cuit (brûlé)",
+    "apres": "Bonnet phrygien haché cuit (brûlé)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "Bonnet de la liberté haché cuit (à moitié cuit)",
+    "apres": "Bonnet phrygien haché cuit (à moitié cuit)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "Bonnet de la liberté haché cuit",
+    "apres": "Bonnet phrygien haché cuit",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-libertycap-charred",
+    "avant": "Bonnet de la liberté cuit (brûlé)",
+    "apres": "Bonnet phrygien cuit (brûlé)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-libertycap-partbaked",
+    "avant": "Bonnet de la liberté cuit (à moitié cuit)",
+    "apres": "Bonnet phrygien cuit (à moitié cuit)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-libertycap-perfect",
+    "avant": "Bonnet de la liberté cuit",
+    "apres": "Bonnet phrygien cuit",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-charred",
+    "avant": "Tourte au bonnet de la liberté (brûlée)",
+    "apres": "Tourte au bonnet phrygien (brûlée)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-partbaked",
+    "avant": "Tourte au bonnet de la liberté (à moitié cuite)",
+    "apres": "Tourte au bonnet phrygien (à moitié cuite)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-perfect",
+    "avant": "Tourte au bonnet de la liberté",
+    "apres": "Tourte au bonnet phrygien",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-libertycap-raw",
+    "avant": "Tourte au bonnet de la liberté (crue)",
+    "apres": "Tourte au bonnet phrygien (crue)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-libertycap",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-libertycap-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-charred",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-charred-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-partbaked-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-perfect",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-libertycap-perfect-insturmentalcase",
+    "avant": "Bonnet de la liberté haché",
+    "apres": "Bonnet phrygien haché",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "block-sporepaperprinted-libertycap-*",
+    "avant": "Papier sporé imprégné (bonnet de la liberté)",
+    "apres": "Papier sporé imprégné (bonnet phrygien)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "item-sporeprint-libertycap",
+    "avant": "Empreinte sporale (bonnet de la liberté)",
+    "apres": "Empreinte sporale (bonnet phrygien)",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "substrate",
+    "cle": "mushroom-libertycap",
+    "avant": "Bonnet de la liberté",
+    "apres": "Bonnet phrygien",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "AllowPsychedelicMushrooms-Comment",
+    "avant": "Autoriser les champignons psychédéliques (chapeau doré, bonnet de la liberté, chapeau ondulé, vilain bleu) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS TOXIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le Jim rieur comme seuls ingrédients de champignon, car ils sont tous deux.",
+    "apres": "Autoriser les champignons psychédéliques (chapeau doré, bonnet phrygien, chapeau ondulé, vilain bleu) à être utilisés comme ingrédients dans la recette de base de potion. NE DÉSACTIVEZ PAS CECI AINSI QUE LES RECETTES DE CHAMPIGNONS TOXIQUES. CELA NE MASQUE PAS NON PLUS LES OBJETS DE LA RECETTE DE FABRICATION DE BASE DE POTION DANS LE MANUEL. Le faire laissera l'amanite tue-mouches et le Jim rieur comme seuls ingrédients de champignon, car ils sont tous deux.",
+    "motif": "révision du choix terminologique (bonnet de la liberté -> bonnet phrygien, évite l'anachronisme révolutionnaire dans un univers médiéval)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "expandedfoods:recipeingredient-item-yogurt-cactusfruit-insturmentalcase",
+    "avant": "yaourt au fruit de cactus",
+    "apres": "yaourt à la figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-fruitsyrupportion-cactusfruit",
+    "avant": "Sirop de fruit de cactus",
+    "apres": "Sirop de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-potentspiritportion-cactusfruit",
+    "avant": "Eau-de-vie de fruit de cactus vieillie",
+    "apres": "Eau-de-vie de figue de Barbarie vieillie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-potentwineportion-cactusfruit",
+    "avant": "Vin fin de fruit de cactus",
+    "apres": "Vin fin de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongspiritportion-cactusfruit",
+    "avant": "Eau-de-vie de fruit de cactus vieillie",
+    "apres": "Eau-de-vie de figue de Barbarie vieillie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-cactusfruit",
+    "avant": "Vin fort de fruit de cactus",
+    "apres": "Vin fort de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-yogurt-cactusfruit",
+    "avant": "Yaourt au fruit de cactus",
+    "apres": "Yaourt à la figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-candiedfruit-cactusfruit",
+    "avant": "fruit de cactus confit",
+    "apres": "figue de Barbarie confite",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-ciderportion-cactusfruit-insturmentalcase",
+    "avant": "vin de fruit de cactus",
+    "apres": "vin de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-gelatin-cactusfruit",
+    "avant": "gélatine de fruit de cactus",
+    "apres": "gélatine de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-spiritportion-cactusfruit-insturmentalcase",
+    "avant": "eau-de-vie de fruit de cactus",
+    "apres": "eau-de-vie de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-yogurt-cactusfruit",
+    "avant": "yaourt au fruit de cactus",
+    "apres": "yaourt à la figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-fruitsyrupportion-cactusfruit",
+    "avant": "Sirop de fruit de cactus",
+    "apres": "Sirop de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-potentspiritportion-cactusfruit",
+    "avant": "Eau-de-vie de fruit de cactus vieillie",
+    "apres": "Eau-de-vie de figue de Barbarie vieillie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-potentwineportion-cactusfruit",
+    "avant": "Vin fin de fruit de cactus",
+    "apres": "Vin fin de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongspiritportion-cactusfruit",
+    "avant": "Eau-de-vie de fruit de cactus vieillie",
+    "apres": "Eau-de-vie de figue de Barbarie vieillie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-cactusfruit",
+    "avant": "Vin fort de fruit de cactus",
+    "apres": "Vin fort de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-yogurt-cactusfruit",
+    "avant": "Yaourt au fruit de cactus",
+    "apres": "Yaourt à la figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-candiedfruit-cactusfruit",
+    "avant": "Fruit de cactus confit",
+    "apres": "Figue de Barbarie confite",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-dehydratedfruit-cactusfruit",
+    "avant": "Fruit de cactus déshydraté",
+    "apres": "Figue de Barbarie déshydratée",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-dryfruit-cactusfruit",
+    "avant": "Fruit de cactus séché",
+    "apres": "Figue de Barbarie séchée",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-fruitsyrupportion-cactusfruit",
+    "avant": "Portion de sirop de fruit de cactus",
+    "apres": "Portion de sirop de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-gelatin-cactusfruit",
+    "avant": "Gélatine de fruit de cactus",
+    "apres": "Gélatine de figue de Barbarie",
+    "motif": "figue de Barbarie (harmonisation cactusfruit, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-fruitsyrupportion-cloudberry",
+    "avant": "Sirop de mûre arctique",
+    "apres": "Sirop de plaquebière",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-potentspiritportion-cloudberry",
+    "avant": "Eau-de-vie de mûre arctique vieillie",
+    "apres": "Eau-de-vie de plaquebière vieillie",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongspiritportion-cloudberry",
+    "avant": "Eau-de-vie de mûre arctique vieillie",
+    "apres": "Eau-de-vie de plaquebière vieillie",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-candiedfruit-cloudberry",
+    "avant": "mûres arctiques confites",
+    "apres": "plaquebières confites",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-spiritportion-cloudberry-insturmentalcase",
+    "avant": "eau-de-vie de mûre arctique",
+    "apres": "eau-de-vie de plaquebière",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-fruitsyrupportion-cloudberry",
+    "avant": "Sirop de mûre arctique",
+    "apres": "Sirop de plaquebière",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-potentspiritportion-cloudberry",
+    "avant": "Eau-de-vie de mûre arctique vieillie",
+    "apres": "Eau-de-vie de plaquebière vieillie",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongspiritportion-cloudberry",
+    "avant": "Eau-de-vie de mûre arctique vieillie",
+    "apres": "Eau-de-vie de plaquebière vieillie",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-candiedfruit-cloudberry",
+    "avant": "Mûre arctique confite",
+    "apres": "Plaquebière confite",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-dehydratedfruit-cloudberry",
+    "avant": "Mûre arctique déshydratée",
+    "apres": "Plaquebière déshydratée",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-dryfruit-cloudberry",
+    "avant": "Mûre arctique séchée",
+    "apres": "Plaquebière séchée",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-fruitsyrupportion-cloudberry",
+    "avant": "Portion de sirop de mûre arctique",
+    "apres": "Portion de sirop de plaquebière",
+    "motif": "plaquebière (harmonisation cloudberry, calque -> nom culinaire français standard)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-potentspiritportion-plumnatal",
+    "avant": "Portion d'eau-de-vie de prune millésimée",
+    "apres": "Portion d'eau-de-vie de prune du Natal millésimée",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-potentwineportion-plumnatal",
+    "avant": "Portion de vin de prune fin",
+    "apres": "Portion de vin de prune du Natal fin",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-strongspiritportion-plumnatal",
+    "avant": "Portion d'eau-de-vie de prune vieillie",
+    "apres": "Portion d'eau-de-vie de prune du Natal vieillie",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-strongwineportion-plumnatal",
+    "avant": "Portion de vin de prune corsé",
+    "apres": "Portion de vin de prune du Natal corsé",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-yogurt-plumnatal",
+    "avant": "Portion de yaourt à la prune",
+    "apres": "Portion de yaourt à la prune du Natal",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-charred",
+    "avant": "Tourte à la prune déshydratée (brûlée)",
+    "apres": "Tourte à la prune du Natal déshydratée (brûlée)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-partbaked",
+    "avant": "Tourte à la prune déshydratée (à moitié cuite)",
+    "apres": "Tourte à la prune du Natal déshydratée (à moitié cuite)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-perfect",
+    "avant": "Tourte à la prune déshydratée",
+    "apres": "Tourte à la prune du Natal déshydratée",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dehydratedfruit-plumnatal-raw",
+    "avant": "Tourte à la prune déshydratée (crue)",
+    "apres": "Tourte à la prune du Natal déshydratée (crue)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dryfruit-plumnatal-charred",
+    "avant": "Tourte à la prune séchée (brûlée)",
+    "apres": "Tourte à la prune du Natal séchée (brûlée)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dryfruit-plumnatal-partbaked",
+    "avant": "Tourte à la prune séchée (à moitié cuite)",
+    "apres": "Tourte à la prune du Natal séchée (à moitié cuite)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dryfruit-plumnatal-perfect",
+    "avant": "Tourte à la prune séchée",
+    "apres": "Tourte à la prune du Natal séchée",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:dryfruit-plumnatal-raw",
+    "avant": "Tourte à la prune séchée (crue)",
+    "apres": "Tourte à la prune du Natal séchée (crue)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-charred",
+    "avant": "Tourte au sirop de prune (brûlée)",
+    "apres": "Tourte au sirop de prune du Natal (brûlée)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-partbaked",
+    "avant": "Tourte au sirop de prune (à moitié cuite)",
+    "apres": "Tourte au sirop de prune du Natal (à moitié cuite)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-perfect",
+    "avant": "Tourte au sirop de prune",
+    "apres": "Tourte au sirop de prune du Natal",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:fruitsyrupportion-plumnatal-raw",
+    "avant": "Tourte au sirop de prune (crue)",
+    "apres": "Tourte au sirop de prune du Natal (crue)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:gelatin-plumnatal-charred",
+    "avant": "Tourte à la gelée de prune (brûlée)",
+    "apres": "Tourte à la gelée de prune du Natal (brûlée)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:gelatin-plumnatal-partbaked",
+    "avant": "Tourte à la gelée de prune (à moitié cuite)",
+    "apres": "Tourte à la gelée de prune du Natal (à moitié cuite)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:gelatin-plumnatal-perfect",
+    "avant": "Tourte à la gelée de prune",
+    "apres": "Tourte à la gelée de prune du Natal",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:gelatin-plumnatal-raw",
+    "avant": "Tourte à la gelée de prune (crue)",
+    "apres": "Tourte à la gelée de prune du Natal (crue)",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-potentspiritportion-plumnatal-insturmentalcase",
+    "avant": "eau-de-vie de prune millésimée",
+    "apres": "eau-de-vie de prune du Natal millésimée",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-potentwineportion-plumnatal-insturmentalcase",
+    "avant": "vin de prune fin",
+    "apres": "vin de prune du Natal fin",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-strongspiritportion-plumnatal-insturmentalcase",
+    "avant": "eau-de-vie de prune vieillie",
+    "apres": "eau-de-vie de prune du Natal vieillie",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-strongwineportion-plumnatal-insturmentalcase",
+    "avant": "vin de prune corsé",
+    "apres": "vin de prune du Natal corsé",
+    "motif": "restauration du qualificatif \"du Natal\" (plumnatal), omis dans certaines chaînes"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-soup-primary-choppedmushroom-honeymushroom",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-stew-primary-choppedmushroom-honeymushroom",
+    "avant": "Champignon au miel haché",
+    "apres": "Armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:meal-ingredient-stew-secondary-choppedmushroom-honeymushroom",
+    "avant": "Champignon au miel haché",
+    "apres": "Armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-honeymushroom-normal-charred",
+    "avant": "Tourte au champignon au miel (brûlée)",
+    "apres": "Tourte à l'armillaire couleur de miel (brûlée)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-honeymushroom-normal-partbaked",
+    "avant": "Tourte au champignon au miel (à moitié cuite)",
+    "apres": "Tourte à l'armillaire couleur de miel (à moitié cuite)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-honeymushroom-normal-perfect",
+    "avant": "Tourte au champignon au miel",
+    "apres": "Tourte à l'armillaire couleur de miel",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:pie-single-mushroom-honeymushroom-normal-raw",
+    "avant": "Tourte au champignon au miel (crue)",
+    "apres": "Tourte à l'armillaire couleur de miel (crue)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-honeymushroom",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-choppedmushroom-honeymushroom-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-honeymushroom-charred",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-honeymushroom-charred-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-honeymushroom-partbaked",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-honeymushroom-partbaked-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-honeymushroom-perfect",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:recipeingredient-item-cookedchoppedmushroom-honeymushroom-perfect-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-choppedmushroom-honeymushroom",
+    "avant": "Champignon au Miel haché",
+    "apres": "Armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-honeymushroom-charred",
+    "avant": "Champignon au Miel haché cuit (brûlé)",
+    "apres": "Armillaire couleur de miel hachée cuite (brûlée)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-honeymushroom-partbaked",
+    "avant": "Champignon au Miel haché cuit (à moitié cuit)",
+    "apres": "Armillaire couleur de miel hachée cuite (à moitié cuite)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedchoppedmushroom-honeymushroom-perfect",
+    "avant": "Champignon au Miel haché cuit",
+    "apres": "Armillaire couleur de miel hachée cuite",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-honeymushroom-charred",
+    "avant": "Champignon au miel cuit (brûlé)",
+    "apres": "Armillaire couleur de miel cuite (brûlée)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-honeymushroom-partbaked",
+    "avant": "Champignon au miel cuit (à moitié cuit)",
+    "apres": "Armillaire couleur de miel cuite (à moitié cuite)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "item-cookedmushroom-honeymushroom-perfect",
+    "avant": "Champignon au miel cuit",
+    "apres": "Armillaire couleur de miel cuite",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-charred",
+    "avant": "Tourte au champignon au miel (brûlée)",
+    "apres": "Tourte à l'armillaire couleur de miel (brûlée)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-partbaked",
+    "avant": "Tourte au champignon au miel (à moitié cuite)",
+    "apres": "Tourte à l'armillaire couleur de miel (à moitié cuite)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-perfect",
+    "avant": "Tourte au champignon au miel",
+    "apres": "Tourte à l'armillaire couleur de miel",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "pie-single-expandedfoods:choppedmushroom-honeymushroom-raw",
+    "avant": "Tourte au champignon au miel (crue)",
+    "apres": "Tourte à l'armillaire couleur de miel (crue)",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-honeymushroom",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-choppedmushroom-honeymushroom-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-charred",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-charred-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-partbaked",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-partbaked-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-perfect",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "recipeingredient-item-cookedchoppedmushroom-honeymushroom-perfect-insturmentalcase",
+    "avant": "champignon au miel haché",
+    "apres": "armillaire couleur de miel hachée",
+    "motif": "armillaire couleur de miel (harmonisation honeymushroom sur le nom mycologique correct, cohérent avec mycodiversity)"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-beautyberry",
+    "avant": "Vin fort de baie de beauté",
+    "apres": "Vin corsé de baie de beauté",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-blackberry",
+    "avant": "Vin fort de mûre",
+    "apres": "Vin corsé de mûre",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-cactusfruit",
+    "avant": "Vin fort de figue de Barbarie",
+    "apres": "Vin corsé de figue de Barbarie",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-gooseberry",
+    "avant": "Vin fort de groseille à maquereau",
+    "apres": "Vin corsé de groseille à maquereau",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-guava",
+    "avant": "Vin fort de goyave",
+    "apres": "Vin corsé de goyave",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-kumquat",
+    "avant": "Vin fort de kumquat",
+    "apres": "Vin corsé de kumquat",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-plumnatal",
+    "avant": "Vin fort de prune du Natal",
+    "apres": "Vin corsé de prune du Natal",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-raspberry",
+    "avant": "Vin fort de framboise",
+    "apres": "Vin corsé de framboise",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "game:incontainer-item-strongwineportion-strawberry",
+    "avant": "Vin fort de fraise",
+    "apres": "Vin corsé de fraise",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-beautyberry",
+    "avant": "Vin fort de baie de beauté",
+    "apres": "Vin corsé de baie de beauté",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-blackberry",
+    "avant": "Vin fort de mûre",
+    "apres": "Vin corsé de mûre",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-cactusfruit",
+    "avant": "Vin fort de figue de Barbarie",
+    "apres": "Vin corsé de figue de Barbarie",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-gooseberry",
+    "avant": "Vin fort de groseille à maquereau",
+    "apres": "Vin corsé de groseille à maquereau",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-guava",
+    "avant": "Vin fort de goyave",
+    "apres": "Vin corsé de goyave",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-kumquat",
+    "avant": "Vin fort de kumquat",
+    "apres": "Vin corsé de kumquat",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-plumnatal",
+    "avant": "Vin fort de prune du Natal",
+    "apres": "Vin corsé de prune du Natal",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-raspberry",
+    "avant": "Vin fort de framboise",
+    "apres": "Vin corsé de framboise",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "expandedfoods",
+    "cle": "incontainer-item-strongwineportion-strawberry",
+    "avant": "Vin fort de fraise",
+    "apres": "Vin corsé de fraise",
+    "motif": "harmonisation du vocabulaire vinicole : 'fort' et 'corsé' désignaient le même degré (vin fort) selon la clé ; unification sur 'corsé', terme de dégustation standard, cohérent avec les fragments d'ingrédient qui l'utilisaient déjà"
+  },
+  {
+    "dom": "aculinaryartillery",
+    "cle": "item-rollingpin-veryaged",
+    "avant": "Rouleau à pâtisserie très vieillis",
+    "apres": "Rouleau à pâtisserie très vieilli",
+    "motif": "accord de participe fautif (vieillis -> vieilli, accord avec 'rouleau' masculin singulier)"
+  },
+  {
+    "dom": "aculinaryartillery",
+    "cle": "item-handbooktext-chefhead",
+    "avant": "...jamais plus à grâcer une cuisine chaleureuse...",
+    "apres": "...plus jamais destinée à orner une cuisine chaleureuse...",
+    "motif": "calque de l'anglais 'to grace' (verbe 'grâcer' inexistant en français) -> 'orner'"
+  },
+  {
+    "dom": "aculinaryartillery",
+    "cle": "item-handbooktext-l33tapron",
+    "avant": "Pour être digne de la sombre regalia...",
+    "apres": "Pour être digne de la sombre livrée...",
+    "motif": "anglicisme 'regalia' non lexicalisé en français -> 'livrée', terme médiéval concret pour la tenue distinctive"
+  },
+  {
+    "dom": "aculinaryartillery",
+    "cle": "item-handbooktext-l33that",
+    "avant": "La redoutable toque noire n'a gracé que les fronts... les chefs les plus élites sont...",
+    "apres": "La redoutable toque noire n'a orné que les fronts... les chefs les plus prestigieux sont...",
+    "motif": "calque 'gracé' (to grace) -> 'orné' ; accord impossible 'plus élites' -> 'plus prestigieux'"
+  },
+  {
+    "dom": "alchemy",
+    "cle": "PotionEatTime-Comment",
+    "avant": "...pour consommer un objet de potion solide (source item)",
+    "apres": "...pour consommer un objet de potion solide (source de l'objet)",
+    "motif": "mot anglais résiduel 'item' non traduit, ordre des mots calqué sur l'anglais"
+  }
+]

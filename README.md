@@ -17,22 +17,17 @@ survie et créatif, tous les deux sous le runtime Stratum avec ton modpack.
 
 ## Démarrer
 
-Le dépôt ne contient pas les binaires des mods. Récupère-les d'abord depuis le
-Mod DB, d'après `mods.manifest` :
-
 ```bash
-./scripts/fetch-mods.sh
-```
-
-Copie ensuite `.env.example` en `.env`. Mets un vrai secret dans
-`NIMBUS_SHARED_SECRET`, un token dans `METRICS_TOKEN`, et surtout renseigne
-`PUID` et `PGID` avec les tiens (`id -u` et `id -g`) : les conteneurs tournent
-sous cette identité et bouclent sur un redémarrage s'ils ne peuvent pas écrire
-dans `worlds/`. Puis :
-
-```bash
+./scripts/setup.sh
 docker compose up -d
 ```
+
+`setup.sh` crée le `.env` avec des secrets frais et les bons `PUID`/`PGID`, puis
+récupère les mods depuis le Mod DB d'après `mods.manifest`. Les binaires des mods
+ne sont pas versionnés ici, ils appartiennent à leurs auteurs.
+
+Restent deux réglages à faire selon l'usage : `VS_ADMINS` pour te donner le rôle
+admin, et `REDIRECT_ADDRESS` si les joueurs ne passent pas par localhost.
 
 Les joueurs se connectent à l'adresse du proxy, port 42420. Une fois en jeu,
 `/server creative` ou `/server survival` fait passer d'un monde à l'autre. Il
@@ -78,11 +73,15 @@ détail par mod est dans [MODLIST.md](MODLIST.md).
 - `release` télécharge le zip publié pointé par `STRATUM_URL`
 - `local` prend la build présente dans `stratum-local/`
 
-Le mode actif est `local`, et c'est un choix assumé. La build publiée
+Le mode par défaut est `local`, et c'est un choix assumé. La build publiée
 `1.22.6-stratum.1-indev.1` casse `watersheds`, 225 erreurs de génération par
 minute sur un monde neuf. La PR 231 de Tsu corrige ça, mesuré à 0 erreur, mais
-elle n'est ni mergée ni publiée. `stratum-local/` contient donc une build faite
-depuis sa branche `fix/world-gen-and-mod-compat`.
+elle n'est ni mergée ni publiée.
+
+`stratum-local/` est donc versionné et porte cette build, pour qu'un clone
+reproduise l'état qui tourne ici sans étape supplémentaire. Stratum est sous
+licence MIT, sa `LICENSE` est jointe et `stratum-local/PROVENANCE.md` dit d'où
+vient exactement le binaire et quand le supprimer.
 
 Cette branche ne compile pas telle quelle. Son `GenBlockLayers.cs.patch` déclare
 un hunk de 35 lignes côté nouveau alors qu'il en contient 34, ce qui fait échouer

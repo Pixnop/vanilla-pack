@@ -1,6 +1,6 @@
 # Liste des mods
 
-41 mods dans le pack serveur. Les binaires ne sont pas versionnes,
+40 mods dans le pack serveur. Les binaires ne sont pas versionnes,
 `scripts/fetch-mods.sh` les recupere depuis le Mod DB.
 
 | modid | version | nom | side |
@@ -31,7 +31,6 @@
 | `prospecttogether` | 2.2.1 | ProspectTogether | universal |
 | `purposefulstorage` | 2.1.0 | PurposefulStorage | universal |
 | `realsmoke` | 1.3.1 | Real Smoke | universal |
-| `redirectfix` | 1.0.0 | Redirect Fix | universal |
 | `rivers` | 5.0.2 | Rivers | universal |
 | `shearlib` | 1.3.0 | ShearLib | universal |
 | `shelfobsessed` | 2.1.6 | Shelf Obsessed | universal |
@@ -48,4 +47,5 @@
 | `wool` | 1.9.3 | Wool & More | universal |
 
 Les mods client uniquement (`ancestralblissshaders`, `extrainfo`, `optitime`)
-ne sont pas ici, ils n'ont rien a faire sur un serveur.
+ne sont pas ici, ils n'ont rien a faire sur un serveur. `redirectfix` non plus,
+voir le README : le Mod DB ne le sert pas aux clients 1.22.6.

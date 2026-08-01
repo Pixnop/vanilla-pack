@@ -33,6 +33,7 @@ jq -n \
   --arg registry "$NIMBUS_REGISTRY_URL" \
   --arg secret   "$NIMBUS_SHARED_SECRET" \
   --argjson reservation "$NIMBUS_RESERVATION_REQUIRED" \
+  --argjson shortcuts "${NIMBUS_SHORTCUTS:-[]}" \
   '{
      Enabled: true,
      ServerId: $id,
@@ -41,7 +42,8 @@ jq -n \
      PublicPort: $port,
      RegistryUrl: $registry,
      SharedSecret: $secret,
-     ReservationRequired: $reservation
+     ReservationRequired: $reservation,
+     ShortcutCommands: $shortcuts
    }' > "$DATA/ModConfig/nimbus-server.json"
 
 # serverconfig.json : pose depuis le modele au premier demarrage seulement.

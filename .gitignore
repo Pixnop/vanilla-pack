@@ -1,8 +1,11 @@
 .env
 worlds/
 .build/
-stratum-local/
 
 # Les binaires des mods ne sont pas redistribues ici, ils appartiennent a
 # leurs auteurs. scripts/fetch-mods.sh les recupere depuis le Mod DB.
 mods/*.zip
+
+# Le dossier doit exister meme vide, le Dockerfile le COPY en mode release.
+stratum-local/*
+!stratum-local/.gitkeep

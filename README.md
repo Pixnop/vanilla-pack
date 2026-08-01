@@ -86,11 +86,20 @@ un hunk de 35 lignes côté nouveau alors qu'il en contient 34, ce qui fait éch
 tout le bootstrap. Le détail et le reste des mesures sont dans
 `PR231-retour-de-test.md`.
 
-Ce que ça implique : tes mondes tournent sur un binaire construit à la main
-depuis un draft. Pour reconstruire après une mise à jour de la branche, relance
-`.build/build.sh` dans un conteneur `dotnet/sdk:10.0`, recopie la sortie dans
-`stratum-local/`, puis rebuild l'image. Repasser `STRATUM_MODE=release` te ramène
-sur du publié, au prix de `watersheds`.
+Ce que ça implique : les mondes tournent sur un binaire construit à la main
+depuis un draft. Pour le reconstruire :
+
+```bash
+./scripts/build-stratum.sh fix/world-gen-and-mod-compat
+```
+
+Le script fait tout dans un conteneur `dotnet/sdk:10.0`, rien n'est installé sur
+l'hôte, et dépose le résultat dans `stratum-local/`. Il a besoin du dossier `Lib`
+d'une installation cliente, via `CLIENT_LIB_DIR`, parce que le bootstrap
+décompile `VintagestoryLib`, qui référence `csogg` et `csvorbis`, absents de
+l'archive serveur.
+
+Repasser `STRATUM_MODE=release` ramène sur du publié, au prix de `watersheds`.
 
 `betterruins` reste exclu du monde créatif via `MODS_EXCLUDE`. La PR 231 annonce
 corriger ce cas mais ne le fait pas, vérifié : 169 erreurs avant comme après. Le
@@ -166,7 +175,9 @@ La v1.0.1 est packagée en CI et corrige l'asset GitHub.
 
 ## Transferts entre mondes
 
-`/server creative` et `/server survival` en jeu. Les joueurs ont besoin de
+`/server creative` et `/server survival` en jeu, ou les raccourcis `/crea` et
+`/survie` déclarés par backend dans `NIMBUS_SHORTCUTS`. Un raccourci vers le
+monde courant n'est jamais retenu, donc chaque monde ne déclare que l'autre. Les joueurs ont besoin de
 [RedirectFix](https://github.com/StratumServer/redirectfix) 1.0.1 ou plus récent,
 le plantage à la redirection est toujours là en 1.22.6.
 

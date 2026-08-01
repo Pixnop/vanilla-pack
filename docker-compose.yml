@@ -77,6 +77,10 @@ services:
       NIMBUS_REGISTRY_URL: http://nimbus:${REGISTRY_PORT}
       NIMBUS_SHARED_SECRET: ${NIMBUS_SHARED_SECRET}
       NIMBUS_RESERVATION_REQUIRED: "true"
+      # Raccourcis Nimbus 0.3.0. Targets est une chaine de repli, le premier
+      # backend enregistre, sain et different de celui-ci l emporte. Inutile de
+      # declarer un raccourci vers soi-meme, il ne serait jamais retenu.
+      NIMBUS_SHORTCUTS: '[{"Name":"crea","Targets":["creative"],"Description":"Rejoindre le monde creatif"}]'
 
   creative:
     <<: *backend
@@ -106,6 +110,7 @@ services:
       NIMBUS_REGISTRY_URL: http://nimbus:${REGISTRY_PORT}
       NIMBUS_SHARED_SECRET: ${NIMBUS_SHARED_SECRET}
       NIMBUS_RESERVATION_REQUIRED: "true"
+      NIMBUS_SHORTCUTS: '[{"Name":"survie","Targets":["survival"],"Description":"Retourner sur la survie"}]'
 
 networks:
   vsnet:

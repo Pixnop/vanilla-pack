@@ -1,6 +1,6 @@
 # Le serveur est ouvert
 
-**`82.66.202.240:42420`** — Vintage Story **1.22.6**
+**`82.66.202.240:42420`** · Vintage Story **1.22.6**
 
 Deux mondes derrière une seule adresse. Vous arrivez en survie. En jeu, `/crea`
 vous bascule sur un monde plat en créatif pour construire ou tester une idée, et

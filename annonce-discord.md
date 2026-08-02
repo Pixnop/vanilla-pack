@@ -1,37 +1,49 @@
-# Serveur Vintage Story ouvert
+# Le serveur est ouvert
 
-**Adresse : `82.66.202.240:42420`**
-**Version : 1.22.6**
+**`82.66.202.240:42420`** — Vintage Story **1.22.6**
 
-Deux mondes derrière une seule adresse. Vous arrivez en survie, et `/crea` vous
-bascule sur un monde plat en créatif pour construire ou tester. `/survie` vous
-ramène. Pas besoin de se déconnecter, ni de retenir deux adresses.
+Deux mondes derrière une seule adresse. Vous arrivez en survie. En jeu, `/crea`
+vous bascule sur un monde plat en créatif pour construire ou tester une idée, et
+`/survie` vous ramène. Pas de déconnexion, pas de seconde adresse à retenir.
 
-## À faire avant de vous connecter
+## Une seule chose à installer avant de venir
 
-Une seule chose, et elle est obligatoire : installez
-[RedirectFix 1.0.1](https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1)
-dans votre dossier `Mods`. Sans lui, le jeu plante au moment de passer d'un monde
-à l'autre. Le Mod DB ne le propose pas encore en 1.22.6, d'où l'installation
-manuelle.
+[RedirectFix](https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1),
+à déposer tel quel dans votre dossier `Mods`. Sans lui, le jeu plante au moment
+de changer de monde. Il n'est pas encore proposé sur le Mod DB pour la 1.22.6,
+d'où l'installation à la main.
 
-Le reste du modpack s'installe tout seul à la connexion, le jeu vous le proposera.
+Tout le reste du modpack s'installe automatiquement à la connexion, le jeu vous
+le proposera.
 
-## Ce qu'il y a dedans
+## Le pack
 
-40 mods, orientés survie et construction. Cuisine étendue, rivières et cours
-d'eau générés, ruines, rangement, artisanat textile, alchimie, soif. La liste
-complète est là : <https://github.com/Pixnop/vanilla-pack/blob/main/MODLIST.md>
+40 mods, orientés survie et construction. Cuisine étendue et conservation,
+rivières et cours d'eau générés, ruines à fouiller, rangement, artisanat textile,
+alchimie, soif et hydratation. La liste complète est
+[ici](https://github.com/Pixnop/vanilla-pack/blob/main/MODLIST.md).
 
-Le monde de survie a été généré avec 50% de terres et des océans à grande
-échelle, ce qu'exige le mod Rivers pour produire de vraies rivières. Comptez donc
-un peu de marche avant de tomber sur une côte.
+Le monde de survie tourne avec 50% de terres et des océans à grande échelle,
+ce qu'exige le mod Rivers pour produire de vraies rivières plutôt que des
+flaques. Conséquence directe : comptez un peu de marche avant de tomber sur une
+côte, et les rivières que vous croiserez descendent vraiment quelque part.
 
-## Détails techniques, pour ceux que ça intéresse
+## Le jeu en français
 
-Le serveur tourne sous Stratum, un runtime serveur optimisé, derrière un proxy
-Nimbus qui gère le passage entre les mondes. Trois conteneurs Docker, le tout est
-public : <https://github.com/Pixnop/vanilla-pack>
+Un mod de traduction maison est disponible, 5791 chaînes couvrant 27 des mods du
+pack. Le Mod DB n'en proposait qu'une fraction, et sa version ne fonctionne pas
+sous Linux. Demandez-le moi, ou prenez-le sur le dépôt.
 
-Si vous vous faites éjecter avec un message d'erreur, dites-le moi avec une
-capture, c'est plus utile qu'un « ça marche pas ».
+C'est optionnel : sans lui vous verrez l'anglais, mais rien ne vous empêchera de
+jouer. Si vous trouvez une traduction douteuse, dites-le, ça se corrige en
+quelques minutes.
+
+## Sous le capot
+
+Le serveur tourne sous Stratum, un runtime optimisé pour les serveurs chargés,
+derrière un proxy Nimbus qui gère le passage entre les mondes. L'installation
+complète est publique : <https://github.com/Pixnop/vanilla-pack>
+
+Si vous vous faites éjecter avec un message d'erreur, envoyez une capture. C'est
+autrement plus utile qu'un « ça marche pas », et j'ai les logs en face pour
+recouper.

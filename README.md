@@ -155,6 +155,25 @@ Ces réglages ne s'appliquent qu'à la création du monde. Les changer sur un mo
 existant ne régénère pas le terrain déjà écrit, il faut repartir d'un `Saves/`
 vide.
 
+## Les deux mods à installer à la main
+
+Le reste du pack s'auto-installe, ces deux-là non.
+
+`aculinaryartillery` est le cas gênant, parce qu'il est obligatoire et que
+`expandedfoods` en dépend. Son `modinfo.json` déclare `networkVersion: 2.0.0`
+alors que la release publiée s'appelle `2.0.0-dev.21`. Or `SystemModHandler`
+construit la spec de téléchargement avec `ModID + "@" + NetworkVersion`, donc le
+client demande au Mod DB une version `2.0.0` qui n'existe pas et reçoit un
+`errorCode 4041`. Les 46 releases du mod ont toutes ce défaut, et les versions
+stables d'`expandedfoods` s'arrêtent en 1.7.4, taguée 1.20.4.
+
+Vérifié sur les 42 mods du pack avec la spec exacte que le client envoie : 41
+se résolvent, seul celui-là échoue.
+
+`vanillapackfr` est le second, mais pour une autre raison et sans gravité : il
+déclare `"requiredonclient": false`, donc le serveur ne le réclamera jamais.
+Passer ce drapeau à `true` et republier suffirait à le rendre automatique.
+
 ## RedirectFix et la traduction française
 
 `redirectfix` est dans le pack serveur. Il est marqué `RequiredOnClient: true`,

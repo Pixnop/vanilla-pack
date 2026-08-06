@@ -5,12 +5,19 @@
 Deux mondes, une seule adresse. Vous arrivez en survie, `/crea` vous bascule sur
 un monde plat en créatif, `/survie` vous ramène.
 
-Rien à installer à la main : les 41 mods se téléchargent tout seuls à la
-connexion, le jeu vous les proposera.
+**Avant votre première connexion**, déposez les deux zips joints dans votre
+dossier `Mods`, sans les décompresser.
 
-Le zip joint, `vanillapackfr`, est le seul à part. Il traduit en français les
-textes que les mods laissent en anglais, et il est optionnel. Déposez-le dans
-votre dossier `Mods` sans le décompresser.
+`aculinaryartillery` est obligatoire. Il n'est pas facultatif et il ne
+s'installera pas tout seul : le mod déclare un numéro de version que le Mod DB
+ne connaît pas, et le téléchargement automatique s'arrête dessus. Si vous
+l'oubliez, vous serez refusé à l'entrée avec une liste de mods manquants.
+
+`vanillapackfr` est optionnel, il traduit en français les textes que les mods
+laissent en anglais.
+
+Les 40 autres mods se téléchargent tout seuls à la connexion, le jeu vous les
+proposera.
 
 Le monde de survie a beaucoup d'océan, c'est voulu : le mod Rivers en a besoin
 pour générer de vraies rivières. Comptez un peu de marche avant de voir une côte.

@@ -1,6 +1,6 @@
 # Liste des mods
 
-40 mods dans le pack serveur. Les binaires ne sont pas versionnes,
+42 mods dans le pack serveur. Les binaires ne sont pas versionnes,
 `scripts/fetch-mods.sh` les recupere depuis le Mod DB.
 
 | modid | version | nom | side |
@@ -31,6 +31,7 @@
 | `prospecttogether` | 2.2.1 | ProspectTogether | universal |
 | `purposefulstorage` | 2.1.0 | PurposefulStorage | universal |
 | `realsmoke` | 1.3.1 | Real Smoke | universal |
+| `redirectfix` | 1.0.1 | RedirectFix | universal |
 | `rivers` | 5.0.2 | Rivers | universal |
 | `shearlib` | 1.3.0 | ShearLib | universal |
 | `shelfobsessed` | 2.1.6 | Shelf Obsessed | universal |
@@ -41,11 +42,11 @@
 | `tankardsandgoblets` | 1.4.4 | Tankards, Goblets and More! | universal |
 | `terraprety` | 6.2.0 | Terra Prety | universal |
 | `trailmodmaro` | 1.3.21 | Natural Trail Mod Maro Update | universal |
+| `vanillapackfr` | 0.1.0 | Vanilla Pack - Traductions FR | universal |
 | `vsroofing` | 1.7.0 | VS Roofing Mod | universal |
 | `walkingstick` | 3.0.10 | Adventurer's Walking Stick | universal |
 | `watersheds` | 6.4.3 | Algernons Watersheds | universal |
 | `wool` | 1.9.3 | Wool & More | universal |
 
 Les mods client uniquement (`ancestralblissshaders`, `extrainfo`, `optitime`)
-ne sont pas ici, ils n'ont rien a faire sur un serveur. `redirectfix` non plus,
-voir le README : le Mod DB ne le sert pas aux clients 1.22.6.
+ne sont pas ici, ils n'ont rien a faire sur un serveur.

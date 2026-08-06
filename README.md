@@ -167,101 +167,22 @@ Ces réglages ne s'appliquent qu'à la création du monde. Les changer sur un mo
 existant ne régénère pas le terrain déjà écrit, il faut repartir d'un `Saves/`
 vide.
 
-## RedirectFix, à installer côté joueurs
+## RedirectFix et la traduction française
 
-Nimbus a besoin d'un mod client, sans quoi le jeu plante au moment d'un
-transfert entre mondes.
+`redirectfix` est dans le pack serveur. Il est marqué `RequiredOnClient: true`,
+donc sa présence côté serveur suffit à déclencher son téléchargement automatique
+chez le client depuis le Mod DB. Rien à distribuer à la main.
 
-**Installation manuelle obligatoire pour l'instant.** Envoie ce lien à tes
-joueurs, à décompresser dans leur dossier `Mods` :
+Ça n'a pas toujours été le cas. La fiche Mod DB est restée bloquée en 1.0.0
+taguée jusqu'en 1.22.2, et `install-information?gv=1.22.6` renvoyait
+`errorCode 4041`, soit `SPEC_NOT_FOUND` : impossible d'auto-installer. La 1.0.1
+publiée depuis est taguée jusqu'en 1.22.6 et le Mod DB la sert correctement.
 
-<https://github.com/StratumServer/redirectfix/releases/tag/v1.0.1>
-
-L'idée naturelle serait de mettre `redirectfix` dans le pack serveur : le mod est
-marqué `RequiredOnClient: true`, donc sa présence côté serveur déclencherait le
-téléchargement automatique chez le client depuis le Mod DB. Ça ne marche pas
-aujourd'hui, et c'est vérifiable sans lancer le jeu.
-
-`ModDbUtil.cs` montre que le client résout ses mods via
-`v2/mods/install-information?gv=<version>&ids=<modids>`. La même requête, posée à
-la main :
-
-```
-gv=1.22.6  ->  { "redirectfix": { "errorCode": 4041 } }
-gv=1.22.2  ->  { "fileName": "redirectfix-v1.0.0.zip", "fileUrl": "/download/95008/..." }
-```
-
-`4041` est `SPEC_NOT_FOUND`, que le joueur verrait sous la forme « Release not
-found. ». La fiche Mod DB est bloquée en 1.0.0, taguée `1.22.0` à `1.22.2`, alors
-que la 1.0.1 est sortie côté GitHub. Mettre le mod dans le pack serveur
-demanderait donc aux clients une release que le Mod DB refuse de leur servir.
-
-Le correctif est côté Mod DB : y publier la 1.0.1 en la taguant 1.22.6. La fiche
-est au nom de `imtsubaki` et sans contributeur, c'est donc lui qui doit le faire.
-Une fois que `gv=1.22.6` renverra un `fileUrl`, remets la ligne
-`redirectfix<TAB>1.0.1<TAB>redirectfix-1.0.1.zip` dans `mods.manifest`, relance
-`scripts/fetch-mods.sh` et reconstruis : l'installation deviendra automatique.
-
-À ne pas confondre avec l'autre bug : l'asset GitHub de la v1.0.0 était mal
-emballé, tout dans un dossier `redirectfix/` donc pas de `modinfo.json` à la
-racine, et ne se chargeait pas. Le zip hébergé sur le Mod DB, lui, est correct.
-La v1.0.1 est packagée en CI et corrige l'asset GitHub.
-
-## Transferts entre mondes
-
-`/server creative` et `/server survival` en jeu, ou les raccourcis `/crea` et
-`/survie` déclarés par backend dans `NIMBUS_SHORTCUTS`. Un raccourci vers le
-monde courant n'est jamais retenu, donc chaque monde ne déclare que l'autre. Les joueurs ont besoin de
-[RedirectFix](https://github.com/StratumServer/redirectfix) 1.0.1 ou plus récent,
-le plantage à la redirection est toujours là en 1.22.6.
-
-Nimbus 0.2.0 cassait tous les transferts sur 1.22.6 : le proxy supposait que la
-première trame du client était `Identification`, alors que c'est
-`LoginTokenQuery`, qui ne porte aucune identité. La reconnexion partait sur le
-backend par défaut, le jeton de session à usage unique était rejoué vers la
-destination, et celle-ci renvoyait « Bad game session ». Corrigé en 0.3.0 : la
-reconnexion est routée par adresse client quand la première trame est anonyme, et
-un garde-fou refuse de présenter le même login à un second backend.
-
-`REDIRECT_ADDRESS` dans `.env` tamponne une adresse `hôte:port` dans les paquets
-de redirection. À renseigner dès que les joueurs passent par autre chose que
-localhost, sinon le client se reconnecte sur l'adresse annoncée par le backend.
-
-## Traductions françaises
-
-`translation-fr/` est un mod de contenu maison qui complète les traductions
-manquantes des mods du pack. Sans code, il se contente de fournir des `fr.json`
-que le jeu fusionne avec ceux des mods installés.
-
-```bash
-./scripts/build-translation.sh
-```
-
-Le zip atterrit dans `dist/`. Il se charge sur un serveur 1.22.6, vérifié.
-
-Sur les 20 242 chaînes anglaises du pack, 6 521 n'avaient pas d'équivalent
-français. **Elles sont toutes traduites**, réparties sur 27 domaines.
-
-Chaque fichier a été vérifié contre sa source : même nombre de clés, mêmes clés,
-balises `<font>`, `<a href>`, `<br>`, `<strong>` en nombre identique, marqueurs
-`{0}` préservés, aucune chaîne laissée en anglais. Les sources extraites restent
-dans `translation-fr/.todo/` pour permettre ces contrôles et reprendre le travail
-quand un mod sera mis à jour.
-
-Les gros fichiers ont été découpés pour être traduits en parallèle, ce qui a
-produit 453 divergences où la même chaîne anglaise recevait deux traductions
-selon la tranche. Elles ont été arbitrées puis réappliquées, 561 chaînes
-réalignées. Le contrôle final ne laisse qu'un écart volontaire, sur
-`aculinaryartillery` : « the kitchenware trader » donne « le marchand » ou
-« la marchande » selon que la clé vise `trader-male` ou `trader-female`, l'anglais
-étant neutre là où le français ne l'est pas.
-
-Le [French Translation Pack](https://mods.vintagestory.at/show/mod/53003) du
-Mod DB ne remplace pas celui-ci, pour deux raisons. Il ne couvre que 7 des 40
-mods du serveur. Et son zip utilise des antislashes comme séparateurs : comme
-Vintage Story extrait les mods de contenu avec `Path.Combine`, l'arborescence
-`assets/` n'est jamais recréée sous Linux et les traductions ne s'appliquent
-pas. Sous Windows elles fonctionnent, le séparateur y étant valide.
+`vanillapackfr`, le pack de traductions françaises, est dans le pack serveur lui
+aussi mais ne se propagera pas : son `modinfo.json` déclare
+`"requiredonclient": false`, et le serveur ne réclame que les mods marqués
+requis. Or ses 29 fichiers `fr.json` ne servent qu'à l'affichage côté joueur.
+Passer ce drapeau à `true` et republier suffirait à le rendre automatique.
 
 ## Configuration
 
@@ -307,7 +228,7 @@ Story sauvegarde en s'arrêtant, il ne faut pas le tuer trop tôt.
 | Vintage Story | 1.22.6 |
 | Stratum | PR 231 `fix/world-gen-and-mod-compat` @ 7ff2709, build locale |
 | Nimbus | v0.3.0 |
-| RedirectFix | v1.0.1, installation manuelle côté joueur |
+| RedirectFix | v1.0.1, auto-installé depuis le Mod DB |
 
 La release publiée la plus proche est `v1.22.6-stratum.1-indev.1`, elle-même un
 prerelease indev. La dernière vraiment stable est `v1.22.5-stratum.1`, qui

@@ -4,7 +4,7 @@ allclasses	2.3.1	allclasses-2.3.1.zip
 apelanterns	1.4.3	apelanterns-1.4.3.zip
 betterruins	0.6.3	betterruins-0.6.3.zip
 bloodtrail	1.2.5	bloodtrail-1.2.5.zip
-canjewelry	0.6.23	canjewelry-0.6.23.zip
+canjewelry	0.6.24	canjewelry-0.6.24.zip
 carryon	2.0.0-pre.8	carryon-2.0.0-pre.8.zip
 carryonlib	1.0.0-pre.8	CarryOnLib-1.22.0_v1.0.0-pre.8.zip
 cbr	2.0.1	cbr-2.0.1.zip
@@ -17,7 +17,7 @@ farseer	1.4.0	farseer-1.4.0.zip
 firewoodtosticks	1.0.0	firewoodtosticks-1.0.0.zip
 foodshelves	3.0.5	foodshelves-3.0.5.zip
 geoaddons	1.4.8	geoaddons-1.4.8.zip
-hydrateordiedrate	2.5.3	hydrateordiedrate-2.5.3.zip
+hydrateordiedrate	2.5.4	hydrateordiedrate-2.5.4.zip
 # modid<TAB>version<TAB>nom de fichier cible
 mycodiversity	1.0.8	mycodiversity-1.0.8.zip
 pei	3.0.1	pei-3.0.1.zip
@@ -27,9 +27,9 @@ purposefulstorage	2.1.0	purposefulstorage-2.1.0.zip
 realsmoke	1.3.1	realsmoke-1.3.1.zip
 # Recupere par scripts/fetch-mods.sh depuis l API du Mod DB.
 redirectfix	1.0.1	redirectfix-1.0.1.zip
-rivers	5.0.2	rivers-5.0.2.zip
+rivers	5.0.3	rivers-5.0.3.zip
 shearlib	1.3.0	shearlib-1.3.0.zip
-shelfobsessed	2.1.6	shelfobsessed-2.1.6.zip
+shelfobsessed	2.2.1	shelfobsessed-2.2.1.zip
 slowtox	5.0.0	slowtox-5.0.0.zip
 sortablestorage	3.0.0	sortablestorage-3.0.0.zip
 substrate	2.0.0	substrate-2.0.0.zip

@@ -11,7 +11,7 @@
 | `apelanterns` | 1.4.3 | More Lanterns | universal |
 | `betterruins` | 0.6.3 | BetterRuins | universal |
 | `bloodtrail` | 1.2.5 | BloodTrail | universal |
-| `canjewelry` | 0.6.23 | C&N Jewelry | universal |
+| `canjewelry` | 0.6.24 | C&N Jewelry | universal |
 | `carryon` | 2.0.0-pre.8 | Carry On | universal |
 | `carryonlib` | 1.0.0-pre.8 | CarryOnLib | universal |
 | `cbr` | 2.0.1 | Chiseled Block Retention | universal |
@@ -24,7 +24,7 @@
 | `firewoodtosticks` | 1.0.0 | Firewood to sticks | universal |
 | `foodshelves` | 3.0.5 | FoodShelves | universal |
 | `geoaddons` | 1.4.8 | Geology Additions | universal |
-| `hydrateordiedrate` | 2.5.3 | Hydrate Or Diedrate | universal |
+| `hydrateordiedrate` | 2.5.4 | Hydrate Or Diedrate | universal |
 | `mycodiversity` | 1.0.8 | Mycodiversity | universal |
 | `pei` | 3.0.1 | Place Every Item | server |
 | `pipeleaf` | 2.6.1 | PipeLeaf | universal |
@@ -32,9 +32,9 @@
 | `purposefulstorage` | 2.1.0 | PurposefulStorage | universal |
 | `realsmoke` | 1.3.1 | Real Smoke | universal |
 | `redirectfix` | 1.0.1 | RedirectFix | universal |
-| `rivers` | 5.0.2 | Rivers | universal |
+| `rivers` | 5.0.3 | Rivers | universal |
 | `shearlib` | 1.3.0 | ShearLib | universal |
-| `shelfobsessed` | 2.1.6 | Shelf Obsessed | universal |
+| `shelfobsessed` | 2.2.1 | Shelf Obsessed | universal |
 | `slowtox` | 5.0.0 | SlowTox | universal |
 | `sortablestorage` | 3.0.0 | Sortable Storage | universal |
 | `substrate` | 2.0.0 | Substrate | universal |

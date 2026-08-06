@@ -155,24 +155,32 @@ Ces réglages ne s'appliquent qu'à la création du monde. Les changer sur un mo
 existant ne régénère pas le terrain déjà écrit, il faut repartir d'un `Saves/`
 vide.
 
-## Les deux mods à installer à la main
+## Ce qui s'auto-installe, et ce qui ne peut pas
 
-Le reste du pack s'auto-installe, ces deux-là non.
+Sur les 42 mods du serveur, **39 se téléchargent tout seuls** chez le joueur à la
+connexion. Vérifié en pratique : une instance cliente vierge a reçu les 39, y
+compris `aculinaryartillery` dont le nom de fichier trompe.
 
-`aculinaryartillery` est le cas gênant, parce qu'il est obligatoire et que
-`expandedfoods` en dépend. Son `modinfo.json` déclare `networkVersion: 2.0.0`
-alors que la release publiée s'appelle `2.0.0-dev.21`. Or `SystemModHandler`
-construit la spec de téléchargement avec `ModID + "@" + NetworkVersion`, donc le
-client demande au Mod DB une version `2.0.0` qui n'existe pas et reçoit un
-`errorCode 4041`. Les 46 releases du mod ont toutes ce défaut, et les versions
-stables d'`expandedfoods` s'arrêtent en 1.7.4, taguée 1.20.4.
+Deux règles décident, et elles sont dans le code du jeu.
 
-Vérifié sur les 42 mods du pack avec la spec exacte que le client envoie : 41
-se résolvent, seul celui-là échoue.
+`ServerMain.CreatePacketIdentification` filtre `where mod.Info.Side.IsUniversal()`
+avant d'annoncer quoi que ce soit. Un mod `side: client` posé sur le serveur y
+est bien chargé, mais jamais annoncé, donc jamais téléchargé par personne. C'est
+le cas d'`extrainfo`, `optitime` et `ancestralblissshaders` : chaque joueur les
+installe pour lui, il n'y a pas moyen de les pousser depuis le serveur.
 
-`vanillapackfr` est le second, mais pour une autre raison et sans gravité : il
-déclare `"requiredonclient": false`, donc le serveur ne le réclamera jamais.
-Passer ce drapeau à `true` et republier suffirait à le rendre automatique.
+Ensuite, `SystemModHandler` ne retient côté client que les mods annoncés avec
+`RequiredOnClient`. `terraprety` et `vanillapackfr` déclarent `false`, donc ils
+restent sur le serveur sans être réclamés. `pei` est `side: server` et n'est même
+pas annoncé.
+
+D'où le compte : 42 moins `pei`, `terraprety` et `vanillapackfr` font 39.
+
+Un détail qui m'avait égaré : la spec envoyée au Mod DB utilise bien
+`mod.Id + "@" + mod.Version`. La `NetworkVersion` ne sert qu'à comparer les mods
+locaux et distants pour repérer les manquants. C'est pourquoi
+`aculinaryartillery`, qui déclare `networkVersion: 2.0.0` pour une release
+`2.0.0-dev.21`, s'installe malgré tout sans problème.
 
 ## RedirectFix et la traduction française
 

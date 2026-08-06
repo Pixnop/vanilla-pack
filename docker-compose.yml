@@ -74,7 +74,7 @@ services:
       # d apparition sur un ilot isole. 0.7 laisse plus de terre, 3 rapproche les
       # cotes en reduisant la taille des masses. On reste dans la fourchette
       # 300-500% que rivers demande pour le landcover scale.
-      VS_WORLDCONFIG: '{"landcover":"0.7","oceanscale":"3"}'
+      VS_WORLDCONFIG: '{"landcover":"0.5","oceanscale":"4"}'
       NIMBUS_SERVER_ID: survival
       NIMBUS_DISPLAY_NAME: "Survie"
       NIMBUS_PUBLIC_HOST: survival

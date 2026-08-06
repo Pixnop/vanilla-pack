@@ -69,7 +69,12 @@ services:
       # GenMaps fait worldConfig.GetString(...).ToFloat(1f), et ToFloat s'appuie
       # sur float.TryParse en NumberStyles.Any, qui refuse le signe pourcent.
       # Ecrire "50%" retombe donc sur 1, soit 100% de terre et aucun ocean.
-      VS_WORLDCONFIG: '{"landcover":"0.5","oceanscale":"4"}'
+      #
+      # 0.5 / 4 suivait la fiche de rivers a la lettre, mais donnait un point
+      # d apparition sur un ilot isole. 0.7 laisse plus de terre, 3 rapproche les
+      # cotes en reduisant la taille des masses. On reste dans la fourchette
+      # 300-500% que rivers demande pour le landcover scale.
+      VS_WORLDCONFIG: '{"landcover":"0.7","oceanscale":"3"}'
       NIMBUS_SERVER_ID: survival
       NIMBUS_DISPLAY_NAME: "Survie"
       NIMBUS_PUBLIC_HOST: survival

@@ -142,12 +142,15 @@ mod ne pose aucun problème sur la survie, donc il n'est retiré que du créatif
 JSON injectée dans `WorldConfig.WorldConfiguration`. La survie utilise :
 
 ```json
-{"landcover":"0.5","oceanscale":"4"}
+{"landcover":"0.7","oceanscale":"3"}
 ```
 
 C'est l'exigence de `rivers`, dont la fiche Mod DB dit qu'il faut des océans pour
 que les rivières se génèrent, avec 300 à 500% de « landcover scale » et 50% de
-« landcover ». Deux pièges à cet endroit.
+« landcover ». Le premier essai suivait cette recommandation à la lettre, en
+`0.5` et `4`, et plaçait le point d'apparition sur un îlot isolé. `0.7` laisse
+plus de terre et `3` rapproche les côtes, tout en restant dans la fourchette
+demandée. Deux pièges à cet endroit.
 
 « Landcover scale » correspond à la clé `oceanscale`, pas à `landcover`.
 

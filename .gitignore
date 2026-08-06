@@ -16,10 +16,11 @@ worlds/creative/*
 # leurs auteurs. scripts/fetch-mods.sh les recupere depuis le Mod DB.
 mods/*.zip
 
-# stratum-local/ est volontairement versionne: il porte la build qui repare
-# watersheds, voir stratum-local/PROVENANCE.md. Stratum est sous licence MIT.
-# Seuls les symboles de debogage restent dehors.
-stratum-local/*.pdb
+# stratum-local/ ne sert plus qu a tester une branche non publiee, via
+# scripts/build-stratum.sh. Le dossier doit exister meme vide, le Dockerfile le
+# COPY quel que soit le mode.
+stratum-local/*
+!stratum-local/.gitkeep
 
 # Zips produits par build-translation.sh
 dist/

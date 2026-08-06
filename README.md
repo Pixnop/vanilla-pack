@@ -99,42 +99,26 @@ détail par mod est dans [MODLIST.md](MODLIST.md).
 
 `STRATUM_MODE` dans `.env` choisit la source :
 
-- `release` télécharge le zip publié pointé par `STRATUM_URL`
-- `local` prend la build présente dans `stratum-local/`
+- `release` télécharge le zip publié pointé par `STRATUM_URL`, c'est le défaut
+- `local` prend une build déposée dans `stratum-local/`, pour tester une branche
+  non publiée
 
-Le mode par défaut est `local`, et c'est un choix assumé. La build publiée
-`1.22.6-stratum.1-indev.1` casse `watersheds`, 225 erreurs de génération par
-minute sur un monde neuf. La PR 231 de Tsu corrige ça, mesuré à 0 erreur, mais
-elle n'est ni mergée ni publiée.
+La stack tourne sur `v1.22.6-stratum.2`, une release stable.
 
-`stratum-local/` est donc versionné et porte cette build, pour qu'un clone
-reproduise l'état qui tourne ici sans étape supplémentaire. Stratum est sous
-licence MIT, sa `LICENSE` est jointe et `stratum-local/PROVENANCE.md` dit d'où
-vient exactement le binaire et quand le supprimer.
+Ça n'a pas toujours été le cas. La première build 1.22.6 disponible,
+`stratum.1-indev.1`, cassait deux mods de worldgen : `watersheds` produisait 225
+erreurs de génération par minute sur un monde neuf, et `betterruins` 169 sous le
+playstyle `creativebuilding`. Les deux ont été isolés mod par mod avec un témoin
+sur le serveur officiel, remontés en amont, et corrigés par les PR
+[228](https://github.com/StratumServer/Stratum/pull/228) et
+[231](https://github.com/StratumServer/Stratum/pull/231), incluses depuis
+`v1.22.6-stratum.1`. Vérifié après bascule : zéro erreur sur les deux mondes,
+avec les deux mods chargés.
 
-Cette branche ne compile pas telle quelle. Son `GenBlockLayers.cs.patch` déclare
-un hunk de 35 lignes côté nouveau alors qu'il en contient 34, ce qui fait échouer
-tout le bootstrap. Le détail et le reste des mesures sont dans
-`PR231-retour-de-test.md`.
-
-Ce que ça implique : les mondes tournent sur un binaire construit à la main
-depuis un draft. Pour le reconstruire :
-
-```bash
-./scripts/build-stratum.sh fix/world-gen-and-mod-compat
-```
-
-Le script fait tout dans un conteneur `dotnet/sdk:10.0`, rien n'est installé sur
-l'hôte, et dépose le résultat dans `stratum-local/`. Il a besoin du dossier `Lib`
-d'une installation cliente, via `CLIENT_LIB_DIR`, parce que le bootstrap
-décompile `VintagestoryLib`, qui référence `csogg` et `csvorbis`, absents de
-l'archive serveur.
-
-Repasser `STRATUM_MODE=release` ramène sur du publié, au prix de `watersheds`.
-
-`betterruins` reste exclu du monde créatif via `MODS_EXCLUDE`. La PR 231 annonce
-corriger ce cas mais ne le fait pas, vérifié : 169 erreurs avant comme après. Le
-mod ne pose aucun problème sur la survie, donc il n'est retiré que du créatif.
+Le dépôt a un temps embarqué une build maison de la PR 231 pour contourner ça.
+Elle a été retirée. `scripts/build-stratum.sh` reste disponible si tu veux à
+nouveau tester une branche avant publication, et `PR231-retour-de-test.md` garde
+la trace de la méthode.
 
 ## Réglages de génération
 

@@ -105,9 +105,6 @@ services:
       VS_MAX_CLIENTS: ${MAX_CLIENTS}
       VS_WHITELIST_MODE: ${VS_WHITELIST_MODE:-1}
       VS_ADMINS: ${VS_ADMINS:-}
-      # betterruins + Stratum + playstyle creativebuilding fait planter la passe
-      # de structures. Le meme mod ne pose aucun probleme sur la survie.
-      MODS_EXCLUDE: "betterruins-0.6.3.zip"
       NIMBUS_SERVER_ID: creative
       NIMBUS_DISPLAY_NAME: "Creatif"
       NIMBUS_PUBLIC_HOST: creative

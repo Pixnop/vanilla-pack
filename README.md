@@ -176,6 +176,14 @@ pas annoncé.
 
 D'où le compte : 42 moins `pei`, `terraprety` et `vanillapackfr` font 39.
 
+Ce n'est pas une limite de cette configuration. L'issue
+[7602](https://github.com/anegostudios/VintageStory-Issues/issues/7602) chez Anego
+décrit le même cas, ouverte depuis novembre 2025 et sans réponse. Et sur le forum
+officiel, quelqu'un a tenté de passer un mod de `Client` à `Universal` dans son
+`modinfo.json` : ça ne fonctionne pas non plus. La réponse retenue par la
+communauté est de distribuer les mods client à la main, ce que fait
+`annonce-discord.md`.
+
 Un détail qui m'avait égaré : la spec envoyée au Mod DB utilise bien
 `mod.Id + "@" + mod.Version`. La `NetworkVersion` ne sert qu'à comparer les mods
 locaux et distants pour repérer les manquants. C'est pourquoi

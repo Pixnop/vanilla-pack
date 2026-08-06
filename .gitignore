@@ -24,3 +24,6 @@ stratum-local/*
 
 # Zips produits par build-translation.sh
 dist/
+
+# Paquet de mods tiers pour les joueurs, regenerable, pas a versionner.
+vanilla-pack-mods-optionnels.zip

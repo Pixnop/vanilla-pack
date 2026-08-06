@@ -8,9 +8,14 @@ un monde plat en créatif, `/survie` vous ramène.
 Rien d'obligatoire à installer. À la connexion, le jeu vous annonce 39 mods
 manquants et vous propose de les télécharger : acceptez, et c'est réglé.
 
-Le zip joint, `vanillapackfr`, est optionnel. Il traduit en français les textes
-que les mods laissent en anglais. Déposez-le dans votre dossier `Mods` sans le
-décompresser.
+Les zips joints sont optionnels, à déposer dans votre dossier `Mods` sans les
+décompresser. Ce sont des mods qui n'agissent que sur votre affichage, le serveur
+ne peut donc pas vous les envoyer.
+
+`vanillapackfr` traduit en français les textes que les mods laissent en anglais.
+`Extra Info` détaille le HUD : temps de casse d'un bloc, barres de progression,
+régime et butin des créatures. `OptiTime` affiche l'heure et la date en jeu.
+`Ancestral Bliss Shaders` change le rendu, à réserver aux machines qui suivent.
 
 Le monde de survie a beaucoup d'océan, c'est voulu : le mod Rivers en a besoin
 pour générer de vraies rivières. Comptez un peu de marche avant de voir une côte.

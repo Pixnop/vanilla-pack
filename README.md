@@ -202,6 +202,17 @@ C'est circulaire : les dépendances ne peuvent arriver que par le mod qui ne peu
 pas se charger sans elles. Ça ne fonctionnerait que pour un joueur qui les a
 déjà, ce qui enlève tout intérêt.
 
+Testé deux fois, la seconde sur une base sans aucun doublon, avec
+`vanillapackfr` 0.1.3 publié sur le Mod DB et les trois mods présents côté
+serveur. Résultat identique : le client installe 40 mods, `vanillapackfr`
+compris, et aucune des trois dépendances. L'écran suivant annonce « You are
+missing 0 mods », et le téléchargement part avec `ids=` vide.
+
+Les dépendances sont pourtant correctement déclarées : sans les trois mods, le
+serveur refuse de charger `vanillapackfr` avec `Could not resolve some
+dependencies`. Le jeu les lit et les honore, il ne va simplement jamais chercher
+une dépendance `side: client` auprès d'un serveur.
+
 Ce n'est pas une limite de cette configuration. L'issue
 [7602](https://github.com/anegostudios/VintageStory-Issues/issues/7602) chez Anego
 décrit le même cas, ouverte depuis novembre 2025 et sans réponse. Et sur le forum

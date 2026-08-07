@@ -58,4 +58,22 @@ done < "$MANIFEST"
 
 echo
 echo "$ok telecharge(s), $skip deja present(s), $fail echec(s)"
+
+# Purge des zips qui ne sont plus au manifeste. Sans ca, changer la version d'un
+# mod laisse l'ancien fichier a cote du nouveau: deux zips declarent alors le
+# meme modid, et le serveur en charge un au hasard. Vu en production avec
+# vanillapackfr 0.1.0 et 0.1.1 presents en meme temps.
+attendus=$(sed -n 's/^[^#][^\t]*\t[^\t]*\t\(.*\)$/\1/p' "$MANIFEST" | tr -d '\r')
+purge=0
+for f in "$DEST"/*.zip; do
+  [ -e "$f" ] || continue
+  base=$(basename "$f")
+  if ! printf '%s\n' "$attendus" | grep -qxF "$base"; then
+    rm -f "$f"
+    echo "  purge  $base (absent du manifeste)"
+    purge=$((purge+1))
+  fi
+done
+[ "$purge" -gt 0 ] && echo "$purge fichier(s) obsolete(s) supprime(s)"
+
 [ "$fail" -eq 0 ]

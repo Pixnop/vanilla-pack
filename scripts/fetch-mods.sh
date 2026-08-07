@@ -63,7 +63,10 @@ echo "$ok telecharge(s), $skip deja present(s), $fail echec(s)"
 # mod laisse l'ancien fichier a cote du nouveau: deux zips declarent alors le
 # meme modid, et le serveur en charge un au hasard. Vu en production avec
 # vanillapackfr 0.1.0 et 0.1.1 presents en meme temps.
-attendus=$(sed -n 's/^[^#][^\t]*\t[^\t]*\t\(.*\)$/\1/p' "$MANIFEST" | tr -d '\r')
+# cut decoupe sur la tabulation sans ambiguite. Surtout pas de sed avec [^\t]:
+# dans une classe de caracteres, \t vaut "ni antislash ni t", pas une tabulation.
+attendus=$(grep -v '^#' "$MANIFEST" | cut -f3 | tr -d '\r' | grep -v '^$')
+echo "manifeste: $(printf '%s\n' "$attendus" | grep -c .) fichiers attendus"
 purge=0
 for f in "$DEST"/*.zip; do
   [ -e "$f" ] || continue

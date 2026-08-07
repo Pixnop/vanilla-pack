@@ -176,22 +176,31 @@ pas annoncé.
 
 D'où le compte : 42 moins `pei`, `terraprety` et `vanillapackfr` font 39.
 
-Il existe pourtant un moyen de les pousser quand même, en passant par les
-dépendances plutôt que par la liste annoncée. `vanillapackfr` est notre mod, il
-est `universal`, donc le serveur l'annonce et le client l'installe. S'il déclare
-`"dependencies": {"extrainfo": "2.2.1"}`, le client charge la traduction,
-constate qu'`extrainfo` manque, et la branche `MissingDependencies` de
-`SystemModHandler` propose de le télécharger. Cette branche-là ne filtre pas sur
-le `side`.
+On a essayé de contourner ça par les dépendances, et ça ne marche pas. L'idée
+était de faire déclarer à `vanillapackfr`, qui est requis donc téléchargé, une
+dépendance sur `extrainfo` : le client aurait alors proposé de récupérer la
+dépendance manquante, et cette branche-là ne filtre pas sur le `side`.
 
-Vérifié côté serveur : sans les mods client, `vanillapackfr` échoue avec
-`Could not resolve some dependencies`. Avec eux, tout charge dans l'ordre
-`ancestralblissshaders, extrainfo, optitime, ..., vanillapackfr`. C'est pourquoi
-les trois figurent dans `mods.manifest` alors qu'ils ne sont jamais annoncés.
+En pratique le client se retrouve bloqué, avec un dialogue « Missing mods /
+ModDB Error: Bad Request ». La raison est dans `SystemModHandler` :
 
-Deux mises en garde. Ça rend ces mods obligatoires, sans refus possible, ce qui
-se discute pour des shaders. Et c'est un détournement : on déclare dépendre de
-mods dont on ne dépend pas. Si l'un disparaît du Mod DB, plus personne n'entre.
+```csharp
+foreach (string modid in list5) {
+    ModContainer mc = mods.FirstOrDefault(m => modid == m.Info.ModID + "@" + m.Info.NetworkVersion && m.Error.HasValue);
+    if (mc != null) list7.Add(mc.Info.ModID + "@" + mc.Info.Version);
+}
+foreach (string item in list7) list5.Remove(item);
+game.disconnectMissingMods = list5;
+```
+
+Le client possède `vanillapackfr` mais ne peut pas le charger, ses dépendances
+manquant. Il compte donc comme « en erreur », le jeu le retire de la liste à
+télécharger, la liste devient vide, et la requête part avec `ids=` vide. Le Mod
+DB répond `HTTP 400 {"error":"Missing ids."}`.
+
+C'est circulaire : les dépendances ne peuvent arriver que par le mod qui ne peut
+pas se charger sans elles. Ça ne fonctionnerait que pour un joueur qui les a
+déjà, ce qui enlève tout intérêt.
 
 Ce n'est pas une limite de cette configuration. L'issue
 [7602](https://github.com/anegostudios/VintageStory-Issues/issues/7602) chez Anego

@@ -44,11 +44,12 @@
 | `tankardsandgoblets` | 1.4.4 | Tankards, Goblets and More! | universal |
 | `terraprety` | 6.2.0 | Terra Prety | universal |
 | `trailmodmaro` | 1.3.21 | Natural Trail Mod Maro Update | universal |
-| `vanillapackfr` | 0.1.0 | Vanilla Pack - Traductions FR | universal |
+| `vanillapackfr` | 0.1.1 | Vanilla Pack - Traductions FR | universal |
 | `vsroofing` | 1.7.0 | VS Roofing Mod | universal |
 | `walkingstick` | 3.0.10 | Adventurer's Walking Stick | universal |
 | `watersheds` | 6.4.3 | Algernons Watersheds | universal |
 | `wool` | 1.9.3 | Wool & More | universal |
 
 Les trois mods `client` sont sur le serveur uniquement pour satisfaire les
-dependances declarees par `vanillapackfr`. Le serveur ne les annonce pas.
+dependances declarees par `vanillapackfr`. Le serveur ne les annonce pas,
+c'est la branche MissingDependencies du client qui les fait telecharger.

@@ -176,6 +176,23 @@ pas annoncé.
 
 D'où le compte : 42 moins `pei`, `terraprety` et `vanillapackfr` font 39.
 
+Il existe pourtant un moyen de les pousser quand même, en passant par les
+dépendances plutôt que par la liste annoncée. `vanillapackfr` est notre mod, il
+est `universal`, donc le serveur l'annonce et le client l'installe. S'il déclare
+`"dependencies": {"extrainfo": "2.2.1"}`, le client charge la traduction,
+constate qu'`extrainfo` manque, et la branche `MissingDependencies` de
+`SystemModHandler` propose de le télécharger. Cette branche-là ne filtre pas sur
+le `side`.
+
+Vérifié côté serveur : sans les mods client, `vanillapackfr` échoue avec
+`Could not resolve some dependencies`. Avec eux, tout charge dans l'ordre
+`ancestralblissshaders, extrainfo, optitime, ..., vanillapackfr`. C'est pourquoi
+les trois figurent dans `mods.manifest` alors qu'ils ne sont jamais annoncés.
+
+Deux mises en garde. Ça rend ces mods obligatoires, sans refus possible, ce qui
+se discute pour des shaders. Et c'est un détournement : on déclare dépendre de
+mods dont on ne dépend pas. Si l'un disparaît du Mod DB, plus personne n'entre.
+
 Ce n'est pas une limite de cette configuration. L'issue
 [7602](https://github.com/anegostudios/VintageStory-Issues/issues/7602) chez Anego
 décrit le même cas, ouverte depuis novembre 2025 et sans réponse. Et sur le forum

@@ -3,10 +3,14 @@
   "modid": "vanillapackfr",
   "name": "Vanilla Pack - Traductions FR",
   "description": "Traductions francaises manquantes pour les mods du serveur. Mod de contenu, sans code : le jeu fusionne ces fr.json avec ceux des mods installes.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "side": "Universal",
-  "requiredonclient": false,
+  "requiredonclient": true,
   "requiredonserver": false,
   "authors": [ "Pixnop" ],
-  "dependencies": {}
+  "dependencies": {
+    "extrainfo": "2.2.1",
+    "optitime": "1.5.16",
+    "ancestralblissshaders": "1.3.15"
+  }
 }

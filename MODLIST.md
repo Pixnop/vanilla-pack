@@ -1,6 +1,6 @@
 # Liste des mods
 
-45 mods dans le pack serveur.
+47 mods dans le pack serveur.
 
 | modid | version | nom | side |
 |---|---|---|---|
@@ -26,7 +26,9 @@
 | `foodshelves` | 3.0.5 | FoodShelves | universal |
 | `geoaddons` | 1.4.8 | Geology Additions | universal |
 | `hydrateordiedrate` | 2.5.4 | Hydrate Or Diedrate | universal |
+| `interestingoregen` | 2.3.8 | Interesting Ore Gen | universal |
 | `millwright` | 1.3.4 | Millwright | universal |
+| `mngeology` | 2.0.10 | Material Needs: Geology | universal |
 | `mycodiversity` | 1.0.8 | Mycodiversity | universal |
 | `pei` | 3.0.1 | Place Every Item | server |
 | `pipeleaf` | 2.6.1 | PipeLeaf | universal |

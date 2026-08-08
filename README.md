@@ -120,6 +120,27 @@ Elle a été retirée. `scripts/build-stratum.sh` reste disponible si tu veux à
 nouveau tester une branche avant publication, et `PR231-retour-de-test.md` garde
 la trace de la méthode.
 
+## Stratum : BlockBreakGuards désactivé
+
+`VS_STRATUM_CONFIG` fusionne des réglages dans `worlds/<monde>/stratum.json`.
+Les deux mondes portent :
+
+```json
+{"BlockBreakGuards":{"Enabled":false},"Hardening":{"BlockBreakGuards":false}}
+```
+
+Sans ça, les toits de `vsroofing` ne se cassent pas en survie : le client joue
+l'animation, puis le bloc réapparaît. Aucun message, aucune ligne de log, et
+aucune violation enregistrée même avec `LogViolations` à `true`.
+
+Isolé en changeant une variable à la fois : le même modpack sur un serveur 1.22.6
+officiel casse le toit normalement, sur Stratum non, et sur Stratum avec ce
+réglage désactivé oui. En créatif ça marche partout, le cassage instantané ne
+passant pas par la même validation.
+
+Le détail est dans `BUG-stratum-blockbreakguards.md`. Ce réglage saute dès que le
+correctif amont sera publié.
+
 ## Réglages de génération
 
 `VS_WORLDCONFIG` porte les réglages de monde des mods, sous forme d'une chaîne

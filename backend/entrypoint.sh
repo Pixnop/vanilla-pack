@@ -143,6 +143,22 @@ if [ -n "${VS_ADMINS:-}" ]; then
   done
 fi
 
+# Reglages Stratum, fusionnes dans stratum.json. Le fichier est cree par Stratum
+# au premier demarrage, donc apres nous : on le cree partiel si besoin, Stratum
+# completera avec ses defauts.
+if [ -n "${VS_STRATUM_CONFIG:-}" ]; then
+  if ! echo "$VS_STRATUM_CONFIG" | jq -e . >/dev/null 2>&1; then
+    echo "[entrypoint] VS_STRATUM_CONFIG n'est pas du JSON valide, ignore" >&2
+  else
+    SC="$DATA/stratum.json"
+    [ -f "$SC" ] || echo '{}' > "$SC"
+    tmp=$(mktemp)
+    # Fusion recursive: on ne touche qu'aux cles fournies.
+    jq --argjson patch "$VS_STRATUM_CONFIG" '. * $patch' "$SC" > "$tmp" && mv "$tmp" "$SC"
+    echo "[entrypoint] stratum.json: $(echo "$VS_STRATUM_CONFIG" | jq -c .)"
+  fi
+fi
+
 echo "[entrypoint] $(ls "$DATA/Mods"/*.zip | wc -l) mods + Nimbus.ServerMod, role $VS_DEFAULT_ROLE, playstyle $VS_PLAYSTYLE"
 
 exec /opt/stratum/StratumServer --dataPath="$DATA" --stratum-no-banner

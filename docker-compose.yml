@@ -58,6 +58,10 @@ services:
       VS_PORT: ${SURVIVAL_PORT}
       VS_MAX_CLIENTS: ${MAX_CLIENTS}
       VS_WHITELIST_MODE: ${VS_WHITELIST_MODE:-1}
+      # BlockBreakGuards de Stratum rejette silencieusement le cassage des blocs
+      # de vsroofing, qui sont des microblocs ciselés. Reproduit et isolé : même
+      # modpack sur un serveur 1.22.6 officiel, le cassage fonctionne.
+      VS_STRATUM_CONFIG: '{"BlockBreakGuards":{"Enabled":false},"Hardening":{"BlockBreakGuards":false}}'
       VS_ADMINS: ${VS_ADMINS:-}
       # Exigence de rivers, sa fiche Mod DB dit : "Oceans are required to
       # generate rivers. 300-500% landcover scale and 50% landcover works good."
@@ -104,6 +108,10 @@ services:
       VS_PORT: ${CREATIVE_PORT}
       VS_MAX_CLIENTS: ${MAX_CLIENTS}
       VS_WHITELIST_MODE: ${VS_WHITELIST_MODE:-1}
+      # BlockBreakGuards de Stratum rejette silencieusement le cassage des blocs
+      # de vsroofing, qui sont des microblocs ciselés. Reproduit et isolé : même
+      # modpack sur un serveur 1.22.6 officiel, le cassage fonctionne.
+      VS_STRATUM_CONFIG: '{"BlockBreakGuards":{"Enabled":false},"Hardening":{"BlockBreakGuards":false}}'
       VS_ADMINS: ${VS_ADMINS:-}
       NIMBUS_SERVER_ID: creative
       NIMBUS_DISPLAY_NAME: "Creatif"

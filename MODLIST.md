@@ -1,12 +1,13 @@
 # Liste des mods
 
-63 mods dans le pack serveur.
+64 mods dans le pack serveur.
 
 | modid | version | nom | side |
 |---|---|---|---|
 | `aculinaryartillery` | 2.0.0-dev.21 | A Culinary Artillery Experimental | universal |
 | `alchemy` | 2.1.17 | Alchemy | universal |
 | `allclasses` | 2.3.1 | Allclasses | universal |
+| `anvilperformanceoptimization` | 1.0.0 | Anvil Performance Optimization | universal |
 | `apelanterns` | 1.4.3 | More Lanterns | universal |
 | `arthursjournal` | 2.0.5 | Wanderer's Sketchbook | universal |
 | `betterloot` | 2.0.2 | Better Loot | universal |
@@ -51,6 +52,7 @@
 | `shelfobsessed` | 2.2.1 | Shelf Obsessed | universal |
 | `slowtox` | 5.0.0 | SlowTox | universal |
 | `smithingplus` | 1.9.0-rc.1 | SmithingPlus | universal |
+| `smithingplusbugfix` | 2.0.1 | SmithingPlus Bug Fix | universal |
 | `sortablestorage` | 3.0.0 | Sortable Storage | universal |
 | `stonequarryrepckfipil` | 3.6.3 | Stone Quarry | universal |
 | `substrate` | 2.0.0 | Substrate | universal |
@@ -58,7 +60,6 @@
 | `tankardsandgoblets` | 1.4.4 | Tankards, Goblets and More! | universal |
 | `terraprety` | 6.2.0 | Terra Prety | universal |
 | `toolsmith` | 1.2.18 | Toolsmith | universal |
-| `trailmodmaro` | 1.3.21 | Natural Trail Mod Maro Update | universal |
 | `vanillapackfr` | 0.1.4 | Vanilla Pack - Traductions FR | universal |
 | `vichnybackpack` | 3.4.4 | Eternal Seraph Backpacks | universal |
 | `vintageengineering` | 0.5.8 | Vintage Engineering | universal |
@@ -68,5 +69,5 @@
 | `watersheds` | 6.4.3 | Algernons Watersheds | universal |
 | `wool` | 1.9.3 | Wool & More | universal |
 
-Les trois mods client (`ancestralblissshaders`, `extrainfo`, `optitime`) ne sont
-pas ici, le serveur ne peut pas les distribuer. Voir le README.
+Les mods client uniquement (`ancestralblissshaders`, `extrainfo`, `optitime`,
+`toomanytabs`) ne sont pas ici, le serveur ne peut pas les distribuer.

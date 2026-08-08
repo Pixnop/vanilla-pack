@@ -5,12 +5,12 @@
 | modid | version | nom | side |
 |---|---|---|---|
 | `aculinaryartillery` | 2.0.0-dev.21 | A Culinary Artillery Experimental | universal |
-| `alchemy` | 2.1.16 | Alchemy | universal |
+| `alchemy` | 2.1.17 | Alchemy | universal |
 | `allclasses` | 2.3.1 | Allclasses | universal |
-| `ancestralblissshaders` | 1.3.15 | Ancestral Bliss Shaders | client |
 | `apelanterns` | 1.4.3 | More Lanterns | universal |
 | `betterruins` | 0.6.3 | BetterRuins | universal |
 | `bloodtrail` | 1.2.5 | BloodTrail | universal |
+| `bricklayers` | 3.2.2 | Bricklayers | universal |
 | `canjewelry` | 0.6.24 | C&N Jewelry | universal |
 | `carryon` | 2.0.0-pre.8 | Carry On | universal |
 | `carryonlib` | 1.0.0-pre.8 | CarryOnLib | universal |
@@ -19,15 +19,15 @@
 | `diversediets` | 1.0.4 | Diverse Diets | universal |
 | `dressmakers` | 1.8.0 | Dressmakers | universal |
 | `egocaribautomapmarkers` | 5.0.3 | Auto Map Markers | universal |
+| `em` | 3.7.0 | Expanded Matter | universal |
 | `expandedfoods` | 2.0.0-dev.12 | Expanded Foods: Core | universal |
-| `extrainfo` | 2.2.1 | Extra Info | client |
 | `farseer` | 1.4.0 | Farseer | universal |
 | `firewoodtosticks` | 1.0.0 | Firewood to sticks | universal |
 | `foodshelves` | 3.0.5 | FoodShelves | universal |
 | `geoaddons` | 1.4.8 | Geology Additions | universal |
 | `hydrateordiedrate` | 2.5.4 | Hydrate Or Diedrate | universal |
+| `millwright` | 1.3.4 | Millwright | universal |
 | `mycodiversity` | 1.0.8 | Mycodiversity | universal |
-| `optitime` | 1.5.16 | OptiTime | client |
 | `pei` | 3.0.1 | Place Every Item | server |
 | `pipeleaf` | 2.6.1 | PipeLeaf | universal |
 | `prospecttogether` | 2.2.1 | ProspectTogether | universal |
@@ -44,12 +44,11 @@
 | `tankardsandgoblets` | 1.4.4 | Tankards, Goblets and More! | universal |
 | `terraprety` | 6.2.0 | Terra Prety | universal |
 | `trailmodmaro` | 1.3.21 | Natural Trail Mod Maro Update | universal |
-| `vanillapackfr` | 0.1.1 | Vanilla Pack - Traductions FR | universal |
-| `vsroofing` | 1.7.0 | VS Roofing Mod | universal |
+| `vanillapackfr` | 0.1.4 | Vanilla Pack - Traductions FR | universal |
+| `vsroofing` | 1.7.1 | VS Roofing Mod | universal |
 | `walkingstick` | 3.0.10 | Adventurer's Walking Stick | universal |
 | `watersheds` | 6.4.3 | Algernons Watersheds | universal |
 | `wool` | 1.9.3 | Wool & More | universal |
 
-Les trois mods `client` sont sur le serveur uniquement pour satisfaire les
-dependances declarees par `vanillapackfr`. Le serveur ne les annonce pas,
-c'est la branche MissingDependencies du client qui les fait telecharger.
+Les trois mods client (`ancestralblissshaders`, `extrainfo`, `optitime`) ne sont
+pas ici, le serveur ne peut pas les distribuer. Voir le README.
